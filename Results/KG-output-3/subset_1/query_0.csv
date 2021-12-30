@@ -1,21 +1,21 @@
-,triple,score
-0,"['covid-19', 'disease_gene', 'coronaviruses']",-16.436466217041016
-1,"['covid-19', 'disease_gene', 'virus']",-16.611312866210938
-2,"['covid-19', 'disease_gene', 'pdcov']",-17.211181640625
-3,"['covid-19', 'disease_gene', 'reassortant virus']",-17.222482681274414
-4,"['covid-19', 'disease_gene', 'sars cov']",-17.246583938598633
-5,"['covid-19', 'disease_gene', 'rna']",-17.30840301513672
-6,"['covid-19', 'disease_gene', 'rbd']",-17.35699462890625
-7,"['covid-19', 'disease_gene', 'mhv']",-17.363021850585938
-8,"['covid-19', 'disease_gene', 'coronavirus']",-17.433815002441406
-9,"['covid-19', 'disease_gene', 'hcv']",-17.519241333007812
-10,"['icu', 'gene_disease', 'covid-19']",-17.227659225463867
-11,"['2009', 'gene_disease', 'covid-19']",-17.301864624023438
-12,"['rna', 'gene_disease', 'covid-19']",-17.54430389404297
-13,"['critical', 'gene_disease', 'covid-19']",-17.59699821472168
-14,"['er', 'gene_disease', 'covid-19']",-17.755329132080078
-15,"['recruitment', 'gene_disease', 'covid-19']",-17.818035125732422
-16,"['cns', 'gene_disease', 'covid-19']",-17.846355438232422
-17,"['major', 'gene_disease', 'covid-19']",-17.857406616210938
-18,"['viral infection', 'gene_disease', 'covid-19']",-17.891048431396484
-19,"['brain', 'gene_disease', 'covid-19']",-17.946680068969727
+,triple,score,label
+0,"['covid-19', 'disease_gene', 'coronaviruses']",-16.43646622,0
+1,"['covid-19', 'disease_gene', 'virus']",-16.61131287,0
+2,"['covid-19', 'disease_gene', 'pdcov']",-17.21118164,0
+3,"['covid-19', 'disease_gene', 'reassortant virus']",-17.22248268,0
+4,"['covid-19', 'disease_gene', 'sars cov']",-17.24658394,0
+5,"['covid-19', 'disease_gene', 'rna']",-17.30840302,0
+6,"['covid-19', 'disease_gene', 'rbd']",-17.35699463,0
+7,"['covid-19', 'disease_gene', 'mhv']",-17.36302185,0
+8,"['covid-19', 'disease_gene', 'coronavirus']",-17.433815,0
+9,"['covid-19', 'disease_gene', 'hcv']",-17.51924133,0
+10,"['icu', 'gene_disease', 'covid-19']",-17.22765923,0
+11,"['2009', 'gene_disease', 'covid-19']",-17.30186462,0
+12,"['rna', 'gene_disease', 'covid-19']",-17.54430389,0
+13,"['critical', 'gene_disease', 'covid-19']",-17.59699821,0
+14,"['er', 'gene_disease', 'covid-19']",-17.75532913,0
+15,"['recruitment', 'gene_disease', 'covid-19']",-17.81803513,0
+16,"['cns', 'gene_disease', 'covid-19']",-17.84635544,0
+17,"['major', 'gene_disease', 'covid-19']",-17.85740662,0
+18,"['viral infection', 'gene_disease', 'covid-19']",-17.89104843,0
+19,"['brain', 'gene_disease', 'covid-19']",-17.94668007,0

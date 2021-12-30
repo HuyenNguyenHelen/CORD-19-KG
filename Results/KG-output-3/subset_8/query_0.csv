@@ -1,21 +1,21 @@
-,triple,score
-0,"['covid-19', 'disease_gene', 'rna']",-15.802433013916016
-1,"['covid-19', 'disease_gene', 'virus']",-15.826850891113281
-2,"['covid-19', 'disease_gene', 'rbd']",-16.010601043701172
-3,"['covid-19', 'disease_gene', 'np']",-16.53249740600586
-4,"['covid-19', 'disease_gene', 'rna virus']",-16.58502197265625
-5,"['covid-19', 'disease_gene', 'infection']",-16.644989013671875
-6,"['covid-19', 'disease_gene', 'vaccine']",-16.6473331451416
-7,"['covid-19', 'disease_gene', 'viral infection']",-16.723270416259766
-8,"['covid-19', 'disease_gene', 'hrv']",-16.75326156616211
-9,"['covid-19', 'disease_gene', 'ctd']",-16.839452743530273
-10,"['rna', 'gene_disease', 'covid-19']",-16.094120025634766
-11,"['2009', 'gene_disease', 'covid-19']",-16.436203002929688
-12,"['critical', 'gene_disease', 'covid-19']",-16.481948852539062
-13,"['virus', 'gene_disease', 'covid-19']",-16.750804901123047
-14,"['lower', 'gene_disease', 'covid-19']",-16.76422119140625
-15,"['same', 'gene_disease', 'covid-19']",-16.76504135131836
-16,"['viral infection', 'gene_disease', 'covid-19']",-16.787891387939453
-17,"['infection', 'gene_disease', 'covid-19']",-16.929611206054688
-18,"['er', 'gene_disease', 'covid-19']",-16.98216438293457
-19,"['cns', 'gene_disease', 'covid-19']",-17.10082244873047
+,triple,score,label
+0,"['covid-19', 'disease_gene', 'rna']",-15.80243301,0
+1,"['covid-19', 'disease_gene', 'virus']",-15.82685089,0
+2,"['covid-19', 'disease_gene', 'rbd']",-16.01060104,0
+3,"['covid-19', 'disease_gene', 'np']",-16.53249741,0
+4,"['covid-19', 'disease_gene', 'rna virus']",-16.58502197,0
+5,"['covid-19', 'disease_gene', 'infection']",-16.64498901,0
+6,"['covid-19', 'disease_gene', 'vaccine']",-16.64733315,0
+7,"['covid-19', 'disease_gene', 'viral infection']",-16.72327042,0
+8,"['covid-19', 'disease_gene', 'hrv']",-16.75326157,0
+9,"['covid-19', 'disease_gene', 'ctd']",-16.83945274,0
+10,"['rna', 'gene_disease', 'covid-19']",-16.09412003,0
+11,"['2009', 'gene_disease', 'covid-19']",-16.436203,0
+12,"['critical', 'gene_disease', 'covid-19']",-16.48194885,0
+13,"['virus', 'gene_disease', 'covid-19']",-16.7508049,0
+14,"['lower', 'gene_disease', 'covid-19']",-16.76422119,0
+15,"['same', 'gene_disease', 'covid-19']",-16.76504135,0
+16,"['viral infection', 'gene_disease', 'covid-19']",-16.78789139,0
+17,"['infection', 'gene_disease', 'covid-19']",-16.92961121,0
+18,"['er', 'gene_disease', 'covid-19']",-16.98216438,0
+19,"['cns', 'gene_disease', 'covid-19']",-17.10082245,0
