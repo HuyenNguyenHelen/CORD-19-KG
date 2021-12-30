@@ -1,0 +1,21 @@
+,triple,score
+0,"['covid-19', 'disease_disease', 'covid-19']",-6.603389739990234
+1,"['covid-19', 'disease_disease', 'sars cov infection']",-7.127425193786621
+2,"['covid-19', 'disease_disease', 'cytokine storm']",-7.32470703125
+3,"['covid-19', 'disease_disease', 'syndrome']",-7.452725887298584
+4,"['covid-19', 'disease_disease', 'he']",-7.581540107727051
+5,"['covid-19', 'disease_disease', 'lymphopenia']",-7.667917251586914
+6,"['covid-19', 'disease_disease', 'pneumonia']",-7.673322677612305
+7,"['covid-19', 'disease_disease', 'viral infection']",-7.698508262634277
+8,"['covid-19', 'disease_disease', 'acute respiratory distress syndrome']",-7.737828731536865
+9,"['covid-19', 'disease_disease', 'viral pneumonia']",-7.763436317443848
+10,"['severe', 'disease_disease', 'covid-19']",-6.086755275726318
+11,"['respiratory failure', 'disease_disease', 'covid-19']",-6.316688537597656
+12,"['lung injury', 'disease_disease', 'covid-19']",-6.550655364990234
+13,"['covid-19', 'disease_disease', 'covid-19']",-6.603389739990234
+14,"['2009', 'disease_disease', 'covid-19']",-6.621289253234863
+15,"['lung', 'disease_disease', 'covid-19']",-6.720550537109375
+16,"['high', 'disease_disease', 'covid-19']",-6.766173362731934
+17,"['dysfunction', 'disease_disease', 'covid-19']",-6.778650283813477
+18,"['fatal', 'disease_disease', 'covid-19']",-6.784293174743652
+19,"['chronic', 'disease_disease', 'covid-19']",-6.796669960021973

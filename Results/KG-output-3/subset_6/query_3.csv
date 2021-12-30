@@ -1,0 +1,21 @@
+,triple,score
+0,"['covid-19', 'disease_treat_procedure', 'bacterial tracheitis']",-17.965473175048828
+1,"['covid-19', 'disease_treat_procedure', 'tt']",-18.28009033203125
+2,"['covid-19', 'disease_treat_procedure', 'esrd']",-18.41335678100586
+3,"['covid-19', 'disease_treat_procedure', 'canine rabies']",-18.45877456665039
+4,"['covid-19', 'disease_treat_procedure', 'covid pandemic']",-18.499664306640625
+5,"['covid-19', 'disease_treat_procedure', 'civ']",-18.71173858642578
+6,"['covid-19', 'disease_treat_procedure', 'baculoviruses']",-18.749046325683594
+7,"['covid-19', 'disease_treat_procedure', 'cryptosporidiosis']",-18.78787612915039
+8,"['covid-19', 'disease_treat_procedure', 'hypercortisolemia']",-18.790042877197266
+9,"['covid-19', 'disease_treat_procedure', 'hpev']",-18.832992553710938
+10,"['critical', 'treat_procedure_disease', 'covid-19']",-18.579334259033203
+11,"['enhanced', 'treat_procedure_disease', 'covid-19']",-18.793838500976562
+12,"['high', 'treat_procedure_disease', 'covid-19']",-18.838134765625
+13,"['respiratory', 'treat_procedure_disease', 'covid-19']",-18.980972290039062
+14,"['long', 'treat_procedure_disease', 'covid-19']",-19.004701614379883
+15,"['blood', 'treat_procedure_disease', 'covid-19']",-19.0959529876709
+16,"['face', 'treat_procedure_disease', 'covid-19']",-19.159467697143555
+17,"['pandemic', 'treat_procedure_disease', 'covid-19']",-19.181232452392578
+18,"['liver failure', 'treat_procedure_disease', 'covid-19']",-19.232242584228516
+19,"['chronic kidney disease', 'treat_procedure_disease', 'covid-19']",-19.246238708496094

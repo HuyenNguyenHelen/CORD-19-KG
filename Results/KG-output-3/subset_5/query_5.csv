@@ -1,0 +1,21 @@
+,triple,score
+0,"['covid-19', 'disease_disease', 'wupyv']",-9.41692066192627
+1,"['covid-19', 'disease_disease', 'nsars']",-9.556379318237305
+2,"['covid-19', 'disease_disease', 'granulomatous lesion']",-9.644474983215332
+3,"['covid-19', 'disease_disease', 'hypergammaglobulinaemia']",-9.673829078674316
+4,"['covid-19', 'disease_disease', 'jc']",-9.691372871398926
+5,"['covid-19', 'disease_disease', 'lu']",-9.744918823242188
+6,"['covid-19', 'disease_disease', 'rhv']",-9.750816345214844
+7,"['covid-19', 'disease_disease', 'aneurysm']",-9.81199836730957
+8,"['covid-19', 'disease_disease', 'eids']",-9.827592849731445
+9,"['covid-19', 'disease_disease', 'gammacoronaviruses']",-9.828136444091797
+10,"['contagious viral disease', 'disease_disease', 'covid-19']",-9.389944076538086
+11,"['bronchospasm', 'disease_disease', 'covid-19']",-9.688844680786133
+12,"['coagulopathies', 'disease_disease', 'covid-19']",-9.932217597961426
+13,"['transmissible', 'disease_disease', 'covid-19']",-10.119844436645508
+14,"['porcine circovirus type 2', 'disease_disease', 'covid-19']",-10.122310638427734
+15,"['atherosclerotic plaque', 'disease_disease', 'covid-19']",-10.25003433227539
+16,"['diminished', 'disease_disease', 'covid-19']",-10.290056228637695
+17,"['wheezing illness', 'disease_disease', 'covid-19']",-10.306999206542969
+18,"['acute renal injury', 'disease_disease', 'covid-19']",-10.337525367736816
+19,"['inflammatory', 'disease_disease', 'covid-19']",-10.34478759765625

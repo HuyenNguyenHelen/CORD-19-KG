@@ -1,0 +1,21 @@
+,triple,score
+0,"['covid-19', 'disease_species', 'hepatitis a']",-15.634690284729004
+1,"['covid-19', 'disease_species', 'radiological abnormality']",-15.654998779296875
+2,"['covid-19', 'disease_species', 'coinfection']",-15.842399597167969
+3,"['covid-19', 'disease_species', 'vaccine']",-16.06772804260254
+4,"['covid-19', 'disease_species', 'hepatic lipidosis']",-16.254127502441406
+5,"['covid-19', 'disease_species', 'asf']",-16.4346923828125
+6,"['covid-19', 'disease_species', 'astroviruses']",-16.43798065185547
+7,"['covid-19', 'disease_species', 'sars cov infection']",-16.50383758544922
+8,"['covid-19', 'disease_species', 'h9n2']",-16.526016235351562
+9,"['covid-19', 'disease_species', 'enteritis']",-16.605175018310547
+10,"['covid-19', 'disease_species', 'gammacoronaviruses']",-16.624290466308594
+11,"['covid-19', 'disease_species', 'shipping fever']",-16.630067825317383
+12,"['covid-19', 'disease_species', 'coronavirus infection']",-16.635316848754883
+13,"['covid-19', 'disease_species', 'wupyv']",-16.635393142700195
+14,"['covid-19', 'disease_species', 'rotavirus infection']",-16.651458740234375
+15,"['covid-19', 'disease_species', 'viral infection']",-16.653972625732422
+16,"['covid-19', 'disease_species', 'virus infection']",-16.671857833862305
+17,"['covid-19', 'disease_species', 'respiratory syndrome']",-16.693004608154297
+18,"['covid-19', 'disease_species', 'infection']",-16.69667625427246
+19,"['covid-19', 'disease_species', 'respiratory infection']",-16.719562530517578

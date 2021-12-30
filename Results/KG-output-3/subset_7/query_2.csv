@@ -1,0 +1,21 @@
+,triple,score
+0,"['covid-19', 'disease_symptom', 'covid-19']",-11.170673370361328
+1,"['covid-19', 'disease_symptom', 'type']",-11.705831527709961
+2,"['covid-19', 'disease_symptom', 'pneumonia']",-11.840145111083984
+3,"['covid-19', 'disease_symptom', 'syndrome']",-11.917377471923828
+4,"['covid-19', 'disease_symptom', 'pandemic']",-11.926650047302246
+5,"['covid-19', 'disease_symptom', 'condition']",-11.937932968139648
+6,"['covid-19', 'disease_symptom', 'viral infection']",-11.963571548461914
+7,"['covid-19', 'disease_symptom', 'enteritis']",-11.966062545776367
+8,"['covid-19', 'disease_symptom', 'sars cov infection']",-11.999236106872559
+9,"['covid-19', 'disease_symptom', 'lung']",-12.00765323638916
+10,"['covid-19', 'symptom_disease', 'covid-19']",-11.334552764892578
+11,"['pneumonia', 'symptom_disease', 'covid-19']",-11.639410972595215
+12,"['respiratory failure', 'symptom_disease', 'covid-19']",-11.7337646484375
+13,"['syndrome', 'symptom_disease', 'covid-19']",-11.741439819335938
+14,"['severe', 'symptom_disease', 'covid-19']",-11.779195785522461
+15,"['condition', 'symptom_disease', 'covid-19']",-11.836774826049805
+16,"['lung', 'symptom_disease', 'covid-19']",-11.844470024108887
+17,"['pandemic', 'symptom_disease', 'covid-19']",-11.848931312561035
+18,"['sars cov infection', 'symptom_disease', 'covid-19']",-11.861276626586914
+19,"['inflammation', 'symptom_disease', 'covid-19']",-11.882959365844727

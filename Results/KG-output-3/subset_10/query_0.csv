@@ -1,0 +1,21 @@
+,triple,score
+0,"['covid-19', 'disease_gene', 'virus']",-15.922067642211914
+1,"['covid-19', 'disease_gene', 'rna']",-16.046836853027344
+2,"['covid-19', 'disease_gene', 'rbd']",-16.352401733398438
+3,"['covid-19', 'disease_gene', 'rna virus']",-16.70211410522461
+4,"['covid-19', 'disease_gene', 'vaccine']",-16.796672821044922
+5,"['covid-19', 'disease_gene', 'viral infection']",-16.840309143066406
+6,"['covid-19', 'disease_gene', 'infection']",-16.968311309814453
+7,"['covid-19', 'disease_gene', 'dmvs']",-17.051490783691406
+8,"['covid-19', 'disease_gene', 'recombinant virus']",-17.09369468688965
+9,"['covid-19', 'disease_gene', 'np']",-17.15032386779785
+10,"['critical', 'gene_disease', 'covid-19']",-16.2789249420166
+11,"['rna', 'gene_disease', 'covid-19']",-16.49410629272461
+12,"['2009', 'gene_disease', 'covid-19']",-16.59182357788086
+13,"['virus', 'gene_disease', 'covid-19']",-16.89261817932129
+14,"['viral infection', 'gene_disease', 'covid-19']",-17.015207290649414
+15,"['lower', 'gene_disease', 'covid-19']",-17.027637481689453
+16,"['recruitment', 'gene_disease', 'covid-19']",-17.19629669189453
+17,"['infection', 'gene_disease', 'covid-19']",-17.319561004638672
+18,"['cns', 'gene_disease', 'covid-19']",-17.3249568939209
+19,"['same', 'gene_disease', 'covid-19']",-17.351839065551758

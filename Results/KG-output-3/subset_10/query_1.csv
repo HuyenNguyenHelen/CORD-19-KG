@@ -1,0 +1,21 @@
+,triple,score
+0,"['covid-19', 'disease_species', 'pneumonia']",-14.159977912902832
+1,"['covid-19', 'disease_species', 'viral infection']",-14.393604278564453
+2,"['covid-19', 'disease_species', 'co-infection']",-14.412376403808594
+3,"['covid-19', 'disease_species', 'disease']",-14.451008796691895
+4,"['covid-19', 'disease_species', 'covid-19']",-14.480317115783691
+5,"['covid-19', 'disease_species', 'infection']",-14.534276962280273
+6,"['covid-19', 'disease_species', 'coronavirus infection']",-14.568456649780273
+7,"['covid-19', 'disease_species', 'enteritis']",-14.59259033203125
+8,"['covid-19', 'disease_species', 'infectious disease']",-14.621513366699219
+9,"['covid-19', 'disease_species', 'lung']",-14.662542343139648
+10,"['covid-19', 'disease_species', 'sars cov infection']",-14.66415023803711
+11,"['covid-19', 'disease_species', 'fungal infection']",-14.675390243530273
+12,"['covid-19', 'disease_species', 'condition']",-14.705178260803223
+13,"['covid-19', 'disease_species', 'hiv infection']",-14.72805404663086
+14,"['covid-19', 'disease_species', 'thrombocytopenia']",-14.732337951660156
+15,"['covid-19', 'disease_species', 'pandemic']",-14.738663673400879
+16,"['covid-19', 'disease_species', 'virus']",-14.74860954284668
+17,"['covid-19', 'disease_species', 'respiratory infection']",-14.786809921264648
+18,"['covid-19', 'disease_species', 'acute infection']",-14.796201705932617
+19,"['covid-19', 'disease_species', 'vaccine']",-14.799482345581055

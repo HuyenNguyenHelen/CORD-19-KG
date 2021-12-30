@@ -1,0 +1,21 @@
+,triple,score
+0,"['covid-19', 'disease_species', 'aiv']",-16.73925018310547
+1,"['covid-19', 'disease_species', 'prcv']",-16.77069091796875
+2,"['covid-19', 'disease_species', 'acute gastroenteritis']",-16.950889587402344
+3,"['covid-19', 'disease_species', 'hvhf']",-17.095521926879883
+4,"['covid-19', 'disease_species', 'malnutrition']",-17.126089096069336
+5,"['covid-19', 'disease_species', 'zaire ebolavirus']",-17.164989471435547
+6,"['covid-19', 'disease_species', 'lung lesion']",-17.167003631591797
+7,"['covid-19', 'disease_species', 'sari']",-17.32049560546875
+8,"['covid-19', 'disease_species', 'ph1n1 infection']",-17.32582664489746
+9,"['covid-19', 'disease_species', 'hair loss']",-17.361967086791992
+10,"['covid-19', 'disease_species', 'neutrophilic airway inflammation']",-17.365211486816406
+11,"['covid-19', 'disease_species', 'urgency']",-17.38051414489746
+12,"['covid-19', 'disease_species', 'rtis']",-17.425718307495117
+13,"['covid-19', 'disease_species', 'shock']",-17.50149154663086
+14,"['covid-19', 'disease_species', 'viral respiratory tract infection']",-17.51043128967285
+15,"['covid-19', 'disease_species', 'acute eosinophilic pneumonia']",-17.52472686767578
+16,"['covid-19', 'disease_species', 'torovirus']",-17.531450271606445
+17,"['covid-19', 'disease_species', 'virus']",-17.540435791015625
+18,"['covid-19', 'disease_species', 'sars coronavirus']",-17.550636291503906
+19,"['covid-19', 'disease_species', 'helicobacter pylorus infection']",-17.56714630126953

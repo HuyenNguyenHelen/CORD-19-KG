@@ -1,0 +1,21 @@
+,triple,score
+0,"['covid-19', 'disease_disease', 'covid-19']",-7.081852912902832
+1,"['covid-19', 'disease_disease', 'sars cov infection']",-7.426101207733154
+2,"['covid-19', 'disease_disease', 'he']",-7.623288154602051
+3,"['covid-19', 'disease_disease', 'syndrome']",-7.675821304321289
+4,"['covid-19', 'disease_disease', 'cytokine storm']",-7.68306827545166
+5,"['covid-19', 'disease_disease', 'lymphopenia']",-7.689828395843506
+6,"['covid-19', 'disease_disease', 'viral pneumonia']",-7.848942756652832
+7,"['covid-19', 'disease_disease', 'pneumonia']",-7.854462146759033
+8,"['covid-19', 'disease_disease', 'ards']",-7.928921699523926
+9,"['covid-19', 'disease_disease', 'acute respiratory distress syndrome']",-7.978255271911621
+10,"['severe', 'disease_disease', 'covid-19']",-6.640937805175781
+11,"['respiratory failure', 'disease_disease', 'covid-19']",-7.053719520568848
+12,"['covid-19', 'disease_disease', 'covid-19']",-7.081852912902832
+13,"['lower', 'disease_disease', 'covid-19']",-7.130728244781494
+14,"['lung injury', 'disease_disease', 'covid-19']",-7.132157325744629
+15,"['distress syndrome', 'disease_disease', 'covid-19']",-7.307834625244141
+16,"['acute respiratory distress syndrome', 'disease_disease', 'covid-19']",-7.3881120681762695
+17,"['lung', 'disease_disease', 'covid-19']",-7.422501564025879
+18,"['sepsis', 'disease_disease', 'covid-19']",-7.425074577331543
+19,"['condition', 'disease_disease', 'covid-19']",-7.433891773223877

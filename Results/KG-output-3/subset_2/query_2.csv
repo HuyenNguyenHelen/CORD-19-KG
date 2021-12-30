@@ -1,0 +1,21 @@
+,triple,score
+0,"['covid-19', 'disease_symptom', 'anosmia']",-13.518619537353516
+1,"['covid-19', 'disease_symptom', 'pain']",-13.520944595336914
+2,"['covid-19', 'disease_symptom', 'ili']",-13.554905891418457
+3,"['covid-19', 'disease_symptom', 'asthmatic']",-13.588666915893555
+4,"['covid-19', 'disease_symptom', 'diarrhea']",-13.613434791564941
+5,"['covid-19', 'disease_symptom', 'fever']",-13.814554214477539
+6,"['covid-19', 'disease_symptom', 'clinical syndrome']",-13.818635940551758
+7,"['covid-19', 'disease_symptom', 'he']",-13.84732437133789
+8,"['covid-19', 'disease_symptom', 'nausea']",-13.894298553466797
+9,"['covid-19', 'disease_symptom', 'headache']",-13.904138565063477
+10,"['influenza epidemic', 'symptom_disease', 'covid-19']",-13.018866539001465
+11,"['hospital acquired infection', 'symptom_disease', 'covid-19']",-13.070001602172852
+12,"['cough', 'symptom_disease', 'covid-19']",-13.080463409423828
+13,"['pain', 'symptom_disease', 'covid-19']",-13.203293800354004
+14,"['headache', 'symptom_disease', 'covid-19']",-13.284564018249512
+15,"['epidemic', 'symptom_disease', 'covid-19']",-13.291871070861816
+16,"['nausea', 'symptom_disease', 'covid-19']",-13.314410209655762
+17,"['acute respiratory syndrome', 'symptom_disease', 'covid-19']",-13.326760292053223
+18,"['fatigue', 'symptom_disease', 'covid-19']",-13.341063499450684
+19,"['syndrome', 'symptom_disease', 'covid-19']",-13.491521835327148

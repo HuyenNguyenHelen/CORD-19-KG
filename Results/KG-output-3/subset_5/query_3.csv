@@ -1,0 +1,21 @@
+,triple,score
+0,"['covid-19', 'disease_treat_procedure', 'pandemic h1n1 virus']",-17.754297256469727
+1,"['covid-19', 'disease_treat_procedure', 'covid pandemic']",-17.776872634887695
+2,"['covid-19', 'disease_treat_procedure', 'canine rabies']",-18.035293579101562
+3,"['covid-19', 'disease_treat_procedure', 'hcp']",-18.056354522705078
+4,"['covid-19', 'disease_treat_procedure', 'hypercortisolemia']",-18.064420700073242
+5,"['covid-19', 'disease_treat_procedure', 'rhabdoviridae']",-18.097457885742188
+6,"['covid-19', 'disease_treat_procedure', 'kidney injury']",-18.143184661865234
+7,"['covid-19', 'disease_treat_procedure', 'aspergillosis']",-18.149051666259766
+8,"['covid-19', 'disease_treat_procedure', 'sars cov infection']",-18.191804885864258
+9,"['covid-19', 'disease_treat_procedure', 'hcov infection']",-18.195438385009766
+10,"['2009', 'treat_procedure_disease', 'covid-19']",-18.364364624023438
+11,"['enhanced', 'treat_procedure_disease', 'covid-19']",-18.4434757232666
+12,"['allergic asthma', 'treat_procedure_disease', 'covid-19']",-18.658376693725586
+13,"['c. difficile infection', 'treat_procedure_disease', 'covid-19']",-18.70301055908203
+14,"['work of breathing', 'treat_procedure_disease', 'covid-19']",-18.70398712158203
+15,"['ear disease', 'treat_procedure_disease', 'covid-19']",-18.70690155029297
+16,"['critical', 'treat_procedure_disease', 'covid-19']",-18.718929290771484
+17,"['blood', 'treat_procedure_disease', 'covid-19']",-18.9537410736084
+18,"['loss of appetite', 'treat_procedure_disease', 'covid-19']",-18.964466094970703
+19,"['icu', 'treat_procedure_disease', 'covid-19']",-19.002120971679688

@@ -1,0 +1,21 @@
+,triple,score
+0,"['covid-19', 'disease_disease', 'covid-19']",-5.363868713378906
+1,"['covid-19', 'disease_disease', 'sars cov infection']",-6.151710510253906
+2,"['covid-19', 'disease_disease', 'syndrome']",-6.275092124938965
+3,"['covid-19', 'disease_disease', 'cytokine storm']",-6.324413299560547
+4,"['covid-19', 'disease_disease', 'viral infection']",-6.373994827270508
+5,"['covid-19', 'disease_disease', 'cov']",-6.405762672424316
+6,"['covid-19', 'disease_disease', 'sars cov']",-6.408256530761719
+7,"['covid-19', 'disease_disease', 'he']",-6.421115875244141
+8,"['covid-19', 'disease_disease', 'acute respiratory distress syndrome']",-6.4835968017578125
+9,"['covid-19', 'disease_disease', 'pneumonia']",-6.491286277770996
+10,"['infectious', 'disease_disease', 'covid-19']",-5.2484517097473145
+11,"['covid-19', 'disease_disease', 'covid-19']",-5.363868713378906
+12,"['pneumonia', 'disease_disease', 'covid-19']",-5.459682941436768
+13,"['distress syndrome', 'disease_disease', 'covid-19']",-5.5238261222839355
+14,"['respiratory distress syndrome', 'disease_disease', 'covid-19']",-5.548545837402344
+15,"['sars', 'disease_disease', 'covid-19']",-5.679999828338623
+16,"['respiratory disease', 'disease_disease', 'covid-19']",-5.6972150802612305
+17,"['injury', 'disease_disease', 'covid-19']",-5.6982421875
+18,"['respiratory failure', 'disease_disease', 'covid-19']",-5.773423671722412
+19,"['severe', 'disease_disease', 'covid-19']",-5.825607776641846

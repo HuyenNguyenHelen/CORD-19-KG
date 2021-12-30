@@ -1,0 +1,21 @@
+,triple,score
+0,"['covid-19', 'disease_treat_procedure', 'pandemic']",-16.611665725708008
+1,"['covid-19', 'disease_treat_procedure', 'covid pandemic']",-16.803096771240234
+2,"['covid-19', 'disease_treat_procedure', 'covid-19']",-16.86391830444336
+3,"['covid-19', 'disease_treat_procedure', 'sars cov infection']",-16.93975830078125
+4,"['covid-19', 'disease_treat_procedure', 'bacterial tracheitis']",-17.03548812866211
+5,"['covid-19', 'disease_treat_procedure', 'kidney injury']",-17.102802276611328
+6,"['covid-19', 'disease_treat_procedure', 'vaccine']",-17.113502502441406
+7,"['covid-19', 'disease_treat_procedure', 'consumption']",-17.16653060913086
+8,"['covid-19', 'disease_treat_procedure', 'blood']",-17.177799224853516
+9,"['covid-19', 'disease_treat_procedure', 'virus']",-17.193241119384766
+10,"['critical', 'treat_procedure_disease', 'covid-19']",-16.733402252197266
+11,"['lung', 'treat_procedure_disease', 'covid-19']",-16.97934341430664
+12,"['pandemic', 'treat_procedure_disease', 'covid-19']",-17.055500030517578
+13,"['condition', 'treat_procedure_disease', 'covid-19']",-17.115341186523438
+14,"['icu', 'treat_procedure_disease', 'covid-19']",-17.13471221923828
+15,"['sars cov infection', 'treat_procedure_disease', 'covid-19']",-17.165348052978516
+16,"['covid-19', 'treat_procedure_disease', 'covid-19']",-17.189077377319336
+17,"['lower', 'treat_procedure_disease', 'covid-19']",-17.230438232421875
+18,"['inflammation', 'treat_procedure_disease', 'covid-19']",-17.242204666137695
+19,"['injury', 'treat_procedure_disease', 'covid-19']",-17.284576416015625

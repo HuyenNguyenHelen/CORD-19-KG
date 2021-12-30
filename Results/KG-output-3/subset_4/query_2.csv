@@ -1,0 +1,21 @@
+,triple,score
+0,"['covid-19', 'disease_symptom', 'esophagitis']",-13.255929946899414
+1,"['covid-19', 'disease_symptom', 'asthmatic']",-13.317205429077148
+2,"['covid-19', 'disease_symptom', 'olfactory dysfunction']",-13.375635147094727
+3,"['covid-19', 'disease_symptom', 'anosmia']",-13.410232543945312
+4,"['covid-19', 'disease_symptom', 'chronic peritonitis']",-13.527099609375
+5,"['covid-19', 'disease_symptom', 'nociception']",-13.6100435256958
+6,"['covid-19', 'disease_symptom', 'metabolic acidosis']",-13.765676498413086
+7,"['covid-19', 'disease_symptom', 'sinus tachycardia']",-14.022415161132812
+8,"['covid-19', 'disease_symptom', 'enteritis']",-14.033004760742188
+9,"['covid-19', 'disease_symptom', 'myositis']",-14.141223907470703
+10,"['loss of appetite', 'symptom_disease', 'covid-19']",-12.610542297363281
+11,"['allergic', 'symptom_disease', 'covid-19']",-13.3360013961792
+12,"['confusion', 'symptom_disease', 'covid-19']",-13.388669967651367
+13,"['ostertagiasis', 'symptom_disease', 'covid-19']",-13.52659797668457
+14,"['severe infection', 'symptom_disease', 'covid-19']",-13.585862159729004
+15,"['acute hemorrhagic conjunctivitis', 'symptom_disease', 'covid-19']",-13.603838920593262
+16,"['pulmonary edema', 'symptom_disease', 'covid-19']",-13.662748336791992
+17,"['covid-19', 'symptom_disease', 'covid-19']",-13.724690437316895
+18,"['severe', 'symptom_disease', 'covid-19']",-13.744200706481934
+19,"['encephalitozoonosis', 'symptom_disease', 'covid-19']",-13.76622200012207

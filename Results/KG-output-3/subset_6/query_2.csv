@@ -1,0 +1,21 @@
+,triple,score
+0,"['covid-19', 'disease_symptom', 'anosmia']",-14.382033348083496
+1,"['covid-19', 'disease_symptom', 'coronavirus infection']",-14.409631729125977
+2,"['covid-19', 'disease_symptom', 'cryptosporidiosis']",-14.56036376953125
+3,"['covid-19', 'disease_symptom', 'hrv']",-14.567190170288086
+4,"['covid-19', 'disease_symptom', 'type']",-14.71764850616455
+5,"['covid-19', 'disease_symptom', 'respiratory failure']",-14.81663990020752
+6,"['covid-19', 'disease_symptom', 'prostatitis']",-14.816972732543945
+7,"['covid-19', 'disease_symptom', 'gingivostomatitis']",-14.895120620727539
+8,"['covid-19', 'disease_symptom', 'viral']",-14.917774200439453
+9,"['covid-19', 'disease_symptom', 'csf pleocytosis']",-14.921560287475586
+10,"['high', 'symptom_disease', 'covid-19']",-13.978763580322266
+11,"['bronchospasm', 'symptom_disease', 'covid-19']",-14.13800048828125
+12,"['loss of appetite', 'symptom_disease', 'covid-19']",-14.222145080566406
+13,"['bowel obstruction', 'symptom_disease', 'covid-19']",-14.4383544921875
+14,"['severe', 'symptom_disease', 'covid-19']",-14.582063674926758
+15,"['covid-19', 'symptom_disease', 'covid-19']",-14.63625717163086
+16,"['blood', 'symptom_disease', 'covid-19']",-14.728873252868652
+17,"['bacterial infection', 'symptom_disease', 'covid-19']",-14.744085311889648
+18,"['face', 'symptom_disease', 'covid-19']",-14.790714263916016
+19,"['difficulty in breathing', 'symptom_disease', 'covid-19']",-14.831491470336914

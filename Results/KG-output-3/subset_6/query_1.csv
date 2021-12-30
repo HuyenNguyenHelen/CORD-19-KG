@@ -1,0 +1,21 @@
+,triple,score
+0,"['covid-19', 'disease_species', 'shipping fever']",-16.608064651489258
+1,"['covid-19', 'disease_species', 'radiological abnormality']",-16.635915756225586
+2,"['covid-19', 'disease_species', 'subclinical infection']",-16.64017105102539
+3,"['covid-19', 'disease_species', 'bluetongue']",-16.687122344970703
+4,"['covid-19', 'disease_species', 'co-infection']",-16.691143035888672
+5,"['covid-19', 'disease_species', 'coinfection']",-16.70810317993164
+6,"['covid-19', 'disease_species', 'felv infection']",-16.730358123779297
+7,"['covid-19', 'disease_species', 'fungal infection']",-16.82949447631836
+8,"['covid-19', 'disease_species', 'ehec']",-16.85501480102539
+9,"['covid-19', 'disease_species', 'h5n1 pandemic']",-16.93535614013672
+10,"['covid-19', 'disease_species', 'domestic dog']",-16.955291748046875
+11,"['covid-19', 'disease_species', 'hemorrhagic disease']",-16.965660095214844
+12,"['covid-19', 'disease_species', 'viral infection']",-16.98585319519043
+13,"['covid-19', 'disease_species', 'hcov infection']",-17.025623321533203
+14,"['covid-19', 'disease_species', 'respiratory viral pathogen']",-17.04949378967285
+15,"['covid-19', 'disease_species', 'ai infection']",-17.057369232177734
+16,"['covid-19', 'disease_species', 'coronavirus infection']",-17.062152862548828
+17,"['covid-19', 'disease_species', 'congenital defect']",-17.06924819946289
+18,"['covid-19', 'disease_species', 'syndrome']",-17.088655471801758
+19,"['covid-19', 'disease_species', 'jhm']",-17.10563087463379

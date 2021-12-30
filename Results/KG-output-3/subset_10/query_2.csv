@@ -1,0 +1,21 @@
+,triple,score
+0,"['covid-19', 'disease_symptom', 'covid-19']",-12.071094512939453
+1,"['covid-19', 'disease_symptom', 'pneumonia']",-12.528633117675781
+2,"['covid-19', 'disease_symptom', 'syndrome']",-12.795987129211426
+3,"['covid-19', 'disease_symptom', 'pandemic']",-12.819208145141602
+4,"['covid-19', 'disease_symptom', 'viral infection']",-12.825057029724121
+5,"['covid-19', 'disease_symptom', 'sars cov infection']",-12.838985443115234
+6,"['covid-19', 'disease_symptom', 'condition']",-12.86707878112793
+7,"['covid-19', 'disease_symptom', 'disease']",-12.9259614944458
+8,"['covid-19', 'disease_symptom', 'infection']",-12.955281257629395
+9,"['covid-19', 'disease_symptom', 'type']",-12.988676071166992
+10,"['covid-19', 'symptom_disease', 'covid-19']",-12.153148651123047
+11,"['pneumonia', 'symptom_disease', 'covid-19']",-12.368669509887695
+12,"['viral pneumonia', 'symptom_disease', 'covid-19']",-12.686834335327148
+13,"['pandemic', 'symptom_disease', 'covid-19']",-12.692262649536133
+14,"['lung', 'symptom_disease', 'covid-19']",-12.699848175048828
+15,"['hypoxia', 'symptom_disease', 'covid-19']",-12.732558250427246
+16,"['condition', 'symptom_disease', 'covid-19']",-12.733304977416992
+17,"['distress syndrome', 'symptom_disease', 'covid-19']",-12.805046081542969
+18,"['obstruction', 'symptom_disease', 'covid-19']",-12.830072402954102
+19,"['respiratory distress syndrome', 'symptom_disease', 'covid-19']",-12.838235855102539

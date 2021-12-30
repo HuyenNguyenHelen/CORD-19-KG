@@ -1,0 +1,21 @@
+,triple,score
+0,"['covid-19', 'disease_drug', 'fipv infection']",-15.837637901306152
+1,"['covid-19', 'disease_drug', 'rna']",-15.861656188964844
+2,"['covid-19', 'disease_drug', 'aa']",-16.169492721557617
+3,"['covid-19', 'disease_drug', 'consumption']",-16.207855224609375
+4,"['covid-19', 'disease_drug', 'rbd']",-16.396535873413086
+5,"['covid-19', 'disease_drug', 'type']",-16.527374267578125
+6,"['covid-19', 'disease_drug', 'viral infection']",-16.541336059570312
+7,"['covid-19', 'disease_drug', 'pneumoniae']",-16.560016632080078
+8,"['covid-19', 'disease_drug', 'virus']",-16.585113525390625
+9,"['covid-19', 'disease_drug', 'tissue hypoperfusion']",-16.607263565063477
+10,"['critical', 'drug_disease', 'covid-19']",-17.270055770874023
+11,"['high', 'drug_disease', 'covid-19']",-17.494586944580078
+12,"['liver', 'drug_disease', 'covid-19']",-18.087890625
+13,"['bronchospasm', 'drug_disease', 'covid-19']",-18.159988403320312
+14,"['diphtheria toxoid', 'drug_disease', 'covid-19']",-18.167484283447266
+15,"['enhanced', 'drug_disease', 'covid-19']",-18.180822372436523
+16,"['long', 'drug_disease', 'covid-19']",-18.220600128173828
+17,"['blood', 'drug_disease', 'covid-19']",-18.248226165771484
+18,"['infectious bronchitis coronavirus', 'drug_disease', 'covid-19']",-18.282962799072266
+19,"['airborne', 'drug_disease', 'covid-19']",-18.342145919799805

@@ -1,0 +1,21 @@
+,triple,score
+0,"['covid-19', 'disease_drug', 'rna']",-14.137856483459473
+1,"['covid-19', 'disease_drug', 'pandemic h1n1 virus']",-14.769089698791504
+2,"['covid-19', 'disease_drug', 'virus']",-14.816551208496094
+3,"['covid-19', 'disease_drug', 'he']",-14.97547721862793
+4,"['covid-19', 'disease_drug', 'ha']",-15.048710823059082
+5,"['covid-19', 'disease_drug', 'coronaviruses']",-15.083917617797852
+6,"['covid-19', 'disease_drug', 'pdc']",-15.140190124511719
+7,"['covid-19', 'disease_drug', 'influenza virus']",-15.166396141052246
+8,"['covid-19', 'disease_drug', 'sars cov']",-15.179790496826172
+9,"['covid-19', 'disease_drug', 'lung']",-15.194601058959961
+10,"['rna', 'drug_disease', 'covid-19']",-14.756714820861816
+11,"['influenza virus', 'drug_disease', 'covid-19']",-14.833087921142578
+12,"['sars virus', 'drug_disease', 'covid-19']",-14.906487464904785
+13,"['type', 'drug_disease', 'covid-19']",-14.920741081237793
+14,"['lung injury', 'drug_disease', 'covid-19']",-15.037378311157227
+15,"['avian influenza virus', 'drug_disease', 'covid-19']",-15.144498825073242
+16,"['recruitment', 'drug_disease', 'covid-19']",-15.197647094726562
+17,"['ali', 'drug_disease', 'covid-19']",-15.204089164733887
+18,"['virus', 'drug_disease', 'covid-19']",-15.246261596679688
+19,"['influenza infection', 'drug_disease', 'covid-19']",-15.289168357849121

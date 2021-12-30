@@ -1,0 +1,21 @@
+,triple,score
+0,"['covid-19', 'disease_disease', 'jhmv']",-9.94892692565918
+1,"['covid-19', 'disease_disease', 'aom']",-9.997406959533691
+2,"['covid-19', 'disease_disease', 'adv']",-10.17790412902832
+3,"['covid-19', 'disease_disease', 'pneumovirus']",-10.231327056884766
+4,"['covid-19', 'disease_disease', 'ped']",-10.235739707946777
+5,"['covid-19', 'disease_disease', 'chronic medical condition']",-10.4759521484375
+6,"['covid-19', 'disease_disease', 'brain damage']",-10.58853530883789
+7,"['covid-19', 'disease_disease', 'cholera']",-10.698094367980957
+8,"['covid-19', 'disease_disease', 'urgency']",-10.748834609985352
+9,"['covid-19', 'disease_disease', 'arteriviruses']",-10.781270980834961
+10,"['contagious', 'disease_disease', 'covid-19']",-9.15103816986084
+11,"['acute respiratory syndrome coronavirus 2', 'disease_disease', 'covid-19']",-9.413895606994629
+12,"['respiratory', 'disease_disease', 'covid-19']",-10.002374649047852
+13,"['acidosis', 'disease_disease', 'covid-19']",-10.269747734069824
+14,"['multiple organ failure', 'disease_disease', 'covid-19']",-10.305895805358887
+15,"['prediabetes', 'disease_disease', 'covid-19']",-10.376510620117188
+16,"['multiorgan failure', 'disease_disease', 'covid-19']",-10.395441055297852
+17,"['feline coronavirus', 'disease_disease', 'covid-19']",-10.554506301879883
+18,"['acute gastritis', 'disease_disease', 'covid-19']",-10.642099380493164
+19,"['rhabdomyolysis', 'disease_disease', 'covid-19']",-10.78197956085205

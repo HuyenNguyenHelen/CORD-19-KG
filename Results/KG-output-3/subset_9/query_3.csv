@@ -1,0 +1,21 @@
+,triple,score
+0,"['covid-19', 'disease_treat_procedure', 'wupyv']",-19.861461639404297
+1,"['covid-19', 'disease_treat_procedure', 'myopericarditis']",-20.18630599975586
+2,"['covid-19', 'disease_treat_procedure', 'sinus disease']",-20.246726989746094
+3,"['covid-19', 'disease_treat_procedure', 'hypereosinophilia']",-20.311660766601562
+4,"['covid-19', 'disease_treat_procedure', 'hypercholesterolemia']",-20.39168357849121
+5,"['covid-19', 'disease_treat_procedure', 'idu']",-20.419448852539062
+6,"['covid-19', 'disease_treat_procedure', 'hypercortisolemia']",-20.431427001953125
+7,"['covid-19', 'disease_treat_procedure', 'intrauterine infection']",-20.504911422729492
+8,"['covid-19', 'disease_treat_procedure', 'osteonecrosis']",-20.51205062866211
+9,"['covid-19', 'disease_treat_procedure', 'chylous effusion']",-20.562286376953125
+10,"['2009', 'treat_procedure_disease', 'covid-19']",-17.87283706665039
+11,"['long', 'treat_procedure_disease', 'covid-19']",-17.95780372619629
+12,"['major', 'treat_procedure_disease', 'covid-19']",-18.00149154663086
+13,"['community', 'treat_procedure_disease', 'covid-19']",-18.240503311157227
+14,"['enhanced', 'treat_procedure_disease', 'covid-19']",-18.276540756225586
+15,"['high', 'treat_procedure_disease', 'covid-19']",-18.362762451171875
+16,"['ventilator', 'treat_procedure_disease', 'covid-19']",-18.41802406311035
+17,"['face', 'treat_procedure_disease', 'covid-19']",-18.471965789794922
+18,"['pandemic', 'treat_procedure_disease', 'covid-19']",-18.496891021728516
+19,"['vili', 'treat_procedure_disease', 'covid-19']",-18.50815200805664

@@ -1,0 +1,21 @@
+,triple,score
+0,"['covid-19', 'disease_disease', 'cryptococcosis']",-9.677830696105957
+1,"['covid-19', 'disease_disease', 'ebola fever']",-9.710524559020996
+2,"['covid-19', 'disease_disease', 'denvs']",-10.001568794250488
+3,"['covid-19', 'disease_disease', 'canine parainfluenza virus']",-10.13536262512207
+4,"['covid-19', 'disease_disease', 'anterior uveitis']",-10.178768157958984
+5,"['covid-19', 'disease_disease', 'necrotic lesion']",-10.253783226013184
+6,"['covid-19', 'disease_disease', 'mucopurulent conjunctivitis']",-10.265235900878906
+7,"['covid-19', 'disease_disease', 'copd exacerbation']",-10.268312454223633
+8,"['covid-19', 'disease_disease', 'acne']",-10.281763076782227
+9,"['covid-19', 'disease_disease', 'pulmonary sarcoidosis']",-10.313522338867188
+10,"['long', 'disease_disease', 'covid-19']",-9.805620193481445
+11,"['transmissible', 'disease_disease', 'covid-19']",-9.949810028076172
+12,"['sir', 'disease_disease', 'covid-19']",-9.994243621826172
+13,"['hospital acquired pneumonia', 'disease_disease', 'covid-19']",-10.153787612915039
+14,"['bronchospasm', 'disease_disease', 'covid-19']",-10.18127155303955
+15,"['tissue necrosis', 'disease_disease', 'covid-19']",-10.192279815673828
+16,"['loss of appetite', 'disease_disease', 'covid-19']",-10.288394927978516
+17,"['coagulopathies', 'disease_disease', 'covid-19']",-10.364845275878906
+18,"['acute renal injury', 'disease_disease', 'covid-19']",-10.509896278381348
+19,"['healthcare associated infection', 'disease_disease', 'covid-19']",-10.599588394165039

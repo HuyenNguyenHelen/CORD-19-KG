@@ -1,0 +1,21 @@
+,triple,score
+0,"['covid-19', 'disease_drug', 'rna']",-15.352818489074707
+1,"['covid-19', 'disease_drug', 'rbd']",-15.80754280090332
+2,"['covid-19', 'disease_drug', 'serotypes']",-15.890697479248047
+3,"['covid-19', 'disease_drug', 'virus']",-15.898677825927734
+4,"['covid-19', 'disease_drug', 'coli']",-15.9464750289917
+5,"['covid-19', 'disease_drug', 'eb']",-16.067001342773438
+6,"['covid-19', 'disease_drug', 'deltacoronavirus']",-16.07817268371582
+7,"['covid-19', 'disease_drug', 'np']",-16.09883689880371
+8,"['covid-19', 'disease_drug', 'ctd']",-16.1776123046875
+9,"['covid-19', 'disease_drug', 'viral infection']",-16.241029739379883
+10,"['transmissible gastroenteritis virus of swine', 'drug_disease', 'covid-19']",-16.862258911132812
+11,"['long', 'drug_disease', 'covid-19']",-17.206384658813477
+12,"['major', 'drug_disease', 'covid-19']",-17.28142738342285
+13,"['ali', 'drug_disease', 'covid-19']",-17.397045135498047
+14,"['cavity', 'drug_disease', 'covid-19']",-17.418777465820312
+15,"['airway inflammation', 'drug_disease', 'covid-19']",-17.537673950195312
+16,"['lle', 'drug_disease', 'covid-19']",-17.568931579589844
+17,"['appendicitis', 'drug_disease', 'covid-19']",-17.578044891357422
+18,"['rickets', 'drug_disease', 'covid-19']",-17.593387603759766
+19,"['type', 'drug_disease', 'covid-19']",-17.62605857849121

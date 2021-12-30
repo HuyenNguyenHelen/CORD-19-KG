@@ -1,0 +1,21 @@
+,triple,score
+0,"['covid-19', 'disease_symptom', 'wupyv']",-16.28628158569336
+1,"['covid-19', 'disease_symptom', 'covid-19']",-16.467744827270508
+2,"['covid-19', 'disease_symptom', 'varicella pneumonia']",-16.562055587768555
+3,"['covid-19', 'disease_symptom', 'chilliness']",-16.628108978271484
+4,"['covid-19', 'disease_symptom', 'orthostatic hypotension']",-16.644027709960938
+5,"['covid-19', 'disease_symptom', 'gingivostomatitis']",-16.645648956298828
+6,"['covid-19', 'disease_symptom', 'prostatitis']",-16.64708137512207
+7,"['covid-19', 'disease_symptom', 'tgev infection']",-16.76577377319336
+8,"['covid-19', 'disease_symptom', 'acute cough']",-16.784067153930664
+9,"['covid-19', 'disease_symptom', 'pulmonary damage']",-16.81981086730957
+10,"['high', 'symptom_disease', 'covid-19']",-14.353131294250488
+11,"['loss of appetite', 'symptom_disease', 'covid-19']",-14.802591323852539
+12,"['tachypnea', 'symptom_disease', 'covid-19']",-14.809005737304688
+13,"['severe', 'symptom_disease', 'covid-19']",-14.856016159057617
+14,"['same', 'symptom_disease', 'covid-19']",-14.911477088928223
+15,"['lung injury', 'symptom_disease', 'covid-19']",-14.919129371643066
+16,"['respiratory distress syndrome', 'symptom_disease', 'covid-19']",-14.996370315551758
+17,"['acute respiratory distress syndrome', 'symptom_disease', 'covid-19']",-15.018898010253906
+18,"['2009', 'symptom_disease', 'covid-19']",-15.020631790161133
+19,"['condition', 'symptom_disease', 'covid-19']",-15.089640617370605

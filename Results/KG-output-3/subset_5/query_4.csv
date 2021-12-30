@@ -1,0 +1,21 @@
+,triple,score
+0,"['covid-19', 'disease_drug', 'virus']",-15.815746307373047
+1,"['covid-19', 'disease_drug', 'pandemic h1n1 virus']",-15.86627197265625
+2,"['covid-19', 'disease_drug', 'serotypes']",-15.88701057434082
+3,"['covid-19', 'disease_drug', 'mpyv']",-16.01464080810547
+4,"['covid-19', 'disease_drug', 'rna']",-16.10194206237793
+5,"['covid-19', 'disease_drug', 'disease progression']",-16.15962028503418
+6,"['covid-19', 'disease_drug', 'infection']",-16.17559051513672
+7,"['covid-19', 'disease_drug', 'feline panleukopenia']",-16.19139862060547
+8,"['covid-19', 'disease_drug', 'pdc']",-16.191883087158203
+9,"['covid-19', 'disease_drug', 'neuropathy']",-16.1943302154541
+10,"['2009', 'drug_disease', 'covid-19']",-16.839990615844727
+11,"['blood', 'drug_disease', 'covid-19']",-17.281139373779297
+12,"['critical', 'drug_disease', 'covid-19']",-17.355894088745117
+13,"['soft', 'drug_disease', 'covid-19']",-17.49413299560547
+14,"['bronchospasm', 'drug_disease', 'covid-19']",-17.59410285949707
+15,"['transmissible gastroenteritis virus of swine', 'drug_disease', 'covid-19']",-17.599111557006836
+16,"['enveloped virus', 'drug_disease', 'covid-19']",-17.672821044921875
+17,"['1918', 'drug_disease', 'covid-19']",-17.733932495117188
+18,"['inflammatory', 'drug_disease', 'covid-19']",-17.73761558532715
+19,"['enhanced', 'drug_disease', 'covid-19']",-17.771329879760742

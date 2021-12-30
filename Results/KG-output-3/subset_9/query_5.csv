@@ -1,0 +1,21 @@
+,triple,score
+0,"['covid-19', 'disease_disease', 'wupyv']",-10.959741592407227
+1,"['covid-19', 'disease_disease', 'granulomatous lesion']",-11.118717193603516
+2,"['covid-19', 'disease_disease', 'enteric fever']",-11.226089477539062
+3,"['covid-19', 'disease_disease', 'varicella pneumonia']",-11.228307723999023
+4,"['covid-19', 'disease_disease', 'eids']",-11.254404067993164
+5,"['covid-19', 'disease_disease', 'unclassified coronaviruses']",-11.270166397094727
+6,"['covid-19', 'disease_disease', 'intractable diarrhea']",-11.322456359863281
+7,"['covid-19', 'disease_disease', 'west nile virus infection']",-11.439611434936523
+8,"['covid-19', 'disease_disease', 'jc']",-11.479886054992676
+9,"['covid-19', 'disease_disease', 'allergic encephalomyelitis']",-11.731866836547852
+10,"['immunocompromised', 'disease_disease', 'covid-19']",-9.421979904174805
+11,"['long', 'disease_disease', 'covid-19']",-9.471352577209473
+12,"['endocrine', 'disease_disease', 'covid-19']",-9.63989543914795
+13,"['influenza like illness', 'disease_disease', 'covid-19']",-9.710222244262695
+14,"['critically ill', 'disease_disease', 'covid-19']",-9.780210494995117
+15,"['nervous disorder', 'disease_disease', 'covid-19']",-9.841934204101562
+16,"['pulmonary tuberculosis', 'disease_disease', 'covid-19']",-9.88355827331543
+17,"['tract illness', 'disease_disease', 'covid-19']",-9.89063549041748
+18,"['disease caused by virus', 'disease_disease', 'covid-19']",-9.928335189819336
+19,"['atherosclerotic plaque', 'disease_disease', 'covid-19']",-10.009370803833008

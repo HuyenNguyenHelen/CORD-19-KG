@@ -1,0 +1,21 @@
+,triple,score
+0,"['covid-19', 'disease_gene', 'rna']",-17.769107818603516
+1,"['covid-19', 'disease_gene', 'virus']",-18.037578582763672
+2,"['covid-19', 'disease_gene', 'cholesterol depletion']",-18.465560913085938
+3,"['covid-19', 'disease_gene', 'rbd']",-18.482797622680664
+4,"['covid-19', 'disease_gene', 'np']",-18.49099349975586
+5,"['covid-19', 'disease_gene', 'recombinant virus']",-18.627714157104492
+6,"['covid-19', 'disease_gene', 'ctd']",-18.806556701660156
+7,"['covid-19', 'disease_gene', 'alveolar capillary augmented lesion']",-18.813228607177734
+8,"['covid-19', 'disease_gene', 'eb']",-18.85546112060547
+9,"['covid-19', 'disease_gene', 'goldfish virus']",-18.920501708984375
+10,"['er', 'gene_disease', 'covid-19']",-18.247539520263672
+11,"['long', 'gene_disease', 'covid-19']",-18.372604370117188
+12,"['major', 'gene_disease', 'covid-19']",-18.552310943603516
+13,"['thymus', 'gene_disease', 'covid-19']",-18.918575286865234
+14,"['human herpesvirus 6', 'gene_disease', 'covid-19']",-19.037548065185547
+15,"['blood', 'gene_disease', 'covid-19']",-19.062606811523438
+16,"['type', 'gene_disease', 'covid-19']",-19.114166259765625
+17,"['cns', 'gene_disease', 'covid-19']",-19.11492156982422
+18,"['iav', 'gene_disease', 'covid-19']",-19.1976375579834
+19,"['upper respiratory disease', 'gene_disease', 'covid-19']",-19.2084903717041

@@ -1,0 +1,21 @@
+,triple,score
+0,"['covid-19', 'disease_treat_procedure', 'dt']",-16.375682830810547
+1,"['covid-19', 'disease_treat_procedure', 'recruitment']",-16.488431930541992
+2,"['covid-19', 'disease_treat_procedure', 'blood']",-16.520431518554688
+3,"['covid-19', 'disease_treat_procedure', 'rna']",-16.632904052734375
+4,"['covid-19', 'disease_treat_procedure', 'vaccine']",-16.651288986206055
+5,"['covid-19', 'disease_treat_procedure', 'he']",-16.670223236083984
+6,"['covid-19', 'disease_treat_procedure', 'covid-19']",-16.735084533691406
+7,"['covid-19', 'disease_treat_procedure', 'viral']",-16.805606842041016
+8,"['covid-19', 'disease_treat_procedure', 'fluid']",-16.844318389892578
+9,"['covid-19', 'disease_treat_procedure', 'kidney injury']",-16.87954330444336
+10,"['blood', 'treat_procedure_disease', 'covid-19']",-15.603415489196777
+11,"['critical', 'treat_procedure_disease', 'covid-19']",-15.762008666992188
+12,"['fluid', 'treat_procedure_disease', 'covid-19']",-15.83400821685791
+13,"['cytokine storm', 'treat_procedure_disease', 'covid-19']",-15.837352752685547
+14,"['ar', 'treat_procedure_disease', 'covid-19']",-15.86948013305664
+15,"['th1', 'treat_procedure_disease', 'covid-19']",-15.978487968444824
+16,"['influenza a infection', 'treat_procedure_disease', 'covid-19']",-16.07037925720215
+17,"['lung', 'treat_procedure_disease', 'covid-19']",-16.092510223388672
+18,"['recruitment', 'treat_procedure_disease', 'covid-19']",-16.166091918945312
+19,"['anaesthesia', 'treat_procedure_disease', 'covid-19']",-16.17037582397461
