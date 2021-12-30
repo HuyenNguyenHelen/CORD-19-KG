@@ -1,0 +1,21 @@
+,triple,score
+0,"['covid-19', 'disease_disease', 'health crisis']",-9.180593490600586
+1,"['covid-19', 'disease_disease', 'acute pancreatitis']",-9.198860168457031
+2,"['covid-19', 'disease_disease', 'paratuberculosis']",-9.562948226928711
+3,"['covid-19', 'disease_disease', 'rhv']",-9.881058692932129
+4,"['covid-19', 'disease_disease', 'malnutrition']",-9.887391090393066
+5,"['covid-19', 'disease_disease', 'avian influenza a virus']",-9.920758247375488
+6,"['covid-19', 'disease_disease', 'wupyv']",-9.931286811828613
+7,"['covid-19', 'disease_disease', 'west nile fever']",-10.006553649902344
+8,"['covid-19', 'disease_disease', 'nsars']",-10.022574424743652
+9,"['covid-19', 'disease_disease', 'morbid obesity']",-10.055129051208496
+10,"['infectious illness', 'disease_disease', 'covid-19']",-9.437427520751953
+11,"['bronchospasm', 'disease_disease', 'covid-19']",-9.789779663085938
+12,"['wheezing illness', 'disease_disease', 'covid-19']",-10.028938293457031
+13,"['bacterial', 'disease_disease', 'covid-19']",-10.049427032470703
+14,"['respiratory', 'disease_disease', 'covid-19']",-10.065196990966797
+15,"['inflammatory', 'disease_disease', 'covid-19']",-10.087827682495117
+16,"['airborne', 'disease_disease', 'covid-19']",-10.088493347167969
+17,"['tissue necrosis', 'disease_disease', 'covid-19']",-10.103103637695312
+18,"['degenerative myelopathy', 'disease_disease', 'covid-19']",-10.128509521484375
+19,"['lymphocytosis', 'disease_disease', 'covid-19']",-10.20078182220459

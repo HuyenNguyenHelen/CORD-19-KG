@@ -1,0 +1,21 @@
+,triple,score
+0,"['covid-19', 'disease_species', 'prcv']",-17.35146141052246
+1,"['covid-19', 'disease_species', 'gastroenteritis']",-17.655792236328125
+2,"['covid-19', 'disease_species', 'torovirus']",-17.894601821899414
+3,"['covid-19', 'disease_species', 'noroviruses']",-17.985727310180664
+4,"['covid-19', 'disease_species', 'hair loss']",-17.987682342529297
+5,"['covid-19', 'disease_species', 'paramyxovirus']",-18.024168014526367
+6,"['covid-19', 'disease_species', 'inoviruses']",-18.02950668334961
+7,"['covid-19', 'disease_species', 'lung lesion']",-18.05997085571289
+8,"['covid-19', 'disease_species', 'icd']",-18.130271911621094
+9,"['covid-19', 'disease_species', 'hypercytokinemia']",-18.130279541015625
+10,"['covid-19', 'disease_species', 'piv infection']",-18.13101577758789
+11,"['covid-19', 'disease_species', 'bunyavirus']",-18.193622589111328
+12,"['covid-19', 'disease_species', 'influenza virus infection']",-18.20186424255371
+13,"['covid-19', 'disease_species', 'niv']",-18.272811889648438
+14,"['covid-19', 'disease_species', 'covid-19']",-18.291128158569336
+15,"['covid-19', 'disease_species', 'intrauterine infection']",-18.291580200195312
+16,"['covid-19', 'disease_species', 'psychiatric symptom']",-18.307971954345703
+17,"['covid-19', 'disease_species', 'influenza h5n1']",-18.324241638183594
+18,"['covid-19', 'disease_species', 'ebolavirus']",-18.32433319091797
+19,"['covid-19', 'disease_species', 'subclinical infection']",-18.326961517333984

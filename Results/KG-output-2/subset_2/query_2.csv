@@ -1,0 +1,21 @@
+,triple,score
+0,"['covid-19', 'disease_symptom', 'airway obstruction']",-14.961355209350586
+1,"['covid-19', 'disease_symptom', 'anosmia']",-15.011754035949707
+2,"['covid-19', 'disease_symptom', 'he']",-15.182624816894531
+3,"['covid-19', 'disease_symptom', 'headache']",-15.375402450561523
+4,"['covid-19', 'disease_symptom', 'tracheal rale']",-15.3997802734375
+5,"['covid-19', 'disease_symptom', 'human bocaviruses']",-15.48908519744873
+6,"['covid-19', 'disease_symptom', 'diarrhea']",-15.492238998413086
+7,"['covid-19', 'disease_symptom', 'fever']",-15.524321556091309
+8,"['covid-19', 'disease_symptom', 'jcv']",-15.573956489562988
+9,"['covid-19', 'disease_symptom', 'cns lesion']",-15.732772827148438
+10,"['enhanced', 'symptom_disease', 'covid-19']",-14.300411224365234
+11,"['confusion', 'symptom_disease', 'covid-19']",-14.42965316772461
+12,"['influenza epidemic', 'symptom_disease', 'covid-19']",-14.496583938598633
+13,"['cough', 'symptom_disease', 'covid-19']",-14.559473037719727
+14,"['sars', 'symptom_disease', 'covid-19']",-14.589815139770508
+15,"['acute conjunctivitis', 'symptom_disease', 'covid-19']",-14.693963050842285
+16,"['arthritis', 'symptom_disease', 'covid-19']",-14.787247657775879
+17,"['sore throat', 'symptom_disease', 'covid-19']",-14.79871654510498
+18,"['icu', 'symptom_disease', 'covid-19']",-14.819480895996094
+19,"['lower', 'symptom_disease', 'covid-19']",-14.82474422454834

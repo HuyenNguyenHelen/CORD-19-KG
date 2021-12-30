@@ -1,0 +1,21 @@
+,triple,score
+0,"['covid-19', 'disease_treat_procedure', 'covid pandemic']",-19.02142906188965
+1,"['covid-19', 'disease_treat_procedure', 'ctlds']",-19.076766967773438
+2,"['covid-19', 'disease_treat_procedure', 'bacterial tracheitis']",-19.100631713867188
+3,"['covid-19', 'disease_treat_procedure', 'myopericarditis']",-19.12603759765625
+4,"['covid-19', 'disease_treat_procedure', 'a-mlv']",-19.225509643554688
+5,"['covid-19', 'disease_treat_procedure', 'congenital heart defect']",-19.243698120117188
+6,"['covid-19', 'disease_treat_procedure', 'phev infection']",-19.248348236083984
+7,"['covid-19', 'disease_treat_procedure', 'idu']",-19.36579132080078
+8,"['covid-19', 'disease_treat_procedure', 'pn']",-19.36832618713379
+9,"['covid-19', 'disease_treat_procedure', 'tt']",-19.396839141845703
+10,"['critical', 'treat_procedure_disease', 'covid-19']",-19.070117950439453
+11,"['major', 'treat_procedure_disease', 'covid-19']",-19.128868103027344
+12,"['ear disease', 'treat_procedure_disease', 'covid-19']",-19.24632453918457
+13,"['ppd', 'treat_procedure_disease', 'covid-19']",-19.647464752197266
+14,"['cardiac event', 'treat_procedure_disease', 'covid-19']",-19.65276336669922
+15,"['ventilator associated pneumonia', 'treat_procedure_disease', 'covid-19']",-19.672142028808594
+16,"['epithelial hyperplasia', 'treat_procedure_disease', 'covid-19']",-19.750768661499023
+17,"['pandemic', 'treat_procedure_disease', 'covid-19']",-19.75925064086914
+18,"['lung injury', 'treat_procedure_disease', 'covid-19']",-19.81433868408203
+19,"['caries', 'treat_procedure_disease', 'covid-19']",-19.8424072265625

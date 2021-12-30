@@ -1,0 +1,21 @@
+,triple,score
+0,"['covid-19', 'disease_drug', 'associated virus']",-14.733696937561035
+1,"['covid-19', 'disease_drug', 'rna']",-14.917169570922852
+2,"['covid-19', 'disease_drug', 'virus']",-15.42968463897705
+3,"['covid-19', 'disease_drug', 'coli']",-15.508785247802734
+4,"['covid-19', 'disease_drug', 'pneumoniae']",-15.795818328857422
+5,"['covid-19', 'disease_drug', 'viral infection']",-15.818878173828125
+6,"['covid-19', 'disease_drug', 'arteriviruses']",-15.835259437561035
+7,"['covid-19', 'disease_drug', 'tissue hypoperfusion']",-15.838590621948242
+8,"['covid-19', 'disease_drug', 'consumption']",-15.908312797546387
+9,"['covid-19', 'disease_drug', 'g6pd deficiency']",-15.961641311645508
+10,"['2009', 'drug_disease', 'covid-19']",-16.492725372314453
+11,"['acute appendicitis', 'drug_disease', 'covid-19']",-16.8907470703125
+12,"['lower', 'drug_disease', 'covid-19']",-16.97991943359375
+13,"['critical', 'drug_disease', 'covid-19']",-17.0993595123291
+14,"['liver', 'drug_disease', 'covid-19']",-17.22864532470703
+15,"['lung injury', 'drug_disease', 'covid-19']",-17.237136840820312
+16,"['1918', 'drug_disease', 'covid-19']",-17.373886108398438
+17,"['blood', 'drug_disease', 'covid-19']",-17.43622398376465
+18,"['er', 'drug_disease', 'covid-19']",-17.445682525634766
+19,"['lung', 'drug_disease', 'covid-19']",-17.45172691345215

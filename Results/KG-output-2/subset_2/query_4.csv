@@ -1,0 +1,21 @@
+,triple,score
+0,"['covid-19', 'disease_drug', 'rna']",-15.134420394897461
+1,"['covid-19', 'disease_drug', 'pandemic h1n1 virus']",-15.346689224243164
+2,"['covid-19', 'disease_drug', 'mpyv']",-15.369214057922363
+3,"['covid-19', 'disease_drug', 'serotypes']",-15.639068603515625
+4,"['covid-19', 'disease_drug', 'vaccinia virus']",-15.648080825805664
+5,"['covid-19', 'disease_drug', 'avian influenza virus']",-15.938371658325195
+6,"['covid-19', 'disease_drug', 'g6pd deficiency']",-15.992497444152832
+7,"['covid-19', 'disease_drug', 'virus']",-16.000232696533203
+8,"['covid-19', 'disease_drug', 'viral']",-16.22101402282715
+9,"['covid-19', 'disease_drug', 'plaque']",-16.2906551361084
+10,"['rbd', 'drug_disease', 'covid-19']",-15.80194091796875
+11,"['influenza virus', 'drug_disease', 'covid-19']",-16.074127197265625
+12,"['cns disease', 'drug_disease', 'covid-19']",-16.244247436523438
+13,"['type', 'drug_disease', 'covid-19']",-16.29355239868164
+14,"['critical', 'drug_disease', 'covid-19']",-16.453977584838867
+15,"['infection', 'drug_disease', 'covid-19']",-16.467926025390625
+16,"['rna', 'drug_disease', 'covid-19']",-16.531831741333008
+17,"['adrenal insufficiency', 'drug_disease', 'covid-19']",-16.638465881347656
+18,"['recruitment', 'drug_disease', 'covid-19']",-16.653472900390625
+19,"['jev', 'drug_disease', 'covid-19']",-16.685272216796875

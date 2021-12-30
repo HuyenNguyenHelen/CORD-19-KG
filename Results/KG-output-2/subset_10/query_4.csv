@@ -1,0 +1,21 @@
+,triple,score
+0,"['covid-19', 'disease_drug', 'rna']",-12.958905220031738
+1,"['covid-19', 'disease_drug', 'covid-19']",-13.263092041015625
+2,"['covid-19', 'disease_drug', 'vaccine']",-13.275925636291504
+3,"['covid-19', 'disease_drug', 'virus']",-13.27754020690918
+4,"['covid-19', 'disease_drug', 'rbd']",-13.387859344482422
+5,"['covid-19', 'disease_drug', 'type']",-13.405420303344727
+6,"['covid-19', 'disease_drug', 'sars cov infection']",-13.467647552490234
+7,"['covid-19', 'disease_drug', 'blood']",-13.489461898803711
+8,"['covid-19', 'disease_drug', 'pandemic']",-13.499368667602539
+9,"['covid-19', 'disease_drug', 'viral infection']",-13.556436538696289
+10,"['lower', 'drug_disease', 'covid-19']",-13.759137153625488
+11,"['lung injury', 'drug_disease', 'covid-19']",-14.173386573791504
+12,"['blood', 'drug_disease', 'covid-19']",-14.180499076843262
+13,"['rna', 'drug_disease', 'covid-19']",-14.403007507324219
+14,"['influenza like illness', 'drug_disease', 'covid-19']",-14.427779197692871
+15,"['liver', 'drug_disease', 'covid-19']",-14.47311019897461
+16,"['covid-19', 'drug_disease', 'covid-19']",-14.500064849853516
+17,"['high', 'drug_disease', 'covid-19']",-14.503883361816406
+18,"['inflammation', 'drug_disease', 'covid-19']",-14.556989669799805
+19,"['rbd', 'drug_disease', 'covid-19']",-14.577205657958984

@@ -1,0 +1,21 @@
+,triple,score
+0,"['covid-19', 'disease_symptom', 'chronic peritonitis']",-13.680720329284668
+1,"['covid-19', 'disease_symptom', 'coronavirus infection']",-14.287576675415039
+2,"['covid-19', 'disease_symptom', 'pid']",-14.292936325073242
+3,"['covid-19', 'disease_symptom', 'virus']",-14.50877571105957
+4,"['covid-19', 'disease_symptom', 'viral infection']",-14.5560941696167
+5,"['covid-19', 'disease_symptom', 'vaccine']",-14.603349685668945
+6,"['covid-19', 'disease_symptom', 'rale']",-14.639650344848633
+7,"['covid-19', 'disease_symptom', 'mononucleosis']",-14.727275848388672
+8,"['covid-19', 'disease_symptom', 'gingivostomatitis']",-14.747122764587402
+9,"['covid-19', 'disease_symptom', 'anxiety']",-14.773531913757324
+10,"['tick borne disease', 'symptom_disease', 'covid-19']",-13.17332935333252
+11,"['confusion', 'symptom_disease', 'covid-19']",-13.597307205200195
+12,"['lung', 'symptom_disease', 'covid-19']",-13.837725639343262
+13,"['salivary gland infection', 'symptom_disease', 'covid-19']",-13.876240730285645
+14,"['acute cerebrovascular disease', 'symptom_disease', 'covid-19']",-13.901663780212402
+15,"['pulmonary edema', 'symptom_disease', 'covid-19']",-14.026793479919434
+16,"['peritonitis', 'symptom_disease', 'covid-19']",-14.04825210571289
+17,"['covid-19', 'symptom_disease', 'covid-19']",-14.062969207763672
+18,"['encephalitozoonosis', 'symptom_disease', 'covid-19']",-14.125694274902344
+19,"['bloody diarrhoea', 'symptom_disease', 'covid-19']",-14.269488334655762

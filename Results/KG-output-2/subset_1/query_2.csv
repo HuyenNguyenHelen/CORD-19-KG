@@ -1,0 +1,21 @@
+,triple,score
+0,"['covid-19', 'disease_symptom', 'atrophy']",-14.413548469543457
+1,"['covid-19', 'disease_symptom', 'copd']",-14.534452438354492
+2,"['covid-19', 'disease_symptom', 'urti']",-14.719799041748047
+3,"['covid-19', 'disease_symptom', 'chronic medical condition']",-14.72951602935791
+4,"['covid-19', 'disease_symptom', 'covid-19']",-14.851247787475586
+5,"['covid-19', 'disease_symptom', 'headache']",-14.90269947052002
+6,"['covid-19', 'disease_symptom', 'lung lesion']",-14.960004806518555
+7,"['covid-19', 'disease_symptom', 'he']",-14.968658447265625
+8,"['covid-19', 'disease_symptom', 'neuropathy']",-14.976746559143066
+9,"['covid-19', 'disease_symptom', 'psychiatric symptom']",-15.090486526489258
+10,"['hospital acquired infection', 'symptom_disease', 'covid-19']",-14.584835052490234
+11,"['arthritis', 'symptom_disease', 'covid-19']",-14.823527336120605
+12,"['influenza virus infection', 'symptom_disease', 'covid-19']",-14.885083198547363
+13,"['tract infection', 'symptom_disease', 'covid-19']",-14.963095664978027
+14,"['epidemic', 'symptom_disease', 'covid-19']",-14.991473197937012
+15,"['flu', 'symptom_disease', 'covid-19']",-15.039170265197754
+16,"['influenza epidemic', 'symptom_disease', 'covid-19']",-15.077926635742188
+17,"['opportunistic bacterial infection', 'symptom_disease', 'covid-19']",-15.097865104675293
+18,"['opportunistic infection', 'symptom_disease', 'covid-19']",-15.129158020019531
+19,"['upper respiratory symptom', 'symptom_disease', 'covid-19']",-15.140050888061523

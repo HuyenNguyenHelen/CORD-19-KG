@@ -1,0 +1,21 @@
+,triple,score
+0,"['covid-19', 'disease_disease', 'enteric fever']",-10.960954666137695
+1,"['covid-19', 'disease_disease', 'varicella pneumonia']",-11.069681167602539
+2,"['covid-19', 'disease_disease', 'intractable diarrhea']",-11.078413009643555
+3,"['covid-19', 'disease_disease', 'wupyv']",-11.186505317687988
+4,"['covid-19', 'disease_disease', 'granulomatous lesion']",-11.195265769958496
+5,"['covid-19', 'disease_disease', 'jc']",-11.244135856628418
+6,"['covid-19', 'disease_disease', 'eids']",-11.274800300598145
+7,"['covid-19', 'disease_disease', 'oral thrush']",-11.284915924072266
+8,"['covid-19', 'disease_disease', 'hypercholesterolemia']",-11.350627899169922
+9,"['covid-19', 'disease_disease', 'avian infectious bronchitis']",-11.477967262268066
+10,"['immunocompromised', 'disease_disease', 'covid-19']",-9.31205940246582
+11,"['critically ill', 'disease_disease', 'covid-19']",-9.326581954956055
+12,"['long', 'disease_disease', 'covid-19']",-9.497701644897461
+13,"['difficulty in swallowing', 'disease_disease', 'covid-19']",-9.553268432617188
+14,"['loss of appetite', 'disease_disease', 'covid-19']",-9.58757495880127
+15,"['cerebrovascular accident', 'disease_disease', 'covid-19']",-9.656803131103516
+16,"['pandemic infectious disease', 'disease_disease', 'covid-19']",-9.663873672485352
+17,"['fibrinous pleuritis', 'disease_disease', 'covid-19']",-9.67460823059082
+18,"['disease caused by virus', 'disease_disease', 'covid-19']",-9.693687438964844
+19,"['atherosclerotic plaque', 'disease_disease', 'covid-19']",-9.696649551391602

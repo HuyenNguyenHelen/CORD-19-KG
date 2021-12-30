@@ -1,0 +1,21 @@
+,triple,score
+0,"['covid-19', 'disease_symptom', 'prostatitis']",-16.41309928894043
+1,"['covid-19', 'disease_symptom', 'chilliness']",-16.637760162353516
+2,"['covid-19', 'disease_symptom', 'hemorrhagic smallpox']",-16.65970230102539
+3,"['covid-19', 'disease_symptom', 'pulmonary damage']",-16.7335147857666
+4,"['covid-19', 'disease_symptom', 'spondylitis']",-16.734445571899414
+5,"['covid-19', 'disease_symptom', 'covid-19']",-16.822628021240234
+6,"['covid-19', 'disease_symptom', 'c. pneumoniae infection']",-16.849624633789062
+7,"['covid-19', 'disease_symptom', 'varicella pneumonia']",-16.874889373779297
+8,"['covid-19', 'disease_symptom', 'wupyv']",-16.886314392089844
+9,"['covid-19', 'disease_symptom', 'anemia secondary']",-16.916683197021484
+10,"['loss of appetite', 'symptom_disease', 'covid-19']",-14.587745666503906
+11,"['high', 'symptom_disease', 'covid-19']",-14.595874786376953
+12,"['protein losing enteropathy', 'symptom_disease', 'covid-19']",-14.655261993408203
+13,"['muscle atrophy', 'symptom_disease', 'covid-19']",-14.945125579833984
+14,"['tachypnea', 'symptom_disease', 'covid-19']",-14.959569931030273
+15,"['influenza like illness', 'symptom_disease', 'covid-19']",-15.028491973876953
+16,"['lung injury', 'symptom_disease', 'covid-19']",-15.111570358276367
+17,"['metabolic acidosis', 'symptom_disease', 'covid-19']",-15.125155448913574
+18,"['dysfunction', 'symptom_disease', 'covid-19']",-15.16728401184082
+19,"['same', 'symptom_disease', 'covid-19']",-15.193992614746094

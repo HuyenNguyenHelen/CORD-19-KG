@@ -1,0 +1,21 @@
+,triple,score
+0,"['covid-19', 'disease_treat_procedure', 'esrd']",-17.679201126098633
+1,"['covid-19', 'disease_treat_procedure', 'cerebral dysfunction']",-18.160676956176758
+2,"['covid-19', 'disease_treat_procedure', 'covid pandemic']",-18.172609329223633
+3,"['covid-19', 'disease_treat_procedure', 'coli']",-18.23543930053711
+4,"['covid-19', 'disease_treat_procedure', 'acute myocardial infarction']",-18.26680564880371
+5,"['covid-19', 'disease_treat_procedure', 'h5n1 infection']",-18.36064338684082
+6,"['covid-19', 'disease_treat_procedure', 'pandemic h1n1 virus']",-18.365299224853516
+7,"['covid-19', 'disease_treat_procedure', 'mdv']",-18.39673614501953
+8,"['covid-19', 'disease_treat_procedure', 'hrv infection']",-18.409080505371094
+9,"['covid-19', 'disease_treat_procedure', 'pn']",-18.448352813720703
+10,"['critical', 'treat_procedure_disease', 'covid-19']",-18.317140579223633
+11,"['lower', 'treat_procedure_disease', 'covid-19']",-18.703643798828125
+12,"['enhanced', 'treat_procedure_disease', 'covid-19']",-18.708080291748047
+13,"['ketosis', 'treat_procedure_disease', 'covid-19']",-18.742277145385742
+14,"['community', 'treat_procedure_disease', 'covid-19']",-18.906702041625977
+15,"['osteonecrosis', 'treat_procedure_disease', 'covid-19']",-18.93692398071289
+16,"['bladder cancer', 'treat_procedure_disease', 'covid-19']",-19.045690536499023
+17,"['ppd', 'treat_procedure_disease', 'covid-19']",-19.04772186279297
+18,"['bacteriuria', 'treat_procedure_disease', 'covid-19']",-19.123523712158203
+19,"['tumor', 'treat_procedure_disease', 'covid-19']",-19.143585205078125

@@ -1,0 +1,21 @@
+,triple,score
+0,"['covid-19', 'disease_symptom', 'acute cough']",-15.08028793334961
+1,"['covid-19', 'disease_symptom', 'croup']",-15.306422233581543
+2,"['covid-19', 'disease_symptom', 'bacterial prostatitis']",-15.341333389282227
+3,"['covid-19', 'disease_symptom', 'muscle atrophy']",-15.365768432617188
+4,"['covid-19', 'disease_symptom', 'partial seizure']",-15.392054557800293
+5,"['covid-19', 'disease_symptom', 'colonic obstruction']",-15.502309799194336
+6,"['covid-19', 'disease_symptom', 'om']",-15.50866413116455
+7,"['covid-19', 'disease_symptom', 'anosmia']",-15.53412914276123
+8,"['covid-19', 'disease_symptom', 'chronic peritonitis']",-15.534220695495605
+9,"['covid-19', 'disease_symptom', 'rotavirus gastroenteritis']",-15.55943489074707
+10,"['epiglottitis', 'symptom_disease', 'covid-19']",-15.300803184509277
+11,"['protein losing enteropathy', 'symptom_disease', 'covid-19']",-15.316116333007812
+12,"['allergic rhinitis', 'symptom_disease', 'covid-19']",-15.353368759155273
+13,"['ear disease', 'symptom_disease', 'covid-19']",-15.536107063293457
+14,"['pulmonary involvement', 'symptom_disease', 'covid-19']",-15.547603607177734
+15,"['icu', 'symptom_disease', 'covid-19']",-15.601961135864258
+16,"['major', 'symptom_disease', 'covid-19']",-15.613653182983398
+17,"['tachypnea', 'symptom_disease', 'covid-19']",-15.770322799682617
+18,"['viral pneumonia', 'symptom_disease', 'covid-19']",-15.785470962524414
+19,"['soft', 'symptom_disease', 'covid-19']",-15.793163299560547

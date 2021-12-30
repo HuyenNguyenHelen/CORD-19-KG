@@ -1,0 +1,21 @@
+,triple,score
+0,"['covid-19', 'disease_drug', 'rna']",-15.877363204956055
+1,"['covid-19', 'disease_drug', 'he']",-15.952316284179688
+2,"['covid-19', 'disease_drug', 'pdc']",-16.184410095214844
+3,"['covid-19', 'disease_drug', 'prrsv']",-16.820528030395508
+4,"['covid-19', 'disease_drug', 'inflammation']",-16.83392333984375
+5,"['covid-19', 'disease_drug', 'cp']",-16.84441375732422
+6,"['covid-19', 'disease_drug', 'sars cov']",-16.871335983276367
+7,"['covid-19', 'disease_drug', 'oa']",-16.872966766357422
+8,"['covid-19', 'disease_drug', 'virus']",-16.8842716217041
+9,"['covid-19', 'disease_drug', 'ld']",-16.960590362548828
+10,"['inflammatory', 'drug_disease', 'covid-19']",-16.09445571899414
+11,"['type', 'drug_disease', 'covid-19']",-16.265443801879883
+12,"['virus infection', 'drug_disease', 'covid-19']",-16.61259651184082
+13,"['encephalomyocarditis virus', 'drug_disease', 'covid-19']",-16.61488914489746
+14,"['virus', 'drug_disease', 'covid-19']",-16.624061584472656
+15,"['long', 'drug_disease', 'covid-19']",-16.714141845703125
+16,"['ischemia', 'drug_disease', 'covid-19']",-16.724868774414062
+17,"['inflammatory condition', 'drug_disease', 'covid-19']",-16.743793487548828
+18,"['coronavirus', 'drug_disease', 'covid-19']",-16.75608253479004
+19,"['chronic pancreatitis', 'drug_disease', 'covid-19']",-16.787933349609375

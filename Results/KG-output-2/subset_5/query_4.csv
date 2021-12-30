@@ -1,0 +1,21 @@
+,triple,score
+0,"['covid-19', 'disease_drug', 'associated virus']",-16.04046058654785
+1,"['covid-19', 'disease_drug', 'rbds']",-16.19896697998047
+2,"['covid-19', 'disease_drug', 'neuropathy']",-16.53006362915039
+3,"['covid-19', 'disease_drug', 'pandemic h1n1 virus']",-16.533035278320312
+4,"['covid-19', 'disease_drug', 'rna']",-16.546064376831055
+5,"['covid-19', 'disease_drug', 'rinderpest']",-16.659929275512695
+6,"['covid-19', 'disease_drug', 'virus']",-16.683834075927734
+7,"['covid-19', 'disease_drug', 'blood']",-16.7124080657959
+8,"['covid-19', 'disease_drug', 'amr']",-16.732877731323242
+9,"['covid-19', 'disease_drug', 'sensory neuropathy']",-16.8027286529541
+10,"['critical', 'drug_disease', 'covid-19']",-17.51201629638672
+11,"['2009', 'drug_disease', 'covid-19']",-17.556659698486328
+12,"['1918', 'drug_disease', 'covid-19']",-17.842178344726562
+13,"['major', 'drug_disease', 'covid-19']",-17.931026458740234
+14,"['high', 'drug_disease', 'covid-19']",-17.971420288085938
+15,"['rna', 'drug_disease', 'covid-19']",-18.148422241210938
+16,"['disease progression', 'drug_disease', 'covid-19']",-18.245975494384766
+17,"['inflammatory', 'drug_disease', 'covid-19']",-18.266517639160156
+18,"['tss', 'drug_disease', 'covid-19']",-18.360496520996094
+19,"['brain swelling', 'drug_disease', 'covid-19']",-18.416133880615234

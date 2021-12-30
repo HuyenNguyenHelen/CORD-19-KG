@@ -1,0 +1,21 @@
+,triple,score
+0,"['covid-19', 'disease_symptom', 'spotted fever']",-14.145549774169922
+1,"['covid-19', 'disease_symptom', 'musculoskeletal pain']",-14.600515365600586
+2,"['covid-19', 'disease_symptom', 'muscle atrophy']",-14.663311004638672
+3,"['covid-19', 'disease_symptom', 'viral enteritis']",-14.703779220581055
+4,"['covid-19', 'disease_symptom', 'tachypnea']",-14.721882820129395
+5,"['covid-19', 'disease_symptom', 'cryptosporidiosis']",-14.724108695983887
+6,"['covid-19', 'disease_symptom', 'prostatitis']",-14.727825164794922
+7,"['covid-19', 'disease_symptom', 'metabolic acidosis']",-14.903068542480469
+8,"['covid-19', 'disease_symptom', 'td']",-14.991209030151367
+9,"['covid-19', 'disease_symptom', 'subclinical infection']",-14.99543571472168
+10,"['loss of appetite', 'symptom_disease', 'covid-19']",-12.989592552185059
+11,"['protein losing enteropathy', 'symptom_disease', 'covid-19']",-13.245548248291016
+12,"['acute cerebrovascular disease', 'symptom_disease', 'covid-19']",-13.498665809631348
+13,"['hypoxia', 'symptom_disease', 'covid-19']",-13.856925010681152
+14,"['unwell', 'symptom_disease', 'covid-19']",-13.928877830505371
+15,"['confusion', 'symptom_disease', 'covid-19']",-13.953614234924316
+16,"['high', 'symptom_disease', 'covid-19']",-14.095340728759766
+17,"['chronic peritonitis', 'symptom_disease', 'covid-19']",-14.124443054199219
+18,"['salivary gland infection', 'symptom_disease', 'covid-19']",-14.166303634643555
+19,"['severe infection', 'symptom_disease', 'covid-19']",-14.198038101196289

@@ -1,0 +1,21 @@
+,triple,score
+0,"['covid-19', 'disease_drug', 'piv infection']",-16.259593963623047
+1,"['covid-19', 'disease_drug', 'vaccine']",-16.33714485168457
+2,"['covid-19', 'disease_drug', 'rbds']",-16.38010025024414
+3,"['covid-19', 'disease_drug', 'fp']",-16.41065788269043
+4,"['covid-19', 'disease_drug', 'ha']",-16.517574310302734
+5,"['covid-19', 'disease_drug', 'pancreas']",-16.55063819885254
+6,"['covid-19', 'disease_drug', 'consumption']",-16.565458297729492
+7,"['covid-19', 'disease_drug', 'gvhd']",-16.579811096191406
+8,"['covid-19', 'disease_drug', 'fibrosis']",-16.60403823852539
+9,"['covid-19', 'disease_drug', 'type']",-16.6448974609375
+10,"['major', 'drug_disease', 'covid-19']",-17.45819854736328
+11,"['critical', 'drug_disease', 'covid-19']",-17.69703483581543
+12,"['nidoviruses', 'drug_disease', 'covid-19']",-17.799280166625977
+13,"['lung injury', 'drug_disease', 'covid-19']",-17.956918716430664
+14,"['infectious', 'drug_disease', 'covid-19']",-17.992084503173828
+15,"['allergic rhinitis', 'drug_disease', 'covid-19']",-18.055343627929688
+16,"['pandemic', 'drug_disease', 'covid-19']",-18.09771728515625
+17,"['viral respiratory illness', 'drug_disease', 'covid-19']",-18.110132217407227
+18,"['rbd', 'drug_disease', 'covid-19']",-18.230575561523438
+19,"['er', 'drug_disease', 'covid-19']",-18.2589111328125

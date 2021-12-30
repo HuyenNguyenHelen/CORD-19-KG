@@ -1,0 +1,21 @@
+,triple,score
+0,"['covid-19', 'disease_drug', 'rna']",-13.27787971496582
+1,"['covid-19', 'disease_drug', 'virus']",-14.083989143371582
+2,"['covid-19', 'disease_drug', 'mhv']",-14.127208709716797
+3,"['covid-19', 'disease_drug', 'sars cov']",-14.252511978149414
+4,"['covid-19', 'disease_drug', 'ha']",-14.334098815917969
+5,"['covid-19', 'disease_drug', 'coronaviruses']",-14.366080284118652
+6,"['covid-19', 'disease_drug', 'viral']",-14.414063453674316
+7,"['covid-19', 'disease_drug', 'influenza virus']",-14.543901443481445
+8,"['covid-19', 'disease_drug', 'infection']",-14.55178451538086
+9,"['covid-19', 'disease_drug', 'mhv infection']",-14.628902435302734
+10,"['rna', 'drug_disease', 'covid-19']",-14.711190223693848
+11,"['influenza virus', 'drug_disease', 'covid-19']",-15.243803977966309
+12,"['sars cov', 'drug_disease', 'covid-19']",-15.327495574951172
+13,"['critical', 'drug_disease', 'covid-19']",-15.394987106323242
+14,"['virus', 'drug_disease', 'covid-19']",-15.522520065307617
+15,"['viral', 'drug_disease', 'covid-19']",-15.578939437866211
+16,"['rbd', 'drug_disease', 'covid-19']",-15.640156745910645
+17,"['mhv', 'drug_disease', 'covid-19']",-15.640817642211914
+18,"['type', 'drug_disease', 'covid-19']",-15.643274307250977
+19,"['lung injury', 'drug_disease', 'covid-19']",-15.663248062133789

@@ -1,0 +1,21 @@
+,triple,score
+0,"['covid-19', 'disease_drug', 'rna']",-12.683146476745605
+1,"['covid-19', 'disease_drug', 'virus']",-13.180286407470703
+2,"['covid-19', 'disease_drug', 'blood']",-13.279397964477539
+3,"['covid-19', 'disease_drug', 'rbd']",-13.35280990600586
+4,"['covid-19', 'disease_drug', 'vaccine']",-13.473453521728516
+5,"['covid-19', 'disease_drug', 'disease progression']",-13.498930931091309
+6,"['covid-19', 'disease_drug', 'covid-19']",-13.520650863647461
+7,"['covid-19', 'disease_drug', 'ards']",-13.525558471679688
+8,"['covid-19', 'disease_drug', 'viral infection']",-13.525728225708008
+9,"['covid-19', 'disease_drug', 'inflammation']",-13.538918495178223
+10,"['critical', 'drug_disease', 'covid-19']",-13.665963172912598
+11,"['rna', 'drug_disease', 'covid-19']",-13.745994567871094
+12,"['rbd', 'drug_disease', 'covid-19']",-13.756820678710938
+13,"['inhalational anthrax', 'drug_disease', 'covid-19']",-14.010587692260742
+14,"['lung injury', 'drug_disease', 'covid-19']",-14.14160442352295
+15,"['lower', 'drug_disease', 'covid-19']",-14.145915985107422
+16,"['brain', 'drug_disease', 'covid-19']",-14.20157527923584
+17,"['lung', 'drug_disease', 'covid-19']",-14.232959747314453
+18,"['helix', 'drug_disease', 'covid-19']",-14.23373031616211
+19,"['covid-19', 'drug_disease', 'covid-19']",-14.244026184082031

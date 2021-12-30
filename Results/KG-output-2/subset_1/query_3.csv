@@ -1,0 +1,21 @@
+,triple,score
+0,"['covid-19', 'disease_treat_procedure', 'respiratory distress syndrome']",-16.796268463134766
+1,"['covid-19', 'disease_treat_procedure', 'ebolavirus']",-16.89914894104004
+2,"['covid-19', 'disease_treat_procedure', 'ali']",-16.92139434814453
+3,"['covid-19', 'disease_treat_procedure', 'prostate cancer']",-17.04315185546875
+4,"['covid-19', 'disease_treat_procedure', 'psoriasis']",-17.059581756591797
+5,"['covid-19', 'disease_treat_procedure', 'iav infection']",-17.125150680541992
+6,"['covid-19', 'disease_treat_procedure', 'ndm']",-17.12874984741211
+7,"['covid-19', 'disease_treat_procedure', 'am']",-17.143829345703125
+8,"['covid-19', 'disease_treat_procedure', 'hair loss']",-17.24038314819336
+9,"['covid-19', 'disease_treat_procedure', 'inflammatory lesion']",-17.24330711364746
+10,"['influenza a infection', 'treat_procedure_disease', 'covid-19']",-15.866683959960938
+11,"['community', 'treat_procedure_disease', 'covid-19']",-16.228561401367188
+12,"['pneumonitis', 'treat_procedure_disease', 'covid-19']",-16.289371490478516
+13,"['th1', 'treat_procedure_disease', 'covid-19']",-16.29136848449707
+14,"['brain', 'treat_procedure_disease', 'covid-19']",-16.402589797973633
+15,"['er', 'treat_procedure_disease', 'covid-19']",-16.456758499145508
+16,"['depression', 'treat_procedure_disease', 'covid-19']",-16.526103973388672
+17,"['h1n1', 'treat_procedure_disease', 'covid-19']",-16.579601287841797
+18,"['m lesion', 'treat_procedure_disease', 'covid-19']",-16.60976791381836
+19,"['icu', 'treat_procedure_disease', 'covid-19']",-16.612010955810547

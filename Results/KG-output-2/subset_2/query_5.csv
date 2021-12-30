@@ -1,0 +1,21 @@
+,triple,score
+0,"['covid-19', 'disease_disease', 'wupyv']",-9.100114822387695
+1,"['covid-19', 'disease_disease', 'lyssavirus']",-9.280665397644043
+2,"['covid-19', 'disease_disease', 'aom']",-9.36405086517334
+3,"['covid-19', 'disease_disease', 'bcv']",-9.427370071411133
+4,"['covid-19', 'disease_disease', 'avian influenza a virus']",-9.468487739562988
+5,"['covid-19', 'disease_disease', 'eds']",-9.517998695373535
+6,"['covid-19', 'disease_disease', 'eastern equine encephalitis virus']",-9.618375778198242
+7,"['covid-19', 'disease_disease', 'jcv']",-9.69718074798584
+8,"['covid-19', 'disease_disease', 'immunological disease']",-9.765451431274414
+9,"['covid-19', 'disease_disease', 'brain damage']",-9.806291580200195
+10,"['respiratory', 'disease_disease', 'covid-19']",-8.881380081176758
+11,"['seasonal', 'disease_disease', 'covid-19']",-8.978204727172852
+12,"['coagulopathies', 'disease_disease', 'covid-19']",-9.406766891479492
+13,"['transmissible', 'disease_disease', 'covid-19']",-9.441608428955078
+14,"['lvad', 'disease_disease', 'covid-19']",-9.732938766479492
+15,"['rhabdomyolysis', 'disease_disease', 'covid-19']",-9.791364669799805
+16,"['tissue necrosis', 'disease_disease', 'covid-19']",-9.834031105041504
+17,"['sars coronaviruses', 'disease_disease', 'covid-19']",-9.83963394165039
+18,"['tract illness', 'disease_disease', 'covid-19']",-9.960826873779297
+19,"['encephalitis virus', 'disease_disease', 'covid-19']",-9.973353385925293

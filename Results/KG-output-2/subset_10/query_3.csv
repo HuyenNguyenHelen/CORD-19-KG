@@ -1,0 +1,21 @@
+,triple,score
+0,"['covid-19', 'disease_treat_procedure', 'pandemic']",-16.998313903808594
+1,"['covid-19', 'disease_treat_procedure', 'vaccine']",-17.175743103027344
+2,"['covid-19', 'disease_treat_procedure', 'covid pandemic']",-17.207386016845703
+3,"['covid-19', 'disease_treat_procedure', 'lung']",-17.265213012695312
+4,"['covid-19', 'disease_treat_procedure', 'covid-19']",-17.28345489501953
+5,"['covid-19', 'disease_treat_procedure', 'pneumonia']",-17.32012939453125
+6,"['covid-19', 'disease_treat_procedure', 'type']",-17.33458709716797
+7,"['covid-19', 'disease_treat_procedure', 'ecmo']",-17.341856002807617
+8,"['covid-19', 'disease_treat_procedure', 'regression']",-17.348541259765625
+9,"['covid-19', 'disease_treat_procedure', 'anxiety']",-17.42544174194336
+10,"['critical', 'treat_procedure_disease', 'covid-19']",-16.991943359375
+11,"['high', 'treat_procedure_disease', 'covid-19']",-17.10489273071289
+12,"['lung', 'treat_procedure_disease', 'covid-19']",-17.236522674560547
+13,"['lower', 'treat_procedure_disease', 'covid-19']",-17.3000545501709
+14,"['icu', 'treat_procedure_disease', 'covid-19']",-17.41259002685547
+15,"['lung injury', 'treat_procedure_disease', 'covid-19']",-17.427417755126953
+16,"['community', 'treat_procedure_disease', 'covid-19']",-17.42756462097168
+17,"['pandemic', 'treat_procedure_disease', 'covid-19']",-17.441736221313477
+18,"['ards', 'treat_procedure_disease', 'covid-19']",-17.4910945892334
+19,"['cytokine storm', 'treat_procedure_disease', 'covid-19']",-17.509618759155273

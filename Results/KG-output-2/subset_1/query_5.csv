@@ -1,0 +1,21 @@
+,triple,score
+0,"['covid-19', 'disease_disease', 'brucellosis']",-11.168413162231445
+1,"['covid-19', 'disease_disease', 'immunological disease']",-11.179941177368164
+2,"['covid-19', 'disease_disease', 'throat infection']",-11.199878692626953
+3,"['covid-19', 'disease_disease', 'rhinovirus infection']",-11.26771354675293
+4,"['covid-19', 'disease_disease', 'pneumovirus']",-11.444289207458496
+5,"['covid-19', 'disease_disease', 'feline infectious peritonitis virus']",-11.464275360107422
+6,"['covid-19', 'disease_disease', 'cardiac arrhythmia']",-11.55533218383789
+7,"['covid-19', 'disease_disease', 'infectious peritonitis virus']",-11.569587707519531
+8,"['covid-19', 'disease_disease', 'h1n1 pandemic']",-11.586103439331055
+9,"['covid-19', 'disease_disease', 'arb']",-11.626924514770508
+10,"['infectious', 'disease_disease', 'covid-19']",-8.207805633544922
+11,"['contagious disease', 'disease_disease', 'covid-19']",-9.052271842956543
+12,"['emerging', 'disease_disease', 'covid-19']",-9.086762428283691
+13,"['acute infection', 'disease_disease', 'covid-19']",-9.648685455322266
+14,"['multi-organ failure', 'disease_disease', 'covid-19']",-9.69619369506836
+15,"['systemic disease', 'disease_disease', 'covid-19']",-9.721563339233398
+16,"['glass', 'disease_disease', 'covid-19']",-9.789222717285156
+17,"['neurological disease', 'disease_disease', 'covid-19']",-9.828184127807617
+18,"['major', 'disease_disease', 'covid-19']",-10.270757675170898
+19,"['coughing', 'disease_disease', 'covid-19']",-10.330327033996582

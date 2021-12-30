@@ -1,0 +1,21 @@
+,triple,score
+0,"['covid-19', 'disease_symptom', 'covid-19']",-12.366825103759766
+1,"['covid-19', 'disease_symptom', 'sars cov infection']",-12.758199691772461
+2,"['covid-19', 'disease_symptom', 'anxiety']",-12.818487167358398
+3,"['covid-19', 'disease_symptom', 'pneumonia']",-12.897810935974121
+4,"['covid-19', 'disease_symptom', 'tachypnea']",-12.93392276763916
+5,"['covid-19', 'disease_symptom', 'depression']",-12.93851089477539
+6,"['covid-19', 'disease_symptom', 'condition']",-12.940922737121582
+7,"['covid-19', 'disease_symptom', 'type']",-12.945444107055664
+8,"['covid-19', 'disease_symptom', 'pandemic']",-12.993619918823242
+9,"['covid-19', 'disease_symptom', 'viral infection']",-13.021808624267578
+10,"['covid-19', 'symptom_disease', 'covid-19']",-12.41537094116211
+11,"['anxiety', 'symptom_disease', 'covid-19']",-12.74578857421875
+12,"['pneumonia', 'symptom_disease', 'covid-19']",-12.812768936157227
+13,"['sars cov infection', 'symptom_disease', 'covid-19']",-12.842409133911133
+14,"['tachypnea', 'symptom_disease', 'covid-19']",-12.84272575378418
+15,"['edema', 'symptom_disease', 'covid-19']",-12.843729019165039
+16,"['condition', 'symptom_disease', 'covid-19']",-12.893882751464844
+17,"['viral pneumonia', 'symptom_disease', 'covid-19']",-12.919685363769531
+18,"['pulmonary edema', 'symptom_disease', 'covid-19']",-12.922932624816895
+19,"['hypoxia', 'symptom_disease', 'covid-19']",-12.936026573181152

@@ -1,0 +1,21 @@
+,triple,score
+0,"['covid-19', 'disease_symptom', 'tachypnea']",-14.41416072845459
+1,"['covid-19', 'disease_symptom', 'pid']",-14.720742225646973
+2,"['covid-19', 'disease_symptom', 'muscle atrophy']",-14.875144958496094
+3,"['covid-19', 'disease_symptom', 'chronic peritonitis']",-14.896621704101562
+4,"['covid-19', 'disease_symptom', 'splenomegaly']",-14.98464584350586
+5,"['covid-19', 'disease_symptom', 'sars cov infection']",-15.077446937561035
+6,"['covid-19', 'disease_symptom', 'nociception']",-15.08813762664795
+7,"['covid-19', 'disease_symptom', 'caseous lymphadenitis']",-15.11953067779541
+8,"['covid-19', 'disease_symptom', 'generalized muscle atrophy']",-15.123807907104492
+9,"['covid-19', 'disease_symptom', 'anorexia']",-15.157217025756836
+10,"['paraesthesia', 'symptom_disease', 'covid-19']",-14.088396072387695
+11,"['encephalitozoonosis', 'symptom_disease', 'covid-19']",-14.724470138549805
+12,"['metabolic acidosis', 'symptom_disease', 'covid-19']",-14.894739151000977
+13,"['same', 'symptom_disease', 'covid-19']",-14.913238525390625
+14,"['small bowel disease', 'symptom_disease', 'covid-19']",-14.914578437805176
+15,"['diarrhea 9', 'symptom_disease', 'covid-19']",-14.926504135131836
+16,"['respiratory failure', 'symptom_disease', 'covid-19']",-14.931854248046875
+17,"['hearing loss', 'symptom_disease', 'covid-19']",-15.005586624145508
+18,"['difficulty in breathing', 'symptom_disease', 'covid-19']",-15.0633544921875
+19,"['hemorrhagic', 'symptom_disease', 'covid-19']",-15.083877563476562

@@ -1,0 +1,21 @@
+,triple,score
+0,"['covid-19', 'disease_drug', 'pwd']",-17.17434310913086
+1,"['covid-19', 'disease_drug', 'tgev infection']",-17.225685119628906
+2,"['covid-19', 'disease_drug', 'rna']",-17.324581146240234
+3,"['covid-19', 'disease_drug', 'vaccine']",-17.335256576538086
+4,"['covid-19', 'disease_drug', 'mac']",-17.512985229492188
+5,"['covid-19', 'disease_drug', 'avian infectious bronchitis']",-17.525497436523438
+6,"['covid-19', 'disease_drug', 'rbd']",-17.531394958496094
+7,"['covid-19', 'disease_drug', 'cutaneous anthrax']",-17.581892013549805
+8,"['covid-19', 'disease_drug', 'fp']",-17.614669799804688
+9,"['covid-19', 'disease_drug', 'gvhd']",-17.6597900390625
+10,"['influenza like illness', 'drug_disease', 'covid-19']",-16.351057052612305
+11,"['2009', 'drug_disease', 'covid-19']",-16.381057739257812
+12,"['high', 'drug_disease', 'covid-19']",-16.555727005004883
+13,"['major', 'drug_disease', 'covid-19']",-16.942813873291016
+14,"['infectious', 'drug_disease', 'covid-19']",-16.95642852783203
+15,"['long', 'drug_disease', 'covid-19']",-16.97559356689453
+16,"['enhanced', 'drug_disease', 'covid-19']",-17.01740264892578
+17,"['lung injury', 'drug_disease', 'covid-19']",-17.02861976623535
+18,"['same', 'drug_disease', 'covid-19']",-17.030027389526367
+19,"['lle', 'drug_disease', 'covid-19']",-17.062732696533203

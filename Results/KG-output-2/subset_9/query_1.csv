@@ -1,0 +1,21 @@
+,triple,score
+0,"['covid-19', 'disease_species', 'pandemic h1n1 influenza virus']",-18.488712310791016
+1,"['covid-19', 'disease_species', 'co-infection']",-18.546749114990234
+2,"['covid-19', 'disease_species', 'bluetongue']",-18.637357711791992
+3,"['covid-19', 'disease_species', 'respiratory viral pathogen']",-18.705913543701172
+4,"['covid-19', 'disease_species', 'intrauterine infection']",-18.712270736694336
+5,"['covid-19', 'disease_species', 'subclinical infection']",-18.768718719482422
+6,"['covid-19', 'disease_species', 'coinfection']",-18.818153381347656
+7,"['covid-19', 'disease_species', 'vaccine']",-18.832433700561523
+8,"['covid-19', 'disease_species', 'coronavirus infection']",-18.881515502929688
+9,"['covid-19', 'disease_species', 'mp infection']",-18.908706665039062
+10,"['covid-19', 'disease_species', 'hemorrhagic pneumonia']",-18.933250427246094
+11,"['covid-19', 'disease_species', 'ophthalmitis']",-18.94813346862793
+12,"['covid-19', 'disease_species', 'acquired immune deficiency syndrome']",-18.952375411987305
+13,"['covid-19', 'disease_species', 'deltacoronavirus']",-18.958053588867188
+14,"['covid-19', 'disease_species', 'enteritis']",-18.99665069580078
+15,"['covid-19', 'disease_species', 'chlamydial infection']",-19.00788116455078
+16,"['covid-19', 'disease_species', 'domestic dog']",-19.026199340820312
+17,"['covid-19', 'disease_species', 'arb']",-19.055721282958984
+18,"['covid-19', 'disease_species', 'poxvirus infection']",-19.069332122802734
+19,"['covid-19', 'disease_species', 'exostosis']",-19.07070541381836

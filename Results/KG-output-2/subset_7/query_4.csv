@@ -1,0 +1,21 @@
+,triple,score
+0,"['covid-19', 'disease_drug', 'vaccine']",-16.227096557617188
+1,"['covid-19', 'disease_drug', 'rna']",-16.292640686035156
+2,"['covid-19', 'disease_drug', 'pneumoniae']",-16.32297134399414
+3,"['covid-19', 'disease_drug', 'virus']",-16.491172790527344
+4,"['covid-19', 'disease_drug', 'rbds']",-16.507247924804688
+5,"['covid-19', 'disease_drug', 'rv infection']",-16.538127899169922
+6,"['covid-19', 'disease_drug', 'pbv']",-16.563770294189453
+7,"['covid-19', 'disease_drug', 'blood']",-16.577646255493164
+8,"['covid-19', 'disease_drug', 'consumption']",-16.657833099365234
+9,"['covid-19', 'disease_drug', 'sars cov infection']",-16.69348907470703
+10,"['lower', 'drug_disease', 'covid-19']",-17.15180015563965
+11,"['immunocompromised', 'drug_disease', 'covid-19']",-17.37555694580078
+12,"['spinal disease', 'drug_disease', 'covid-19']",-17.666725158691406
+13,"['lower respiratory disease', 'drug_disease', 'covid-19']",-17.67931365966797
+14,"['critical', 'drug_disease', 'covid-19']",-17.798076629638672
+15,"['t2d', 'drug_disease', 'covid-19']",-17.985645294189453
+16,"['rbd', 'drug_disease', 'covid-19']",-18.002296447753906
+17,"['same', 'drug_disease', 'covid-19']",-18.10948944091797
+18,"['brain', 'drug_disease', 'covid-19']",-18.175853729248047
+19,"['sclerosing cholangitis', 'drug_disease', 'covid-19']",-18.195777893066406

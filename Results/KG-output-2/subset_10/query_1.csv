@@ -1,0 +1,21 @@
+,triple,score
+0,"['covid-19', 'disease_species', 'pneumonia']",-14.175389289855957
+1,"['covid-19', 'disease_species', 'co-infection']",-14.177068710327148
+2,"['covid-19', 'disease_species', 'fungal infection']",-14.231159210205078
+3,"['covid-19', 'disease_species', 'coinfection']",-14.26194953918457
+4,"['covid-19', 'disease_species', 'tuberculosis']",-14.334250450134277
+5,"['covid-19', 'disease_species', 'condition']",-14.343131065368652
+6,"['covid-19', 'disease_species', 'cryptosporidiosis']",-14.435818672180176
+7,"['covid-19', 'disease_species', 'disease']",-14.438895225524902
+8,"['covid-19', 'disease_species', 'coronavirus infection']",-14.440492630004883
+9,"['covid-19', 'disease_species', 'vaccine']",-14.447439193725586
+10,"['covid-19', 'disease_species', 'infectious disease']",-14.470207214355469
+11,"['covid-19', 'disease_species', 'viral infection']",-14.479146957397461
+12,"['covid-19', 'disease_species', 'enteritis']",-14.488946914672852
+13,"['covid-19', 'disease_species', 'infection']",-14.504240036010742
+14,"['covid-19', 'disease_species', 'sars cov infection']",-14.544853210449219
+15,"['covid-19', 'disease_species', 'interstitial pneumonia']",-14.545275688171387
+16,"['covid-19', 'disease_species', 'covid-19']",-14.58161449432373
+17,"['covid-19', 'disease_species', 'ards']",-14.616244316101074
+18,"['covid-19', 'disease_species', 'type']",-14.636190414428711
+19,"['covid-19', 'disease_species', 'lymphopenia']",-14.644460678100586

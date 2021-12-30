@@ -1,0 +1,21 @@
+,triple,score
+0,"['covid-19', 'disease_disease', 'rhv']",-9.440820693969727
+1,"['covid-19', 'disease_disease', 'avian influenza a virus']",-9.479179382324219
+2,"['covid-19', 'disease_disease', 'immunological disease']",-9.685850143432617
+3,"['covid-19', 'disease_disease', 'cervical lymphadenopathy']",-9.712907791137695
+4,"['covid-19', 'disease_disease', 'copd exacerbation']",-9.756284713745117
+5,"['covid-19', 'disease_disease', 'nsars']",-9.824201583862305
+6,"['covid-19', 'disease_disease', 'wupyv']",-9.89677906036377
+7,"['covid-19', 'disease_disease', 'lu']",-9.906936645507812
+8,"['covid-19', 'disease_disease', 'pneumovirus']",-9.922712326049805
+9,"['covid-19', 'disease_disease', 'chronic medical condition']",-9.942045211791992
+10,"['coagulopathies', 'disease_disease', 'covid-19']",-8.981142044067383
+11,"['acute asthma', 'disease_disease', 'covid-19']",-9.474292755126953
+12,"['transmissible', 'disease_disease', 'covid-19']",-9.504637718200684
+13,"['acute renal injury', 'disease_disease', 'covid-19']",-9.642366409301758
+14,"['inflammatory', 'disease_disease', 'covid-19']",-9.963546752929688
+15,"['wheezing illness', 'disease_disease', 'covid-19']",-10.040836334228516
+16,"['acute necrotizing encephalopathy', 'disease_disease', 'covid-19']",-10.065635681152344
+17,"['allergic sensitization', 'disease_disease', 'covid-19']",-10.114408493041992
+18,"['tissue necrosis', 'disease_disease', 'covid-19']",-10.118194580078125
+19,"['childhood', 'disease_disease', 'covid-19']",-10.13711166381836

@@ -1,0 +1,21 @@
+,triple,score
+0,"['covid-19', 'disease_species', 'radiological abnormality']",-16.27560806274414
+1,"['covid-19', 'disease_species', 'coinfection']",-16.3514461517334
+2,"['covid-19', 'disease_species', 'jhm']",-16.52847671508789
+3,"['covid-19', 'disease_species', 'co-infection']",-16.633563995361328
+4,"['covid-19', 'disease_species', 'tse']",-16.649070739746094
+5,"['covid-19', 'disease_species', 'vaccine']",-16.67572784423828
+6,"['covid-19', 'disease_species', 'subclinical infection']",-16.676136016845703
+7,"['covid-19', 'disease_species', 'sars epidemic']",-16.740520477294922
+8,"['covid-19', 'disease_species', 'h7n3']",-16.803363800048828
+9,"['covid-19', 'disease_species', 'parvovirus infection']",-16.838769912719727
+10,"['covid-19', 'disease_species', 'rtis']",-16.844274520874023
+11,"['covid-19', 'disease_species', 'rotavirus infection']",-16.85394859313965
+12,"['covid-19', 'disease_species', 'cryptosporidiosis']",-16.89230728149414
+13,"['covid-19', 'disease_species', 'gastrointestinal involvement']",-16.89537811279297
+14,"['covid-19', 'disease_species', 'sclerema']",-16.998126983642578
+15,"['covid-19', 'disease_species', 'coronavirus infection']",-17.004060745239258
+16,"['covid-19', 'disease_species', 'health problem']",-17.087596893310547
+17,"['covid-19', 'disease_species', 'influenza virus infection']",-17.089984893798828
+18,"['covid-19', 'disease_species', 'ndv']",-17.09874153137207
+19,"['covid-19', 'disease_species', 'alpha herpesvirus']",-17.106430053710938

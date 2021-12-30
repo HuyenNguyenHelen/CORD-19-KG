@@ -1,0 +1,21 @@
+,triple,score
+0,"['covid-19', 'disease_treat_procedure', 'covid pandemic']",-17.731719970703125
+1,"['covid-19', 'disease_treat_procedure', 'hypercortisolemia']",-17.82562828063965
+2,"['covid-19', 'disease_treat_procedure', 'esrd']",-17.904495239257812
+3,"['covid-19', 'disease_treat_procedure', 'pandemic h1n1 virus']",-18.204744338989258
+4,"['covid-19', 'disease_treat_procedure', 'septic thrombophlebitis']",-18.25163459777832
+5,"['covid-19', 'disease_treat_procedure', 'hrv infection']",-18.290027618408203
+6,"['covid-19', 'disease_treat_procedure', 'trauma']",-18.306072235107422
+7,"['covid-19', 'disease_treat_procedure', 'condition']",-18.335594177246094
+8,"['covid-19', 'disease_treat_procedure', 'vaccine']",-18.37395477294922
+9,"['covid-19', 'disease_treat_procedure', 'pandemic']",-18.395565032958984
+10,"['2009', 'treat_procedure_disease', 'covid-19']",-18.43696403503418
+11,"['critical', 'treat_procedure_disease', 'covid-19']",-18.491119384765625
+12,"['high', 'treat_procedure_disease', 'covid-19']",-18.559383392333984
+13,"['osteoarthritis', 'treat_procedure_disease', 'covid-19']",-18.611373901367188
+14,"['respiratory', 'treat_procedure_disease', 'covid-19']",-18.676342010498047
+15,"['major', 'treat_procedure_disease', 'covid-19']",-18.71473503112793
+16,"['inflammatory', 'treat_procedure_disease', 'covid-19']",-18.81570816040039
+17,"['hemispheric infarction', 'treat_procedure_disease', 'covid-19']",-18.81934356689453
+18,"['work of breathing', 'treat_procedure_disease', 'covid-19']",-18.863338470458984
+19,"['depressed', 'treat_procedure_disease', 'covid-19']",-18.92304801940918

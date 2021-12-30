@@ -1,0 +1,21 @@
+,triple,score
+0,"['covid-19', 'disease_treat_procedure', 'immunosuppression']",-15.55041217803955
+1,"['covid-19', 'disease_treat_procedure', 'pulmonary manifestation']",-15.94798469543457
+2,"['covid-19', 'disease_treat_procedure', 'tumor']",-16.056262969970703
+3,"['covid-19', 'disease_treat_procedure', 'pandemic']",-16.076629638671875
+4,"['covid-19', 'disease_treat_procedure', 'wound']",-16.099084854125977
+5,"['covid-19', 'disease_treat_procedure', 'tt']",-16.128446578979492
+6,"['covid-19', 'disease_treat_procedure', 'vaccine']",-16.13549041748047
+7,"['covid-19', 'disease_treat_procedure', 'rna']",-16.179210662841797
+8,"['covid-19', 'disease_treat_procedure', 'covid pandemic']",-16.211204528808594
+9,"['covid-19', 'disease_treat_procedure', 'papilloma']",-16.275405883789062
+10,"['critical', 'treat_procedure_disease', 'covid-19']",-15.346857070922852
+11,"['ebov infection', 'treat_procedure_disease', 'covid-19']",-15.833974838256836
+12,"['h1n1', 'treat_procedure_disease', 'covid-19']",-15.859966278076172
+13,"['enhanced', 'treat_procedure_disease', 'covid-19']",-15.866619110107422
+14,"['influenza virus infection', 'treat_procedure_disease', 'covid-19']",-15.910289764404297
+15,"['blood', 'treat_procedure_disease', 'covid-19']",-15.935129165649414
+16,"['influenza infection', 'treat_procedure_disease', 'covid-19']",-15.971384048461914
+17,"['ards', 'treat_procedure_disease', 'covid-19']",-15.974185943603516
+18,"['lung injury', 'treat_procedure_disease', 'covid-19']",-15.993902206420898
+19,"['immunosuppression', 'treat_procedure_disease', 'covid-19']",-15.996540069580078

@@ -1,0 +1,21 @@
+,triple,score
+0,"['covid-19', 'disease_species', 'radiological abnormality']",-16.46783447265625
+1,"['covid-19', 'disease_species', 'gastrointestinal involvement']",-16.48479652404785
+2,"['covid-19', 'disease_species', 'subclinical infection']",-16.508970260620117
+3,"['covid-19', 'disease_species', 'co-infection']",-16.53577423095703
+4,"['covid-19', 'disease_species', 'vaccine']",-16.7041072845459
+5,"['covid-19', 'disease_species', 'coinfection']",-16.79093360900879
+6,"['covid-19', 'disease_species', 'myopathy']",-16.84314727783203
+7,"['covid-19', 'disease_species', 'chlamydial infection']",-16.921401977539062
+8,"['covid-19', 'disease_species', 'hypercytokinaemia']",-16.930797576904297
+9,"['covid-19', 'disease_species', 'domestic dog']",-17.008872985839844
+10,"['covid-19', 'disease_species', 'felv infection']",-17.040971755981445
+11,"['covid-19', 'disease_species', 'gammacoronaviruses']",-17.053272247314453
+12,"['covid-19', 'disease_species', 'parvum']",-17.150035858154297
+13,"['covid-19', 'disease_species', 'astroviruses']",-17.1580810546875
+14,"['covid-19', 'disease_species', 'coli']",-17.166927337646484
+15,"['covid-19', 'disease_species', 'sars cov infection']",-17.18413543701172
+16,"['covid-19', 'disease_species', 'noroviruses']",-17.204875946044922
+17,"['covid-19', 'disease_species', 'tracheal']",-17.234149932861328
+18,"['covid-19', 'disease_species', 'bluetongue']",-17.243091583251953
+19,"['covid-19', 'disease_species', 'swayback']",-17.25814437866211

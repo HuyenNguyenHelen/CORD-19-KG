@@ -1,0 +1,21 @@
+,triple,score
+0,"['covid-19', 'disease_treat_procedure', 'esrd']",-17.357711791992188
+1,"['covid-19', 'disease_treat_procedure', 'covid pandemic']",-17.503589630126953
+2,"['covid-19', 'disease_treat_procedure', 'canine rabies']",-17.633281707763672
+3,"['covid-19', 'disease_treat_procedure', 'h5n1 viral infection']",-17.682310104370117
+4,"['covid-19', 'disease_treat_procedure', 'pneumoniae']",-17.73507308959961
+5,"['covid-19', 'disease_treat_procedure', 'pasteurellosis']",-17.74642562866211
+6,"['covid-19', 'disease_treat_procedure', 'vaccine']",-17.751468658447266
+7,"['covid-19', 'disease_treat_procedure', 'mg']",-17.83934211730957
+8,"['covid-19', 'disease_treat_procedure', 'advanced cancer']",-17.847972869873047
+9,"['covid-19', 'disease_treat_procedure', 'malnutrition']",-17.86773681640625
+10,"['ear disease', 'treat_procedure_disease', 'covid-19']",-17.360231399536133
+11,"['lower', 'treat_procedure_disease', 'covid-19']",-17.473285675048828
+12,"['2009', 'treat_procedure_disease', 'covid-19']",-17.538957595825195
+13,"['critical', 'treat_procedure_disease', 'covid-19']",-17.640972137451172
+14,"['lung', 'treat_procedure_disease', 'covid-19']",-17.85045623779297
+15,"['blood', 'treat_procedure_disease', 'covid-19']",-17.850460052490234
+16,"['m. pneumoniae infection', 'treat_procedure_disease', 'covid-19']",-17.872756958007812
+17,"['1918', 'treat_procedure_disease', 'covid-19']",-17.92129135131836
+18,"['icu', 'treat_procedure_disease', 'covid-19']",-17.926666259765625
+19,"['respiratory', 'treat_procedure_disease', 'covid-19']",-17.9630126953125

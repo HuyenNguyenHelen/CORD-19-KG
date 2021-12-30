@@ -1,0 +1,21 @@
+,triple,score
+0,"['covid-19', 'disease_treat_procedure', 'eds']",-16.558263778686523
+1,"['covid-19', 'disease_treat_procedure', 'dt']",-17.04940414428711
+2,"['covid-19', 'disease_treat_procedure', 'he']",-17.326126098632812
+3,"['covid-19', 'disease_treat_procedure', 'idu']",-17.337093353271484
+4,"['covid-19', 'disease_treat_procedure', 'regression']",-17.388824462890625
+5,"['covid-19', 'disease_treat_procedure', 'aris']",-17.39267349243164
+6,"['covid-19', 'disease_treat_procedure', 'mucosal']",-17.432300567626953
+7,"['covid-19', 'disease_treat_procedure', 'immunosuppression']",-17.443767547607422
+8,"['covid-19', 'disease_treat_procedure', 'sindbis virus']",-17.4732666015625
+9,"['covid-19', 'disease_treat_procedure', 'avian influenza']",-17.475566864013672
+10,"['allergic asthma', 'treat_procedure_disease', 'covid-19']",-16.496301651000977
+11,"['critical', 'treat_procedure_disease', 'covid-19']",-16.565940856933594
+12,"['brain', 'treat_procedure_disease', 'covid-19']",-16.881031036376953
+13,"['respiratory', 'treat_procedure_disease', 'covid-19']",-16.96034049987793
+14,"['influenza a infection', 'treat_procedure_disease', 'covid-19']",-17.07862091064453
+15,"['carcinoma', 'treat_procedure_disease', 'covid-19']",-17.10435676574707
+16,"['recruitment', 'treat_procedure_disease', 'covid-19']",-17.137224197387695
+17,"['type', 'treat_procedure_disease', 'covid-19']",-17.1734561920166
+18,"['pulmonary inflammation', 'treat_procedure_disease', 'covid-19']",-17.19451332092285
+19,"['fluid', 'treat_procedure_disease', 'covid-19']",-17.209922790527344

@@ -1,0 +1,21 @@
+,triple,score
+0,"['covid-19', 'disease_symptom', 'covid-19']",-11.545483589172363
+1,"['covid-19', 'disease_symptom', 'type']",-11.747021675109863
+2,"['covid-19', 'disease_symptom', 'renal failure']",-11.841862678527832
+3,"['covid-19', 'disease_symptom', 'viral infection']",-11.898138046264648
+4,"['covid-19', 'disease_symptom', 'hrv']",-12.00364875793457
+5,"['covid-19', 'disease_symptom', 'respiratory failure']",-12.009881973266602
+6,"['covid-19', 'disease_symptom', 'pneumonia']",-12.04777717590332
+7,"['covid-19', 'disease_symptom', 'enteritis']",-12.055200576782227
+8,"['covid-19', 'disease_symptom', 'dysfunction']",-12.071786880493164
+9,"['covid-19', 'disease_symptom', 'lung']",-12.07520580291748
+10,"['paraesthesia', 'symptom_disease', 'covid-19']",-11.014001846313477
+11,"['tachypnea', 'symptom_disease', 'covid-19']",-11.5020751953125
+12,"['respiratory failure', 'symptom_disease', 'covid-19']",-11.537965774536133
+13,"['covid-19', 'symptom_disease', 'covid-19']",-11.53924560546875
+14,"['severe infection', 'symptom_disease', 'covid-19']",-11.569379806518555
+15,"['dysfunction', 'symptom_disease', 'covid-19']",-11.700700759887695
+16,"['edema', 'symptom_disease', 'covid-19']",-11.776583671569824
+17,"['condition', 'symptom_disease', 'covid-19']",-11.790373802185059
+18,"['pulmonary edema', 'symptom_disease', 'covid-19']",-11.829503059387207
+19,"['severe', 'symptom_disease', 'covid-19']",-11.836559295654297

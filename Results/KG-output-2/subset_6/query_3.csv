@@ -1,0 +1,21 @@
+,triple,score
+0,"['covid-19', 'disease_treat_procedure', 'kidney injury']",-16.18262481689453
+1,"['covid-19', 'disease_treat_procedure', 'covid pandemic']",-16.28589630126953
+2,"['covid-19', 'disease_treat_procedure', 'covid-19']",-16.460433959960938
+3,"['covid-19', 'disease_treat_procedure', 'pandemic']",-16.624755859375
+4,"['covid-19', 'disease_treat_procedure', 'plan']",-16.666942596435547
+5,"['covid-19', 'disease_treat_procedure', 'image']",-16.784597396850586
+6,"['covid-19', 'disease_treat_procedure', 'acute kidney injury']",-16.789840698242188
+7,"['covid-19', 'disease_treat_procedure', 'lung']",-16.85987091064453
+8,"['covid-19', 'disease_treat_procedure', 'ecmo']",-16.901655197143555
+9,"['covid-19', 'disease_treat_procedure', 'aki']",-16.903831481933594
+10,"['critical', 'treat_procedure_disease', 'covid-19']",-16.099061965942383
+11,"['pandemic', 'treat_procedure_disease', 'covid-19']",-16.2850284576416
+12,"['community', 'treat_procedure_disease', 'covid-19']",-16.403057098388672
+13,"['recruitment', 'treat_procedure_disease', 'covid-19']",-16.4742431640625
+14,"['lung', 'treat_procedure_disease', 'covid-19']",-16.485118865966797
+15,"['regression', 'treat_procedure_disease', 'covid-19']",-16.490339279174805
+16,"['high', 'treat_procedure_disease', 'covid-19']",-16.493488311767578
+17,"['lower', 'treat_procedure_disease', 'covid-19']",-16.517887115478516
+18,"['inflammation', 'treat_procedure_disease', 'covid-19']",-16.543380737304688
+19,"['face', 'treat_procedure_disease', 'covid-19']",-16.553747177124023

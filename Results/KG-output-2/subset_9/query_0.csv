@@ -1,0 +1,21 @@
+,triple,score
+0,"['covid-19', 'disease_gene', 'rna']",-19.659103393554688
+1,"['covid-19', 'disease_gene', 'scv']",-19.661136627197266
+2,"['covid-19', 'disease_gene', 'virus']",-19.671628952026367
+3,"['covid-19', 'disease_gene', 'rbd']",-19.817495346069336
+4,"['covid-19', 'disease_gene', 'tgev infection']",-20.035140991210938
+5,"['covid-19', 'disease_gene', 'vaccine']",-20.11060333251953
+6,"['covid-19', 'disease_gene', 'eb']",-20.149614334106445
+7,"['covid-19', 'disease_gene', 'ctd']",-20.193748474121094
+8,"['covid-19', 'disease_gene', 'er']",-20.200366973876953
+9,"['covid-19', 'disease_gene', 'np']",-20.332691192626953
+10,"['2009', 'gene_disease', 'covid-19']",-17.2392578125
+11,"['same', 'gene_disease', 'covid-19']",-18.13841438293457
+12,"['major', 'gene_disease', 'covid-19']",-18.209680557250977
+13,"['long', 'gene_disease', 'covid-19']",-18.489742279052734
+14,"['high', 'gene_disease', 'covid-19']",-18.62763214111328
+15,"['viral infection', 'gene_disease', 'covid-19']",-18.840778350830078
+16,"['upper respiratory disease', 'gene_disease', 'covid-19']",-18.849075317382812
+17,"['viral', 'gene_disease', 'covid-19']",-18.864459991455078
+18,"['m lesion', 'gene_disease', 'covid-19']",-18.967437744140625
+19,"['helix', 'gene_disease', 'covid-19']",-19.007164001464844

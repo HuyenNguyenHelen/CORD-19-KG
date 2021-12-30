@@ -1,0 +1,21 @@
+,triple,score
+0,"['covid-19', 'disease_gene', 'scv']",-17.31427764892578
+1,"['covid-19', 'disease_gene', 'rna']",-17.77655029296875
+2,"['covid-19', 'disease_gene', 'rbd']",-17.813369750976562
+3,"['covid-19', 'disease_gene', 'virus']",-17.878761291503906
+4,"['covid-19', 'disease_gene', 'cholesterol depletion']",-18.034626007080078
+5,"['covid-19', 'disease_gene', 'eb']",-18.23752784729004
+6,"['covid-19', 'disease_gene', 'vaccine']",-18.24419403076172
+7,"['covid-19', 'disease_gene', 'viroplasms']",-18.329879760742188
+8,"['covid-19', 'disease_gene', 'paramyxovirus']",-18.36844253540039
+9,"['covid-19', 'disease_gene', 'goldfish virus']",-18.463045120239258
+10,"['2009', 'gene_disease', 'covid-19']",-17.58057403564453
+11,"['lower', 'gene_disease', 'covid-19']",-17.68560028076172
+12,"['critical', 'gene_disease', 'covid-19']",-17.949413299560547
+13,"['er', 'gene_disease', 'covid-19']",-18.17154312133789
+14,"['cns', 'gene_disease', 'covid-19']",-18.46036148071289
+15,"['mhv', 'gene_disease', 'covid-19']",-18.57434844970703
+16,"['lung', 'gene_disease', 'covid-19']",-18.89382553100586
+17,"['blood', 'gene_disease', 'covid-19']",-18.967388153076172
+18,"['bad', 'gene_disease', 'covid-19']",-18.97943687438965
+19,"['1918', 'gene_disease', 'covid-19']",-19.065128326416016

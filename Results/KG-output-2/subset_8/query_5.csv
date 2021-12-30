@@ -1,0 +1,21 @@
+,triple,score
+0,"['covid-19', 'disease_disease', 'ebola fever']",-9.697905540466309
+1,"['covid-19', 'disease_disease', 'metabolic condition']",-9.936119079589844
+2,"['covid-19', 'disease_disease', 'cryptococcosis']",-10.043149948120117
+3,"['covid-19', 'disease_disease', 'health crisis']",-10.060601234436035
+4,"['covid-19', 'disease_disease', 'pyomyositis']",-10.198720932006836
+5,"['covid-19', 'disease_disease', 'pulmonary damage']",-10.278966903686523
+6,"['covid-19', 'disease_disease', 'pancreatic necrosis']",-10.324074745178223
+7,"['covid-19', 'disease_disease', 'acne']",-10.378671646118164
+8,"['covid-19', 'disease_disease', 'acute viral pneumonia']",-10.394695281982422
+9,"['covid-19', 'disease_disease', 'avian influenza a virus']",-10.403013229370117
+10,"['viral respiratory illness', 'disease_disease', 'covid-19']",-9.783405303955078
+11,"['bronchospasm', 'disease_disease', 'covid-19']",-10.149166107177734
+12,"['difficulty in swallowing', 'disease_disease', 'covid-19']",-10.596242904663086
+13,"['encephalitic', 'disease_disease', 'covid-19']",-10.6037015914917
+14,"['h5n1 avian influenza', 'disease_disease', 'covid-19']",-10.738204002380371
+15,"['disease caused by virus', 'disease_disease', 'covid-19']",-10.766069412231445
+16,"['tissue necrosis', 'disease_disease', 'covid-19']",-10.773154258728027
+17,"['polyclonal hypergammaglobulinemia', 'disease_disease', 'covid-19']",-10.854568481445312
+18,"['allergic rhinitis', 'disease_disease', 'covid-19']",-10.860122680664062
+19,"['diminished', 'disease_disease', 'covid-19']",-10.925848007202148

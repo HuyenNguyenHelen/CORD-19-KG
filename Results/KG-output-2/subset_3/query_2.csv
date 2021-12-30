@@ -1,0 +1,21 @@
+,triple,score
+0,"['covid-19', 'disease_symptom', 'sars virus']",-13.56607723236084
+1,"['covid-19', 'disease_symptom', 'anosmia']",-13.591285705566406
+2,"['covid-19', 'disease_symptom', 'fever']",-13.715675354003906
+3,"['covid-19', 'disease_symptom', 'viral conjunctivitis']",-13.793693542480469
+4,"['covid-19', 'disease_symptom', 'headache']",-13.83494758605957
+5,"['covid-19', 'disease_symptom', 'cough']",-13.915765762329102
+6,"['covid-19', 'disease_symptom', 'pain']",-13.954505920410156
+7,"['covid-19', 'disease_symptom', 'dengue virus infection']",-13.98244857788086
+8,"['covid-19', 'disease_symptom', 'gingivostomatitis']",-14.003060340881348
+9,"['covid-19', 'disease_symptom', 'covid-19']",-14.03007984161377
+10,"['acute hemorrhagic conjunctivitis', 'symptom_disease', 'covid-19']",-12.198504447937012
+11,"['headache', 'symptom_disease', 'covid-19']",-12.350813865661621
+12,"['cough', 'symptom_disease', 'covid-19']",-12.482386589050293
+13,"['sl', 'symptom_disease', 'covid-19']",-12.496698379516602
+14,"['anorexia', 'symptom_disease', 'covid-19']",-12.611746788024902
+15,"['fever', 'symptom_disease', 'covid-19']",-12.733226776123047
+16,"['hospital acquired infection', 'symptom_disease', 'covid-19']",-12.808013916015625
+17,"['viral', 'symptom_disease', 'covid-19']",-12.8828125
+18,"['tuberculosis', 'symptom_disease', 'covid-19']",-12.915040969848633
+19,"['pain', 'symptom_disease', 'covid-19']",-12.929014205932617
