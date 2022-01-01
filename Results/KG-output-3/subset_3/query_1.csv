@@ -1,21 +1,21 @@
-,triple,score
-0,"['covid-19', 'disease_species', 'h5n1 influenza virus']",-15.960542678833008
-1,"['covid-19', 'disease_species', 'astroviruses']",-16.390403747558594
-2,"['covid-19', 'disease_species', 'leishmaniosis']",-16.40625762939453
-3,"['covid-19', 'disease_species', 'acquired immunodeficiency syndrome']",-16.436338424682617
-4,"['covid-19', 'disease_species', 'vaccine']",-16.477807998657227
-5,"['covid-19', 'disease_species', 'brucellosis']",-16.49336814880371
-6,"['covid-19', 'disease_species', 'coronavirus']",-16.512405395507812
-7,"['covid-19', 'disease_species', 'avian flu']",-16.53533935546875
-8,"['covid-19', 'disease_species', 'co-infection']",-16.545862197875977
-9,"['covid-19', 'disease_species', 'influenza']",-16.573957443237305
-10,"['covid-19', 'disease_species', 'endocarditis']",-16.59621810913086
-11,"['covid-19', 'disease_species', 'influenza infection']",-16.608417510986328
-12,"['covid-19', 'disease_species', 'upper respiratory tract infection']",-16.64072036743164
-13,"['covid-19', 'disease_species', 'respiratory virus']",-16.66525650024414
-14,"['covid-19', 'disease_species', 'malaria parasite']",-16.672956466674805
-15,"['covid-19', 'disease_species', 'zaire ebolavirus']",-16.67349624633789
-16,"['covid-19', 'disease_species', 'influenza virus']",-16.688922882080078
-17,"['covid-19', 'disease_species', 'co-infections']",-16.689525604248047
-18,"['covid-19', 'disease_species', 'sars coronavirus']",-16.690399169921875
-19,"['covid-19', 'disease_species', 'respiratory disease']",-16.69904899597168
+,triple,score,label
+0,"['covid-19', 'disease_species', 'h5n1 influenza virus']",-15.96054268,0
+1,"['covid-19', 'disease_species', 'astroviruses']",-16.39040375,0
+2,"['covid-19', 'disease_species', 'leishmaniosis']",-16.40625763,0
+3,"['covid-19', 'disease_species', 'acquired immunodeficiency syndrome']",-16.43633842,0
+4,"['covid-19', 'disease_species', 'vaccine']",-16.477808,0
+5,"['covid-19', 'disease_species', 'brucellosis']",-16.49336815,0
+6,"['covid-19', 'disease_species', 'coronavirus']",-16.5124054,0
+7,"['covid-19', 'disease_species', 'avian flu']",-16.53533936,0
+8,"['covid-19', 'disease_species', 'co-infection']",-16.5458622,0
+9,"['covid-19', 'disease_species', 'influenza']",-16.57395744,0
+10,"['covid-19', 'disease_species', 'endocarditis']",-16.59621811,0
+11,"['covid-19', 'disease_species', 'influenza infection']",-16.60841751,0
+12,"['covid-19', 'disease_species', 'upper respiratory tract infection']",-16.64072037,0
+13,"['covid-19', 'disease_species', 'respiratory virus']",-16.6652565,0
+14,"['covid-19', 'disease_species', 'malaria parasite']",-16.67295647,0
+15,"['covid-19', 'disease_species', 'zaire ebolavirus']",-16.67349625,0
+16,"['covid-19', 'disease_species', 'influenza virus']",-16.68892288,0
+17,"['covid-19', 'disease_species', 'co-infections']",-16.6895256,0
+18,"['covid-19', 'disease_species', 'sars coronavirus']",-16.69039917,0
+19,"['covid-19', 'disease_species', 'respiratory disease']",-16.699049,0

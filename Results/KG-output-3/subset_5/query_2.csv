@@ -1,21 +1,21 @@
-,triple,score
-0,"['covid-19', 'disease_symptom', 'enteritis']",-13.803487777709961
-1,"['covid-19', 'disease_symptom', 'cryptosporidiosis']",-13.876941680908203
-2,"['covid-19', 'disease_symptom', 'prostatitis']",-13.997598648071289
-3,"['covid-19', 'disease_symptom', 'pid']",-14.193159103393555
-4,"['covid-19', 'disease_symptom', 'acidosis']",-14.292157173156738
-5,"['covid-19', 'disease_symptom', 'chronic peritonitis']",-14.340509414672852
-6,"['covid-19', 'disease_symptom', 'salmonellosis']",-14.366776466369629
-7,"['covid-19', 'disease_symptom', 'infection']",-14.431599617004395
-8,"['covid-19', 'disease_symptom', 'cardiovascular complication']",-14.434602737426758
-9,"['covid-19', 'disease_symptom', 'virus']",-14.441879272460938
-10,"['protein losing enteropathy', 'symptom_disease', 'covid-19']",-13.721163749694824
-11,"['loss of appetite', 'symptom_disease', 'covid-19']",-13.843587875366211
-12,"['unwell', 'symptom_disease', 'covid-19']",-14.006269454956055
-13,"['same', 'symptom_disease', 'covid-19']",-14.077102661132812
-14,"['diarrhea 9', 'symptom_disease', 'covid-19']",-14.230401992797852
-15,"['soft', 'symptom_disease', 'covid-19']",-14.268339157104492
-16,"['blood', 'symptom_disease', 'covid-19']",-14.272184371948242
-17,"['severe', 'symptom_disease', 'covid-19']",-14.316183090209961
-18,"['enhanced', 'symptom_disease', 'covid-19']",-14.516275405883789
-19,"['hospital acquired infection', 'symptom_disease', 'covid-19']",-14.558431625366211
+,triple,score,label
+0,"['covid-19', 'disease_symptom', 'enteritis']",-13.80348778,0
+1,"['covid-19', 'disease_symptom', 'cryptosporidiosis']",-13.87694168,0
+2,"['covid-19', 'disease_symptom', 'prostatitis']",-13.99759865,0
+3,"['covid-19', 'disease_symptom', 'pid']",-14.1931591,0
+4,"['covid-19', 'disease_symptom', 'acidosis']",-14.29215717,0
+5,"['covid-19', 'disease_symptom', 'chronic peritonitis']",-14.34050941,0
+6,"['covid-19', 'disease_symptom', 'salmonellosis']",-14.36677647,0
+7,"['covid-19', 'disease_symptom', 'infection']",-14.43159962,0
+8,"['covid-19', 'disease_symptom', 'cardiovascular complication']",-14.43460274,0
+9,"['covid-19', 'disease_symptom', 'virus']",-14.44187927,0
+10,"['protein losing enteropathy', 'symptom_disease', 'covid-19']",-13.72116375,0
+11,"['loss of appetite', 'symptom_disease', 'covid-19']",-13.84358788,0
+12,"['unwell', 'symptom_disease', 'covid-19']",-14.00626945,0
+13,"['same', 'symptom_disease', 'covid-19']",-14.07710266,0
+14,"['diarrhea 9', 'symptom_disease', 'covid-19']",-14.23040199,1
+15,"['soft', 'symptom_disease', 'covid-19']",-14.26833916,0
+16,"['blood', 'symptom_disease', 'covid-19']",-14.27218437,0
+17,"['severe', 'symptom_disease', 'covid-19']",-14.31618309,0
+18,"['enhanced', 'symptom_disease', 'covid-19']",-14.51627541,0
+19,"['hospital acquired infection', 'symptom_disease', 'covid-19']",-14.55843163,0

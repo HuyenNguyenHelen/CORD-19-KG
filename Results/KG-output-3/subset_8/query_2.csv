@@ -1,21 +1,21 @@
-,triple,score
-0,"['covid-19', 'disease_symptom', 'covid-19']",-11.842109680175781
-1,"['covid-19', 'disease_symptom', 'sars cov infection']",-12.387691497802734
-2,"['covid-19', 'disease_symptom', 'pneumonia']",-12.394535064697266
-3,"['covid-19', 'disease_symptom', 'enteritis']",-12.472723007202148
-4,"['covid-19', 'disease_symptom', 'viral infection']",-12.604677200317383
-5,"['covid-19', 'disease_symptom', 'injury']",-12.618772506713867
-6,"['covid-19', 'disease_symptom', 'disease']",-12.627330780029297
-7,"['covid-19', 'disease_symptom', 'tachypnea']",-12.644432067871094
-8,"['covid-19', 'disease_symptom', 'infection']",-12.653963088989258
-9,"['covid-19', 'disease_symptom', 'syndrome']",-12.656816482543945
-10,"['covid-19', 'symptom_disease', 'covid-19']",-11.860614776611328
-11,"['pneumonia', 'symptom_disease', 'covid-19']",-12.333263397216797
-12,"['edema', 'symptom_disease', 'covid-19']",-12.4420166015625
-13,"['viral pneumonia', 'symptom_disease', 'covid-19']",-12.446504592895508
-14,"['sars cov infection', 'symptom_disease', 'covid-19']",-12.451997756958008
-15,"['inflammation', 'symptom_disease', 'covid-19']",-12.464967727661133
-16,"['respiratory failure', 'symptom_disease', 'covid-19']",-12.496101379394531
-17,"['severe', 'symptom_disease', 'covid-19']",-12.511496543884277
-18,"['tachypnea', 'symptom_disease', 'covid-19']",-12.522412300109863
-19,"['lung', 'symptom_disease', 'covid-19']",-12.527486801147461
+,triple,score,label
+0,"['covid-19', 'disease_symptom', 'covid-19']",-11.84210968,0
+1,"['covid-19', 'disease_symptom', 'sars cov infection']",-12.3876915,0
+2,"['covid-19', 'disease_symptom', 'pneumonia']",-12.39453506,1
+3,"['covid-19', 'disease_symptom', 'enteritis']",-12.47272301,0
+4,"['covid-19', 'disease_symptom', 'viral infection']",-12.6046772,0
+5,"['covid-19', 'disease_symptom', 'injury']",-12.61877251,0
+6,"['covid-19', 'disease_symptom', 'disease']",-12.62733078,0
+7,"['covid-19', 'disease_symptom', 'tachypnea']",-12.64443207,0
+8,"['covid-19', 'disease_symptom', 'infection']",-12.65396309,0
+9,"['covid-19', 'disease_symptom', 'syndrome']",-12.65681648,0
+10,"['covid-19', 'symptom_disease', 'covid-19']",-11.86061478,0
+11,"['pneumonia', 'symptom_disease', 'covid-19']",-12.3332634,1
+12,"['edema', 'symptom_disease', 'covid-19']",-12.4420166,0
+13,"['viral pneumonia', 'symptom_disease', 'covid-19']",-12.44650459,0
+14,"['sars cov infection', 'symptom_disease', 'covid-19']",-12.45199776,0
+15,"['inflammation', 'symptom_disease', 'covid-19']",-12.46496773,0
+16,"['respiratory failure', 'symptom_disease', 'covid-19']",-12.49610138,1
+17,"['severe', 'symptom_disease', 'covid-19']",-12.51149654,0
+18,"['tachypnea', 'symptom_disease', 'covid-19']",-12.5224123,0
+19,"['lung', 'symptom_disease', 'covid-19']",-12.5274868,0

@@ -1,21 +1,21 @@
-,triple,score
-0,"['covid-19', 'disease_species', 'pneumonia']",-13.80618953704834
-1,"['covid-19', 'disease_species', 'infection']",-13.906327247619629
-2,"['covid-19', 'disease_species', 'viral infection']",-13.989084243774414
-3,"['covid-19', 'disease_species', 'disease']",-14.04488468170166
-4,"['covid-19', 'disease_species', 'covid-19']",-14.059459686279297
-5,"['covid-19', 'disease_species', 'coinfection']",-14.121594429016113
-6,"['covid-19', 'disease_species', 'same']",-14.157610893249512
-7,"['covid-19', 'disease_species', 'respiratory disease']",-14.173795700073242
-8,"['covid-19', 'disease_species', 'coronavirus infection']",-14.193721771240234
-9,"['covid-19', 'disease_species', 'co-infection']",-14.200103759765625
-10,"['covid-19', 'disease_species', 'pandemic']",-14.21670150756836
-11,"['covid-19', 'disease_species', 'vaccine']",-14.223617553710938
-12,"['covid-19', 'disease_species', 'virus']",-14.267175674438477
-13,"['covid-19', 'disease_species', 'syndrome']",-14.285709381103516
-14,"['covid-19', 'disease_species', 'me']",-14.297309875488281
-15,"['covid-19', 'disease_species', 'subclinical infection']",-14.334843635559082
-16,"['covid-19', 'disease_species', 'condition']",-14.374547958374023
-17,"['covid-19', 'disease_species', 'enteritis']",-14.378205299377441
-18,"['covid-19', 'disease_species', 'influenza infection']",-14.402059555053711
-19,"['covid-19', 'disease_species', 'sars cov infection']",-14.403238296508789
+,triple,score,label
+0,"['covid-19', 'disease_species', 'pneumonia']",-13.80618954,0
+1,"['covid-19', 'disease_species', 'infection']",-13.90632725,0
+2,"['covid-19', 'disease_species', 'viral infection']",-13.98908424,0
+3,"['covid-19', 'disease_species', 'disease']",-14.04488468,0
+4,"['covid-19', 'disease_species', 'covid-19']",-14.05945969,0
+5,"['covid-19', 'disease_species', 'coinfection']",-14.12159443,0
+6,"['covid-19', 'disease_species', 'same']",-14.15761089,0
+7,"['covid-19', 'disease_species', 'respiratory disease']",-14.1737957,0
+8,"['covid-19', 'disease_species', 'coronavirus infection']",-14.19372177,0
+9,"['covid-19', 'disease_species', 'co-infection']",-14.20010376,0
+10,"['covid-19', 'disease_species', 'pandemic']",-14.21670151,0
+11,"['covid-19', 'disease_species', 'vaccine']",-14.22361755,0
+12,"['covid-19', 'disease_species', 'virus']",-14.26717567,0
+13,"['covid-19', 'disease_species', 'syndrome']",-14.28570938,0
+14,"['covid-19', 'disease_species', 'me']",-14.29730988,0
+15,"['covid-19', 'disease_species', 'subclinical infection']",-14.33484364,0
+16,"['covid-19', 'disease_species', 'condition']",-14.37454796,0
+17,"['covid-19', 'disease_species', 'enteritis']",-14.3782053,0
+18,"['covid-19', 'disease_species', 'influenza infection']",-14.40205956,0
+19,"['covid-19', 'disease_species', 'sars cov infection']",-14.4032383,0

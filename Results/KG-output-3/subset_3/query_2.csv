@@ -1,21 +1,21 @@
-,triple,score
-0,"['covid-19', 'disease_symptom', 'hrsv infection']",-13.163006782531738
-1,"['covid-19', 'disease_symptom', 'headache']",-13.261545181274414
-2,"['covid-19', 'disease_symptom', 'fever']",-13.456199645996094
-3,"['covid-19', 'disease_symptom', 'cough']",-13.575471878051758
-4,"['covid-19', 'disease_symptom', 'anosmia']",-13.592846870422363
-5,"['covid-19', 'disease_symptom', 'diarrhea']",-13.68346118927002
-6,"['covid-19', 'disease_symptom', 'human bocaviruses']",-13.71664810180664
-7,"['covid-19', 'disease_symptom', 'sars virus']",-13.71880054473877
-8,"['covid-19', 'disease_symptom', 'pain']",-13.772332191467285
-9,"['covid-19', 'disease_symptom', 'thrombocytopenia']",-13.831615447998047
-10,"['cough', 'symptom_disease', 'covid-19']",-12.53731918334961
-11,"['headache', 'symptom_disease', 'covid-19']",-12.622640609741211
-12,"['fever', 'symptom_disease', 'covid-19']",-12.686864852905273
-13,"['bacterial infection', 'symptom_disease', 'covid-19']",-12.882092475891113
-14,"['tuberculosis', 'symptom_disease', 'covid-19']",-12.919235229492188
-15,"['anorexia', 'symptom_disease', 'covid-19']",-12.97179126739502
-16,"['lower respiratory tract involvement', 'symptom_disease', 'covid-19']",-13.076257705688477
-17,"['sars', 'symptom_disease', 'covid-19']",-13.113779067993164
-18,"['pneumonia', 'symptom_disease', 'covid-19']",-13.119890213012695
-19,"['coronavirus', 'symptom_disease', 'covid-19']",-13.12962818145752
+,triple,score,label
+0,"['covid-19', 'disease_symptom', 'hrsv infection']",-13.16300678,0
+1,"['covid-19', 'disease_symptom', 'headache']",-13.26154518,1
+2,"['covid-19', 'disease_symptom', 'fever']",-13.45619965,1
+3,"['covid-19', 'disease_symptom', 'cough']",-13.57547188,1
+4,"['covid-19', 'disease_symptom', 'anosmia']",-13.59284687,1
+5,"['covid-19', 'disease_symptom', 'diarrhea']",-13.68346119,1
+6,"['covid-19', 'disease_symptom', 'human bocaviruses']",-13.7166481,0
+7,"['covid-19', 'disease_symptom', 'sars virus']",-13.71880054,0
+8,"['covid-19', 'disease_symptom', 'pain']",-13.77233219,1
+9,"['covid-19', 'disease_symptom', 'thrombocytopenia']",-13.83161545,0
+10,"['cough', 'symptom_disease', 'covid-19']",-12.53731918,1
+11,"['headache', 'symptom_disease', 'covid-19']",-12.62264061,1
+12,"['fever', 'symptom_disease', 'covid-19']",-12.68686485,1
+13,"['bacterial infection', 'symptom_disease', 'covid-19']",-12.88209248,0
+14,"['tuberculosis', 'symptom_disease', 'covid-19']",-12.91923523,0
+15,"['anorexia', 'symptom_disease', 'covid-19']",-12.97179127,0
+16,"['lower respiratory tract involvement', 'symptom_disease', 'covid-19']",-13.07625771,0
+17,"['sars', 'symptom_disease', 'covid-19']",-13.11377907,0
+18,"['pneumonia', 'symptom_disease', 'covid-19']",-13.11989021,0
+19,"['coronavirus', 'symptom_disease', 'covid-19']",-13.12962818,0

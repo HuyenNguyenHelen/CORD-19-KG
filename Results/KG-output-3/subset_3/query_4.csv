@@ -1,21 +1,21 @@
-,triple,score
-0,"['covid-19', 'disease_drug', 'rna']",-13.475016593933105
-1,"['covid-19', 'disease_drug', 'virus']",-13.94703197479248
-2,"['covid-19', 'disease_drug', 'viral']",-14.176937103271484
-3,"['covid-19', 'disease_drug', 'sars cov']",-14.192472457885742
-4,"['covid-19', 'disease_drug', 'influenza virus']",-14.244375228881836
-5,"['covid-19', 'disease_drug', 'avian influenza virus']",-14.303279876708984
-6,"['covid-19', 'disease_drug', 'viral infection']",-14.31977653503418
-7,"['covid-19', 'disease_drug', 'coronaviruses']",-14.34858512878418
-8,"['covid-19', 'disease_drug', 'immunosuppression']",-14.35769271850586
-9,"['covid-19', 'disease_drug', 'blood']",-14.357990264892578
-10,"['rna', 'drug_disease', 'covid-19']",-14.840027809143066
-11,"['influenza virus', 'drug_disease', 'covid-19']",-15.16212272644043
-12,"['critical', 'drug_disease', 'covid-19']",-15.178380966186523
-13,"['rbd', 'drug_disease', 'covid-19']",-15.395139694213867
-14,"['virus infection', 'drug_disease', 'covid-19']",-15.419669151306152
-15,"['hsv', 'drug_disease', 'covid-19']",-15.42138957977295
-16,"['sars cov', 'drug_disease', 'covid-19']",-15.573708534240723
-17,"['viral', 'drug_disease', 'covid-19']",-15.621652603149414
-18,"['virus', 'drug_disease', 'covid-19']",-15.709362030029297
-19,"['blood', 'drug_disease', 'covid-19']",-15.714921951293945
+,triple,score,label
+0,"['covid-19', 'disease_drug', 'rna']",-13.47501659,0
+1,"['covid-19', 'disease_drug', 'virus']",-13.94703197,0
+2,"['covid-19', 'disease_drug', 'viral']",-14.1769371,0
+3,"['covid-19', 'disease_drug', 'sars cov']",-14.19247246,0
+4,"['covid-19', 'disease_drug', 'influenza virus']",-14.24437523,0
+5,"['covid-19', 'disease_drug', 'avian influenza virus']",-14.30327988,0
+6,"['covid-19', 'disease_drug', 'viral infection']",-14.31977654,0
+7,"['covid-19', 'disease_drug', 'coronaviruses']",-14.34858513,0
+8,"['covid-19', 'disease_drug', 'immunosuppression']",-14.35769272,0
+9,"['covid-19', 'disease_drug', 'blood']",-14.35799026,0
+10,"['rna', 'drug_disease', 'covid-19']",-14.84002781,0
+11,"['influenza virus', 'drug_disease', 'covid-19']",-15.16212273,0
+12,"['critical', 'drug_disease', 'covid-19']",-15.17838097,0
+13,"['rbd', 'drug_disease', 'covid-19']",-15.39513969,0
+14,"['virus infection', 'drug_disease', 'covid-19']",-15.41966915,0
+15,"['hsv', 'drug_disease', 'covid-19']",-15.42138958,0
+16,"['sars cov', 'drug_disease', 'covid-19']",-15.57370853,0
+17,"['viral', 'drug_disease', 'covid-19']",-15.6216526,0
+18,"['virus', 'drug_disease', 'covid-19']",-15.70936203,0
+19,"['blood', 'drug_disease', 'covid-19']",-15.71492195,0

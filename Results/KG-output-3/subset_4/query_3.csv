@@ -1,21 +1,21 @@
-,triple,score
-0,"['covid-19', 'disease_treat_procedure', 'sled']",-17.260356903076172
-1,"['covid-19', 'disease_treat_procedure', 'hypercortisolemia']",-17.261157989501953
-2,"['covid-19', 'disease_treat_procedure', 'covid pandemic']",-17.596820831298828
-3,"['covid-19', 'disease_treat_procedure', 'dt']",-17.87688446044922
-4,"['covid-19', 'disease_treat_procedure', 'esrd']",-17.896867752075195
-5,"['covid-19', 'disease_treat_procedure', 'cr']",-17.993816375732422
-6,"['covid-19', 'disease_treat_procedure', 'sars cov infection']",-18.043827056884766
-7,"['covid-19', 'disease_treat_procedure', 'peripheral neuropathy']",-18.10110092163086
-8,"['covid-19', 'disease_treat_procedure', 'immunocompromised hct recipient']",-18.117006301879883
-9,"['covid-19', 'disease_treat_procedure', 'kidney injury']",-18.117237091064453
-10,"['major', 'treat_procedure_disease', 'covid-19']",-17.35541534423828
-11,"['ear disease', 'treat_procedure_disease', 'covid-19']",-17.457122802734375
-12,"['long', 'treat_procedure_disease', 'covid-19']",-17.612035751342773
-13,"['disease progression', 'treat_procedure_disease', 'covid-19']",-17.86309051513672
-14,"['ar', 'treat_procedure_disease', 'covid-19']",-17.873374938964844
-15,"['respiratory', 'treat_procedure_disease', 'covid-19']",-17.94914436340332
-16,"['blood', 'treat_procedure_disease', 'covid-19']",-17.971050262451172
-17,"['genital', 'treat_procedure_disease', 'covid-19']",-17.98876190185547
-18,"['severe periodontitis', 'treat_procedure_disease', 'covid-19']",-18.00263786315918
-19,"['pandemic', 'treat_procedure_disease', 'covid-19']",-18.03443717956543
+,triple,score,label
+0,"['covid-19', 'disease_treat_procedure', 'sled']",-17.2603569,0
+1,"['covid-19', 'disease_treat_procedure', 'hypercortisolemia']",-17.26115799,0
+2,"['covid-19', 'disease_treat_procedure', 'covid pandemic']",-17.59682083,0
+3,"['covid-19', 'disease_treat_procedure', 'dt']",-17.87688446,0
+4,"['covid-19', 'disease_treat_procedure', 'esrd']",-17.89686775,0
+5,"['covid-19', 'disease_treat_procedure', 'cr']",-17.99381638,0
+6,"['covid-19', 'disease_treat_procedure', 'sars cov infection']",-18.04382706,0
+7,"['covid-19', 'disease_treat_procedure', 'peripheral neuropathy']",-18.10110092,0
+8,"['covid-19', 'disease_treat_procedure', 'immunocompromised hct recipient']",-18.1170063,0
+9,"['covid-19', 'disease_treat_procedure', 'kidney injury']",-18.11723709,0
+10,"['major', 'treat_procedure_disease', 'covid-19']",-17.35541534,0
+11,"['ear disease', 'treat_procedure_disease', 'covid-19']",-17.4571228,0
+12,"['long', 'treat_procedure_disease', 'covid-19']",-17.61203575,0
+13,"['disease progression', 'treat_procedure_disease', 'covid-19']",-17.86309052,0
+14,"['ar', 'treat_procedure_disease', 'covid-19']",-17.87337494,0
+15,"['respiratory', 'treat_procedure_disease', 'covid-19']",-17.94914436,0
+16,"['blood', 'treat_procedure_disease', 'covid-19']",-17.97105026,0
+17,"['genital', 'treat_procedure_disease', 'covid-19']",-17.9887619,0
+18,"['severe periodontitis', 'treat_procedure_disease', 'covid-19']",-18.00263786,0
+19,"['pandemic', 'treat_procedure_disease', 'covid-19']",-18.03443718,0

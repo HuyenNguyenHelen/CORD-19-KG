@@ -1,21 +1,21 @@
-,triple,score
-0,"['covid-19', 'disease_treat_procedure', 'dfa']",-16.26494026184082
-1,"['covid-19', 'disease_treat_procedure', 'covid pandemic']",-16.438095092773438
-2,"['covid-19', 'disease_treat_procedure', 'hair loss']",-16.508487701416016
-3,"['covid-19', 'disease_treat_procedure', 'right']",-16.685291290283203
-4,"['covid-19', 'disease_treat_procedure', 'psoriasis']",-16.68692970275879
-5,"['covid-19', 'disease_treat_procedure', 'ib']",-16.686969757080078
-6,"['covid-19', 'disease_treat_procedure', 'aichi virus']",-16.713071823120117
-7,"['covid-19', 'disease_treat_procedure', 'sars virus']",-16.725914001464844
-8,"['covid-19', 'disease_treat_procedure', 'hcv infection']",-16.730073928833008
-9,"['covid-19', 'disease_treat_procedure', 'respiratory illness']",-16.830196380615234
-10,"['critical', 'treat_procedure_disease', 'covid-19']",-15.890312194824219
-11,"['acute lung injury', 'treat_procedure_disease', 'covid-19']",-16.1381893157959
-12,"['icu', 'treat_procedure_disease', 'covid-19']",-16.265880584716797
-13,"['c. difficile infection', 'treat_procedure_disease', 'covid-19']",-16.27646255493164
-14,"['dad', 'treat_procedure_disease', 'covid-19']",-16.364110946655273
-15,"['respiratory', 'treat_procedure_disease', 'covid-19']",-16.397756576538086
-16,"['lung injury', 'treat_procedure_disease', 'covid-19']",-16.424400329589844
-17,"['liver', 'treat_procedure_disease', 'covid-19']",-16.44915771484375
-18,"['cns', 'treat_procedure_disease', 'covid-19']",-16.522109985351562
-19,"['acute illness', 'treat_procedure_disease', 'covid-19']",-16.57933235168457
+,triple,score,label
+0,"['covid-19', 'disease_treat_procedure', 'dfa']",-16.26494026,0
+1,"['covid-19', 'disease_treat_procedure', 'covid pandemic']",-16.43809509,0
+2,"['covid-19', 'disease_treat_procedure', 'hair loss']",-16.5084877,0
+3,"['covid-19', 'disease_treat_procedure', 'right']",-16.68529129,0
+4,"['covid-19', 'disease_treat_procedure', 'psoriasis']",-16.6869297,0
+5,"['covid-19', 'disease_treat_procedure', 'ib']",-16.68696976,0
+6,"['covid-19', 'disease_treat_procedure', 'aichi virus']",-16.71307182,0
+7,"['covid-19', 'disease_treat_procedure', 'sars virus']",-16.725914,0
+8,"['covid-19', 'disease_treat_procedure', 'hcv infection']",-16.73007393,0
+9,"['covid-19', 'disease_treat_procedure', 'respiratory illness']",-16.83019638,0
+10,"['critical', 'treat_procedure_disease', 'covid-19']",-15.89031219,0
+11,"['acute lung injury', 'treat_procedure_disease', 'covid-19']",-16.13818932,0
+12,"['icu', 'treat_procedure_disease', 'covid-19']",-16.26588058,0
+13,"['c. difficile infection', 'treat_procedure_disease', 'covid-19']",-16.27646255,0
+14,"['dad', 'treat_procedure_disease', 'covid-19']",-16.36411095,0
+15,"['respiratory', 'treat_procedure_disease', 'covid-19']",-16.39775658,0
+16,"['lung injury', 'treat_procedure_disease', 'covid-19']",-16.42440033,0
+17,"['liver', 'treat_procedure_disease', 'covid-19']",-16.44915771,0
+18,"['cns', 'treat_procedure_disease', 'covid-19']",-16.52210999,0
+19,"['acute illness', 'treat_procedure_disease', 'covid-19']",-16.57933235,0

@@ -1,21 +1,21 @@
-,triple,score
-0,"['covid-19', 'disease_treat_procedure', 'pandemic']",-17.249977111816406
-1,"['covid-19', 'disease_treat_procedure', 'covid-19']",-17.30507469177246
-2,"['covid-19', 'disease_treat_procedure', 'pneumonia']",-17.43596839904785
-3,"['covid-19', 'disease_treat_procedure', 'covid pandemic']",-17.438194274902344
-4,"['covid-19', 'disease_treat_procedure', 'ecmo']",-17.51376724243164
-5,"['covid-19', 'disease_treat_procedure', 'type']",-17.60106658935547
-6,"['covid-19', 'disease_treat_procedure', 'lung']",-17.603059768676758
-7,"['covid-19', 'disease_treat_procedure', 'ards']",-17.650936126708984
-8,"['covid-19', 'disease_treat_procedure', 'vaccine']",-17.663970947265625
-9,"['covid-19', 'disease_treat_procedure', 'condition']",-17.677907943725586
-10,"['critical', 'treat_procedure_disease', 'covid-19']",-16.99319839477539
-11,"['pandemic', 'treat_procedure_disease', 'covid-19']",-17.28327178955078
-12,"['high', 'treat_procedure_disease', 'covid-19']",-17.31611442565918
-13,"['lower', 'treat_procedure_disease', 'covid-19']",-17.392154693603516
-14,"['enhanced', 'treat_procedure_disease', 'covid-19']",-17.400981903076172
-15,"['lung', 'treat_procedure_disease', 'covid-19']",-17.44854736328125
-16,"['community', 'treat_procedure_disease', 'covid-19']",-17.4925479888916
-17,"['injury', 'treat_procedure_disease', 'covid-19']",-17.57067108154297
-18,"['covid-19', 'treat_procedure_disease', 'covid-19']",-17.600528717041016
-19,"['condition', 'treat_procedure_disease', 'covid-19']",-17.607864379882812
+,triple,score,label
+0,"['covid-19', 'disease_treat_procedure', 'pandemic']",-17.24997711,0
+1,"['covid-19', 'disease_treat_procedure', 'covid-19']",-17.30507469,0
+2,"['covid-19', 'disease_treat_procedure', 'pneumonia']",-17.4359684,0
+3,"['covid-19', 'disease_treat_procedure', 'covid pandemic']",-17.43819427,0
+4,"['covid-19', 'disease_treat_procedure', 'ecmo']",-17.51376724,0
+5,"['covid-19', 'disease_treat_procedure', 'type']",-17.60106659,0
+6,"['covid-19', 'disease_treat_procedure', 'lung']",-17.60305977,0
+7,"['covid-19', 'disease_treat_procedure', 'ards']",-17.65093613,0
+8,"['covid-19', 'disease_treat_procedure', 'vaccine']",-17.66397095,1
+9,"['covid-19', 'disease_treat_procedure', 'condition']",-17.67790794,0
+10,"['critical', 'treat_procedure_disease', 'covid-19']",-16.99319839,0
+11,"['pandemic', 'treat_procedure_disease', 'covid-19']",-17.28327179,0
+12,"['high', 'treat_procedure_disease', 'covid-19']",-17.31611443,0
+13,"['lower', 'treat_procedure_disease', 'covid-19']",-17.39215469,0
+14,"['enhanced', 'treat_procedure_disease', 'covid-19']",-17.4009819,0
+15,"['lung', 'treat_procedure_disease', 'covid-19']",-17.44854736,0
+16,"['community', 'treat_procedure_disease', 'covid-19']",-17.49254799,0
+17,"['injury', 'treat_procedure_disease', 'covid-19']",-17.57067108,0
+18,"['covid-19', 'treat_procedure_disease', 'covid-19']",-17.60052872,0
+19,"['condition', 'treat_procedure_disease', 'covid-19']",-17.60786438,0

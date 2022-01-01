@@ -1,21 +1,21 @@
-,triple,score
-0,"['covid-19', 'disease_symptom', 'lung lesion']",-15.228681564331055
-1,"['covid-19', 'disease_symptom', 'covid-19']",-15.240767478942871
-2,"['covid-19', 'disease_symptom', 'he']",-15.31623649597168
-3,"['covid-19', 'disease_symptom', 'headache']",-15.352222442626953
-4,"['covid-19', 'disease_symptom', 'asthmatic']",-15.514633178710938
-5,"['covid-19', 'disease_symptom', 'fever']",-15.51794719696045
-6,"['covid-19', 'disease_symptom', 'artery occlusion']",-15.539186477661133
-7,"['covid-19', 'disease_symptom', 'virus']",-15.65584659576416
-8,"['covid-19', 'disease_symptom', 'diarrhea']",-15.661821365356445
-9,"['covid-19', 'disease_symptom', 'influenza virus']",-15.723925590515137
-10,"['lung injury', 'symptom_disease', 'covid-19']",-14.867731094360352
-11,"['pain', 'symptom_disease', 'covid-19']",-15.024141311645508
-12,"['headache', 'symptom_disease', 'covid-19']",-15.127326011657715
-13,"['influenza epidemic', 'symptom_disease', 'covid-19']",-15.12989616394043
-14,"['influenza virus infection', 'symptom_disease', 'covid-19']",-15.150708198547363
-15,"['upper respiratory symptom', 'symptom_disease', 'covid-19']",-15.165096282958984
-16,"['viral', 'symptom_disease', 'covid-19']",-15.218548774719238
-17,"['public', 'symptom_disease', 'covid-19']",-15.246734619140625
-18,"['opportunistic infection', 'symptom_disease', 'covid-19']",-15.248106956481934
-19,"['covid-19', 'symptom_disease', 'covid-19']",-15.251492500305176
+,triple,score,label
+0,"['covid-19', 'disease_symptom', 'lung lesion']",-15.22868156,0
+1,"['covid-19', 'disease_symptom', 'covid-19']",-15.24076748,0
+2,"['covid-19', 'disease_symptom', 'he']",-15.3162365,0
+3,"['covid-19', 'disease_symptom', 'headache']",-15.35222244,1
+4,"['covid-19', 'disease_symptom', 'asthmatic']",-15.51463318,0
+5,"['covid-19', 'disease_symptom', 'fever']",-15.5179472,1
+6,"['covid-19', 'disease_symptom', 'artery occlusion']",-15.53918648,0
+7,"['covid-19', 'disease_symptom', 'virus']",-15.6558466,0
+8,"['covid-19', 'disease_symptom', 'diarrhea']",-15.66182137,1
+9,"['covid-19', 'disease_symptom', 'influenza virus']",-15.72392559,0
+10,"['lung injury', 'symptom_disease', 'covid-19']",-14.86773109,0
+11,"['pain', 'symptom_disease', 'covid-19']",-15.02414131,1
+12,"['headache', 'symptom_disease', 'covid-19']",-15.12732601,1
+13,"['influenza epidemic', 'symptom_disease', 'covid-19']",-15.12989616,0
+14,"['influenza virus infection', 'symptom_disease', 'covid-19']",-15.1507082,0
+15,"['upper respiratory symptom', 'symptom_disease', 'covid-19']",-15.16509628,0
+16,"['viral', 'symptom_disease', 'covid-19']",-15.21854877,0
+17,"['public', 'symptom_disease', 'covid-19']",-15.24673462,0
+18,"['opportunistic infection', 'symptom_disease', 'covid-19']",-15.24810696,0
+19,"['covid-19', 'symptom_disease', 'covid-19']",-15.2514925,0

@@ -1,21 +1,21 @@
-,triple,score
-0,"['covid-19', 'disease_species', 'deltacoronavirus']",-15.604652404785156
-1,"['covid-19', 'disease_species', 'pandemic 2009 h1n1 influenza virus']",-16.277935028076172
-2,"['covid-19', 'disease_species', 'avian flu']",-16.578723907470703
-3,"['covid-19', 'disease_species', 'paramyxovirus']",-16.615116119384766
-4,"['covid-19', 'disease_species', 'coli']",-16.649290084838867
-5,"['covid-19', 'disease_species', 'capripox virus']",-16.650569915771484
-6,"['covid-19', 'disease_species', 'malaria parasite']",-16.69258689880371
-7,"['covid-19', 'disease_species', 'astroviruses']",-16.703712463378906
-8,"['covid-19', 'disease_species', 'asf']",-16.74660301208496
-9,"['covid-19', 'disease_species', 'h5n1 virus infection']",-16.803627014160156
-10,"['covid-19', 'disease_species', 'vaccine']",-16.821544647216797
-11,"['covid-19', 'disease_species', 'tapeworm']",-16.829307556152344
-12,"['covid-19', 'disease_species', 'sars cov infection']",-16.906999588012695
-13,"['covid-19', 'disease_species', 'zaire ebolavirus']",-16.915071487426758
-14,"['covid-19', 'disease_species', 'virus']",-16.9351863861084
-15,"['covid-19', 'disease_species', 'simian retrovirus']",-16.951444625854492
-16,"['covid-19', 'disease_species', 'leishmaniosis']",-16.95447540283203
-17,"['covid-19', 'disease_species', 'wheezy lri']",-16.970840454101562
-18,"['covid-19', 'disease_species', 'gastroenteritis']",-17.00554656982422
-19,"['covid-19', 'disease_species', 'chlamydial infection']",-17.027999877929688
+,triple,score,
+0,"['covid-19', 'disease_species', 'deltacoronavirus']",-15.6046524,0
+1,"['covid-19', 'disease_species', 'pandemic 2009 h1n1 influenza virus']",-16.27793503,0
+2,"['covid-19', 'disease_species', 'avian flu']",-16.57872391,0
+3,"['covid-19', 'disease_species', 'paramyxovirus']",-16.61511612,0
+4,"['covid-19', 'disease_species', 'coli']",-16.64929008,0
+5,"['covid-19', 'disease_species', 'capripox virus']",-16.65056992,0
+6,"['covid-19', 'disease_species', 'malaria parasite']",-16.6925869,0
+7,"['covid-19', 'disease_species', 'astroviruses']",-16.70371246,0
+8,"['covid-19', 'disease_species', 'asf']",-16.74660301,0
+9,"['covid-19', 'disease_species', 'h5n1 virus infection']",-16.80362701,0
+10,"['covid-19', 'disease_species', 'vaccine']",-16.82154465,0
+11,"['covid-19', 'disease_species', 'tapeworm']",-16.82930756,0
+12,"['covid-19', 'disease_species', 'sars cov infection']",-16.90699959,0
+13,"['covid-19', 'disease_species', 'zaire ebolavirus']",-16.91507149,0
+14,"['covid-19', 'disease_species', 'virus']",-16.93518639,0
+15,"['covid-19', 'disease_species', 'simian retrovirus']",-16.95144463,0
+16,"['covid-19', 'disease_species', 'leishmaniosis']",-16.9544754,0
+17,"['covid-19', 'disease_species', 'wheezy lri']",-16.97084045,0
+18,"['covid-19', 'disease_species', 'gastroenteritis']",-17.00554657,0
+19,"['covid-19', 'disease_species', 'chlamydial infection']",-17.02799988,0

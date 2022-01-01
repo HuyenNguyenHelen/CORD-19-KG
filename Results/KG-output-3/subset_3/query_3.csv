@@ -1,21 +1,21 @@
-,triple,score
-0,"['covid-19', 'disease_treat_procedure', 'wound']",-16.115520477294922
-1,"['covid-19', 'disease_treat_procedure', 'regression']",-16.11666488647461
-2,"['covid-19', 'disease_treat_procedure', 'rna']",-16.43279266357422
-3,"['covid-19', 'disease_treat_procedure', 'pandemic']",-16.43894386291504
-4,"['covid-19', 'disease_treat_procedure', 'recruitment']",-16.455827713012695
-5,"['covid-19', 'disease_treat_procedure', 'immunosuppression']",-16.46047592163086
-6,"['covid-19', 'disease_treat_procedure', 'mhv']",-16.56861114501953
-7,"['covid-19', 'disease_treat_procedure', 'vaccine']",-16.57174301147461
-8,"['covid-19', 'disease_treat_procedure', 'covid pandemic']",-16.601560592651367
-9,"['covid-19', 'disease_treat_procedure', 'covid-19']",-16.63793182373047
-10,"['critical', 'treat_procedure_disease', 'covid-19']",-15.43453598022461
-11,"['blood', 'treat_procedure_disease', 'covid-19']",-15.874174118041992
-12,"['ar', 'treat_procedure_disease', 'covid-19']",-16.004358291625977
-13,"['ebov infection', 'treat_procedure_disease', 'covid-19']",-16.069801330566406
-14,"['ear disease', 'treat_procedure_disease', 'covid-19']",-16.10678482055664
-15,"['community', 'treat_procedure_disease', 'covid-19']",-16.139419555664062
-16,"['regression', 'treat_procedure_disease', 'covid-19']",-16.1951847076416
-17,"['2009', 'treat_procedure_disease', 'covid-19']",-16.23647689819336
-18,"['ards', 'treat_procedure_disease', 'covid-19']",-16.259532928466797
-19,"['lung injury', 'treat_procedure_disease', 'covid-19']",-16.313255310058594
+,triple,score,label
+0,"['covid-19', 'disease_treat_procedure', 'wound']",-16.11552048,0
+1,"['covid-19', 'disease_treat_procedure', 'regression']",-16.11666489,0
+2,"['covid-19', 'disease_treat_procedure', 'rna']",-16.43279266,0
+3,"['covid-19', 'disease_treat_procedure', 'pandemic']",-16.43894386,0
+4,"['covid-19', 'disease_treat_procedure', 'recruitment']",-16.45582771,0
+5,"['covid-19', 'disease_treat_procedure', 'immunosuppression']",-16.46047592,1
+6,"['covid-19', 'disease_treat_procedure', 'mhv']",-16.56861115,0
+7,"['covid-19', 'disease_treat_procedure', 'vaccine']",-16.57174301,0
+8,"['covid-19', 'disease_treat_procedure', 'covid pandemic']",-16.60156059,0
+9,"['covid-19', 'disease_treat_procedure', 'covid-19']",-16.63793182,0
+10,"['critical', 'treat_procedure_disease', 'covid-19']",-15.43453598,0
+11,"['blood', 'treat_procedure_disease', 'covid-19']",-15.87417412,0
+12,"['ar', 'treat_procedure_disease', 'covid-19']",-16.00435829,0
+13,"['ebov infection', 'treat_procedure_disease', 'covid-19']",-16.06980133,0
+14,"['ear disease', 'treat_procedure_disease', 'covid-19']",-16.10678482,0
+15,"['community', 'treat_procedure_disease', 'covid-19']",-16.13941956,0
+16,"['regression', 'treat_procedure_disease', 'covid-19']",-16.19518471,0
+17,"['2009', 'treat_procedure_disease', 'covid-19']",-16.2364769,0
+18,"['ards', 'treat_procedure_disease', 'covid-19']",-16.25953293,0
+19,"['lung injury', 'treat_procedure_disease', 'covid-19']",-16.31325531,0

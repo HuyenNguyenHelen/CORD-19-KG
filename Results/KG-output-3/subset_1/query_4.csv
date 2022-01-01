@@ -1,21 +1,21 @@
-,triple,score
-0,"['covid-19', 'disease_drug', 'he']",-15.530023574829102
-1,"['covid-19', 'disease_drug', 'vaccinia virus']",-15.727165222167969
-2,"['covid-19', 'disease_drug', 'rna']",-15.777629852294922
-3,"['covid-19', 'disease_drug', 'virus']",-15.978212356567383
-4,"['covid-19', 'disease_drug', 'em']",-16.00164794921875
-5,"['covid-19', 'disease_drug', 'mhv']",-16.027667999267578
-6,"['covid-19', 'disease_drug', 'oa']",-16.18665885925293
-7,"['covid-19', 'disease_drug', 'infection']",-16.358928680419922
-8,"['covid-19', 'disease_drug', 'pancreas']",-16.436927795410156
-9,"['covid-19', 'disease_drug', 'nw']",-16.441743850708008
-10,"['liver', 'drug_disease', 'covid-19']",-16.742385864257812
-11,"['infection', 'drug_disease', 'covid-19']",-16.955638885498047
-12,"['adrenal insufficiency', 'drug_disease', 'covid-19']",-16.989269256591797
-13,"['sars', 'drug_disease', 'covid-19']",-16.996187210083008
-14,"['toxic shock', 'drug_disease', 'covid-19']",-17.007171630859375
-15,"['lung injury', 'drug_disease', 'covid-19']",-17.107749938964844
-16,"['encephalomyocarditis virus', 'drug_disease', 'covid-19']",-17.141891479492188
-17,"['viral infection', 'drug_disease', 'covid-19']",-17.148529052734375
-18,"['covid-19', 'drug_disease', 'covid-19']",-17.193843841552734
-19,"['recruitment', 'drug_disease', 'covid-19']",-17.211246490478516
+,triple,score,label
+0,"['covid-19', 'disease_drug', 'he']",-15.53002357,0
+1,"['covid-19', 'disease_drug', 'vaccinia virus']",-15.72716522,0
+2,"['covid-19', 'disease_drug', 'rna']",-15.77762985,0
+3,"['covid-19', 'disease_drug', 'virus']",-15.97821236,0
+4,"['covid-19', 'disease_drug', 'em']",-16.00164795,0
+5,"['covid-19', 'disease_drug', 'mhv']",-16.027668,0
+6,"['covid-19', 'disease_drug', 'oa']",-16.18665886,0
+7,"['covid-19', 'disease_drug', 'infection']",-16.35892868,0
+8,"['covid-19', 'disease_drug', 'pancreas']",-16.4369278,0
+9,"['covid-19', 'disease_drug', 'nw']",-16.44174385,0
+10,"['liver', 'drug_disease', 'covid-19']",-16.74238586,0
+11,"['infection', 'drug_disease', 'covid-19']",-16.95563889,0
+12,"['adrenal insufficiency', 'drug_disease', 'covid-19']",-16.98926926,0
+13,"['sars', 'drug_disease', 'covid-19']",-16.99618721,0
+14,"['toxic shock', 'drug_disease', 'covid-19']",-17.00717163,0
+15,"['lung injury', 'drug_disease', 'covid-19']",-17.10774994,0
+16,"['encephalomyocarditis virus', 'drug_disease', 'covid-19']",-17.14189148,0
+17,"['viral infection', 'drug_disease', 'covid-19']",-17.14852905,0
+18,"['covid-19', 'drug_disease', 'covid-19']",-17.19384384,0
+19,"['recruitment', 'drug_disease', 'covid-19']",-17.21124649,0
