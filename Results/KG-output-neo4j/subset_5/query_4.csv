@@ -1,5 +1,5 @@
 ,query_4,label
-0,corticosteroid therapy,0
+0,corticosteroid therapy,1
 1,presence,0
 2,construction,0
 3,delivery,0
@@ -8,6 +8,6 @@
 6,treatment,0
 7,detection,0
 8,passive immunotherapy,1
-9,steroid treatment,0
+9,steroid treatment,1
 10,expression,0
 11,therapy,0
