@@ -1,17 +1,17 @@
-,query_3
-0,general malaise
-1,organ failure
-2,fever
-3,fatigue
-4,symptom
-5,breathlessness
-6,discomfort
-7,runny nose
-8,abdominal discomfort
-9,illness
-10,prodromal symptom
-11,headache
-12,vomiting
-13,cough
-14,anesthesia
-15,coughing
+,query_3,label
+0,general malaise,0
+1,organ failure,0
+2,fever,1
+3,fatigue,1
+4,symptom,0
+5,breathlessness,1
+6,discomfort,0
+7,runny nose,0
+8,abdominal discomfort,0
+9,illness,0
+10,prodromal symptom,0
+11,headache,1
+12,vomiting,0
+13,cough,1
+14,anesthesia,0
+15,coughing,1

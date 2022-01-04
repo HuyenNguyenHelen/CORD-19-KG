@@ -1,8 +1,8 @@
-,query_3
-0,abdominal discomfort
-1,discomfort
-2,fever
-3,general malaise
-4,vomiting
-5,headache
-6,illness
+,query_3,label
+0,abdominal discomfort,0
+1,discomfort,0
+2,fever,1
+3,general malaise,0
+4,vomiting,0
+5,headache,1
+6,illness,0

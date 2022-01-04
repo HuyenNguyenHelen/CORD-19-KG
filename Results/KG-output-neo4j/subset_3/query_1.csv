@@ -1,39 +1,39 @@
-,query_1
-0,rr
-1,ddx1
-2,hong kong
-3,papr
-4,s protein
-5,glycoprotein
-6,nlrp3
-7,orfx
-8,cd13
-9,damage
-10,ttsps
-11,light
-12,antibody
-13,nsp15
-14,zbcov
-15,impact
-16,host
-17,envelope
-18,mpro
-19,oc43
-20,basc
-21,aim
-22,pattern
-23,n protein
-24,interferon
-25,ccr5
-26,cathepsin l
-27,plpro
-28,hku1
-29,ntd
-30,nl63
-31,protein
-32,ifn
-33,ga
-34,dpp4
-35,ace2
-36,homology
-37,war
+,query_1,label
+0,rr,0
+1,ddx1,0
+2,hong kong,0
+3,papr,0
+4,s protein,1
+5,glycoprotein,0
+6,nlrp3,0
+7,orfx,0
+8,cd13,0
+9,damage,0
+10,ttsps,0
+11,light,0
+12,antibody,0
+13,nsp15,0
+14,zbcov,0
+15,impact,0
+16,host,0
+17,envelope,1
+18,mpro,0
+19,oc43,0
+20,basc,0
+21,aim,0
+22,pattern,0
+23,n protein,1
+24,interferon,0
+25,ccr5,0
+26,cathepsin l,0
+27,plpro,0
+28,hku1,0
+29,ntd,0
+30,nl63,0
+31,protein,0
+32,ifn,0
+33,ga,0
+34,dpp4,0
+35,ace2,0
+36,homology,0
+37,war,0

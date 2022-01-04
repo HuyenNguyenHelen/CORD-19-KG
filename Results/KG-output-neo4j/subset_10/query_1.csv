@@ -1,58 +1,58 @@
-,query_1
-0,lab
-1,s protein
-2,cathepsin l
-3,macrodomain
-4,protein e
-5,light
-6,orfx
-7,nlrp3
-8,homology
-9,n protein
-10,antibody
-11,basc
-12,war
-13,alt
-14,zbcov
-15,nucleic acid
-16,clone
-17,coronavirus e protein
-18,papr
-19,ntd
-20,pattern
-21,toll
-22,envelope
-23,il
-24,ifn
-25,plasma
-26,impact
-27,interferon
-28,host
-29,cd13
-30,ccr5
-31,class
-32,oc43
-33,protein
-34,rr
-35,plpro
-36,platelet
-37,glycoprotein
-38,step
-39,ddx1
-40,ga
-41,body
-42,aim
-43,nsp15
-44,mpro
-45,dpp4
-46,damage
-47,hong kong
-48,receptor
-49,spike protein
-50,nl63
-51,hku1
-52,virion
-53,ttsps
-54,antigen
-55,ace2
-56,sirna
+,query_1,label
+0,lab,0
+1,s protein,1
+2,cathepsin l,0
+3,macrodomain,0
+4,protein e,1
+5,light,0
+6,orfx,0
+7,nlrp3,0
+8,homology,0
+9,n protein,1
+10,antibody,0
+11,basc,0
+12,war,0
+13,alt,0
+14,zbcov,0
+15,nucleic acid,0
+16,clone,0
+17,coronavirus e protein,1
+18,papr,0
+19,ntd,0
+20,pattern,0
+21,toll,0
+22,envelope,1
+23,il,0
+24,ifn,0
+25,plasma,0
+26,impact,0
+27,interferon,0
+28,host,0
+29,cd13,0
+30,ccr5,0
+31,class,0
+32,oc43,0
+33,protein,0
+34,rr,0
+35,plpro,0
+36,platelet,0
+37,glycoprotein,0
+38,step,0
+39,ddx1,0
+40,ga,0
+41,body,0
+42,aim,0
+43,nsp15,0
+44,mpro,0
+45,dpp4,0
+46,damage,0
+47,hong kong,0
+48,receptor,0
+49,spike protein,1
+50,nl63,0
+51,hku1,0
+52,virion,0
+53,ttsps,0
+54,antigen,0
+55,ace2,0
+56,sirna,0

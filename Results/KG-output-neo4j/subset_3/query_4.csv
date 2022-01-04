@@ -1,11 +1,11 @@
-,query_4
-0,construction
-1,passive immunotherapy
-2,corticosteroid therapy
-3,prevention
-4,expression
-5,supplementation
-6,steroid treatment
-7,treatment
-8,presence
-9,detection
+,query_4,label
+0,construction,0
+1,passive immunotherapy,1
+2,corticosteroid therapy,0
+3,prevention,0
+4,expression,0
+5,supplementation,0
+6,steroid treatment,0
+7,treatment,0
+8,presence,0
+9,detection,0

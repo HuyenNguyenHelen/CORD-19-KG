@@ -1,4 +1,4 @@
-,query_3
-0,discomfort
-1,illness
-2,abdominal discomfort
+,query_3,lable
+0,discomfort,0
+1,illness,0
+2,abdominal discomfort,0

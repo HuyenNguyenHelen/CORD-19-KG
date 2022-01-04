@@ -1,9 +1,9 @@
-,query_3
-0,illness
-1,discomfort
-2,fever
-3,vomiting
-4,headache
-5,abdominal discomfort
-6,general malaise
-7,breathlessness
+,query_3,label
+0,illness,0
+1,discomfort,0
+2,fever,1
+3,vomiting,9
+4,headache,1
+5,abdominal discomfort,0
+6,general malaise,0
+7,breathlessness,1

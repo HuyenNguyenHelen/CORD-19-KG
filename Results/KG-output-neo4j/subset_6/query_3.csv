@@ -1,13 +1,13 @@
-,query_3
-0,discomfort
-1,general malaise
-2,vomiting
-3,breathlessness
-4,abdominal discomfort
-5,headache
-6,runny nose
-7,fatigue
-8,fever
-9,cough
-10,illness
-11,coughing
+,query_3,label
+0,discomfort,0
+1,general malaise,0
+2,vomiting,0
+3,breathlessness,1
+4,abdominal discomfort,0
+5,headache,1
+6,runny nose,9
+7,fatigue,1
+8,fever,1
+9,cough,1
+10,illness,0
+11,coughing,1

@@ -1,144 +1,144 @@
-,query_2
-0,enteric coronavirus
-1,tracheal
-2,multiorgan failure
-3,gastroenteritis
-4,subgroup
-5,common cold
-6,disease
-7,shipping fever
-8,flu
-9,dacryoadenitis
-10,enveloped virus
-11,illness
-12,hcw
-13,neurological disorder
-14,infection
-15,infectious respiratory disease
-16,transmissible gastroenteritis
-17,feline coronavirus
-18,panic
-19,viral respiratory illness
-20,porcine epidemic diarrhea
-21,syndrome
-22,barotrauma
-23,sars epidemic
-24,cytokine release syndrome
-25,lung injury
-26,epidemic disease
-27,emerging infectious disease
-28,sars cov infection
-29,severe acute respiratory syndrome coronavirus
-30,severe acute respiratory syndrome coronavirus 2
-31,contagious disease
-32,paramyxovirus
-33,same
-34,public health
-35,epidemic diarrhea
-36,respiratory tract infection
-37,lung
-38,acute disease
-39,deltacoronavirus
-40,febrile illness
-41,neutropenia
-42,ards
-43,enteritis
-44,orchitis
-45,bubonic plague
-46,cheetah
-47,me
-48,coronavirus infection
-49,neoplasm
-50,coronavirus outbreak
-51,ilis
-52,acute respiratory illness
-53,fever
-54,respiratory symptom
-55,liver injury
-56,hyperplasia
-57,acute respiratory syndrome
-58,peritonitis virus
-59,interstitial pneumonia
-60,vaccine
-61,condition
-62,rna
-63,disorder
-64,pandemic
-65,clinical deterioration
-66,barotraumas
-67,disease progression
-68,he
-69,tracheostomy
-70,acute illness
-71,229e
-72,urgency
-73,public
-74,community
-75,astroviruses
-76,peritonitis
-77,respiratory disease
-78,cold
-79,covid pandemic
-80,cdc
-81,inflammation
-82,renal failure
-83,pdcov
-84,clinical syndrome
-85,swine flu
-86,immunopathology
-87,lung damage
-88,coronavirus pneumonia
-89,cytokine storm
-90,upper respiratory illness
-91,respiratory infection
-92,severe acute respiratory disease
-93,febrile neutropenia
-94,osteonecrosis
-95,leukopenia
-96,h5n1 influenza virus
-97,anxiety
-98,ph1n1
-99,acute respiratory disease
-100,middle east respiratory syndrome coronavirus
-101,fluid
-102,ca
-103,ade
-104,viral
-105,infectious disease
-106,febrile respiratory illness
-107,respiratory disorder
-108,pulmonary manifestation
-109,cough
-110,respiratory pathogen
-111,pulmonary damage
-112,infectious peritonitis
-113,gyrovirus
-114,acute respiratory distress syndrome
-115,thrombocytopenia
-116,ascovirus
-117,poultry disease
-118,rna virus
-119,feline infectious peritonitis
-120,hcov infection
-121,fip disease
-122,pneumomediastinum
-123,respiratory viral pathogen
-124,atrophy
-125,nipah virus
-126,transmissible porcine gastroenteritis
-127,acute respiratory syndrome coronavirus 2
-128,viral illness
-129,lion
-130,epidemic hemorrhagic fever
-131,respiratory syndrome
-132,middle east respiratory syndrome
-133,epidemic
-134,virus
-135,fcovs
-136,pneumonia
-137,infectious bronchitis virus
-138,infectious peritonitis virus
-139,respiratory illness
-140,plague
-141,lymphopenia
-142,mental health
+,query_2,label
+0,enteric coronavirus,0
+1,tracheal,0
+2,multiorgan failure,0
+3,gastroenteritis,0
+4,subgroup,0
+5,common cold,0
+6,disease,0
+7,shipping fever,0
+8,flu,0
+9,dacryoadenitis,0
+10,enveloped virus,0
+11,illness,0
+12,hcw,0
+13,neurological disorder,0
+14,infection,0
+15,infectious respiratory disease,0
+16,transmissible gastroenteritis,0
+17,feline coronavirus,0
+18,panic,0
+19,viral respiratory illness,0
+20,porcine epidemic diarrhea,0
+21,syndrome,0
+22,barotrauma,0
+23,sars epidemic,0
+24,cytokine release syndrome,0
+25,lung injury,0
+26,epidemic disease,0
+27,emerging infectious disease,0
+28,sars cov infection,0
+29,severe acute respiratory syndrome coronavirus,0
+30,severe acute respiratory syndrome coronavirus 2,0
+31,contagious disease,0
+32,paramyxovirus,0
+33,same,0
+34,public health,0
+35,epidemic diarrhea,0
+36,respiratory tract infection,0
+37,lung,0
+38,acute disease,0
+39,deltacoronavirus,0
+40,febrile illness,0
+41,neutropenia,0
+42,ards,0
+43,enteritis,0
+44,orchitis,0
+45,bubonic plague,0
+46,cheetah,0
+47,me,0
+48,coronavirus infection,0
+49,neoplasm,0
+50,coronavirus outbreak,0
+51,ilis,0
+52,acute respiratory illness,0
+53,fever,0
+54,respiratory symptom,0
+55,liver injury,0
+56,hyperplasia,0
+57,acute respiratory syndrome,0
+58,peritonitis virus,0
+59,interstitial pneumonia,0
+60,vaccine,0
+61,condition,0
+62,rna,0
+63,disorder,0
+64,pandemic,0
+65,clinical deterioration,0
+66,barotraumas,0
+67,disease progression,0
+68,he,0
+69,tracheostomy,0
+70,acute illness,0
+71,229e,0
+72,urgency,0
+73,public,0
+74,community,0
+75,astroviruses,0
+76,peritonitis,0
+77,respiratory disease,0
+78,cold,0
+79,covid pandemic,0
+80,cdc,0
+81,inflammation,0
+82,renal failure,0
+83,pdcov,0
+84,clinical syndrome,0
+85,swine flu,0
+86,immunopathology,0
+87,lung damage,0
+88,coronavirus pneumonia,0
+89,cytokine storm,0
+90,upper respiratory illness,0
+91,respiratory infection,0
+92,severe acute respiratory disease,0
+93,febrile neutropenia,0
+94,osteonecrosis,0
+95,leukopenia,0
+96,h5n1 influenza virus,0
+97,anxiety,0
+98,ph1n1,0
+99,acute respiratory disease,0
+100,middle east respiratory syndrome coronavirus,0
+101,fluid,0
+102,ca,0
+103,ade,0
+104,viral,0
+105,infectious disease,0
+106,febrile respiratory illness,0
+107,respiratory disorder,0
+108,pulmonary manifestation,0
+109,cough,0
+110,respiratory pathogen,0
+111,pulmonary damage,0
+112,infectious peritonitis,0
+113,gyrovirus,0
+114,acute respiratory distress syndrome,0
+115,thrombocytopenia,0
+116,ascovirus,0
+117,poultry disease,0
+118,rna virus,0
+119,feline infectious peritonitis,0
+120,hcov infection,0
+121,fip disease,0
+122,pneumomediastinum,0
+123,respiratory viral pathogen,0
+124,atrophy,0
+125,nipah virus,0
+126,transmissible porcine gastroenteritis,0
+127,acute respiratory syndrome coronavirus 2,0
+128,viral illness,0
+129,lion,0
+130,epidemic hemorrhagic fever,0
+131,respiratory syndrome,0
+132,middle east respiratory syndrome,0
+133,epidemic,0
+134,virus,0
+135,fcovs,0
+136,pneumonia,0
+137,infectious bronchitis virus,0
+138,infectious peritonitis virus,0
+139,respiratory illness,0
+140,plague,0
+141,lymphopenia,0
+142,mental health,0

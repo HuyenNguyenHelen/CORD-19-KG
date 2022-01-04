@@ -1,17 +1,17 @@
-,query_4
-0,treatment
-1,prevention
-2,construction
-3,detection
-4,delivery
-5,injection
-6,mechanical ventilation
-7,presence
-8,elevation
-9,supplementation
-10,corticosteroid therapy
-11,expression
-12,passive immunotherapy
-13,therapy
-14,aim
-15,steroid treatment
+,query_4,label
+0,treatment,0
+1,prevention,0
+2,construction,0
+3,detection,0
+4,delivery,0
+5,injection,0
+6,mechanical ventilation,1
+7,presence,0
+8,elevation,0
+9,supplementation,0
+10,corticosteroid therapy,1
+11,expression,0
+12,passive immunotherapy,1
+13,therapy,0
+14,aim,0
+15,steroid treatment,1

@@ -1,24 +1,24 @@
-,query_4
-0,treatment
-1,aim
-2,combination therapy
-3,presence
-4,reduction
-5,therapy
-6,steroid treatment
-7,expression
-8,passive immunotherapy
-9,construction
-10,prevention
-11,elevation
-12,delivery
-13,antiviral therapy
-14,oxygen therapy
-15,mechanical ventilation
-16,disease prevention
-17,injection
-18,corticosteroid therapy
-19,supplementation
-20,change
-21,detection
-22,tracheostomy
+,query_4,label
+0,treatment,0
+1,aim,0
+2,combination therapy,0
+3,presence,0
+4,reduction,0
+5,therapy,0
+6,steroid treatment,1
+7,expression,0
+8,passive immunotherapy,1
+9,construction,0
+10,prevention,0
+11,elevation,0
+12,delivery,0
+13,antiviral therapy,1
+14,oxygen therapy,1
+15,mechanical ventilation,1
+16,disease prevention,0
+17,injection,0
+18,corticosteroid therapy,1
+19,supplementation,0
+20,change,0
+21,detection,0
+22,tracheostomy,0
