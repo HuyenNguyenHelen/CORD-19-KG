@@ -1,19 +1,19 @@
-,query_3
-0,abdominal discomfort
-1,breathlessness
-2,prodrome
-3,discharge
-4,imbalance
-5,organ failure
-6,general malaise
-7,illness
-8,cough
-9,discomfort
-10,vomiting
-11,respiratory symptom
-12,meningeal irritation
-13,headache
-14,symptom
-15,severe diarrhea
-16,fever
-17,nightmare
+,query_3,label
+0,abdominal discomfort,0
+1,breathlessness,1
+2,prodrome,0
+3,discharge,0
+4,imbalance,0
+5,organ failure,0
+6,general malaise,1
+7,illness,1
+8,cough,1
+9,discomfort,0
+10,vomiting,1
+11,respiratory symptom,0
+12,meningeal irritation,0
+13,headache,1
+14,symptom,0
+15,severe diarrhea,1
+16,fever,1
+17,nightmare,0

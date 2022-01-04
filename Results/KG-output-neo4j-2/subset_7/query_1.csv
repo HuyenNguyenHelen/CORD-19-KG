@@ -1,91 +1,91 @@
-,query_1
-0,on
-1,hku1
-2,ga
-3,homology
-4,end
-5,ifn
-6,envelope protein
-7,spike
-8,papr
-9,aim
-10,nl63
-11,antibody
-12,not
-13,light
-14,oc43
-15,stigma
-16,war
-17,s protein
-18,toll
-19,ddx1
-20,tbk1
-21,genome
-22,platelet
-23,ifns
-24,gse17400
-25,bthku9
-26,step
-27,12
-28,plps
-29,trade
-30,nucleic acid
-31,wave
-32,ttsps
-33,plp2
-34,impact
-35,receptor
-36,macrodomain
-37,fusion
-38,glycoprotein
-39,cooper
-40,coronavirus e protein
-41,get
-42,hla
-43,zbcov
-44,hong kong
-45,spring
-46,pattern
-47,mpro
-48,rr
-49,ceacam1a
-50,plpro
-51,small
-52,class
-53,m protein ectodomain
-54,host
-55,autophagy
-56,s2 subunit
-57,ace2
-58,large
-59,dpp4
-60,cathepsin l
-61,orfx
-62,plasma
-63,set
-64,antigen
-65,cd13
-66,ace2 receptor
-67,spike protein
-68,protein e
-69,ntd
-70,protein
-71,coronavirus s protein
-72,n protein
-73,rest
-74,nsp15
-75,ccr5
-76,pro-inflammatory
-77,lab
-78,envelope
-79,men
-80,cell
-81,damage
-82,human
-83,body
-84,nlrp3
-85,cfr
-86,interferon
-87,basc
-88,tmprss2
-89,sirna
+,query_1,label
+0,on,0
+1,hku1,0
+2,ga,0
+3,homology,0
+4,end,0
+5,ifn,0
+6,envelope protein,1
+7,spike,1
+8,papr,0
+9,aim,0
+10,nl63,0
+11,antibody,0
+12,not,0
+13,light,0
+14,oc43,0
+15,stigma,0
+16,war,0
+17,s protein,1
+18,toll,0
+19,ddx1,0
+20,tbk1,0
+21,genome,0
+22,platelet,0
+23,ifns,0
+24,gse17400,0
+25,bthku9,0
+26,step,0
+27,12,0
+28,plps,0
+29,trade,0
+30,nucleic acid,0
+31,wave,0
+32,ttsps,0
+33,plp2,0
+34,impact,0
+35,receptor,0
+36,macrodomain,0
+37,fusion,0
+38,glycoprotein,0
+39,cooper,0
+40,coronavirus e protein,1
+41,get,0
+42,hla,0
+43,zbcov,0
+44,hong kong,0
+45,spring,0
+46,pattern,0
+47,mpro,0
+48,rr,0
+49,ceacam1a,0
+50,plpro,0
+51,small,0
+52,class,0
+53,m protein ectodomain,1
+54,host,0
+55,autophagy,0
+56,s2 subunit,0
+57,ace2,0
+58,large,0
+59,dpp4,0
+60,cathepsin l,0
+61,orfx,0
+62,plasma,0
+63,set,0
+64,antigen,0
+65,cd13,0
+66,ace2 receptor,0
+67,spike protein,1
+68,protein e,1
+69,ntd,0
+70,protein,0
+71,coronavirus s protein,1
+72,n protein,1
+73,rest,0
+74,nsp15,0
+75,ccr5,0
+76,pro-inflammatory,0
+77,lab,0
+78,envelope,1
+79,men,0
+80,cell,0
+81,damage,0
+82,human,0
+83,body,0
+84,nlrp3,0
+85,cfr,0
+86,interferon,0
+87,basc,0
+88,tmprss2,0
+89,sirna,0

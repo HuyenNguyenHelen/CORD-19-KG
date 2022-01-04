@@ -1,31 +1,31 @@
-,query_4
-0,treatment
-1,change
-2,mechanical ventilation
-3,construction
-4,immunosuppressive therapy
-5,expression
-6,corticosteroid therapy
-7,detection
-8,remind
-9,procedure
-10,aim
-11,surgical treatment
-12,intervention
-13,elevation
-14,supplementation
-15,diversion
-16,presence
-17,chemotherapy
-18,isolation
-19,delivery
-20,injection
-21,steroid treatment
-22,prevention
-23,passive immunotherapy
-24,anticoagulation
-25,matrix
-26,reduction
-27,detected
-28,therapy
-29,immunisation
+,query_4,label
+0,treatment,0
+1,change,0
+2,mechanical ventilation,1
+3,construction,0
+4,immunosuppressive therapy,1
+5,expression,0
+6,corticosteroid therapy,1
+7,detection,0
+8,remind,0
+9,procedure,0
+10,aim,0
+11,surgical treatment,0
+12,intervention,0
+13,elevation,0
+14,supplementation,0
+15,diversion,0
+16,presence,0
+17,chemotherapy,0
+18,isolation,0
+19,delivery,0
+20,injection,0
+21,steroid treatment,1
+22,prevention,0
+23,passive immunotherapy,1
+24,anticoagulation,0
+25,matrix,0
+26,reduction,0
+27,detected,0
+28,therapy,0
+29,immunisation,1

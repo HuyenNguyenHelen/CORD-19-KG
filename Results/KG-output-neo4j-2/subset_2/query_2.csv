@@ -1,14 +1,14 @@
-,query_2
-0,patient
-1,people
-2,murine coronavirus
-3,transmissible gastroenteritis virus
-4,pig
-5,fmdv
-6,s. pneumoniae
-7,human
-8,specie
-9,child
-10,person
-11,cat
-12,mouse
+,query_2,label
+0,patient,1
+1,people,1
+2,murine coronavirus,0
+3,transmissible gastroenteritis virus,0
+4,pig,0
+5,fmdv,0
+6,s. pneumoniae,0
+7,human,1
+8,specie,0
+9,child,1
+10,person,1
+11,cat,0
+12,mouse,0

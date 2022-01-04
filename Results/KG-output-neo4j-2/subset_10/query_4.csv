@@ -1,47 +1,47 @@
-,query_4
-0,combination therapy
-1,matrix
-2,guidance
-3,disease prevention
-4,reduction
-5,treatment
-6,aim
-7,detected
-8,delivery
-9,isolation
-10,immunisation
-11,lead
-12,expression
-13,attachment
-14,procedure
-15,change
-16,elevation
-17,diversion
-18,construction
-19,antiviral therapy
-20,therapy
-21,anticoagulation
-22,immunosuppression
-23,mechanical ventilation
-24,steroid treatment
-25,destruction
-26,chemotherapy
-27,immunosuppressive therapy
-28,oxygen therapy
-29,prevention
-30,discussion
-31,surgical treatment
-32,supplementation
-33,detection
-34,tracheostomy
-35,corticosteroid therapy
-36,urgent
-37,intervention
-38,release
-39,proactive
-40,infiltration
-41,surgery
-42,injection
-43,passive immunotherapy
-44,remind
-45,presence
+,query_4,label
+0,combination therapy,0
+1,matrix,0
+2,guidance,0
+3,disease prevention,0
+4,reduction,0
+5,treatment,0
+6,aim,0
+7,detected,0
+8,delivery,0
+9,isolation,0
+10,immunisation,1
+11,lead,0
+12,expression,0
+13,attachment,0
+14,procedure,0
+15,change,0
+16,elevation,0
+17,diversion,0
+18,construction,0
+19,antiviral therapy,1
+20,therapy,0
+21,anticoagulation,0
+22,immunosuppression,1
+23,mechanical ventilation,1
+24,steroid treatment,1
+25,destruction,0
+26,chemotherapy,0
+27,immunosuppressive therapy,1
+28,oxygen therapy,1
+29,prevention,0
+30,discussion,0
+31,surgical treatment,0
+32,supplementation,0
+33,detection,0
+34,tracheostomy,0
+35,corticosteroid therapy,1
+36,urgent,0
+37,intervention,0
+38,release,0
+39,proactive,0
+40,infiltration,0
+41,surgery,0
+42,injection,0
+43,passive immunotherapy,1
+44,remind,0
+45,presence,0

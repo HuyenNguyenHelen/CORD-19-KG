@@ -1,25 +1,25 @@
-,query_3
-0,severe diarrhea
-1,discomfort
-2,runny nose
-3,dry cough
-4,abdominal discomfort
-5,meningeal irritation
-6,organ failure
-7,imbalance
-8,fatigue
-9,nightmare
-10,general malaise
-11,fever
-12,vomiting
-13,discharge
-14,cough
-15,coughing
-16,illness
-17,prodrome
-18,malaise
-19,headache
-20,loss of smell
-21,breathlessness
-22,respiratory symptom
-23,symptom
+,query_3,label
+0,severe diarrhea,1
+1,discomfort,0
+2,runny nose,0
+3,dry cough,1
+4,abdominal discomfort,0
+5,meningeal irritation,0
+6,organ failure,0
+7,imbalance,0
+8,fatigue,1
+9,nightmare,0
+10,general malaise,0
+11,fever,1
+12,vomiting,1
+13,discharge,0
+14,cough,1
+15,coughing,1
+16,illness,1
+17,prodrome,0
+18,malaise,0
+19,headache,1
+20,loss of smell,0
+21,breathlessness,1
+22,respiratory symptom,0
+23,symptom,0

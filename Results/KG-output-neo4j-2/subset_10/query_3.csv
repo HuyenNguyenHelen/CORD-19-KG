@@ -1,35 +1,35 @@
-,query_3
-0,rigid
-1,anesthesia
-2,loss of smell
-3,prodrome
-4,imbalance
-5,discharge
-6,symptom
-7,malaise
-8,dry cough
-9,prodromal symptom
-10,fever
-11,abdominal discomfort
-12,finding
-13,ataxia
-14,rash
-15,discomfort
-16,muscle pain
-17,runny nose
-18,meningeal irritation
-19,general malaise
-20,nightmare
-21,vomiting
-22,diarrhea
-23,fatigue
-24,illness
-25,coughing
-26,hyposmia
-27,organ failure
-28,headache
-29,cough
-30,severe diarrhea
-31,dyspnea
-32,respiratory symptom
-33,breathlessness
+,query_3,label
+0,rigid,0
+1,anesthesia,0
+2,loss of smell,0
+3,prodrome,0
+4,imbalance,0
+5,discharge,0
+6,symptom,0
+7,malaise,1
+8,dry cough,1
+9,prodromal symptom,0
+10,fever,1
+11,abdominal discomfort,0
+12,finding,0
+13,ataxia,0
+14,rash,0
+15,discomfort,0
+16,muscle pain,1
+17,runny nose,0
+18,meningeal irritation,0
+19,general malaise,1
+20,nightmare,0
+21,vomiting,1
+22,diarrhea,1
+23,fatigue,1
+24,illness,1
+25,coughing,1
+26,hyposmia,0
+27,organ failure,0
+28,headache,1
+29,cough,1
+30,severe diarrhea,1
+31,dyspnea,1
+32,respiratory symptom,0
+33,breathlessness,1

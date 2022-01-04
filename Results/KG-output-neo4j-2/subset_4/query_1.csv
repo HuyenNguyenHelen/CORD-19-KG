@@ -1,79 +1,79 @@
-,query_1
-0,genome
-1,homology
-2,trade
-3,gse17400
-4,set
-5,wave
-6,small
-7,light
-8,men
-9,hku1
-10,antigen
-11,glycoprotein
-12,hla
-13,antibody
-14,ifn
-15,end
-16,zbcov
-17,tbk1
-18,nlrp3
-19,autophagy
-20,macrodomain
-21,ccr5
-22,orfx
-23,stigma
-24,ceacam1a
-25,mpro
-26,coronavirus s protein
-27,spring
-28,ddx1
-29,ntd
-30,plpro
-31,fusion
-32,ifns
-33,m protein ectodomain
-34,aim
-35,s protein
-36,class
-37,tmprss2
-38,pro-inflammatory
-39,impact
-40,on
-41,cell
-42,dpp4
-43,ace2 receptor
-44,spike
-45,get
-46,basc
-47,cd13
-48,ga
-49,papr
-50,nsp15
-51,plps
-52,bthku9
-53,protein
-54,rest
-55,envelope protein
-56,hong kong
-57,coronavirus e protein
-58,plasma
-59,n protein
-60,pattern
-61,nl63
-62,plp2
-63,oc43
-64,envelope
-65,ttsps
-66,interferon
-67,s2 subunit
-68,damage
-69,body
-70,war
-71,cooper
-72,human
-73,ace2
-74,host
-75,rr
-76,cathepsin l
-77,large
+,query_1,label
+0,genome,0
+1,homology,0
+2,trade,0
+3,gse17400,0
+4,set,0
+5,wave,0
+6,small,0
+7,light,0
+8,men,0
+9,hku1,0
+10,antigen,0
+11,glycoprotein,0
+12,hla,0
+13,antibody,0
+14,ifn,0
+15,end,0
+16,zbcov,0
+17,tbk1,0
+18,nlrp3,0
+19,autophagy,0
+20,macrodomain,0
+21,ccr5,0
+22,orfx,0
+23,stigma,0
+24,ceacam1a,0
+25,mpro,0
+26,coronavirus s protein,1
+27,spring,0
+28,ddx1,0
+29,ntd,0
+30,plpro,0
+31,fusion,0
+32,ifns,0
+33,m protein ectodomain,1
+34,aim,0
+35,s protein,1
+36,class,0
+37,tmprss2,0
+38,pro-inflammatory,0
+39,impact,0
+40,on,0
+41,cell,0
+42,dpp4,0
+43,ace2 receptor,0
+44,spike,1
+45,get,0
+46,basc,0
+47,cd13,0
+48,ga,0
+49,papr,0
+50,nsp15,0
+51,plps,0
+52,bthku9,0
+53,protein,0
+54,rest,0
+55,envelope protein,1
+56,hong kong,0
+57,coronavirus e protein,1
+58,plasma,0
+59,n protein,1
+60,pattern,0
+61,nl63,0
+62,plp2,0
+63,oc43,0
+64,envelope,1
+65,ttsps,0
+66,interferon,0
+67,s2 subunit,0
+68,damage,0
+69,body,0
+70,war,0
+71,cooper,0
+72,human,0
+73,ace2,0
+74,host,0
+75,rr,0
+76,cathepsin l,0
+77,large,0

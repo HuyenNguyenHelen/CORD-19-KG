@@ -1,21 +1,21 @@
-,query_4
-0,therapy
-1,isolation
-2,presence
-3,steroid treatment
-4,procedure
-5,construction
-6,mechanical ventilation
-7,passive immunotherapy
-8,treatment
-9,supplementation
-10,prevention
-11,expression
-12,immunosuppressive therapy
-13,immunisation
-14,diversion
-15,change
-16,detected
-17,corticosteroid therapy
-18,detection
-19,reduction
+,query_4,label
+0,therapy,0
+1,isolation,0
+2,presence,0
+3,steroid treatment,1
+4,procedure,0
+5,construction,0
+6,mechanical ventilation,1
+7,passive immunotherapy,1
+8,treatment,0
+9,supplementation,0
+10,prevention,0
+11,expression,0
+12,immunosuppressive therapy,1
+13,immunisation,1
+14,diversion,0
+15,change,0
+16,detected,0
+17,corticosteroid therapy,1
+18,detection,0
+19,reduction,0

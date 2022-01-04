@@ -1,5 +1,5 @@
-,query_3
-0,illness
-1,symptom
-2,discomfort
-3,abdominal discomfort
+,query_3,label
+0,illness,1
+1,symptom,0
+2,discomfort,0
+3,abdominal discomfort,0

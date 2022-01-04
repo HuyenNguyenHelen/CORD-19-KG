@@ -1,56 +1,56 @@
-,query_2
-0,syndrome
-1,viral illness
-2,respiratory disease
-3,disease progression
-4,acute illness
-5,porcine
-6,transmissible porcine gastroenteritis
-7,pig
-8,calf
-9,transmissible gastroenteritis
-10,emerging infectious disease
-11,deltacoronavirus
-12,rhesus monkey
-13,viral
-14,severe acute respiratory syndrome coronavirus
-15,camel
-16,lung
-17,cat
-18,specie
-19,man
-20,cov
-21,monkey
-22,acute respiratory illness
-23,s. pneumoniae
-24,inflammation
-25,contagious disease
-26,acute respiratory syndrome
-27,horseshoe bat
-28,pandemic
-29,virus
-30,infectious disease
-31,influenza
-32,child
-33,mouse
-34,people
-35,gastroenteritis
-36,sars cov infection
-37,e. coli
-38,human
-39,person
-40,fmdv
-41,transmissible gastroenteritis virus
-42,respiratory
-43,viral respiratory illness
-44,cattle
-45,acute respiratory syndrome coronavirus 2
-46,sars cov
-47,disease
-48,infection
-49,lung injury
-50,he
-51,murine coronavirus
-52,patient
-53,respiratory illness
-54,respiratory syndrome
+,query_2,label
+0,syndrome,0
+1,viral illness,0
+2,respiratory disease,0
+3,disease progression,0
+4,acute illness,0
+5,porcine,0
+6,transmissible porcine gastroenteritis,0
+7,pig,0
+8,calf,0
+9,transmissible gastroenteritis,0
+10,emerging infectious disease,0
+11,deltacoronavirus,0
+12,rhesus monkey,0
+13,viral,0
+14,severe acute respiratory syndrome coronavirus,0
+15,camel,0
+16,lung,0
+17,cat,0
+18,specie,0
+19,man,1
+20,cov,0
+21,monkey,0
+22,acute respiratory illness,0
+23,s. pneumoniae,0
+24,inflammation,0
+25,contagious disease,0
+26,acute respiratory syndrome,0
+27,horseshoe bat,1
+28,pandemic,0
+29,virus,0
+30,infectious disease,0
+31,influenza,0
+32,child,1
+33,mouse,0
+34,people,1
+35,gastroenteritis,0
+36,sars cov infection,0
+37,e. coli,0
+38,human,1
+39,person,1
+40,fmdv,0
+41,transmissible gastroenteritis virus,0
+42,respiratory,0
+43,viral respiratory illness,0
+44,cattle,0
+45,acute respiratory syndrome coronavirus 2,0
+46,sars cov,0
+47,disease,0
+48,infection,0
+49,lung injury,0
+50,he,0
+51,murine coronavirus,0
+52,patient,1
+53,respiratory illness,0
+54,respiratory syndrome,0

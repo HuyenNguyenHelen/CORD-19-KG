@@ -1,15 +1,15 @@
-,query_3
-0,organ failure
-1,prodrome
-2,vomiting
-3,severe diarrhea
-4,abdominal discomfort
-5,general malaise
-6,symptom
-7,meningeal irritation
-8,discharge
-9,fever
-10,discomfort
-11,illness
-12,headache
-13,respiratory symptom
+,query_3,label
+0,organ failure,0
+1,prodrome,0
+2,vomiting,1
+3,severe diarrhea,1
+4,abdominal discomfort,0
+5,general malaise,1
+6,symptom,0
+7,meningeal irritation,0
+8,discharge,0
+9,fever,1
+10,discomfort,0
+11,illness,1
+12,headache,1
+13,respiratory symptom,0

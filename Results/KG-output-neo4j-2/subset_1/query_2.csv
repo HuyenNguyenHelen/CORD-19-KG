@@ -1,12 +1,12 @@
-,query_2
-0,patient
-1,transmissible gastroenteritis virus
-2,specie
-3,child
-4,fmdv
-5,person
-6,human
-7,murine coronavirus
-8,people
-9,mouse
-10,cat
+,query_2,label
+0,patient,1
+1,transmissible gastroenteritis virus,0
+2,specie,0
+3,child,1
+4,fmdv,0
+5,person,1
+6,human,1
+7,murine coronavirus,0
+8,people,1
+9,mouse,0
+10,cat,0

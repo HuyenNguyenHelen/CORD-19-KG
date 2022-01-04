@@ -1,102 +1,102 @@
-,query_1
-0,race
-1,transmembrane protease serine 2
-2,macrodomain
-3,step
-4,impact
-5,3cl pro
-6,human
-7,call
-8,lab
-9,papr
-10,sirna
-11,pattern
-12,cathepsin l
-13,plps
-14,bthku9
-15,protein e
-16,ifn
-17,antigen
-18,war
-19,alt
-20,set
-21,16
-22,basc
-23,orfx
-24,end
-25,nlrp3
-26,tmprss2
-27,damage
-28,nucleic acid
-29,ga
-30,glycoprotein
-31,zbcov
-32,oc43
-33,rage
-34,m protein ectodomain
-35,small
-36,wave
-37,hla
-38,stigma
-39,pro-inflammatory
-40,igg antibody
-41,mpro
-42,spike protein
-43,gse17400
-44,spike
-45,nsp15
-46,ace2 receptor
-47,hong kong
-48,genome
-49,hku1
-50,ntd
-51,light
-52,tied
-53,homology
-54,ttsps
-55,get
-56,s protein
-57,envelope protein
-58,body
-59,aim
-60,envelope
-61,rr
-62,not
-63,ace2
-64,plasma
-65,trade
-66,autophagy
-67,receptor
-68,interferon
-69,antibody
-70,coronavirus e protein
-71,on
-72,plpro
-73,clone
-74,virion
-75,ifns
-76,spring
-77,il
-78,nl63
-79,cd13
-80,class
-81,platelet
-82,men
-83,host
-84,plp2
-85,tbk1
-86,cooper
-87,cfr
-88,ceacam1a
-89,coronavirus s protein
-90,n protein
-91,toll
-92,protein
-93,rest
-94,s2 subunit
-95,dpp4
-96,large
-97,cell
-98,ccr5
-99,ddx1
-100,fusion
+,query_1,label
+0,race,0
+1,transmembrane protease serine 2,0
+2,macrodomain,0
+3,step,0
+4,impact,0
+5,3cl pro,0
+6,human,0
+7,call,0
+8,lab,0
+9,papr,0
+10,sirna,0
+11,pattern,0
+12,cathepsin l,0
+13,plps,0
+14,bthku9,0
+15,protein e,1
+16,ifn,0
+17,antigen,0
+18,war,0
+19,alt,0
+20,set,0
+21,16,0
+22,basc,0
+23,orfx,0
+24,end,0
+25,nlrp3,0
+26,tmprss2,0
+27,damage,0
+28,nucleic acid,0
+29,ga,0
+30,glycoprotein,0
+31,zbcov,0
+32,oc43,0
+33,rage,0
+34,m protein ectodomain,1
+35,small,0
+36,wave,0
+37,hla,0
+38,stigma,0
+39,pro-inflammatory,0
+40,igg antibody,0
+41,mpro,0
+42,spike protein,1
+43,gse17400,0
+44,spike,1
+45,nsp15,0
+46,ace2 receptor,0
+47,hong kong,0
+48,genome,0
+49,hku1,0
+50,ntd,0
+51,light,0
+52,tied,0
+53,homology,0
+54,ttsps,0
+55,get,0
+56,s protein,1
+57,envelope protein,1
+58,body,0
+59,aim,0
+60,envelope,1
+61,rr,0
+62,not,0
+63,ace2,0
+64,plasma,0
+65,trade,0
+66,autophagy,0
+67,receptor,0
+68,interferon,0
+69,antibody,0
+70,coronavirus e protein,1
+71,on,0
+72,plpro,0
+73,clone,0
+74,virion,0
+75,ifns,0
+76,spring,0
+77,il,0
+78,nl63,0
+79,cd13,0
+80,class,0
+81,platelet,0
+82,men,0
+83,host,0
+84,plp2,0
+85,tbk1,0
+86,cooper,0
+87,cfr,0
+88,ceacam1a,0
+89,coronavirus s protein,1
+90,n protein,1
+91,toll,0
+92,protein,0
+93,rest,0
+94,s2 subunit,0
+95,dpp4,0
+96,large,0
+97,cell,0
+98,ccr5,0
+99,ddx1,0
+100,fusion,0

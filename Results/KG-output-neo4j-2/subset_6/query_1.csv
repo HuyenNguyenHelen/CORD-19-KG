@@ -1,89 +1,89 @@
-,query_1
-0,interferon
-1,not
-2,protein e
-3,spike
-4,ttsps
-5,bthku9
-6,envelope
-7,impact
-8,12
-9,on
-10,spring
-11,stigma
-12,get
-13,tmprss2
-14,mpro
-15,coronavirus e protein
-16,rest
-17,nlrp3
-18,receptor
-19,ceacam1a
-20,ntd
-21,war
-22,large
-23,hku1
-24,tbk1
-25,pro-inflammatory
-26,plpro
-27,orfx
-28,set
-29,light
-30,pattern
-31,plps
-32,macrodomain
-33,dpp4
-34,cooper
-35,small
-36,nl63
-37,damage
-38,host
-39,plp2
-40,spike protein
-41,human
-42,cathepsin l
-43,antigen
-44,antibody
-45,ga
-46,platelet
-47,nsp15
-48,m protein ectodomain
-49,ifns
-50,hong kong
-51,end
-52,trade
-53,gse17400
-54,lab
-55,ddx1
-56,fusion
-57,autophagy
-58,genome
-59,s protein
-60,papr
-61,homology
-62,glycoprotein
-63,class
-64,n protein
-65,oc43
-66,rr
-67,envelope protein
-68,ifn
-69,aim
-70,cell
-71,s2 subunit
-72,zbcov
-73,plasma
-74,ccr5
-75,hla
-76,men
-77,basc
-78,ace2
-79,body
-80,protein
-81,cfr
-82,ace2 receptor
-83,nucleic acid
-84,sirna
-85,wave
-86,cd13
-87,coronavirus s protein
+,query_1,label
+0,interferon,0
+1,not,0
+2,protein e,1
+3,spike,1
+4,ttsps,0
+5,bthku9,0
+6,envelope,1
+7,impact,0
+8,12,0
+9,on,0
+10,spring,0
+11,stigma,0
+12,get,0
+13,tmprss2,0
+14,mpro,0
+15,coronavirus e protein,1
+16,rest,0
+17,nlrp3,0
+18,receptor,0
+19,ceacam1a,0
+20,ntd,0
+21,war,0
+22,large,0
+23,hku1,0
+24,tbk1,0
+25,pro-inflammatory,0
+26,plpro,0
+27,orfx,0
+28,set,0
+29,light,0
+30,pattern,0
+31,plps,0
+32,macrodomain,0
+33,dpp4,0
+34,cooper,0
+35,small,0
+36,nl63,0
+37,damage,0
+38,host,0
+39,plp2,0
+40,spike protein,1
+41,human,0
+42,cathepsin l,0
+43,antigen,0
+44,antibody,0
+45,ga,0
+46,platelet,0
+47,nsp15,0
+48,m protein ectodomain,1
+49,ifns,0
+50,hong kong,0
+51,end,0
+52,trade,0
+53,gse17400,0
+54,lab,0
+55,ddx1,0
+56,fusion,0
+57,autophagy,0
+58,genome,0
+59,s protein,1
+60,papr,0
+61,homology,0
+62,glycoprotein,0
+63,class,0
+64,n protein,1
+65,oc43,0
+66,rr,0
+67,envelope protein,1
+68,ifn,0
+69,aim,0
+70,cell,0
+71,s2 subunit,0
+72,zbcov,0
+73,plasma,0
+74,ccr5,0
+75,hla,0
+76,men,0
+77,basc,0
+78,ace2,0
+79,body,0
+80,protein,0
+81,cfr,0
+82,ace2 receptor,0
+83,nucleic acid,0
+84,sirna,0
+85,wave,0
+86,cd13,0
+87,coronavirus s protein,1

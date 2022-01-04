@@ -1,9 +1,9 @@
-,query_4
-0,expression
-1,diversion
-2,detected
-3,prevention
-4,change
-5,construction
-6,mechanical ventilation
-7,corticosteroid therapy
+,query_4,label
+0,expression,0
+1,diversion,0
+2,detected,0
+3,prevention,0
+4,change,0
+5,construction,0
+6,mechanical ventilation,1
+7,corticosteroid therapy,1

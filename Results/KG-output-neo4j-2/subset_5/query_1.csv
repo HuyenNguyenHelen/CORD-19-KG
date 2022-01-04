@@ -1,83 +1,83 @@
-,query_1
-0,trade
-1,cooper
-2,aim
-3,plpro
-4,dpp4
-5,bthku9
-6,large
-7,spike
-8,s protein
-9,human
-10,plp2
-11,cathepsin l
-12,basc
-13,wave
-14,pro-inflammatory
-15,nl63
-16,ddx1
-17,plasma
-18,spring
-19,get
-20,body
-21,ace2 receptor
-22,men
-23,cd13
-24,antibody
-25,glycoprotein
-26,papr
-27,hla
-28,ntd
-29,gse17400
-30,interferon
-31,ceacam1a
-32,rest
-33,ttsps
-34,orfx
-35,small
-36,class
-37,cell
-38,autophagy
-39,zbcov
-40,rr
-41,cfr
-42,tbk1
-43,antigen
-44,ccr5
-45,envelope
-46,m protein ectodomain
-47,fusion
-48,genome
-49,platelet
-50,end
-51,nsp15
-52,hku1
-53,ifns
-54,set
-55,coronavirus s protein
-56,tmprss2
-57,plps
-58,protein e
-59,war
-60,n protein
-61,impact
-62,light
-63,s2 subunit
-64,ga
-65,coronavirus e protein
-66,envelope protein
-67,oc43
-68,mpro
-69,ace2
-70,pattern
-71,nlrp3
-72,on
-73,stigma
-74,receptor
-75,ifn
-76,damage
-77,protein
-78,macrodomain
-79,homology
-80,hong kong
-81,host
+,query_1,label
+0,trade,0
+1,cooper,0
+2,aim,0
+3,plpro,0
+4,dpp4,0
+5,bthku9,0
+6,large,0
+7,spike,1
+8,s protein,0
+9,human,0
+10,plp2,0
+11,cathepsin l,0
+12,basc,0
+13,wave,0
+14,pro-inflammatory,0
+15,nl63,0
+16,ddx1,0
+17,plasma,0
+18,spring,0
+19,get,0
+20,body,0
+21,ace2 receptor,0
+22,men,0
+23,cd13,0
+24,antibody,0
+25,glycoprotein,0
+26,papr,0
+27,hla,0
+28,ntd,0
+29,gse17400,0
+30,interferon,0
+31,ceacam1a,0
+32,rest,0
+33,ttsps,0
+34,orfx,0
+35,small,0
+36,class,0
+37,cell,0
+38,autophagy,0
+39,zbcov,0
+40,rr,0
+41,cfr,0
+42,tbk1,0
+43,antigen,0
+44,ccr5,0
+45,envelope,1
+46,m protein ectodomain,1
+47,fusion,0
+48,genome,0
+49,platelet,0
+50,end,0
+51,nsp15,0
+52,hku1,0
+53,ifns,0
+54,set,0
+55,coronavirus s protein,1
+56,tmprss2,0
+57,plps,0
+58,protein e,1
+59,war,0
+60,n protein,1
+61,impact,0
+62,light,0
+63,s2 subunit,0
+64,ga,0
+65,coronavirus e protein,1
+66,envelope protein,1
+67,oc43,0
+68,mpro,0
+69,ace2,0
+70,pattern,0
+71,nlrp3,0
+72,on,0
+73,stigma,0
+74,receptor,0
+75,ifn,0
+76,damage,0
+77,protein,0
+78,macrodomain,0
+79,homology,0
+80,hong kong,0
+81,host,0

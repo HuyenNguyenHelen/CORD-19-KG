@@ -1,90 +1,90 @@
-,query_2
-0,transmissible gastroenteritis virus
-1,camel
-2,febrile respiratory illness
-3,respiratory infection
-4,gastroenteritis
-5,cat
-6,epidemic
-7,enteritis
-8,infectious peritonitis virus
-9,monkey
-10,he
-11,rna
-12,common cold
-13,s. pneumoniae
-14,rhesus monkey
-15,human
-16,horseshoe bat
-17,severe acute respiratory syndrome coronavirus
-18,coronaviruses
-19,inflammation
-20,human coronavirus
-21,viral respiratory illness
-22,golden syrian hamster
-23,hamster
-24,disease
-25,feline infectious peritonitis
-26,transmissible gastroenteritis
-27,respiratory syndrome
-28,acute respiratory syndrome
-29,pulmonary damage
-30,fmdv
-31,peritonitis virus
-32,lung injury
-33,murine coronavirus
-34,person
-35,same
-36,influenza
-37,patient
-38,infection
-39,fcovs
-40,renal failure
-41,hyperplasia
-42,porcine
-43,virus
-44,cov
-45,coronavirus pneumonia
-46,infectious bronchitis virus
-47,ilis
-48,acute illness
-49,paramyxovirus
-50,respiratory virus
-51,man
-52,emerging infectious disease
-53,people
-54,respiratory disease
-55,e. coli
-56,community
-57,sars cov infection
-58,syndrome
-59,cattle
-60,respiratory illness
-61,child
-62,deltacoronavirus
-63,infectious respiratory disease
-64,sars cov
-65,pneumonia
-66,lung
-67,respiratory
-68,coronavirus infection
-69,shipping fever
-70,calf
-71,contagious disease
-72,febrile illness
-73,peritonitis
-74,cytokine storm
-75,viral
-76,disease progression
-77,pig
-78,sars epidemic
-79,acute respiratory syndrome coronavirus 2
-80,infectious disease
-81,transmissible porcine gastroenteritis
-82,pandemic
-83,specie
-84,mouse
-85,acute respiratory illness
-86,infectious peritonitis
-87,ards
-88,viral illness
+,query_2,label
+0,transmissible gastroenteritis virus,0
+1,camel,0
+2,febrile respiratory illness,0
+3,respiratory infection,0
+4,gastroenteritis,0
+5,cat,0
+6,epidemic,0
+7,enteritis,0
+8,infectious peritonitis virus,0
+9,monkey,0
+10,he,0
+11,rna,0
+12,common cold,0
+13,s. pneumoniae,0
+14,rhesus monkey,0
+15,human,1
+16,horseshoe bat,1
+17,severe acute respiratory syndrome coronavirus,0
+18,coronaviruses,0
+19,inflammation,0
+20,human coronavirus,0
+21,viral respiratory illness,0
+22,golden syrian hamster,0
+23,hamster,0
+24,disease,0
+25,feline infectious peritonitis,0
+26,transmissible gastroenteritis,0
+27,respiratory syndrome,0
+28,acute respiratory syndrome,0
+29,pulmonary damage,0
+30,fmdv,0
+31,peritonitis virus,0
+32,lung injury,0
+33,murine coronavirus,0
+34,person,1
+35,same,0
+36,influenza,0
+37,patient,1
+38,infection,0
+39,fcovs,0
+40,renal failure,0
+41,hyperplasia,0
+42,porcine,0
+43,virus,0
+44,cov,0
+45,coronavirus pneumonia,0
+46,infectious bronchitis virus,0
+47,ilis,0
+48,acute illness,0
+49,paramyxovirus,0
+50,respiratory virus,0
+51,man,1
+52,emerging infectious disease,0
+53,people,1
+54,respiratory disease,0
+55,e. coli,0
+56,community,0
+57,sars cov infection,0
+58,syndrome,0
+59,cattle,0
+60,respiratory illness,0
+61,child,1
+62,deltacoronavirus,0
+63,infectious respiratory disease,0
+64,sars cov,0
+65,pneumonia,0
+66,lung,0
+67,respiratory,0
+68,coronavirus infection,0
+69,shipping fever,0
+70,calf,0
+71,contagious disease,0
+72,febrile illness,0
+73,peritonitis,0
+74,cytokine storm,0
+75,viral,0
+76,disease progression,0
+77,pig,0
+78,sars epidemic,0
+79,acute respiratory syndrome coronavirus 2,0
+80,infectious disease,0
+81,transmissible porcine gastroenteritis,0
+82,pandemic,0
+83,specie,0
+84,mouse,0
+85,acute respiratory illness,0
+86,infectious peritonitis,0
+87,ards,0
+88,viral illness,0
