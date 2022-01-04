@@ -1,0 +1,366 @@
+,query_6
+0,cr
+1,viral pneumonia
+2,venous thromboembolism
+3,hepatic injury
+4,immunopathology
+5,cardiac event
+6,bovine diarrhea virus
+7,mental health problem
+8,lymphopenia
+9,uterus
+10,fatal
+11,ebola virus
+12,myocarditis
+13,disorder
+14,transmissible gastroenteritis coronavirus
+15,urticaria
+16,common cold
+17,insulin resistance
+18,feline infectious peritonitis
+19,om
+20,tract infection
+21,renal impairment
+22,acute covid-19ry syndrome
+23,direct infection
+24,olfactory dysfunction
+25,sars cov
+26,distress syndrome
+27,image
+28,meningoencephalitis
+29,disease
+30,acute disease
+31,sars epidemic
+32,acute respiratory syndrome
+33,myocardial injury
+34,acute infection
+35,type
+36,public
+37,anxiety
+38,lung damage
+39,illness
+40,psychological distress
+41,h1n1 swine flu
+42,pleural effusion
+43,injury
+44,mental distress
+45,lung disease
+46,ageing
+47,influenza virus
+48,fever
+49,2009
+50,granulomatous disease
+51,fipv
+52,local disease
+53,central nervous system infection
+54,meningitis
+55,coagulopathy
+56,virus disease
+57,hypercoagulable
+58,syndrome coronavirus
+59,relapse
+60,lu
+61,acute respiratory illness
+62,bacterial infection
+63,acute kidney injury
+64,anosmia
+65,respiratory complication
+66,viral respiratory disease
+67,aki
+68,feline immunodeficiency virus
+69,high fever
+70,acute respiratory syndrome coronavirus 2
+71,sars cov infection
+72,respiratory illness
+73,human coronavirus
+74,cytokine release syndrome
+75,gastroenteritis virus
+76,cat
+77,hypoxemic respiratory failure
+78,systemic infection
+79,respiratory syndrome coronavirus
+80,headache
+81,influenza pandemic
+82,hit
+83,pulmonary infection
+84,severe acute respiratory syndrome coronavirus
+85,nosocomial infection
+86,h1n1 influenza
+87,hiv
+88,mers
+89,epidemic
+90,renal injury
+91,hepatitis
+92,respiratory tract disease
+93,virus associated
+94,pulmonary inflammation
+95,conjunctivitis
+96,infectious peritonitis virus
+97,infectious disease
+98,encephalitis
+99,viral illness
+100,liver damage
+101,infectious illness
+102,malaise
+103,febrile respiratory illness
+104,rsv
+105,hypoxemic failure
+106,high
+107,hemophagocytic syndrome
+108,infectious lung disease
+109,global health
+110,widespread disease
+111,hypokalemia
+112,aspergillosis
+113,severe infection
+114,hypertension
+115,vasculitis
+116,nasal discharge
+117,disease caused by virus
+118,hypoxaemia
+119,health problem
+120,cutaneous vasculitis
+121,middle east respiratory syndrome
+122,sinus node dysfunction
+123,cov
+124,mp
+125,respiratory tract illness
+126,clinical deterioration
+127,dic
+128,syndrome
+129,hypoalbuminemia
+130,pandemic
+131,thromboembolism
+132,he
+133,jhmv
+134,thrombocytopenia
+135,mhv
+136,respiratory virus
+137,cardiac injury
+138,acute necrotizing encephalopathy
+139,communicable disease
+140,cdc
+141,tb
+142,renal failure
+143,infection
+144,kobuvirus
+145,malignancy
+146,viral hemorrhagic fever
+147,alveolar damage
+148,rhabdomyolysis
+149,neurologic disorder
+150,hypoxemia
+151,acute febrile respiratory illness
+152,flu
+153,h5n1 influenza
+154,still disease
+155,coronavirus infection
+156,coronavirus infectious disease
+157,rhinovirus
+158,infectious peritonitis
+159,human virus
+160,multi-organ failure
+161,face
+162,lymphocytopenia
+163,viral respiratory infection
+164,major
+165,emerging disease
+166,rna virus
+167,bovine viral diarrhea virus
+168,pulmonary syndrome
+169,chronic disease
+170,same
+171,multiple organ failure
+172,ecmo
+173,ground glass opacity
+174,transmissible
+175,influenza
+176,virus
+177,peritonitis virus
+178,acute respiratory disease
+179,aid
+180,cortex
+181,pandemic infectious disease
+182,dmvs
+183,mucosal
+184,cov infection
+185,acute febrile illness
+186,betacoronavirus
+187,nephritis
+188,acute respiratory distress syndrome
+189,secondary infection
+190,acute
+191,neurological disorder
+192,adenovirus
+193,necrotizing encephalopathy
+194,cardiovascular complication
+195,pandemic influenza
+196,respiratory infection
+197,ali
+198,pulmonary aspergillosis
+199,fatigue
+200,gb
+201,inflammation
+202,pulmonary involvement
+203,scov
+204,diarrhea
+205,mouse hepatitis virus
+206,dysfunction
+207,infectious
+208,covid pandemic
+209,kidney injury
+210,emerging
+211,respiratory distress
+212,skin lesion
+213,systemic granulomatous disease
+214,alopecia
+215,androgenetic alopecia
+216,contagious
+217,acute encephalopathy
+218,febrile illness
+219,nervous system infection
+220,depression
+221,coronavirus outbreak
+222,pe
+223,viral infection
+224,bcg
+225,feline infectious peritonitis virus
+226,immunodeficiency virus
+227,respiratory symptom
+228,kawasaki disease
+229,seborrheic dermatitis
+230,panic
+231,contagious disease
+232,osteonecrosis
+233,sars coronavirus
+234,lower
+235,primary infection
+236,maternal mortality
+237,bocavirus
+238,adrenal insufficiency
+239,zoonotic disease
+240,icu
+241,regression
+242,respiratory condition
+243,respiratory tract infection
+244,severe
+245,vaccine
+246,hypoxia
+247,clinical syndrome
+248,gastrointestinal symptom
+249,influenza a
+250,acute respiratory failure
+251,me
+252,respiratory
+253,interstitial pneumonia
+254,liver
+255,coinfection
+256,viral respiratory illness
+257,229e
+258,public health
+259,alphacoronavirus 1
+260,pandemic disease
+261,gyrovirus
+262,cold
+263,airborne
+264,lower respiratory infection
+265,diarrhoea
+266,thrombosis
+267,rhinovirus infection
+268,respiratory distress syndrome
+269,cytokine storm
+270,respiratory failure
+271,respiratory syndrome
+272,viral disease
+273,middle east respiratory syndrome coronavirus
+274,h1n1
+275,rna
+276,acute infectious disease
+277,cardiomyopathy
+278,peritonitis
+279,appendicitis
+280,nipah virus
+281,coagulopathies
+282,dm
+283,lung inflammation
+284,cns
+285,viral hepatitis
+286,fip
+287,community
+288,mental health
+289,long
+290,clotting disorder
+291,lung injury
+292,throat infection
+293,coronavirus pneumonia
+294,acute respiratory syndrome coronavirus
+295,diabetes
+296,atypical pneumonia
+297,sari
+298,respiratory disease
+299,seasonal influenza
+300,viral lung disease
+301,respiratory viral disease
+302,hepatitis e virus
+303,astrovirus
+304,encephalopathy
+305,coronaviruses
+306,enveloped virus
+307,inflammatory
+308,inflammatory disease
+309,stroke
+310,infectious respiratory disease
+311,plague
+312,asymptomatic infection
+313,retinal degeneration
+314,obesity
+315,ibv
+316,pulmonary disease
+317,degeneration
+318,hypercoagulable state
+319,cough
+320,acute respiratory infection
+321,lung
+322,ccv
+323,liver injury
+324,hcw
+325,leukopenia
+326,cardiovascular disease
+327,acute illness
+328,influenza b
+329,bilateral pneumonia
+330,pneumonia
+331,respiratory infectious disease
+332,tract illness
+333,ct
+334,viral
+335,miscarriage
+336,stress cardiomyopathy
+337,rotavirus
+338,necrosis
+339,hemagglutinating encephalomyelitis virus
+340,betacoronaviruses
+341,diffuse alveolar damage
+342,ards
+343,coronavirus disease
+344,plan
+345,hyperinflammation
+346,diabetic
+347,nose
+348,disease progression
+349,cancer
+350,condition
+351,ml
+352,hemorrhagic fever
+353,pulmonary complication
+354,systemic disease
+355,epidemic disease
+356,cvd
+357,infectious bronchitis virus
+358,respiratory virus infection
+359,sepsis
+360,emerging infectious disease
+361,communicable respiratory disease
+362,shipping fever
+363,fibrosis
+364,dad
