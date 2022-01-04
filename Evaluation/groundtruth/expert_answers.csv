@@ -1,0 +1,55 @@
+QueryID,answer
+Q1,Membrane Protein (M Protein)
+Q1,Envelope Protein (E Protein)
+Q1,Nucleocapsid Protein (N Protein) and Viral RNA
+Q1,Spike Protein (S Protein)
+Q2," Bat,[horseshoe bat]"
+Q2, mink
+Q2, white-tailed deer
+Q2, pangolin
+Q2, human
+Q3,cough
+Q3,fever
+Q3,amnesia
+Q3,headache
+Q3,myalgia
+Q3,fatigue
+Q3,sweating[massive]
+Q3,diarrhea
+Q3,dyspnea
+Q3,malaise
+Q3,persistant  pain or pressure in chest
+Q3,ILI [influenza like illness]
+Q3,anosmia/hyposmia
+Q3,ageusia
+Q3,hypoxemia
+Q3,sore throat
+Q3,chills
+Q3,nasal congestion
+Q3,rush and/ or enanthema
+Q3,nausea
+Q3,conjunctivitis
+Q3,abdominal pain
+Q3,lightheadedness and confusion
+Q4,symptomatic treatment
+Q4,antiviral drug
+Q4,oxygen therapy/mechanical ventilation
+Q4,immunemodulators
+Q4,anti-inflammatory agent/steroid treatment/corticosteroid therapy
+Q4,antibiotics
+Q5,tocilizumab
+Q5,hydroxychloroquine
+Q5,Acetaminophen
+Q5,Antihistamines like : montelukast or Desloratadine
+Q5,remdesivir
+Q5,favipiravir
+Q5,Antitussive especially: Bromhexine
+Q5,Azithromycin
+Q5,Levofloxacin
+Q5,ivermectin
+Q5,(S)-(?)-colchicine
+Q5,Naproxen
+Q5,Dexamethasone or other Corticosteroids
+Q5,Famotidine
+Q5,Chloroquine
+Q5,lopinavir
