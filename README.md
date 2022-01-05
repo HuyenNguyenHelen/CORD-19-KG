@@ -21,7 +21,8 @@ Accuracy = tp/(tp+fn)
 where:
 - tp: number of terms* that are shared between the correct answer and the prediction.
 - fp: number of terms that are in the prediction but not in the correct answer.
-- fn: number of terms that are in the correct answer but not in the prediction.
+- fn: number of terms that are in the correct answer but not in the prediction. [^1]
+[^1]: https://kierszbaumsamuel.medium.com/f1-score-in-nlp-span-based-qa-task-5b115a5e7d41
 
 
 
