@@ -81,7 +81,7 @@
 79,pig,0
 80,subgroup,0
 81,common cold,0
-82,hd,
+82,hd,0
 83,sars coronavirus,0
 84,working,0
 85,same,0
@@ -190,5 +190,5 @@
 188,cdc,0
 189,neutropenia,0
 190,respiratory pathogen,0
-191,horseshoe bat,0
+191,horseshoe bat,1
 192,viral respiratory illness,0

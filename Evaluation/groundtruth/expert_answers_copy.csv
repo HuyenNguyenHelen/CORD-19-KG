@@ -1,0 +1,55 @@
+QueryID,answer
+Q1,"Membrane Protein, M Protein, m protein ectodomain"
+Q1,"Envelope Protein, E Protein, protein e, envelope, coronavirus e protein"
+Q1,"Nucleocapsid Protein, N Protein"
+Q1,"Spike Protein, S Protein, coronavirus s protein, spike"
+Q2," Bat, horseshoe bat"
+Q2, mink
+Q2, white-tailed deer
+Q2, pangolin
+Q2," human, child, man, men, patient, people, person, woman"
+Q3,"cough, dry cough, coughing"
+Q3,fever
+Q3,amnesia
+Q3,headache
+Q3,"myalgia, muscle pain"
+Q3,fatigue
+Q3,sweating[massive]
+Q3,"diarrhea, severe diarrhea"
+Q3,dyspnea
+Q3,"malaise, general malaise"
+Q3,"persistant  pain or pressure in chest, breathlessness"
+Q3,"ILI, influenza like illness, illness"
+Q3,"anosmia, hyposmia"
+Q3,ageusia
+Q3,hypoxemia
+Q3,sore throat
+Q3,"chills, chill"
+Q3,nasal congestion
+Q3,"rush, enanthema"
+Q3,"nausea, vomiting, vomit"
+Q3,conjunctivitis
+Q3,abdominal pain
+Q3,lightheadedness and confusion
+Q4,symptomatic treatment
+Q4,"antiviral drug, antiviral therapy, "
+Q4,"oxygen therapy, mechanical ventilation"
+Q4,"immunemodulator, immunisation, immunosuppression, passive immunotherapy"
+Q4,"anti-inflammatory agent, steroid treatment, corticosteroid therapy"
+Q4,antibiotics
+Q5,tocilizumab
+Q5,hydroxychloroquine
+Q5,Acetaminophen
+Q5,"Antihistamines, montelukast, Desloratadine"
+Q5,remdesivir
+Q5,favipiravir
+Q5,"Antitussive, Bromhexine"
+Q5,Azithromycin
+Q5,Levofloxacin
+Q5,ivermectin
+Q5,"(S)-(?)-colchicine, colchicine"
+Q5,Naproxen
+Q5,"Dexamethasone, Corticosteroids, Corticosteroid"
+Q5,Famotidine
+Q5,Chloroquine
+Q5,lopinavir
