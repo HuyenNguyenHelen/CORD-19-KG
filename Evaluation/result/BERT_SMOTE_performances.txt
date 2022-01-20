@@ -1,0 +1,7 @@
+gene_BERT_SMOTE={'fpr': array([0.        , 0.28571429, 1.        ]), 'tpr': array([0.        , 0.92715232, 1.        ]), 'auc': 0.8207190160832545, 'accuracy': 0.875, 'macro-F1': 0.827437446074202}
+species_BERT_SMOTE={'fpr': array([0.        , 0.06741573, 1.        ]), 'tpr': array([0.        , 0.86486486, 1.        ]), 'auc': 0.8987245672638932, 'accuracy': 0.895, 'macro-F1': 0.8945544927317919}
+symptom_BERT_SMOTE={'fpr': array([0.        , 0.18681319, 1.        ]), 'tpr': array([0.        , 0.95412844, 1.        ]), 'auc': 0.883657626776893, 'accuracy': 0.89, 'macro-F1': 0.8874680306905371}
+treatment_BERT_SMOTE={'fpr': array([0.        , 0.29411765, 1.        ]), 'tpr': array([0.        , 0.94782609, 1.        ]), 'auc': 0.826854219948849, 'accuracy': 0.845, 'macro-F1': 0.8351019973935476}
+disease_BERT_SMOTE={'fpr': array([0.        , 0.18644068, 1.        ]), 'tpr': array([0.       , 0.9929078, 1.       ]), 'auc': 0.9032335617261691, 'accuracy': 0.94, 'macro-F1': 0.923896499238965}
+drug_BERT_SMOTE={'fpr': array([0.        , 0.09433962, 1.        ]), 'tpr': array([0.        , 0.97959184, 1.        ]), 'auc': 0.9426261070465922, 'accuracy': 0.96, 'macro-F1': 0.948024948024948}
+all_BERT_SMOTE={'fpr': array([0.  , 0.65, 1.  ]), 'tpr': array([0.        , 0.98888889, 1.        ]), 'auc': 0.6694444444444445, 'accuracy': 0.925, 'macro-F1': 0.721163676921647}
