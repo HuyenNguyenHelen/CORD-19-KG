@@ -9,8 +9,8 @@
 ## Q&A system
 ### Queries and groundtruth
 ### Retrieving answers
-### Evaluation
-
+### EVALUATION
+#### Knowledge Graph
 ```
 precision = tp/(tp+fp)	
 recall=tp/(tp+fn)	
@@ -24,7 +24,10 @@ where:
 - fn: number of terms that are in the correct answer but not in the prediction. [^1]
 [^1]: https://kierszbaumsamuel.medium.com/f1-score-in-nlp-span-based-qa-task-5b115a5e7d41
 
-
+#### Q&A system
+![alt text](https://github.com/HuyenNguyenHelen/CORD-19-KG/blob/master/Evaluation/result/recall.png)
+![alt text](https://github.com/HuyenNguyenHelen/CORD-19-KG/blob/master/Evaluation/result/precision.png)
+![alt text](https://github.com/HuyenNguyenHelen/CORD-19-KG/blob/master/Evaluation/result/F1.png)
 
 
 
