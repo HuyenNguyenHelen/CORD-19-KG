@@ -1,0 +1,1001 @@
+,disease,final-eval
+0,mediterranean fever,1
+1,hha,0
+2,"herpes virus 1, human",1
+3,pancreatitis a a complication,0
+4,atrophy of the hippocampus,1
+5,acute arthritis,1
+6,primary angle closure glaucoma,0
+7,"encephalomyelitis virus, mouse",1
+8,emilia yellow vein virus,1
+9,"fibrosis, idiopathic pulmonary",1
+10,pcp infection,1
+11,allergic rash,0
+12,tape allergy,0
+13,tursiops adenovirus 1,1
+14,neonatal asphyxia,1
+15,pulmonary abscess,1
+16,aga2,0
+17,"enteropathy, protein-losing",1
+18,"ulcer, mouth",0
+19,sprue,0
+20,lymphoproliferative disease virus,1
+21,tuberculoses,1
+22,tod,0
+23,macroglossia,1
+24,hhh syndrome,0
+25,periapical disease,1
+26,citrus tristeza virus,1
+27,merkel cell polyomaviruses,1
+28,protoporphyria,1
+29,neurocysticercosis,1
+30,chronic tracheitis,1
+31,rheumatic fever,1
+32,kala-azar,0
+33,ml iii,0
+34,spg11,0
+35,right bundle branch block,0
+36,guinea pig cytomegalovirus,1
+37,environmental lung disease,1
+38,camel parainfluenza virus 4,1
+39,dactylitis,1
+40,baldness,0
+41,syndrome viral,0
+42,inclusion body myositis,1
+43,ns8,0
+44,barley yellow dwarf virus-gav,1
+45,dengue virus type 3,1
+46,kidney cyst,1
+47,"meningitis, unspecified",1
+48,light flash,0
+49,adrenal disorder,1
+50,cns degeneration,0
+51,"embolism, brain",1
+52,postpartum pyrexia,1
+53,cucumber mosaic virus,1
+54,sinus node dysfunction,1
+55,hyperuricaemic,1
+56,visna,0
+57,morbilliform exanthem,1
+58,ahs,0
+59,"illness, chronic",0
+60,cgh,0
+61,leech,0
+62,"cirrhosis, alcoholic",1
+63,granulomatous prostatitis,1
+64,"astrovirus, turkey",1
+65,wellfleet bay virus,1
+66,sensorimotor axonal neuropathy,1
+67,disease caused by bacteria,0
+68,acute urinary tract infection,1
+69,type 1 gaucher disease,1
+70,re-emerging infectious disease,1
+71,inappropriate sinus tachycardia,0
+72,flavivirus,1
+73,autoimmune gastritis,1
+74,cd,0
+75,clonorchis sinensis infection,1
+76,portal fibrosis,1
+77,generalized muscle atrophy,0
+78,"syndrome, down",0
+79,bacterial peritonitis,1
+80,eosinophilia-myalgia syndrome,0
+81,baboon endogenous virus,1
+82,mouse cytomegalovirus 1,1
+83,cryoglobulinemic vasculitis,0
+84,ssrna negative-strand virus,1
+85,maedi-visna virus,1
+86,shoulder-hand syndrome,0
+87,el1,0
+88,pneumonia aid,1
+89,whipworms,0
+90,herpes zoster virus,1
+91,polyradiculopathies,1
+92,necrotising pneumonia,1
+93,otitis externa,0
+94,sat 3,0
+95,bacteriophage ms2,1
+96,intermittent claudication,0
+97,polychondritis relapsing,1
+98,phnom-penh bat virus,1
+99,schizophrenia 6,1
+100,tuberculoma,1
+101,chorioretinitis,1
+102,acfs,0
+103,varicella zoster virus,1
+104,infection herpes,1
+105,virus respiratory,1
+106,lymphocryptovirus genus,1
+107,respiratory tract infection,1
+108,massive lymphadenopathy,1
+109,coronaviruses,1
+110,human mastadenovirus c,1
+111,intrapartum asphyxia,1
+112,g,0
+113,ivf,0
+114,mrsa sepsis,1
+115,raynauds disease,1
+116,scarlatina,1
+117,california encephalitis virus infection,1
+118,rotator cuff tear,0
+119,ccm3,0
+120,prospect hill virus,1
+121,"disease, emerging communicable",1
+122,ursid gammaherpesvirus 1,1
+123,mycosis,1
+124,covid-19ry artery aneurysm,1
+125,gross virus,0
+126,hereditary spastic paraplegia,1
+127,hemoglobin s,0
+128,borrelia burgdorferi infection,1
+129,strawberry chlorotic fleck-associated virus,1
+130,acute graft-versus-host disease,1
+131,central hypogonadism,1
+132,glomerular necrosis,1
+133,myocardial bridging,1
+134,unclassified dsdna virus,1
+135,atopic rhinitis,1
+136,"infection, encephalitis",1
+137,"infections, imported",1
+138,ovarian failure,1
+139,clostridium difficile colitis,1
+140,"virus, aid",1
+141,communicable infectious disease,1
+142,torch syndrome,0
+143,tomato yellow vein streak virus,1
+144,tardive dyskinesia,1
+145,rrs1,0
+146,basal pneumonia,1
+147,himetobi p virus,1
+148,second degree av block,0
+149,m multiple sclerosis,1
+150,colacovirus,1
+151,intrauterine growth retard,1
+152,protein-losing gastroenteropathy,1
+153,demyelinating disease,1
+154,tungiasis,1
+155,toxic polyneuropathy,1
+156,bombyx mori bidensovirus,0
+157,disease of the circulatory system,1
+158,icca,0
+159,"virus, bovine diarrhea",1
+160,visna,0
+161,avian paramyxovirus 3,1
+162,h. pylorus infection,1
+163,"disease, pulmonary",0
+164,avascular necrosis,1
+165,"infections, asymptomatic",1
+166,proteinosis alveolar,1
+167,isd,0
+168,infected dog bite,0
+169,unclassified archaeal virus,1
+170,pediatric infectious disease,1
+171,acute rheumatic heart disease,1
+172,upsilonpapillomavirus 1,1
+173,disease caused by a parasite,1
+174,human foamy virus,1
+175,hepatitis in child,1
+176,rcm,0
+177,muteness,0
+178,ulceroglandular tularemia,1
+179,nafld,0
+180,ophthalmic artery occlusion,1
+181,primary hyperthyroidism,1
+182,pulmonic stenosis,1
+183,ghon complex,0
+184,cerebral lupus,1
+185,pulmonary mycosis,1
+186,fetal resorption,1
+187,pmc,0
+188,"infections, mycoplasma",1
+189,mimoreovirus,1
+190,ureter,0
+191,nasopalatine duct cyst,0
+192,primate erythroparvovirus 1,1
+193,arthritic change,0
+194,stlv-1,0
+195,congenital long qt syndrome,0
+196,"diseases, genetic",1
+197,bacteriophage ms2,1
+198,dtd,0
+199,deficiency of vitamin b12,0
+200,thottimvirus,1
+201,chronic kidney disease due to diabetes mellitus,1
+202,phnom-penh bat virus,1
+203,left ventricular hypertrophy,1
+204,"virus, fungal",1
+205,urethritis,1
+206,pleural infection,1
+207,iga nephropathy,1
+208,nijmegen breakage syndrome,0
+209,cryofibrinogenemia,1
+210,dermatopathy,0
+211,simian vacuolating virus 40,1
+212,"agranulocytosis, feline",1
+213,human t-lymphotropic virus 4,1
+214,marafivirus,1
+215,non healing wound,0
+216,chronic cholestasis,1
+217,"pneumonia, necrotizing",1
+218,brucellosis in cattle,1
+219,perianal dermatitis,1
+220,herpes infection,1
+221,fowl plague,1
+222,nutrition disorder,0
+223,"compression, spinal cord",0
+224,type b oncovirus,1
+225,macular atrophy,1
+226,developmentally delayed,0
+227,globoid cell leukodystrophy,1
+228,gestational hypertension,0
+229,recurrent herpes simplex,0
+230,liver,0
+231,nec,0
+232,hepatic cyst,1
+233,hepatitis c virus infection,1
+234,hypercholesteremia,1
+235,reiter syndrome,0
+236,hereditary ataxia,1
+237,marburg disease,1
+238,"renal failure, acute",1
+239,intestinal volvulus,1
+240,crest,0
+241,bracoviruses,1
+242,inflammatory skin disease,1
+243,leech infestation,1
+244,parapharyngeal abscess,1
+245,hantavirus infection,1
+246,phototoxicity,0
+247,pancreatic inflammation,1
+248,aortic valve insufficiency,0
+249,erythrovirus,1
+250,antibiotic-associated diarrhea,0
+251,oesophagostomiasis,1
+252,argentine hemorrhagic fever virus,1
+253,aminoacidaemia,1
+254,fop,0
+255,diabetes type ii,1
+256,human hepatitis c virus,1
+257,childhood asthma,1
+258,adult dermatomyositis,1
+259,schizophrenia 4,1
+260,equine encephalitis,1
+261,lymphocytic interstitial pneumonia,1
+262,bovine lentivirus,1
+263,bronchitis emphysema,1
+264,hyperchylomicronemia,1
+265,macrophagic myofasciitis,1
+266,purpuric rash,0
+267,retrobulbar optic neuritis,1
+268,iris atrophy,0
+269,"viruses, fungal",1
+270,tapvr,0
+271,elevated ph,0
+272,trigger finger,0
+273,myocarditis,1
+274,inner ear infection,1
+275,flaccid tetraplegia,1
+276,unilateral vocal cord paresis,1
+277,visna/maedi virus,1
+278,immune-complex glomerulonephritis,1
+279,adpkd,0
+280,bilateral renal agenesis,1
+281,"enterovirus 68, human",1
+282,paragonimus westermani infection,1
+283,av block,0
+284,frog adenovirus,1
+285,corneal angiogenesis,1
+286,sneddons syndrome,0
+287,pneumonia due to pneumocystis carinii,1
+288,lacaziosis,1
+289,california encephalitis virus,1
+290,junin arenavirus,1
+291,dba2,0
+292,mers- cov,0
+293,endo,0
+294,short-chain acyl-coa dehydrogenase deficiency,0
+295,group b streptococcal infection,1
+296,aura visual,0
+297,consumptive coagulopathy,1
+298,acute kidney infection,1
+299,"virus, fungal",1
+300,pregnancy-induced hypertension,0
+301,silverwater virus,1
+302,mve,0
+303,pregnancy-induced hypertension,1
+304,human coronavirus nl,1
+305,bat hepadnavirus,1
+306,"disease, celiac",1
+307,periodic fever,1
+308,anug,0
+309,yellowtail ascites virus,1
+310,heartwater disease,1
+311,prospect hill virus,1
+312,hot spot,0
+313,end-stage kidney disease,1
+314,non-ketotic hyperosmolar coma,1
+315,tubular necrosis,1
+316,infection kidney,1
+317,oc43,0
+318,muh,0
+319,otc deficiency,0
+320,aortic dissection,1
+321,ancylostoma duodenale,1
+322,canvas,0
+323,edema disease of swine,1
+324,tdp-43 proteinopathies,1
+325,white spot,0
+326,feline infectious peritonitis virus,1
+327,thyroid atrophy,1
+328,torque teno sus virus 1b,1
+329,bombyx mori latent virus,1
+330,cherubism,1
+331,"aneurysm, cerebral",1
+332,nose infection,1
+333,"infections, mycoplasma",1
+334,valvular stenosis,1
+335,american trypanosomiasis,1
+336,tomato leaf deformation virus,1
+337,"disease, nasal",1
+338,"fever, crimean-congo hemorrhagic",1
+339,alstroemeria virus x,1
+340,ringworm,0
+341,giardia duodenalis infection,1
+342,fungal skin infection,1
+343,mucous membrane pemphigoid,1
+344,african swine fever virus infection,1
+345,finch circovirus,1
+346,varicose vein,0
+347,brain stem disease,1
+348,welt,0
+349,east syndrome,0
+350,catarrhal conjunctivitis,1
+351,corneal endothelial decompensation,1
+352,distributive shock,0
+353,"infection, secondary",1
+354,male reproductive disorder,0
+355,hyperthyroxinemia,1
+356,infectious colitis,1
+357,third nerve palsy,0
+358,obesity hypoventilation syndrome,0
+359,felid herpesvirus 1,1
+360,honeysuckle ringspot virus,1
+361,xanthomatosis,1
+362,infection due to mycoplasma pneumoniae,1
+363,parosmia,1
+364,pyloric ulcer,0
+365,almendravirus,1
+366,immunodeficiency 39,0
+367,effect of high altitude,0
+368,"phages, ms2",0
+369,red cell aplasia,0
+370,stickler syndrome,0
+371,bladder hypertrophy,1
+372,"gvhd, chronic",0
+373,lues,0
+374,thrombocytosis 3,1
+375,severe giardiasis,1
+376,horsegram yellow mosaic virus,1
+377,carp edema virus,1
+378,sigmapapillomavirus 1,1
+379,choroidal rupture,1
+380,salmonid herpesvirus 3,1
+381,onyong nyong virus,1
+382,immune system disorder,0
+383,fungal infection,1
+384,rrv,0
+385,vestibular system disorder,0
+386,adrenal cortical hyperfunction,0
+387,sapelovirus,1
+388,japanese enceph,1
+389,vitreous detachment,0
+390,orthostatic hypotension,1
+391,keratoconjunctivitis,1
+392,pongine herpesvirus 3,1
+393,av block,0
+394,pfaffia mosaic virus,1
+395,"virus, satellite",1
+396,vascular headache,0
+397,hypothyroid myopathy,1
+398,spumavirus,1
+399,disseminated viral infection,1
+400,drug-induced constipation,1
+401,inguinal lymphadenopathy,1
+402,hepatitis c infection,1
+403,disseminated candidiasis,1
+404,congenital cmv infection,1
+405,shy-drager syndrome,0
+406,pneumococcal infection,1
+407,colonic stricture,1
+408,hemorrhagic pneumonia,1
+409,alpharetrovirus,1
+410,quail coronavirus italy/elvia/2005,0
+411,"infection, poliomyelitis",1
+412,bat nairovirus,1
+413,levivirus,1
+414,bacterial infectious disease,1
+415,cave complex,0
+416,upper respiratory tract infection,1
+417,imperata yellow mottle virus,1
+418,brachial plexopathy,1
+419,lipofuscinosis,1
+420,cerebral aspergillosis,1
+421,infection acute,1
+422,dengue virus 2,1
+423,hiv enteropathy,1
+424,mimiviruses,1
+425,"fasciitis, nodular",1
+426,human metapneumovirus a,1
+427,chediak-higashi syndrome,0
+428,turnip yellow mosaic virus,1
+429,hepatitis b viral,1
+430,interhemispheric cyst,1
+431,schistosomiasis,1
+432,mucosal disease virus,1
+433,staphylococcal pneumonia,1
+434,oral thrush,0
+435,dis,0
+436,enthesitis-related arthritis,1
+437,unclassified lyssavirus,1
+438,nuclear polyhedrosis virus,1
+439,spinal cord abscess,1
+440,neodiprion lecontei nucleopolyhedrovirus,1
+441,gi inflammation,0
+442,reductase deficiency,0
+443,oropharyngeal thrush,1
+444,otd,0
+445,"sclerosis, multiple",1
+446,mpgn,0
+447,candle,0
+448,prion disease,1
+449,scleroderma,1
+450,syringomyelia,1
+451,psipapillomavirus,1
+452,cmcs,0
+453,fluctuance,0
+454,chorioretinitis,1
+455,ampullavirus,1
+456,hemorrhagic dengue,1
+457,disease of premature infant,0
+458,gastrointestinal dysfunction,1
+459,family picornaviridae,1
+460,cyclic hematopoiesis,1
+461,adenovirus sp,1
+462,cerebrospinal fluid pleocytosis,1
+463,vascular occlusive disease,1
+464,pc4,0
+465,tropical ulcer,0
+466,nocardioses,1
+467,"mosaic virus, tobacco",1
+468,fourniers gangrene,1
+469,chronic low back pain,0
+470,rosellinia necatrix megabirnavirus 1,1
+471,ear disease,1
+472,bile duct stricture,0
+473,hyperuricaemic,1
+474,glass,0
+475,globuloviridae,1
+476,throat inflammation,0
+477,treacher-collins syndrome,0
+478,choroidal neovascular membrane,0
+479,herpes virus 8,1
+480,iron malabsorption,0
+481,"febrile seizure, simple",1
+482,coxsackie virus a,1
+483,"encephalopathy, acute",1
+484,toxoplasma gondii infection,1
+485,pseudorabies virus,1
+486,leech,0
+487,enterovirus or rhinovirus,1
+488,fibrosis lung,1
+489,hiv subtype g,0
+490,white spot lesion,1
+491,intestinal gangrene,1
+492,testicular disease,1
+493,aids-like syndrome,0
+494,pulmonary siderosis,1
+495,pseudo cowpox virus,1
+496,tonsillar enlargement,0
+497,renal disease,1
+498,chilblain lupus,1
+499,cystic fibrosis liver disease,1
+500,pneumonia due to other virus not elsewhere classified,1
+501,tupavirus,1
+502,bladder neck obstruction,0
+503,zenker diverticulum,1
+504,bamboo mosaic virus,1
+505,venous ulcer,0
+506,digestive tract disease,1
+507,peritoneal infection,1
+508,rheumatoid arthritis and other inflammatory polyarthropathies,1
+509,ocular nystagmus,1
+510,e hepatitis,1
+511,wilson-mikity syndrome,0
+512,aquareovirus,1
+513,inhalation pneumonia,1
+514,epstein-barr virus infection,1
+515,ltbi,0
+516,disorder of amino acid metabolism,0
+517,rhabdovirus,1
+518,chronic uremia,1
+519,htlv i,0
+520,unclassified primate lentivirus group,1
+521,xmrv virus,1
+522,rotaviral enteritis,1
+523,swine vesicular disease,1
+524,chronic bacterial prostatitis,1
+525,neurogenic dysphagia,1
+526,turkey associated porprismacovirus 1,1
+527,atypical porcine pestivirus,1
+528,ns12,0
+529,acute follicular conjunctivitis,1
+530,age related macular degeneration,0
+531,severe acute respiratory syndrome virus,1
+532,acne vulgaris,1
+533,unclassified alphacoronavirus,1
+534,itk deficiency,0
+535,shigella dysenteriae,1
+536,"tract infection, urinary",1
+537,demodex infestation,1
+538,myelopathies,1
+539,acute hepatic failure,0
+540,monkey pox virus,1
+541,nerve problem,0
+542,thickened nail,0
+543,heymann nephritis,1
+544,ureter,0
+545,exercise induced asthma,1
+546,middle ear effusion,0
+547,alcelaphine herpesvirus 1,1
+548,bat coronavirus hipposideros/ghanaboo/348/2008,1
+549,salmonid herpesvirus 1,1
+550,kidney disorder,0
+551,"rhinitis, allergic",1
+552,porcine respiratory and reproductive syndrome virus,1
+553,chronic sialadenitis,1
+554,vertebral anomaly,0
+555,bloody diarrhea,1
+556,orthopoxvirus,1
+557,hiv nephropathy,1
+558,"pain, menstrual",0
+559,bacilladnaviridae,1
+560,"aneurysm, cerebral",1
+561,iga deficiency,0
+562,marnaviridae,1
+563,aez,0
+564,agep,0
+565,hps5,0
+566,sickle cell anaemia,1
+567,alvernaviridae,1
+568,variola major virus,1
+569,atrioventricular block,0
+570,"disease, graf",1
+571,acute hemorrhagic encephalitis,1
+572,mrsa infection,1
+573,covid-19ry disease,1
+574,rare disease,1
+575,ancylostomiasis,1
+576,fungemia,1
+577,ovine progressive pneumonia,1
+578,meningitis,1
+579,ebolavirus infection,1
+580,spinocerebellar ataxia 3,1
+581,bpd,0
+582,vitamin b3 deficiency,0
+583,mismatch repair deficiency,0
+584,intestinal parasitic infection,1
+585,waardenburg syndrome,0
+586,pneumonia due to pseudomonas,1
+587,papa,0
+588,rpc,0
+589,congenital hypomyelinating neuropathy,1
+590,convergent strabismus,1
+591,hyperinsulinemia,1
+592,syphilis infection,1
+593,canine bocavirus 3,1
+594,feline papillomavirus,1
+595,dada2,0
+596,"hepatic failure, acute",0
+597,sfts bunyavirus,1
+598,agm1,0
+599,decubitus,1
+600,brucella abortus infection,1
+601,bending,0
+602,adhesive meningitis,1
+603,renovascular,0
+604,"diseases, myocardial",1
+605,tam,0
+606,myelomalacia,1
+607,ependymitis,1
+608,theileriosis,1
+609,pregnancy and hypertension,0
+610,azoospermia,1
+611,bile reflux,0
+612,deltapolyomavirus,1
+613,community-acquired infection,1
+614,tropical eosinophilia,1
+615,secondary tuberculosis,1
+616,"immunodeficiency disease, congenital",1
+617,streptococcal meningitis,1
+618,pharyngotonsillitis,1
+619,"gingivostomatitis, herpetic",1
+620,cadds,0
+621,dem,0
+622,malignant pleural effusion,1
+623,urinary schistosomiases,1
+624,saimiriine herpesvirus 1,1
+625,reversible cortical blindness,0
+626,metabolic alkalosis,1
+627,mesenteric vascular insufficiency,0
+628,rida,0
+629,campylobacter diarrhea,1
+630,cerebellar disease,1
+631,scid due to ada deficiency,0
+632,chronic tonsillitis,1
+633,fibromyalgia,1
+634,myocardial bridging,1
+635,renal impairment,0
+636,corneal infection,1
+637,dermatitis,1
+638,herpes simplex type 2 infection,1
+639,bat hepatovirus,1
+640,polyarthralgia,1
+641,hepatitis immune,1
+642,marburgvirus,1
+643,iddm1,0
+644,renal dysplasia,1
+645,mink bocavirus,1
+646,fitzgerald trait,1
+647,iliopsoas abscess,1
+648,subacute sclerosing panencephalitis,1
+649,buldecovirus,1
+650,canine adenovirus,1
+651,leporid herpesvirus 1,1
+652,prediabetes,1
+653,lymphocystivirus,1
+654,rat virus,1
+655,"diseases, asymptomatic",1
+656,disorder of function of stomach,0
+657,giardia infection,1
+658,hepatitis e virus genotype,1
+659,hyperbilirubinemia,1
+660,vur,0
+661,leukocyte adhesion deficiency syndrome,0
+662,profound anemia,1
+663,osteophyte,0
+664,guangdong greater green snake arterivirus,1
+665,crd1,0
+666,chlamydia pneumoniae infection,1
+667,leber hereditary optic atrophy,1
+668,cucurbit aphid-borne yellow virus,1
+669,human polyomavirus 4,1
+670,staphylococcal phage,1
+671,hyperlipasemia,1
+672,cranial nerve vii palsy,0
+673,frontal sinusitis,1
+674,parkinsonian syndrome,0
+675,sensory disturbance,0
+676,"respiratory syncytial virus, bovine",1
+677,crescentic glomerulonephritis,1
+678,influenza d virus,1
+679,"herpesvirus 1, bovine",1
+680,paludism,1
+681,autosomal recessive disorder,0
+682,meadow saffron breaking virus,1
+683,"syndrome, cushing",0
+684,epilepsy syndrome,0
+685,intra-abdominal infection,1
+686,leishmania rna virus 1,1
+687,myxomatosis virus,1
+688,congenital cmv infection,1
+689,amyotrophic lateral sclerosis 5,1
+690,"conjunctivitis, mucopurulent",1
+691,small pupil,0
+692,hantavirus puumala,1
+693,four corner hantavirus,1
+694,chilblain lesion,1
+695,oropharyngeal,1
+696,murine polyomavirus,1
+697,"microangiopathy, thrombotic",1
+698,deltaretrovirus,1
+699,extrapyramidal syndrome,0
+700,cutaneous hypersensitivity,1
+701,human papillomavirus type 31,1
+702,impetigo,1
+703,tonsil enlargement,0
+704,travel-associated infectious disease,1
+705,hibiscus chlorotic ringspot virus,1
+706,fcu,0
+707,spontaneous bacterial peritonitis,1
+708,murray valley encephalitis,1
+709,sialocele,0
+710,ogo,0
+711,human papillomavirus 10,1
+712,zaire ebolavirus,1
+713,megabat bufavirus 3,1
+714,exercise-induced bronchospasm,1
+715,stomach distended,0
+716,japanese b encephalitis virus,1
+717,sid,0
+718,prostatic abscess,1
+719,orbital myositis,1
+720,nudiviruses,1
+721,mitral valve stenosis,1
+722,transient proteinuria,1
+723,equine polyomavirus,1
+724,phipapillomavirus,1
+725,acute eosinophilic pneumonia,1
+726,torradovirus,1
+727,african cassava mosaic virus,1
+728,early childhood caries,0
+729,fcu,0
+730,struck,0
+731,childhood asthma,1
+732,megavirales,1
+733,citrullinemia,1
+734,cricetid herpesvirus 2,1
+735,sleep-disordered breathing,0
+736,pulmonary sclerosis,1
+737,colacovirus,1
+738,hyperfibrinolysis,1
+739,hepatopancreatic parvovirus,1
+740,microlithiasis,1
+741,"hand, foot and mouth disease",1
+742,satsuma dwarf virus,1
+743,immune disorder,0
+744,related pregnancy,0
+745,dandy-walker complex,0
+746,anteroseptal myocardial infarction,1
+747,metabolic bone disorder,0
+748,canine mastadenovirus a,1
+749,whipworm infestation,1
+750,zygomycoses,1
+751,drug-induced liver disease,1
+752,malignant smallpox,0
+753,sleep bruxism,0
+754,aviadenoviruses,1
+755,crb,0
+756,"disease, stomach",1
+757,anal condylomata,1
+758,primary immune deficiency disorder,0
+759,biliary cirrhosis,1
+760,merosin-deficient congenital muscular dystrophy,1
+761,chaga cardiomyopathy,1
+762,veterinary parasitology,1
+763,osler-weber-rendu disease,1
+764,splenic infarct,1
+765,nutritional problem,0
+766,status migrainosus,0
+767,rotavirus i,1
+768,face,0
+769,canine coronaviruses,1
+770,zetatorquevirus,1
+771,chronic widespread pain,0
+772,thromboembolism | pulmonary,1
+773,x-linked chronic granulomatous disease,1
+774,primate lentivirus group,1
+775,spumavirinae,1
+776,momusv,0
+777,infect bacteroides,0
+778,familial dilated cardiomyopathy,1
+779,vascular edema,1
+780,hypercholesterolemia,1
+781,post hemorrhagic hydrocephalus,1
+782,tupanvirus deep ocean,1
+783,multinodular thyroid,0
+784,sleep disordered breathing,0
+785,mammalian type c retrovirus group,1
+786,elevated amylase,0
+787,abhs,0
+788,varicella zoster virus,1
+789,echovirus 22,1
+790,mrx,0
+791,infratovirus 1,1
+792,meningoencephalitides,1
+793,rapid atrial fibrillation,1
+794,open pneumothorax,0
+795,occupational dermatitis,1
+796,tupavirus,1
+797,dscr,0
+798,halzoun,0
+799,tospoviridae,1
+800,rhopapillomavirus 1,1
+801,leptomeningeal cyst,1
+802,systemic infection,1
+803,ancylostoma duodenale,1
+804,cat disease,1
+805,"myopathy, congenital",1
+806,chronic active hepatitis,1
+807,nephropathia epidemica virus,1
+808,hantavirus fever,1
+809,"virus, avian erythroblastosis",1
+810,human papillomavirus 1,1
+811,tomato leaf curl arusha virus,1
+812,"cva, cerebrovascular accident",0
+813,mucopurulent conjunctivitis,1
+814,"hepatitis, serum",1
+815,htlv-1 infection,1
+816,lateral sclerosis,1
+817,peanut clump virus,1
+818,hhv 5,0
+819,"insufficiency, venous",0
+820,organising pneumonia,1
+821,myocardial stunning,0
+822,respiratory enteric orphan virus,1
+823,painful bladder syndrome,0
+824,common variable immune deficiency,0
+825,cr,0
+826,thas,0
+827,pancarditis,1
+828,aichi virus,1
+829,tobacco necrosis virus d,1
+830,rodent disease,1
+831,cough variant asthma,0
+832,intractable headache,0
+833,atrial premature beat,0
+834,trematode infection,1
+835,renal papillary necrosis,1
+836,colonic disease,1
+837,paragonimiasis,1
+838,moderate hepatic impairment,0
+839,tobacco streak virus,1
+840,aortic regurgitation,1
+841,economo encephalitis,1
+842,red sea bream iridovirus,1
+843,fundus albipunctatus,1
+844,coronavirus sars,1
+845,caped,0
+846,phage m13,0
+847,intra-abdominal hypertension,1
+848,intestinal infarction,1
+849,neuropathy,1
+850,caprine herpesvirus 1,1
+851,lpg,0
+852,disease caused by a parasite,1
+853,vascular disease,1
+854,salmonella meningitis,1
+855,chronic kidney disease stage 5,1
+856,alphabaculovirus,1
+857,covid-19ry artery ectasia,1
+858,"tachycardia, ventricular",1
+859,tuberculosis in cattle,1
+860,"adenoviruses, human",1
+861,giant blood marseillevirus,1
+862,human herpesvirus-6 infection,1
+863,jaagsiekte sheep retrovirus,1
+864,caprine disease,1
+865,sabia virus,1
+866,surfactant dysfunction,1
+867,blood urine,0
+868,adult disease,0
+869,pepper vein banding virus,1
+870,mycoviruses,1
+871,"inflammation, pulmonary",0
+872,multiple disability,0
+873,helper virus,1
+874,right ventricular failure,0
+875,simplexvirus,1
+876,ivory coast ebolavirus,1
+877,pressure urticaria,1
+878,asymptomatic disease,1
+879,cecity,0
+880,cestodiasis,1
+881,"dysphagia, esophageal",1
+882,spm,0
+883,generalized tonic clonic seizure,1
+884,iron overload,0
+885,deformed wing virus,1
+886,cercopithecine herpesvirus 5,1
+887,human b lymphotropic virus,1
+888,transudative pleural effusion,1
+889,macular oedema,1
+890,nose infection,1
+891,asthmatic crisis,1
+892,tick-borne encephalitis,1
+893,"diseases, myocardial",1
+894,mamastrovirus 14,1
+895,intestinal parasitism,1
+896,patchy hair loss,0
+897,kidney infection,1
+898,inflammatory disease,1
+899,tfm,0
+900,malnourishment,0
+901,paronychia,1
+902,autosomal recessive hies,1
+903,herpes virus infection,1
+904,mural thrombosis,1
+905,htlv-i,0
+906,porcine sapelovirus,1
+907,ascariosis,1
+908,chronic osteomyelitis,1
+909,avascular bone necrosis,1
+910,extrasystole,0
+911,tracheal obstruction,1
+912,nicotinamide deficiency,0
+913,rotavirus b,1
+914,cutaneous disorder,0
+915,sars,0
+916,bacillary angiomatosis,1
+917,aichivirus f,1
+918,hrds,0
+919,nyamanini virus,1
+920,tuberculous arthritis,1
+921,hiv encephalitis,1
+922,hypercoagulability state,1
+923,bleeding disorder,0
+924,oesophageal stricture,0
+925,dengue hemorrhagic fever,1
+926,svv-001,0
+927,powassan encephalitis,1
+928,dengue virus 3,1
+929,periodic limb movement disorder,0
+930,vertical diplopia,1
+931,torradovirus,1
+932,human gammaherpesvirus 4,1
+933,cerebral aneurysm,1
+934,bocavirus,1
+935,chronic frontal sinusitis,1
+936,eec,0
+937,acute nephritis,1
+938,pneumocystis,1
+939,longevity 1,0
+940,eperythrozoonosis,1
+941,parvovirinae,1
+942,malleus,0
+943,hereditary ataxia,1
+944,topocuvirus,1
+945,nodular episcleritis,1
+946,alsv-a,0
+947,human papillomavirus hpv,1
+948,oesophageal candidiasis,1
+949,fatty liver infiltration,0
+950,supraglottitis,1
+951,pseudotuberculosis,1
+952,baboon orthoreovirus,1
+953,nudiviridae,1
+954,equid gammaherpesvirus 2,1
+955,mucopolysaccharidosis vii,1
+956,morbillivirus infection,1
+957,hci,0
+958,glycogen storage disorder,0
+959,human granulocytic ehrlichiosis,1
+960,dilated cardiomyopathy,1
+961,karshi virus,1
+962,mesial temporal sclerosis,1
+963,behcet disease,1
+964,"copd, chronic obstructive pulmonary disease",1
+965,ncmh,0
+966,uveoparotid fever,1
+967,recombinant virus,1
+968,sw,0
+969,sd4,0
+970,momulv,0
+971,aichi virus,1
+972,benign nephrosclerosis,1
+973,cytomegalovirus colitis,1
+974,toxic epidermal necrolysis,1
+975,brady-tachy syndrome,0
+976,seizure disorder,0
+977,african swine fever virus,1
+978,trisomy 13,1
+979,postpartum fever,1
+980,rhynchosia golden mosaic sinaloa virus,1
+981,recurrent uri,0
+982,porcine circovirus-2,1
+983,pulmonary bulla,1
+984,iritis,1
+985,pericoronitis,1
+986,pancreatic cyst,1
+987,picobirnavirus gi,1
+988,adenovirus c,1
+989,huaiyangshan banyangvirus,1
+990,meibomian gland dysfunction,1
+991,ards,0
+992,tahyna virus,1
+993,wv,0
+994,typhoidal tularemia,1
+995,cerebellar syndrome,0
+996,"disease, end-stage kidney",1
+997,proximal myopathy,1
+998,gross virus,1
+999,"virus, h7n7",1

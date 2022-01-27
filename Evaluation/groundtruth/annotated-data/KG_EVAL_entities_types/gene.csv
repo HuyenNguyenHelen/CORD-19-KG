@@ -1,0 +1,1001 @@
+,gene,final-eval
+0,thy1,1
+1,diacylglycerol kinase alpha,1
+2,ubc9,1
+3,clint1,1
+4,smoc1,1
+5,vps54,1
+6,leucyl-phenylalanine,0
+7,monocyte-derived macrophage,0
+8,ubl4a gene,1
+9,corest,1
+10,bgas,0
+11,musashi-1,1
+12,t helper 2 cell,0
+13,transposable element,1
+14,isolation membrane,0
+15,adam12,1
+16,cytoplasmic side of npc,0
+17,tcc,0
+18,srsf1,0
+19,bnip3l gene,1
+20,nik,1
+21,trafd1,1
+22,small nuclear ribonucleoprotein complex,1
+23,6p21.2,0
+24,pgt,0
+25,vegfa,0
+26,transportan,0
+27,prim2,1
+28,cc,0
+29,rac,1
+30,prk,1
+31,cd58,1
+32,nipsnap1,1
+33,bcl3,1
+34,syvn1,1
+35,myl6b,1
+36,kars,1
+37,tmem16a,1
+38,rare,0
+39,high molecular weight kininogen,1
+40,p50,1
+41,cnc,0
+42,brca1-associated protein 1,1
+43,efp,1
+44,progranulin,1
+45,rna-binding motif protein 15,1
+46,tubb2a,1
+47,cd4 gene,1
+48,clspn,0
+49,sae1,1
+50,ribb,0
+51,vopt,0
+52,map1b,1
+53,hsp70b,1
+54,cd2,1
+55,cryopreserved cell,0
+56,serine palmitoyltransferase small subunit a,1
+57,ovary-specific acidic protein,1
+58,protein kinase d2,1
+59,bub1b,1
+60,tpx,1
+61,fas1,1
+62,cep-18770,0
+63,cyp2b6,1
+64,clc-3,1
+65,elf2,1
+66,ski8,1
+67,vpac2,1
+68,sh3bgrl3,1
+69,ag1,1
+70,intercellular adhesion molecule 3,1
+71,tlr4,1
+72,pinch,0
+73,karyopherin-alpha,1
+74,prkr,1
+75,contractile fiber part,0
+76,cst,1
+77,swa,1
+78,srf,1
+79,z-leu-leu-leu-al,0
+80,glycopeptides,0
+81,gga3,1
+82,retinoic acid-inducible gene 1,1
+83,v-src,1
+84,friend leukemia virus integration 1 gene,1
+85,gasr,1
+86,macrophage-inducible c-type lectin,0
+87,hsp-60,1
+88,n-chlorotaurine,0
+89,rasp,0
+90,shps-1,1
+91,furrow,0
+92,granulocytic cell,0
+93,sansalvamide a,0
+94,cap2,1
+95,cathepsin e,1
+96,irf3,1
+97,40 ribosomal protein s11,1
+98,cytoplasmic membrane,0
+99,plk,0
+100,tsri,0
+101,osteoinductive factor,1
+102,mtor complex 1,1
+103,spt5,1
+104,ankyrin 1,1
+105,1-Oct,0
+106,rian,1
+107,ev2,1
+108,unp,0
+109,rock-i,1
+110,indian hedgehog,1
+111,cpg2,1
+112,vps52,1
+113,lyf1,1
+114,whn,1
+115,aeo,0
+116,enterochromaffin cell,0
+117,endou,1
+118,late endosome membrane,0
+119,parathyroid hormone,1
+120,light meromyosin,0
+121,cd3+cd8+ lymphocyte,0
+122,pkd2,1
+123,cxcl14,1
+124,serpina1,1
+125,gaba transporter,1
+126,pme,1
+127,t helper 1 cell,0
+128,phosphomevalonate kinase,1
+129,t-lymphocyte,0
+130,igf1,1
+131,microvillus,0
+132,hey1,1
+133,calm2,1
+134,post,0
+135,cell wall of gram-positive bacteria,0
+136,ssr,0
+137,spi1,1
+138,herpesvirus entry mediator,0
+139,igkv2d-40,1
+140,pde10a,1
+141,ddx1 gene,1
+142,g21,1
+143,multi-vesicular body,0
+144,liprin,1
+145,17q21,0
+146,glycomacropeptide,0
+147,majusculamide c,0
+148,ga17,1
+149,host endoplasmic reticulum membrane,0
+150,pan2,1
+151,"2,3-diaminobutanoic acid",0
+152,dic,1
+153,npn,1
+154,mbp,1
+155,pawr,1
+156,insulin-like growth factor binding protein 3,1
+157,zis,1
+158,pcsk3,1
+159,xtrp2,1
+160,ptp-1b,1
+161,pid1,1
+162,lcp,1
+163,mag gene,1
+164,ny-eso-1,1
+165,rmp,1
+166,sf1,1
+167,mk5,1
+168,myh7 gene,1
+169,β-glucan receptor,0
+170,g17,1
+171,leu-arg,0
+172,atp1b3,1
+173,prrt1,1
+174,matrin 3,1
+175,keratin 3,1
+176,ptb,1
+177,dipeptidyl peptidase 9,1
+178,zfyve1,1
+179,asp-glu,0
+180,lipid bilayer,0
+181,mmp10,1
+182,prb1,1
+183,ctc,1
+184,l23,1
+185,galactocerebrosidase,1
+186,id2,1
+187,asp1,1
+188,b-myb,1
+189,betacellulin,1
+190,atm,1
+191,cadm1,1
+192,hk2,1
+193,tsy,0
+194,inclusion body,0
+195,g-cell,0
+196,lrdd,1
+197,enkelytin,0
+198,hoxa9,1
+199,replication protein a2,1
+200,enpp1,1
+201,cell-substrate junction,0
+202,mitogen-activated protein kinase kinase 4,1
+203,pmn,0
+204,limd1,1
+205,capg,1
+206,membrane microdomains,0
+207,antitrypsin,0
+208,ahsp,1
+209,fact complex,0
+210,exon junction complex,1
+211,arl6,1
+212,retinoic acid receptor beta,1
+213,fcgrt gene,1
+214,slam,1
+215,nat8,1
+216,antithrombin iii,1
+217,opalin,1
+218,ct-322,0
+219,pept1,1
+220,tech,0
+221,ta4,1
+222,cathepsin l gene,1
+223,myo1c,1
+224,hgl,1
+225,mrpl52,1
+226,heavy chain,0
+227,protein kinase inhibitor,1
+228,choline acetyltransferase,1
+229,tir domain-containing adapter molecule 1,1
+230,kng1,1
+231,g17,1
+232,cb2 receptor,0
+233,gb5,0
+234,c8g,1
+235,factor xiiib,1
+236,rest,1
+237,21-Feb,0
+238,cfi,1
+239,rpgr,1
+240,epcam,1
+241,ddh,0
+242,5-hydroxy-l-tryptophan,0
+243,hairy cell,0
+244,homolog of drosophila toll gene,1
+245,ofe,0
+246,micromegakaryocyte,0
+247,cem15,1
+248,pro180,1
+249,hh2,0
+250,hemoglobin complex,0
+251,hpta,1
+252,matrin 3,1
+253,rbm1,1
+254,nmu,1
+255,receptor for advanced glycation end-products,0
+256,esa1,1
+257,cystatin sn,1
+258,thyroperoxidase,1
+259,ppa2,1
+260,skp1,1
+261,bag-5,1
+262,src-like kinase,1
+263,ccnk,1
+264,lacz,1
+265,5q31.1,0
+266,shp,1
+267,elabela,1
+268,calm2,1
+269,mtnr1b,1
+270,tspan1,1
+271,hsa-mir-1246,0
+272,rhd,1
+273,fbxl2,1
+274,otubain 1,0
+275,nucleolar rna-associated protein,1
+276,peptide 84,1
+277,dna polymerase beta,1
+278,dkk4,1
+279,rna helicase rig-i,0
+280,smooth er,0
+281,tnap,0
+282,p150,1
+283,17q11.2,0
+284,fla3,1
+285,ccn3,1
+286,pdgf aa,0
+287,frp,1
+288,11q13,0
+289,endosomal sorting complex required for transport machinery,0
+290,ck5,0
+291,caps2,1
+292,clr,0
+293,op2,1
+294,ifrd1,1
+295,clathrin coat,0
+296,ahrr,1
+297,hla-dp,1
+298,mbnl1,1
+299,atgl,1
+300,uridine/cytidine kinase 2,1
+301,k14,1
+302,baf,0
+303,inhibitor of bruton tyrosine kinase,0
+304,kns,1
+305,gad,1
+306,hypoparathyroidism,0
+307,smooth endoplasmic reticulum,0
+308,naive b cell,0
+309,body oil,0
+310,protofilament,0
+311,platelet-activating factor receptor,1
+312,il-18 receptor complex,1
+313,lhfpl3,1
+314,wrc,0
+315,hef1,1
+316,siglec-l1,1
+317,nlp,1
+318,oga,1
+319,focal contact,0
+320,retinoic acid-inducible gene i,1
+321,pa28g,1
+322,ano2 gene,1
+323,plek,1
+324,th-17 cell,0
+325,autophagosome membrane,0
+326,alp1,1
+327,taa-specific ctl,0
+328,cav2,1
+329,tnfr1-associated death domain protein,1
+330,chymotrypsinogen a,1
+331,nrp,1
+332,hsp25,1
+333,commd1,1
+334,adrenocorticotropic hormone receptor,1
+335,actr,1
+336,scg2,1
+337,spinorphin,0
+338,xlf,1
+339,cd44,1
+340,aif,1
+341,ncm,1
+342,apoa,1
+343,med24,1
+344,2-Sep,0
+345,cdtb,1
+346,cdc7,1
+347,sone,0
+348,stm,1
+349,interferon regulatory factor 5,1
+350,nectin cell adhesion molecule 4,1
+351,socs,1
+352,vrna,0
+353,mitofusin 2,1
+354,atp1b1,1
+355,cyclin b3,1
+356,tif,1
+357,snora59b,1
+358,ssb4,1
+359,dl-alanine,0
+360,polr2i,1
+361,rab4,1
+362,radial spoke,0
+363,sox1,1
+364,atp5l,1
+365,gene structure,1
+366,ap2m1,1
+367,eukaryotic translation initiation factor 4g,1
+368,snapin,1
+369,dna2,1
+370,pfkm,1
+371,l-fabp,1
+372,linc00263,1
+373,rit,1
+374,mll1,1
+375,nf-yc,1
+376,cdc2l2,1
+377,ctnt,1
+378,hbp1,1
+379,l36a,1
+380,nibp,1
+381,symplostatin 4,0
+382,nup62,1
+383,menin,1
+384,enzyme gene,1
+385,dna-pk complex,0
+386,phosphodiesterase 4c,1
+387,sncv,0
+388,ighv3-30,1
+389,hspa6,1
+390,ctgf,1
+391,lim domain kinase 1,1
+392,cesr,1
+393,hsa-mir-12132,0
+394,mt-nd5 gene,1
+395,eto,1
+396,il6 gene,1
+397,klrd1,1
+398,z18,0
+399,histocompatibility gene,1
+400,cd21,1
+401,nxp2,1
+402,amelogenin,1
+403,fhx,1
+404,rer1,1
+405,kruppel-like factor 4,1
+406,gp63,1
+407,trp-185,1
+408,mmset,1
+409,p85,1
+410,tip-1,1
+411,casein kinase 1 ε,1
+412,acaa1,1
+413,endosomal adaptor protein,1
+414,fpr3,1
+415,albumin solution,0
+416,cgi-18,0
+417,great,0
+418,caspofungina,0
+419,mavs gene,1
+420,mo15,1
+421,hd2,1
+422,17p13.2,0
+423,aldh1a3,1
+424,chloroplast stroma,0
+425,synaptic vesicle,1
+426,crym,1
+427,uba52,1
+428,hdac,1
+429,mte,1
+430,rbpi,1
+431,oat3,1
+432,nup50,1
+433,inhibitory interneuron,0
+434,immunoglobulin superfamily containing leucine-rich repeat,0
+435,igk gene,1
+436,swa,1
+437,mmp gene,1
+438,ccnb3,1
+439,sels,1
+440,lak cell,0
+441,exportin 1,1
+442,gaucher cell,0
+443,n-myc gene,1
+444,ca-030,0
+445,sars gene,1
+446,ulk complex,1
+447,vps4b,1
+448,p2y2,1
+449,r16,0
+450,rnap ii complex,0
+451,beta-glucuronidase,1
+452,cik cell,0
+453,mgat5,1
+454,gns,1
+455,tdp-43,1
+456,gmk,1
+457,erbb4,1
+458,son dna binding protein,1
+459,"t-cells, natural killer",0
+460,golgin 160,1
+461,srbd1,1
+462,mrp6,1
+463,dmpk gene,1
+464,adrenocorticotropic hormone,0
+465,zeb1,1
+466,cyclosporine h,0
+467,bye1,1
+468,siv gp41,0
+469,glycyl-l-leucine,0
+470,arg-val,0
+471,cjd,0
+472,sirt6,1
+473,fzd4,1
+474,vps33a,1
+475,cfd,1
+476,somatomedin c,1
+477,neuronal cell adhesion molecule,1
+478,cnn2,1
+479,dicarboxylic amino acid,0
+480,med23,1
+481,ptprs,1
+482,boll,1
+483,ksp37,1
+484,rasa3,1
+485,clock,0
+486,pter,1
+487,virion,1
+488,phlda2,1
+489,ankyrin repeat domain 1,1
+490,manb,1
+491,rnaseh2b,1
+492,aasdh gene,1
+493,β-gc,1
+494,eukaryotic elongation factor 2 kinase,1
+495,pcrh,1
+496,pro 542,1
+497,csl,1
+498,rhce,1
+499,neoplastic plasma cell,0
+500,bbp,1
+501,atlastin,1
+502,ang,1
+503,cell memory,0
+504,fpr1,1
+505,card2,0
+506,apc regulator,1
+507,rlk,1
+508,bsn,1
+509,protein arginine methyltransferase 7,1
+510,irp,1
+511,thrb,1
+512,ead,1
+513,ectosome,0
+514,cell lymphoma,0
+515,vwd,0
+516,ppm1d,1
+517,ww domain containing e3 ubiquitin protein ligase 1,1
+518,irak3,1
+519,19q13.4,0
+520,foreign body type giant cell,0
+521,gadd45b,1
+522,bfd,1
+523,podosomes,1
+524,cd8+ t-lymphocyte,0
+525,enterochelin,0
+526,hct-116 cell,0
+527,neutrophil elastase,1
+528,ptprc,1
+529,trb3,1
+530,taf6l,1
+531,cdc42,1
+532,faim,1
+533,host cell outer membrane,0
+534,pate,1
+535,jaz,0
+536,irisin,1
+537,aven,1
+538,vav3,1
+539,sv2b,1
+540,cdk11,1
+541,snord24,1
+542,irf2bp2,1
+543,70 ribosome,0
+544,mto,1
+545,gaa,1
+546,fibroblast growth factor gene,1
+547,pick1,1
+548,pancreatic delta cell,0
+549,tmem18,1
+550,peak3,1
+551,mtnd3,1
+552,tmx1,1
+553,trim3,1
+554,cin85,1
+555,epoxomicin,0
+556,cd180,1
+557,tango,1
+558,epg5,1
+559,tem,1
+560,casamino acid,0
+561,rel gene,1
+562,"oncogene, myb",1
+563,microcolin a,1
+564,ccsp,1
+565,nzf,1
+566,dmd,1
+567,tcf7,1
+568,sting,1
+569,p71,1
+570,slco4c1,1
+571,tmx1,1
+572,csfr,1
+573,igf,1
+574,pam gene,1
+575,znf80,1
+576,dmh,1
+577,gp 41,1
+578,chloride intracellular channel 4,1
+579,cava,1
+580,qki,1
+581,ephrin b2,1
+582,mir-17-92,1
+583,bsas,1
+584,upp,1
+585,rat cell line,0
+586,dihydrodipicolinate synthase,0
+587,hfe,1
+588,truncated bid,1
+589,growth hormone inducible transmembrane protein,1
+590,ntc,1
+591,stabilin 2,1
+592,synaptoporin,1
+593,ifna1 gene,1
+594,arg,1
+595,pgy3,1
+596,h-cgas,1
+597,tcim,1
+598,microfibril,1
+599,insulin receptor substrate 2,1
+600,eif2c2,1
+601,vpu gene,1
+602,cdt2,1
+603,cart,1
+604,calca,1
+605,neuraminidase 3,1
+606,tara,1
+607,pepa,1
+608,cypa,1
+609,ppg,1
+610,parabasal cell,0
+611,gle1,1
+612,mtorc2,1
+613,drb1,1
+614,duox2 gene,1
+615,penumbra,1
+616,membrane coat,1
+617,tom20,1
+618,g protein-coupled receptor 75,1
+619,ubxn1,1
+620,homeobox d cluster,1
+621,hes-1,1
+622,beta defensins,1
+623,periplasmic space,0
+624,folylpolyglutamate synthetase,1
+625,prm3,1
+626,snap-25,1
+627,dio2,1
+628,l-selectin,1
+629,gml,1
+630,hla-dqa2,1
+631,zcrb1,1
+632,necrosome,0
+633,urh49,1
+634,19p13.1,0
+635,high molecular weight kininogen,1
+636,cd41a,1
+637,ddh2,1
+638,nfe2l3,1
+639,protein kinase inhibitor,1
+640,tk gene,1
+641,kmi-008,0
+642,arkadia,1
+643,nlrp7,1
+644,endo,1
+645,nod1 gene,1
+646,havcr1 gene,1
+647,rpl7,1
+648,arginine and lysine,0
+649,fibroblast growth factor 2,1
+650,ube2f,1
+651,xmp,1
+652,spc3,1
+653,sex-determining region y,1
+654,genomic,0
+655,igf-ii,1
+656,olfactory receptor neuron,0
+657,eno2,1
+658,esa,1
+659,rb1,1
+660,ttr,1
+661,axil,1
+662,foxp1 gene,1
+663,asif,0
+664,htl,1
+665,prc17,0
+666,eif4a2,1
+667,intraepithelial t cell,0
+668,oip5-as1,1
+669,par3,1
+670,artificial gene,1
+671,phec,1
+672,mgcr,1
+673,inlu,0
+674,gdap2,1
+675,rheb,1
+676,syt,1
+677,pro-urokinase,0
+678,vps36 gene,1
+679,bnp,1
+680,trp-trp,0
+681,thl,1
+682,t13,0
+683,tlh,1
+684,apobec,1
+685,lmnb2,1
+686,enbrel,0
+687,clip,1
+688,cd160,1
+689,cd154,1
+690,fuz,1
+691,nr0b2,1
+692,u62a,1
+693,steap3,1
+694,siderocyte,0
+695,tyrosine kinase receptor,0
+696,coiled-coil domain-containing protein 2,1
+697,erg3,1
+698,cetn3,1
+699,insulinoma-associated 1,1
+700,zinc finger protein 331,1
+701,rab27,1
+702,lsd1,1
+703,prohibitin 2,1
+704,ciita,1
+705,cd50,1
+706,skin fibroblast,0
+707,t cell precursor,0
+708,fxy2,1
+709,p400,0
+710,lime,1
+711,tryptophan 5-monooxygenase,1
+712,mecp2 gene,1
+713,u54,1
+714,phf6,1
+715,k 4,1
+716,ornithine transcarbamylase,1
+717,eaca,0
+718,protein aggregate,1
+719,ecsc,1
+720,ptip,1
+721,il12b,1
+722,heterogeneous nuclear ribonucleoprotein k,1
+723,gxii,0
+724,sjs,0
+725,p28,1
+726,tremacamra,0
+727,"protein kinase c, delta",1
+728,lipoprotein lipase gene,1
+729,golgi integral membrane protein,1
+730,nd2,1
+731,trpv1,1
+732,v-mos gene,1
+733,alg8,1
+734,pgk,1
+735,primary cell wall,0
+736,rli,1
+737,prostate cancer antigen 3,1
+738,poc,0
+739,igf i,1
+740,sarcomere,1
+741,properdin,1
+742,pkd2l1,1
+743,lcp1,1
+744,cell target,0
+745,kal,1
+746,cancer susceptibility gene,1
+747,vanc1,1
+748,interleukin 5,1
+749,wdr26,1
+750,lard,0
+751,s29,1
+752,c-x-c motif chemokine ligand 11,1
+753,extracellular,0
+754,snord112,1
+755,sh2d1a gene,1
+756,il-18,1
+757,fat droplet,0
+758,them6,1
+759,biotinidase,0
+760,mr-1,0
+761,selenop,1
+762,nidogen,1
+763,znf217,1
+764,carbetocin,0
+765,mid49,1
+766,insr,1
+767,pab1,1
+768,protegrin-1,0
+769,colony-stimulating factor 3,1
+770,nli,1
+771,perforin,1
+772,biliverdin reductase b,0
+773,gac-1,1
+774,mav,1
+775,slc22a3,1
+776,interleukin-33,1
+777,osterix,1
+778,pmd,0
+779,arvd,0
+780,thril,1
+781,"scavenger receptor class f, member 1",1
+782,igl,1
+783,mdv,0
+784,ubxd1,1
+785,risc complex,0
+786,rn7sl1,1
+787,protein pp52,1
+788,cholesterol 25-hydroxylase,1
+789,muc5b gene,1
+790,ec cell,0
+791,h3k27ac,0
+792,gcb,0
+793,serine/threonine protein kinase 1,1
+794,langerin,1
+795,dale,1
+796,b7-h2,1
+797,autologous dendritic cell,0
+798,cos-1,1
+799,trn,1
+800,frem1,1
+801,igif,1
+802,sync,1
+803,pcd,1
+804,foxa2,1
+805,crv,0
+806,irp2,1
+807,gfr,1
+808,mdc2,1
+809,stud,1
+810,clec4l,1
+811,kdr,1
+812,ps22,1
+813,nkcc1,1
+814,ms4a4a,1
+815,vps16,1
+816,strep-tag,0
+817,saps2,1
+818,ed5,1
+819,clu1,1
+820,mrp-1,1
+821,rnaset2,1
+822,p160,1
+823,wac,1
+824,pres,0
+825,s1pr2,1
+826,zona pellucida,1
+827,klk9,1
+828,prion,1
+829,rhd,1
+830,renin gene,1
+831,gbp6,1
+832,ii dm,0
+833,adal,1
+834,hd2,1
+835,yvad-fmk,0
+836,phf6,1
+837,p56lck,1
+838,task-2,1
+839,immediate early response 5,1
+840,cyp2c9*2,1
+841,gpr17,1
+842,tmem41b,1
+843,inha,1
+844,muted,0
+845,pabpc4,1
+846,genomic,0
+847,pidaa,0
+848,serum amyloid p,1
+849,larp4,1
+850,bclaf1,1
+851,igf2bp2,1
+852,ptb,1
+853,type i pneumocyte,0
+854,bovine type i collagen,0
+855,sh3bp2 gene,1
+856,hcp5,1
+857,dhx36,1
+858,glycogen storage disease type iv,0
+859,ankrd40cl,1
+860,hgprt,1
+861,aldh1l1,1
+862,ncf4,1
+863,slc25a31,1
+864,co 1 cell,0
+865,proliferation-associated 2g4,1
+866,mesotrypsinogen,0
+867,semaphorin 3a,1
+868,dnm1,1
+869,ptpn11,1
+870,wbc,0
+871,dusp14,1
+872,glycogen synthase kinase 3-β,1
+873,methyldopa,0
+874,15q15,0
+875,cyclin-dependent kinase 5,1
+876,tp53i3,1
+877,l28,1
+878,epithelial membrane antigen,1
+879,aplp1,1
+880,allelic gene,1
+881,17-1a,0
+882,4-bromophenylalanine,0
+883,immature neutrophil,0
+884,lypd3,1
+885,rna location,0
+886,bax,1
+887,oga,1
+888,npi-1,1
+889,nbl,1
+890,hspl,1
+891,cd205,1
+892,interleukin 11,1
+893,glucose-regulated protein 170,1
+894,ace2,1
+895,ebp50,1
+896,snora73b,1
+897,perimembrane region,0
+898,tert-leucine,0
+899,nct,1
+900,dna polymerase beta,1
+901,basement membrane-specific heparan sulfate proteoglycan core protein,1
+902,api,0
+903,b1r,1
+904,p240,1
+905,bam,1
+906,cenpa,1
+907,sec20,1
+908,gly-gly-gly,0
+909,nfatc,1
+910,ar3,1
+911,dendritic,0
+912,πgc,0
+913,tff1,1
+914,interleukin 18 gene,1
+915,"sensory neurons, olfactory",0
+916,igkc gene,1
+917,kcp,1
+918,chromosome 11,1
+919,murr1,1
+920,mk5,1
+921,rhodopsin kinase,1
+922,pik3c2g,1
+923,ush2,1
+924,yl-1,1
+925,tgs,0
+926,fgf23,1
+927,ppiase,0
+928,pgy1,1
+929,glypican 5,1
+930,common β chain,0
+931,keratin 14,1
+932,cd141,1
+933,gp40,1
+934,rsts,0
+935,kpna1,1
+936,human egf,1
+937,mlc1,1
+938,dif,0
+939,helper t cell,0
+940,"blood cells, red",0
+941,biotinidase,1
+942,hb16,1
+943,glrb,1
+944,slc22a5 gene,1
+945,vcip,1
+946,mct,1
+947,anaphase-promoting complex,1
+948,magi1,1
+949,bcl11a gene,1
+950,ceb,0
+951,laptm4b,1
+952,a4galt gene,1
+953,transitional epithelial cell,0
+954,β-endorphin,0
+955,ncf4,1
+956,fak family kinase-interacting protein of 200 kda,1
+957,pcsk4,1
+958,bka,1
+959,cpa7,1
+960,cytidylate kinase,1
+961,arl3,1
+962,ndufv2,1
+963,dse,1
+964,hla-f-as1,1
+965,tp2,1
+966,perinuclear er,0
+967,asfv p72,1
+968,cytosolic ribosome,1
+969,adar1,1
+970,ceacam4,1
+971,prn,1
+972,carboxypeptidase m,1
+973,siglec-xii,1
+974,cxcl13,1
+975,a2ar,1
+976,tfiiia,1
+977,hirulog,0
+978,ccd1,1
+979,chromosome 18,0
+980,neurokinin 1,1
+981,transgelin,1
+982,cpsf3,1
+983,mekk3,1
+984,recq1,1
+985,chip,1
+986,cib,1
+987,beta2ar,0
+988,rbm9,1
+989,"insulin, sodium",0
+990,t-bet,1
+991,sla1,1
+992,pnrc1,1
+993,met-leu-phe,0
+994,agpat4,1
+995,alpha tropomyosin,1
+996,ccns,0
+997,urokinase plasminogen activator,1
+998,cea-specific ctls,1
+999,egfr,1

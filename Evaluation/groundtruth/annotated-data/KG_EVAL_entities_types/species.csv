@@ -1,0 +1,1001 @@
+,species,final-eval
+0,"animals, domestic",1
+1,animal model in research,0
+2,experimental animal model,0
+3,laboratory animal,1
+4,adult animal,1
+5,carnivora,1
+6,animal model,1
+7,"animals, feral",1
+8,pet,1
+9,animal neonate,0
+10,domestic animal,1
+11,congenic strain,0
+12,"animals, companion",1
+13,animal infant,1
+14,vector,0
+15,"animals, stray",1
+16,animal farm,0
+17,carnivore,1
+18,feral animal,1
+19,farm animal,1
+20,nondomestic animal,1
+21,multicellular animal,1
+22,disease vectored,0
+23,"animals, domesticated",1
+24,nondomesticated animal,1
+25,"animals, domestic",1
+26,disease vectored,0
+27,collaborative cross mouse,1
+28,neonatal animal,0
+29,livestock,0
+30,companion animal,1
+31,experimental animal model,1
+32,companion animal,1
+33,invertebrate chordate,0
+34,juvenile animal,1
+35,congenic strain,0
+36,animal experimental,1
+37,transgenic,0
+38,control animal,1
+39,recombinant inbred strain,0
+40,exotic pet,1
+41,animal infant,1
+42,"animals, neonatal",1
+43,wild animal,1
+44,animal laboratory,1
+45,show,0
+46,"animal, domesticated",1
+47,stray animal,1
+48,animal neonate,0
+49,feral animal,1
+50,livestock,0
+51,livestock,0
+52,domesticated animal,1
+53,transgenic founder animal,1
+54,"animals, companion",1
+55,pleasure,0
+56,feral animal,1
+57,young animal,1
+58,mature animal,1
+59,nondomesticated animal,1
+60,animal kingdom,1
+61,multicellular animal,1
+62,carnivora,1
+63,infectious disease vector,0
+64,"animals, stray",1
+65,fiber,0
+66,animal infant,1
+67,pleasure,0
+68,exotic animal,1
+69,matchedtext,0
+70,transgenic founder animal,1
+71,genetically engineered animal,1
+72,breeder,0
+73,meat,0
+74,pest,0
+75,working,0
+76,sea squirt,1
+77,invertebrate chordate,0
+78,carnivore,1
+79,laboratory animal model,1
+80,show,0
+81,sentinel animal,1
+82,genetically engineered animal,1
+83,herbivore,1
+84,"models, animal",0
+85,pet,1
+86,fiber,0
+87,exotic animal,1
+88,zoo animal,1
+89,"animals, wild",1
+90,"animal model, experimental",1
+91,domesticated animal,1
+92,pleasure,0
+93,carnivore,1
+94,knockout animal,1
+95,schistosoma cercaria,0
+96,infectious disease vector,0
+97,pet,1
+98,exotic pet,1
+99,poisonous animal,1
+100,show,0
+101,pet,1
+102,chordate,0
+103,adult animal,1
+104,control animal,1
+105,animalia,1
+106,juvenile animal,1
+107,herbivory,1
+108,animal model,0
+109,chordata,0
+110,laboratory animal,1
+111,transgenic,0
+112,carnivore,1
+113,experimental animal,1
+114,animal laboratory,1
+115,disease vectored,0
+116,transgenic founder animal,1
+117,pleasure,0
+118,congenic strain,0
+119,adult animal,1
+120,transgenic founder animal,1
+121,animal neonate,0
+122,racing,0
+123,diversity outbred mouse,1
+124,laboratory animal model,1
+125,omnivore,1
+126,"animal, domesticated",1
+127,poisonous animal,1
+128,exotic pet,1
+129,working,0
+130,mature animal,1
+131,transgenic animal,1
+132,companion,0
+133,young animal,1
+134,breeder,0
+135,feral animal,1
+136,animal experimental,1
+137,pet animal,1
+138,herbivore,1
+139,animal study,0
+140,recombinant inbred strain,0
+141,omnivore,1
+142,multicellular animal,1
+143,animal experimental,0
+144,companion,0
+145,transgenic,0
+146,diversity outbred mouse,1
+147,pest,0
+148,laboratory animal,1
+149,laboratory animal model,0
+150,animal model,0
+151,pet,1
+152,disease vector,0
+153,infectious disease vector,0
+154,stray animal,1
+155,experimental animal,1
+156,herbivory,1
+157,disease vectored,0
+158,zoo animal,1
+159,companion animal,1
+160,transgenic founder animal,1
+161,pet,1
+162,mature animal,1
+163,animal kingdom,1
+164,herbivore,1
+165,fiber,0
+166,domestic animal,1
+167,pest,0
+168,transgenic founder animal,1
+169,animal kingdom,1
+170,pleasure,0
+171,"models, animal",0
+172,transgenic,0
+173,young animal,1
+174,carnivore,1
+175,transgenic animal,1
+176,genetically engineered animal,1
+177,animal neonate,0
+178,animal infant,1
+179,young animal,1
+180,vector,0
+181,genetically modified animal,1
+182,pet,1
+183,diversity outbred mouse,1
+184,"animals, farm",0
+185,exotic animal,1
+186,"animal models, laboratory",0
+187,transgenics,0
+188,animal subject,0
+189,"pets, exotic",1
+190,nondomestic animal,1
+191,control animal,1
+192,newborn animal,1
+193,juvenile animal,1
+194,infectious disease vector,0
+195,meat,0
+196,transgenic animal,1
+197,companion,0
+198,pleasure,0
+199,"animals, domestic",1
+200,knockout animal,0
+201,carnivore,1
+202,herbivory,1
+203,chordata,0
+204,"animals, companion",1
+205,juvenile animal,1
+206,companion,0
+207,"animal models, laboratory",1
+208,"animals, feral",1
+209,feral animal,1
+210,experimental animal,1
+211,genetically modified animal,1
+212,"animals, stray",1
+213,"animals, companion",1
+214,working,0
+215,carnivore,1
+216,sea squirt,1
+217,juvenile animal,1
+218,herbivore,1
+219,schistosoma cercaria,0
+220,young animal,1
+221,farm animal,1
+222,transgenic,0
+223,mature animal,1
+224,transgenic,0
+225,animalia,1
+226,domestic animal,1
+227,sea squirt,1
+228,collaborative cross mouse,1
+229,juvenile animal,1
+230,mature animal,1
+231,"animals, feral",1
+232,domestic,0
+233,animal model,1
+234,animal farm,0
+235,pet,1
+236,animal,1
+237,meat,0
+238,livestock,1
+239,domesticated animal,1
+240,pest,0
+241,"animals, feral",1
+242,phylum chordata,0
+243,invertebrate chordate,0
+244,transgenic founder animal,1
+245,infectious disease vector,0
+246,animal,1
+247,transgenic,0
+248,omnivore,1
+249,phylum chordata,0
+250,adult animal,1
+251,"models, animal",1
+252,stray animal,1
+253,transgenic founder animal,1
+254,animal infant,1
+255,laboratory animal,1
+256,animal kingdom,1
+257,"animals, farm",1
+258,sea squirt,1
+259,juvenile animal,1
+260,matchedtext,0
+261,working,0
+262,animal kingdom,1
+263,transgenic animal,1
+264,knockout animal,1
+265,"animals, wild",1
+266,"animals, neonatal",1
+267,carnivora,0
+268,multicellular animal,1
+269,mature animal,1
+270,control animal,1
+271,invertebrate chordate,0
+272,diversity outbred mouse,1
+273,"pets, exotic",1
+274,laboratory animal,1
+275,multicellular animal,1
+276,disease vector,0
+277,experimental animal model,0
+278,"animals, farm",1
+279,disease vectored,0
+280,disease vectored,0
+281,mature animal,1
+282,companion animal,1
+283,carnivora,1
+284,adult animal,1
+285,breeder,0
+286,laboratory animal model,0
+287,nondomestic animal,1
+288,young animal,1
+289,wild animal,1
+290,vector,0
+291,"animal, domesticated",1
+292,meat,0
+293,"animal model, experimental",0
+294,zoo animal,1
+295,newborn animal,1
+296,animal kingdom,1
+297,pet animal,1
+298,transgenic founder animal,1
+299,genetically modified animal,1
+300,animal experimental,1
+301,"animals, stray",0
+302,companion animal,1
+303,juvenile animal,1
+304,"animals, feral",1
+305,"pets, exotic",1
+306,pleasure,0
+307,companion animal,1
+308,laboratory animal model,0
+309,matchedtext,0
+310,experimental animal model,0
+311,chordata,0
+312,animal study,0
+313,pet animal,1
+314,herbivore,1
+315,laboratory animal,1
+316,newborn animal,1
+317,exotic pet,1
+318,schistosoma cercaria,0
+319,animal farm,0
+320,sentinel animal,1
+321,racing,0
+322,"animals, companion",1
+323,pet animal,1
+324,experimental animal model,0
+325,chordate,0
+326,animal,1
+327,"animal models, laboratory",0
+328,disease vector,0
+329,racing,0
+330,higher animal,0
+331,multicellular animal,1
+332,genetically modified animal,1
+333,"animals, domestic",1
+334,matchedtext,0
+335,sentinel animal,1
+336,recombinant inbred strain,0
+337,herbivore,1
+338,"animals, wild",1
+339,congenic strain,0
+340,livestock,0
+341,exotic pet,1
+342,working,0
+343,stray animal,1
+344,genetically engineered animal,1
+345,neonatal animal,1
+346,animal laboratory,1
+347,animal model,0
+348,carnivore,1
+349,animal neonate,0
+350,pleasure,0
+351,wild animal,1
+352,adult animal,1
+353,"animal, domesticated",1
+354,racing,0
+355,zoo animal,1
+356,"animal, domesticated",1
+357,farm animal,1
+358,"models, animal",0
+359,"animals, feral",1
+360,poisonous animal,1
+361,"animal model, experimental",0
+362,domesticated animal,1
+363,animalia,1
+364,young animal,1
+365,animal study,0
+366,exotic pet,1
+367,newborn animal,1
+368,young animal,1
+369,show,0
+370,newborn animal,1
+371,neonatal animal,0
+372,recombinant inbred strain,0
+373,"animal model, experimental",0
+374,multicellular animal,0
+375,"models, animal",0
+376,animalia,1
+377,carnivore,1
+378,"animals, feral",1
+379,mature animal,1
+380,"animals, neonatal",0
+381,animal model,0
+382,farm animal,1
+383,racing,0
+384,congenic strain,0
+385,animal,1
+386,racing,0
+387,nondomestic animal,1
+388,fiber,0
+389,animalia,0
+390,young animal,1
+391,animal farm,0
+392,animalia,1
+393,"models, animal",0
+394,neonatal animal,1
+395,"animals, companion",1
+396,recombinant inbred strain,0
+397,recombinant inbred strain,0
+398,juvenile animal,1
+399,companion animal,1
+400,higher animal,0
+401,pet animal,1
+402,disease vectored,0
+403,nondomestic animal,1
+404,wool,0
+405,wool,0
+406,phylum chordata,0
+407,control animal,0
+408,genetically modified animal,1
+409,laboratory animal,1
+410,"animals, domesticated",1
+411,"animal, domesticated",1
+412,herbivory,1
+413,control animal,0
+414,"animal models, laboratory",0
+415,pest,0
+416,laboratory animal model,1
+417,"animals, domestic",1
+418,transgenics,0
+419,wool,0
+420,herbivory,1
+421,nondomesticated animal,1
+422,domestic,0
+423,racing,0
+424,transgenic,0
+425,animal experimental,0
+426,experimental animal model,0
+427,laboratory animal,0
+428,animal farm,0
+429,invertebrate chordate,0
+430,"animals, domesticated",1
+431,poisonous animal,1
+432,infectious disease vector,0
+433,laboratory animal model,1
+434,nondomestic animal,1
+435,animal model,0
+436,animal kingdom,1
+437,domesticated animal,1
+438,chordata,0
+439,collaborative cross mouse,1
+440,"animal, domesticated",1
+441,phylum chordata,0
+442,domesticated animal,1
+443,racing,0
+444,young animal,1
+445,transgenics,0
+446,"animals, neonatal",0
+447,infectious disease vector,0
+448,newborn animal,1
+449,nondomestic animal,1
+450,pet,1
+451,transgenic,0
+452,genetically modified animal,1
+453,"animal model, experimental",0
+454,domestic animal,1
+455,animal,1
+456,nondomestic animal,1
+457,wild animal,1
+458,pest,0
+459,carnivora,0
+460,animal farm,0
+461,animal,1
+462,animal subject,0
+463,animal model in research,1
+464,animal study,0
+465,companion,0
+466,chordate,0
+467,companion,0
+468,newborn animal,1
+469,matchedtext,0
+470,companion,0
+471,invertebrate chordate,0
+472,"animals, farm",0
+473,"animal, domesticated",1
+474,wool,0
+475,animal laboratory,1
+476,transgenic founder animal,1
+477,nondomesticated animal,1
+478,nondomestic animal,1
+479,infectious disease vector,0
+480,transgenic founder animal,1
+481,"animals, neonatal",0
+482,young animal,1
+483,matchedtext,0
+484,wool,0
+485,mature animal,1
+486,transgenics,0
+487,animal infant,1
+488,working,0
+489,invertebrate chordate,0
+490,"animal model, experimental",0
+491,"animals, feral",1
+492,show,0
+493,knockout animal,1
+494,omnivore,1
+495,control animal,1
+496,"pets, exotic",1
+497,diversity outbred mouse,1
+498,transgenic,0
+499,congenic strain,0
+500,animal kingdom,1
+501,disease vector,0
+502,show,0
+503,"animal model, experimental",0
+504,exotic pet,1
+505,"animals, domesticated",1
+506,mature animal,1
+507,chordate,0
+508,working,0
+509,fiber,0
+510,"animals, feral",1
+511,animal infant,0
+512,omnivore,1
+513,sentinel animal,1
+514,"animals, feral",1
+515,"animal models, laboratory",0
+516,newborn animal,1
+517,animal,1
+518,show,0
+519,omnivore,1
+520,disease vectored,0
+521,omnivore,1
+522,transgenics,0
+523,experimental animal model,0
+524,animal farm,0
+525,show,0
+526,animal model in research,0
+527,"models, animal",1
+528,animal subject,0
+529,transgenics,0
+530,young animal,1
+531,animalia,1
+532,multicellular animal,0
+533,laboratory animal,0
+534,"animals, feral",1
+535,animal,1
+536,"animals, companion",1
+537,herbivory,1
+538,animal model,0
+539,higher animal,0
+540,fiber,0
+541,fiber,0
+542,feral animal,1
+543,pleasure,0
+544,"animal models, laboratory",0
+545,chordate,0
+546,juvenile animal,1
+547,fiber,0
+548,stray animal,0
+549,genetically modified animal,1
+550,animal farm,0
+551,working,0
+552,pet,1
+553,sea squirt,1
+554,collaborative cross mouse,1
+555,juvenile animal,1
+556,animal farm,0
+557,"pets, exotic",1
+558,young animal,1
+559,multicellular animal,1
+560,transgenic animal,1
+561,diversity outbred mouse,1
+562,recombinant inbred strain,0
+563,animal kingdom,1
+564,companion,0
+565,poisonous animal,1
+566,show,0
+567,domestic animal,1
+568,mature animal,1
+569,herbivory,1
+570,young animal,1
+571,herbivore,1
+572,adult animal,1
+573,pet,1
+574,show,0
+575,neonatal animal,0
+576,"animals, stray",1
+577,"models, animal",0
+578,poisonous animal,1
+579,animal laboratory,0
+580,adult animal,1
+581,pleasure,0
+582,disease vector,0
+583,disease vectored,0
+584,sentinel animal,1
+585,racing,0
+586,herbivore,1
+587,livestock,0
+588,animal subject,0
+589,sea squirt,1
+590,"animals, domesticated",1
+591,animal study,0
+592,nondomesticated animal,1
+593,chordata,0
+594,disease vectored,0
+595,feral animal,1
+596,animal experimental,0
+597,carnivora,1
+598,chordata,0
+599,pet,1
+600,sea squirt,1
+601,transgenic animal,1
+602,herbivore,1
+603,exotic animal,1
+604,domestic,0
+605,fiber,0
+606,working,0
+607,animal kingdom,1
+608,pet animal,1
+609,carnivora,1
+610,laboratory animal model,0
+611,companion animal,1
+612,"animals, feral",1
+613,breeder,0
+614,animal study,0
+615,matchedtext,0
+616,invertebrate chordate,0
+617,zoo animal,1
+618,domesticated animal,1
+619,"animals, domestic",1
+620,farm animal,1
+621,nondomestic animal,1
+622,phylum chordata,0
+623,transgenic animal,1
+624,omnivore,1
+625,domestic,0
+626,fiber,0
+627,herbivory,1
+628,animal farm,0
+629,higher animal,0
+630,laboratory animal,0
+631,"animal model, experimental",1
+632,laboratory animal model,0
+633,animal kingdom,1
+634,laboratory animal,0
+635,genetically modified animal,0
+636,juvenile animal,1
+637,multicellular animal,0
+638,racing,0
+639,laboratory animal model,0
+640,breeder,0
+641,nondomesticated animal,1
+642,animal model,0
+643,pet animal,1
+644,multicellular animal,0
+645,sea squirt,1
+646,"animal models, laboratory",0
+647,"pets, exotic",1
+648,animal infant,1
+649,pet animal,1
+650,invertebrate chordate,0
+651,"animals, companion",1
+652,phylum chordata,0
+653,domestic,0
+654,animal model in research,0
+655,companion animal,1
+656,phylum chordata,0
+657,animalia,1
+658,vector,0
+659,omnivore,1
+660,genetically engineered animal,1
+661,experimental animal model,0
+662,chordate,0
+663,herbivory,1
+664,animal,1
+665,genetically modified animal,1
+666,nondomesticated animal,1
+667,meat,0
+668,chordata,0
+669,chordata,0
+670,livestock,0
+671,domestic,0
+672,"animals, domesticated",1
+673,stray animal,0
+674,pest,0
+675,juvenile animal,1
+676,animal farm,0
+677,genetically modified animal,1
+678,animal kingdom,1
+679,"animals, farm",0
+680,animal experimental,0
+681,herbivore,1
+682,genetically modified animal,1
+683,companion animal,1
+684,"animals, domesticated",1
+685,meat,0
+686,pet,1
+687,farm animal,1
+688,nondomesticated animal,1
+689,carnivora,1
+690,feral animal,1
+691,"animals, stray",0
+692,vector,0
+693,chordate,0
+694,domestic animal,1
+695,knockout animal,1
+696,animal experimental,0
+697,exotic animal,1
+698,zoo animal,1
+699,carnivore,1
+700,multicellular animal,0
+701,transgenics,0
+702,herbivore,1
+703,wild animal,1
+704,"animals, wild",1
+705,matchedtext,0
+706,wild animal,1
+707,companion,0
+708,exotic animal,1
+709,"animals, wild",1
+710,schistosoma cercaria,0
+711,matchedtext,0
+712,animal infant,0
+713,animal neonate,0
+714,companion animal,1
+715,feral animal,1
+716,mature animal,1
+717,stray animal,1
+718,companion animal,1
+719,stray animal,1
+720,domestic,0
+721,"models, animal",0
+722,sentinel animal,1
+723,laboratory animal model,0
+724,"models, animal",0
+725,sentinel animal,1
+726,"pets, exotic",1
+727,diversity outbred mouse,1
+728,experimental animal model,0
+729,domestic,0
+730,adult animal,1
+731,chordate,0
+732,transgenics,0
+733,exotic pet,1
+734,matchedtext,0
+735,"animals, wild",1
+736,carnivore,1
+737,animal laboratory,0
+738,"animal model, experimental",0
+739,"animals, neonatal",1
+740,multicellular animal,1
+741,animal subject,0
+742,"animal models, laboratory",0
+743,higher animal,1
+744,schistosoma cercaria,0
+745,feral animal,1
+746,"animal models, laboratory",0
+747,animal study,0
+748,animal kingdom,1
+749,breeder,0
+750,carnivore,1
+751,animal farm,0
+752,genetically modified animal,1
+753,feral animal,1
+754,racing,0
+755,knockout animal,0
+756,animalia,1
+757,newborn animal,1
+758,herbivore,1
+759,diversity outbred mouse,1
+760,"animals, domesticated",1
+761,pet,1
+762,sentinel animal,1
+763,phylum chordata,0
+764,animal model,0
+765,sentinel animal,1
+766,"animals, domesticated",1
+767,nondomesticated animal,1
+768,juvenile animal,1
+769,sea squirt,1
+770,herbivory,1
+771,collaborative cross mouse,1
+772,diversity outbred mouse,1
+773,pet animal,1
+774,fiber,0
+775,herbivore,1
+776,"animals, companion",1
+777,fiber,0
+778,infectious disease vector,0
+779,laboratory animal model,0
+780,"animals, domestic",1
+781,"pets, exotic",1
+782,laboratory animal model,0
+783,"animals, stray",0
+784,meat,0
+785,infectious disease vector,0
+786,animal study,0
+787,pleasure,0
+788,pleasure,0
+789,pet,1
+790,pet,1
+791,exotic pet,1
+792,pet,1
+793,omnivore,1
+794,laboratory animal,1
+795,animal infant,1
+796,pest,0
+797,laboratory animal,0
+798,recombinant inbred strain,0
+799,congenic strain,0
+800,"animal, domesticated",1
+801,wool,0
+802,poisonous animal,1
+803,nondomesticated animal,1
+804,nondomestic animal,1
+805,pet,1
+806,mature animal,1
+807,laboratory animal model,0
+808,pet,1
+809,neonatal animal,0
+810,genetically modified animal,1
+811,transgenic founder animal,1
+812,knockout animal,0
+813,herbivory,1
+814,"animal models, laboratory",0
+815,animal experimental,0
+816,domesticated animal,1
+817,animal neonate,0
+818,"animals, neonatal",0
+819,racing,0
+820,animal subject,0
+821,animal subject,0
+822,collaborative cross mouse,1
+823,wool,0
+824,companion animal,1
+825,exotic pet,1
+826,multicellular animal,0
+827,wool,0
+828,"animals, farm",0
+829,schistosoma cercaria,0
+830,animalia,0
+831,omnivore,1
+832,transgenics,0
+833,laboratory animal,0
+834,transgenic animal,1
+835,adult animal,0
+836,"animal model, experimental",0
+837,"animal, domesticated",1
+838,transgenics,0
+839,"animal model, experimental",0
+840,companion animal,1
+841,adult animal,1
+842,farm animal,1
+843,zoo animal,1
+844,schistosoma cercaria,0
+845,experimental animal model,0
+846,animal,1
+847,"pets, exotic",1
+848,"animal models, laboratory",0
+849,animal study,0
+850,domestic,0
+851,feral animal,1
+852,racing,0
+853,experimental animal model,0
+854,nondomestic animal,1
+855,zoo animal,1
+856,laboratory animal,0
+857,mature animal,1
+858,herbivore,1
+859,pest,0
+860,schistosoma cercaria,0
+861,animal kingdom,1
+862,nondomesticated animal,1
+863,disease vector,0
+864,pest,0
+865,omnivore,1
+866,carnivora,1
+867,"animals, feral",1
+868,"pets, exotic",1
+869,chordate,0
+870,sentinel animal,1
+871,livestock,0
+872,"animals, stray",1
+873,matchedtext,0
+874,"animals, neonatal",1
+875,"pets, exotic",1
+876,animal subject,0
+877,"models, animal",0
+878,laboratory animal,0
+879,animal model in research,0
+880,"animals, companion",1
+881,omnivore,1
+882,"animal, domesticated",1
+883,herbivory,1
+884,mature animal,1
+885,wild animal,1
+886,"animal model, experimental",0
+887,"models, animal",0
+888,domestic animal,1
+889,laboratory animal model,0
+890,infectious disease vector,0
+891,disease vector,0
+892,pest,0
+893,newborn animal,1
+894,pest,0
+895,domestic,0
+896,sea squirt,1
+897,stray animal,0
+898,chordata,0
+899,"animals, neonatal",0
+900,"animals, feral",1
+901,knockout animal,1
+902,farm animal,1
+903,farm animal,1
+904,poisonous animal,1
+905,"animals, companion",1
+906,poisonous animal,1
+907,animal,0
+908,wild animal,1
+909,matchedtext,0
+910,invertebrate chordate,0
+911,control animal,0
+912,"animals, companion",1
+913,transgenic founder animal,1
+914,"animals, stray",1
+915,experimental animal model,0
+916,vector,0
+917,diversity outbred mouse,1
+918,"models, animal",0
+919,domestic animal,1
+920,livestock,0
+921,animal kingdom,1
+922,animal subject,0
+923,"pets, exotic",1
+924,"animals, domestic",1
+925,wild animal,1
+926,domesticated animal,1
+927,transgenics,0
+928,animal study,0
+929,genetically engineered animal,1
+930,animal neonate,0
+931,invertebrate chordate,0
+932,disease vector,0
+933,working,0
+934,laboratory animal model,0
+935,"animal model, experimental",0
+936,domestic,0
+937,schistosoma cercaria,1
+938,transgenic founder animal,1
+939,carnivore,1
+940,carnivora,0
+941,show,0
+942,fiber,0
+943,"animals, companion",1
+944,pet,1
+945,animal model,0
+946,pet,1
+947,control animal,1
+948,omnivore,1
+949,"animals, domestic",1
+950,laboratory animal,0
+951,stray animal,0
+952,"animals, feral",1
+953,zoo animal,1
+954,animal experimental,0
+955,chordate,0
+956,transgenic founder animal,1
+957,farm animal,1
+958,"animals, wild",1
+959,animal laboratory,1
+960,domesticated animal,1
+961,animal subject,0
+962,"pets, exotic",1
+963,nondomesticated animal,1
+964,wool,0
+965,genetically modified animal,1
+966,higher animal,0
+967,companion animal,0
+968,wild animal,1
+969,genetically engineered animal,1
+970,sea squirt,1
+971,infectious disease vector,0
+972,chordata,0
+973,"animals, domesticated",1
+974,pleasure,0
+975,disease vectored,0
+976,livestock,0
+977,animalia,1
+978,racing,0
+979,domestic animal,1
+980,control animal,0
+981,pleasure,0
+982,experimental animal,0
+983,"animal models, laboratory",0
+984,genetically engineered animal,1
+985,animal subject,0
+986,genetically modified animal,1
+987,multicellular animal,0
+988,"animal model, experimental",0
+989,exotic animal,1
+990,multicellular animal,0
+991,farm animal,1
+992,phylum chordata,0
+993,sentinel animal,1
+994,transgenics,0
+995,collaborative cross mouse,1
+996,stray animal,0
+997,young animal,1
+998,disease vector,0
+999,meat,0

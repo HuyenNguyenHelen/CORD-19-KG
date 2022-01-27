@@ -1,0 +1,1001 @@
+,symptom,final-eval
+0,cognitive symptom,1
+1,throat irritation,1
+2,acute headache,1
+3,sob,0
+4,chest discomfort,1
+5,myalgia,1
+6,bronchopneumopathy,0
+7,cardiac pain,1
+8,mental exhaustion,0
+9,extremity tremor,0
+10,nasal symptom,1
+11,constipation in child,1
+12,muscle tremor,0
+13,ankle pain,1
+14,dysdiadochokinesis,0
+15,lip paresthesia,0
+16,fart,0
+17,foul breath,1
+18,joint tenderness,0
+19,crowning,0
+20,spot on skin,1
+21,heaving,0
+22,inspiratory wheeze,1
+23,pain at injection site,1
+24,painful skin,1
+25,bloating,0
+26,pain in neck,1
+27,upper extremity numbness,1
+28,neurological sign and symptom,1
+29,ataxia,0
+30,charm,0
+31,eye twitching,1
+32,fishy odor,0
+33,painful swallow,1
+34,sinus congestion,0
+35,eye twitching,1
+36,difficulty breathing,1
+37,malaise and fatigue,1
+38,presyncope,0
+39,nausea/vomiting,1
+40,voice change,0
+41,sign and symptom,1
+42,sinus pressure,0
+43,laziness,1
+44,nasal flaring,0
+45,muscle tenderness,1
+46,feeling nervous,1
+47,restless,1
+48,breast tenderness,0
+49,proximal weakness,1
+50,foul breath,0
+51,dull,1
+52,visual loss,0
+53,thermal hyperalgesia,0
+54,sleeping difficulty,1
+55,"pain, back",1
+56,ear tenderness,0
+57,rash,1
+58,"pain, facial",1
+59,radicular pain,1
+60,hyperaesthesia,0
+61,abscence,0
+62,purulent rhinitis,0
+63,myoclonus,0
+64,"diarrhea, watery",1
+65,body temperature increased,1
+66,feeling of suffocation,1
+67,excruciating pain,1
+68,respiratory symptom,1
+69,flatulent,0
+70,hoarse,0
+71,cherry red spot,1
+72,flu-like symptom,1
+73,apnoea,0
+74,dyspnea at rest,0
+75,blotchy rash,1
+76,head congestion,0
+77,outward appearance,0
+78,buckling,0
+79,abdominal tenderness,1
+80,urinary urgency,0
+81,sour taste,1
+82,hand tremor,0
+83,thoracalgia,0
+84,nose symptom,1
+85,skin pain,1
+86,hemicrania,0
+87,life quality,0
+88,dry,0
+89,nonspecific chest pain,1
+90,"pain, facial",1
+91,foot swelling,1
+92,infrequent bowel movement,0
+93,eructation,0
+94,organ failure,0
+95,difficulty defecating,0
+96,earache,1
+97,chill fever,1
+98,sluggishness,1
+99,neurological complaint,0
+100,feeling ill,1
+101,suprapubic pain,1
+102,temperature intolerance,0
+103,dyspnea on exertion,0
+104,grunt,0
+105,lip swelling,1
+106,forehead swelling,1
+107,illness,1
+108,throat pain,1
+109,parkinsonian tremor,0
+110,clubbed,0
+111,coarse tremor,0
+112,digestive problem,0
+113,watery stool,1
+114,nausea symptom,1
+115,extrapyramidal sign,0
+116,snuffle,0
+117,bloody stool,0
+118,painful swallow,1
+119,imbalance,0
+120,mydriasis,0
+121,blue discoloration of the skin,1
+122,sinus drainage,0
+123,nausea,1
+124,cough,1
+125,feeling tense,1
+126,cough after eating,1
+127,red stool,0
+128,muscle weakness,1
+129,nauseating,1
+130,tandem gait,0
+131,insomnia disorder,1
+132,temporal headache,1
+133,orthostasis,0
+134,oic,0
+135,"abdominal pain, diffuse",1
+136,heartburn,1
+137,symptom nausea,1
+138,"disturbances, sleep",0
+139,remittent fever,0
+140,cancer-related pain,1
+141,blanched,0
+142,flushed,0
+143,conjunctival congestion,0
+144,"depression, emotional",1
+145,loss of sensation,0
+146,body temperature change,1
+147,gi pain,1
+148,"headache, frontal",1
+149,dull pain,1
+150,sticky eye,1
+151,effort angina,0
+152,asthenic,0
+153,"pain, back",1
+154,recurrent low back pain,1
+155,joint tenderness,1
+156,muscle twitching,1
+157,change in voice,1
+158,painful hand,1
+159,drainage,0
+160,"hallucinations, kinesthetic",1
+161,telescoping,0
+162,head congestion,0
+163,vomiting and nausea,1
+164,left leg pain,1
+165,watery stool,0
+166,thanatophobia,0
+167,bloating,1
+168,cluttering,0
+169,liquid stool,0
+170,recurrent headache,1
+171,excessive granulation,0
+172,tightness in chest,1
+173,"headache, ocular",1
+174,aphasic,0
+175,blush,0
+176,heart problem,0
+177,umbilical swelling,1
+178,double incontinence,0
+179,muscular fasciculation,0
+180,neurological soft sign,0
+181,blue discoloration of the skin,1
+182,peritoneal pain,1
+183,meningism,0
+184,exertional dyspnoea,0
+185,stomach discomfort,1
+186,anginal pain,1
+187,fatigued,1
+188,parageusia,0
+189,intestinal colic,0
+190,out of breath,0
+191,hyperekplexia,0
+192,maculopapules,0
+193,upper motor neuron sign,0
+194,recurrent epistaxis,0
+195,"pain, neck",1
+196,nose irritation,1
+197,dry,0
+198,acute vision loss,0
+199,vomiting of blood,0
+200,chest pain at rest,1
+201,breathing stop,1
+202,constipated,0
+203,problem symptom,1
+204,shake,1
+205,problem symptom,1
+206,rhinorrhoea,0
+207,hematemesis,0
+208,sensory manifestation,0
+209,monoparesis,0
+210,catarrh,0
+211,foot pronation,1
+212,snoring,1
+213,lumbago,0
+214,polydypsia,0
+215,gut pain,1
+216,seizure,1
+217,purulent discharge,0
+218,spotty,0
+219,skin anesthesia,0
+220,perceived quality of life,0
+221,diarrhea symptom,1
+222,blanch,0
+223,clonic movement,0
+224,meningeal syndrome,0
+225,body discomfort,0
+226,hyperpathia,1
+227,hyperekplexia,0
+228,painful swallowing,1
+229,metamorphopsia,0
+230,local reaction,0
+231,post-traumatic pain,1
+232,muscle twitching,1
+233,sickness,1
+234,foot pain,1
+235,pleuritic pain,1
+236,constitutional symptom,1
+237,enanthema,0
+238,black stool,1
+239,nose running,1
+240,hand paresthesia,1
+241,meningococcal rash,1
+242,neck stiff,1
+243,prodromal period,0
+244,conjunctival erythema,0
+245,early complication,0
+246,diarrhea in animal,1
+247,pain,1
+248,recurrent headache,1
+249,prodromal symptom,1
+250,pain with swallowing,1
+251,congested nose,0
+252,red stool,1
+253,painful swallow,1
+254,gas pain,1
+255,"cramps, muscle",1
+256,drug withdrawal symptom,1
+257,oral pain,1
+258,functional recovery,0
+259,hepatosplenomegaly,0
+260,recurrent abdominal pain,1
+261,gasp,0
+262,exuberant granulation tissue,0
+263,pain in neck,1
+264,blood in stool,1
+265,torticollis,0
+266,sign symptom,1
+267,dyspnea at rest,1
+268,earache,1
+269,snuffle,0
+270,emaciated,0
+271,sepsis-associated hypotension,0
+272,local reaction,0
+273,hyperthermia,0
+274,soreness,1
+275,oromandibular dystonia,0
+276,ach,0
+277,non-productive cough,1
+278,rlq pain,1
+279,anterior neck pain,1
+280,symptom multiple,1
+281,infant diarrhea,1
+282,fainted,0
+283,spermatic cord tenderness,0
+284,chronic coughing,1
+285,vaginal swelling,1
+286,matchedtext,0
+287,snoring,1
+288,sexual symptom,1
+289,quadriceps weakness,1
+290,breath-holding spell,0
+291,ataxic,0
+292,muscular pain,1
+293,sign and symptom,1
+294,fart,0
+295,petechia,0
+296,painful breathing,1
+297,blood in feces,0
+298,esophageal pain,1
+299,post-nasal drip,0
+300,hunger vital sign,0
+301,forehead swelling,1
+302,insomnia disorder,1
+303,snoring,1
+304,cervical pain,1
+305,otalgia,0
+306,chill,0
+307,discharge from nose,0
+308,eye rolling,1
+309,poor memory,0
+310,nonproductive cough,0
+311,lower urinary tract symptom,1
+312,blanching,0
+313,fragmented sleep,0
+314,dry coughing,1
+315,"back pain, lower",1
+316,rigid,0
+317,oral manifestation,0
+318,"discharge, purulent",0
+319,strangury,0
+320,hunger pang,1
+321,uterine tenderness,1
+322,neck swell,1
+323,sick,1
+324,loss of feeling,1
+325,painful ejaculation,1
+326,temperature increase,1
+327,sweet taste,0
+328,faint,0
+329,wound pain,1
+330,injected eye,0
+331,fluid in the lung,0
+332,skin dry,1
+333,tic disorder,1
+334,physical exhaustion,0
+335,neck swelling,1
+336,wry neck,0
+337,difficulty standing,1
+338,stranguria,0
+339,pseudomeningitis,0
+340,apnoeas,0
+341,alteration in smell or taste,1
+342,hyperdynamic left ventricle,0
+343,painful urination,1
+344,loss of proprioception,0
+345,diarrhea in child,1
+346,nasal catarrh,0
+347,abnormal taste,1
+348,nipple discharge,0
+349,constipated,0
+350,cherry red spot,1
+351,difficulty sleeping,1
+352,reflex vomiting,1
+353,epigastric abdominal pain,1
+354,right lower quadrant pain,1
+355,"abdominal pain, diffuse",1
+356,watery stool,1
+357,barcelona criterion,0
+358,koilonychia,0
+359,loss of energy,1
+360,injection site pain,1
+361,clonus,0
+362,cervicalgia,0
+363,rhinorrhea,0
+364,muscle fasciculation,0
+365,uncontrolled pain,1
+366,"seizures, motor",1
+367,severe headache,1
+368,sign and symptom,1
+369,bilateral sciatica,0
+370,shortness of breath on exertion,1
+371,postoperative nausea,0
+372,chyluria,0
+373,risus sardonicus,0
+374,main presenting symptom,1
+375,generalized fatigue,1
+376,agitated,0
+377,chronic pain,1
+378,lightheaded,0
+379,nerve root pain,1
+380,painful breathing,1
+381,muscle tremor,0
+382,intermittent pain,1
+383,tetraparesis,0
+384,crampy abdominal pain,1
+385,abscence,0
+386,muscular weakness,1
+387,apnoea,0
+388,facial pain,1
+389,trauma symptom,1
+390,muscle cramp,1
+391,nasal symptom,1
+392,generalized fatigue,1
+393,whoop,0
+394,"pain, radiating",1
+395,after pain,1
+396,conjunctival erythema,0
+397,enanthem,0
+398,feeling feverish,1
+399,skin cyanosis,0
+400,unresponsive to stimulus,0
+401,tympanites,0
+402,visceral pain,1
+403,burning pain,1
+404,"pain, abdominal",1
+405,sleep dysfunction,0
+406,tender liver,0
+407,skin irritant,1
+408,action myoclonus,0
+409,telescoping,0
+410,thermal hyperalgesia,0
+411,radiating chest pain,1
+412,possetting,0
+413,change in stool,1
+414,muscular rigidity,0
+415,"pain, joint",1
+416,eyelid erythema,0
+417,unrest,0
+418,generalized body ache,1
+419,pain walking,1
+420,chronic abdominal pain,1
+421,catching,0
+422,neurological soft sign,0
+423,exuberant granulation tissue,0
+424,balance disorder,0
+425,exhausted,0
+426,bronchopneumopathies,0
+427,eye finding,0
+428,main presenting symptom,1
+429,genital pain,1
+430,penile discharge,0
+431,gastric irritation,1
+432,neuralgia,0
+433,trouble sleeping,1
+434,pain localized,1
+435,gut pain,1
+436,tremulous,0
+437,in toe,0
+438,bodily pain,1
+439,blush,0
+440,catatonic state,0
+441,increase temperature,1
+442,ear pruritus,0
+443,poor sleep,1
+444,chronic progressive paraparesis,0
+445,new or worsening symptom,1
+446,substernal chest pain,1
+447,clinical finding,0
+448,stiff limb,1
+449,eye rolling,1
+450,joint ache,1
+451,primary generalized tonic-clonic seizure,1
+452,infusion related reaction,0
+453,drug withdrawal symptom,1
+454,tongue numbness,1
+455,weal,1
+456,hunger pang,1
+457,severe eye pain,1
+458,painful ejaculation,1
+459,influenza-like illness,1
+460,face pain,1
+461,restlessness,1
+462,stool blood,1
+463,hunger vital sign,0
+464,mental symptom,1
+465,flank tenderness,0
+466,troublesome pain,1
+467,lightheaded,0
+468,muscle fasciculation,1
+469,urgent urination,1
+470,bronchorrhea,0
+471,leg pain,1
+472,feeling of warmth,1
+473,aphasic,0
+474,troublesome pain,1
+475,ataxia,0
+476,hoarse,0
+477,"pain, pleuritic",1
+478,feeling tense,1
+479,muscular fasciculation,0
+480,fainting,1
+481,"cramps, muscle",0
+482,fatigued,1
+483,retrocollis,0
+484,pain symptom,1
+485,trv,0
+486,trv,0
+487,fluid on lung,0
+488,spastic paraparesis,0
+489,balance impairment,0
+490,upper back pain,1
+491,red blotch,1
+492,sensory loss,0
+493,acute low back pain,1
+494,chronic abdominal pain,1
+495,chronic back pain,1
+496,pain walking,1
+497,stranguria,0
+498,pimple,0
+499,belly ache,1
+500,vomit,1
+501,eye redness,1
+502,influenza-like symptom,1
+503,peripheral neuropathic pain,1
+504,persistent cough,1
+505,shortness of breath,1
+506,adenitis,0
+507,high body temperature,1
+508,altered sensation,0
+509,myoclonic seizure,1
+510,hangover,0
+511,lip swelling,1
+512,tandem gait,0
+513,blanching of skin,0
+514,myalgia,1
+515,excessive flatulence,1
+516,pu drainage,0
+517,thanatophobia,0
+518,forgetfulness,0
+519,nervy,0
+520,backpain,1
+521,ear tenderness,1
+522,painful arm,1
+523,icterus,0
+524,hepatosplenomegaly,0
+525,vocal fremitus,0
+526,intermittent pain,1
+527,limb pain,1
+528,central pain,1
+529,loss of smell,1
+530,inspiratory stridor,0
+531,stiff limb,1
+532,head titubation,0
+533,vomiting reflex,1
+534,muscle rigidity,0
+535,difficulty sleeping,1
+536,chest wall pain,1
+537,postoperative diarrhea,1
+538,painful defecation,1
+539,icteric,0
+540,gasp,0
+541,pyrogenic reaction,0
+542,"tremors, intermittent",0
+543,back pain over,1
+544,"pathological conditions, sign and symptom",1
+545,throat irritation,1
+546,psychiatric symptom,1
+547,icterus,0
+548,"headache, generalized",1
+549,cardiac symptom,1
+550,hand pain,1
+551,"pain, radiating",1
+552,refractory pain,1
+553,fevered,1
+554,urination pain,1
+555,painful knee,1
+556,loss of proprioception,0
+557,recurrent headache,1
+558,motor tic,0
+559,peripheral neuropathic pain,1
+560,intractable vomiting,1
+561,stomach ache,1
+562,continuous tremor,1
+563,cancer-related pain,1
+564,blood in feces,0
+565,cancer-related fatigue,1
+566,severe eye pain,1
+567,muscle soreness,1
+568,tactile fremitus,0
+569,kidney problem,0
+570,radiating chest pain,1
+571,ankle pain,1
+572,agitated behavior,0
+573,intermittent pain,1
+574,joint pain,1
+575,sensory manifestation,0
+576,dysdiadochokinesia,0
+577,arthralgia,0
+578,febrile,0
+579,"pain, nerve",1
+580,generalized muscle wasting,0
+581,knee symptom,1
+582,pain in infant,1
+583,strength loss,1
+584,circulation problem,0
+585,weariness,0
+586,recurrent low back pain,1
+587,moderate pain,1
+588,out of breath,1
+589,emaciated,0
+590,hypalgesia,0
+591,painful swallowing,1
+592,energy loss,1
+593,cushingoid,0
+594,sickness,1
+595,visual hallucination,1
+596,elongated head,0
+597,"suffering, physical",0
+598,platypnea,0
+599,telescoping,0
+600,nipple discharge,0
+601,back pain,1
+602,stiffness,1
+603,back pain radiating,1
+604,sensation of warmth,1
+605,heartburn,1
+606,neck swelling,1
+607,nerve root pain,1
+608,appetite decreased,1
+609,anoxemia,0
+610,pain on swallowing,1
+611,neurological sign and symptom,1
+612,corticospinal sign,0
+613,colic,0
+614,complication early,0
+615,mass finger,0
+616,scaly skin,1
+617,chronic pelvic pain,1
+618,cough,1
+619,muscular fasciculation,0
+620,projectile vomit,1
+621,fumbling,0
+622,tenesmus,0
+623,renal colic,0
+624,knee symptom,1
+625,postdural puncture headache,1
+626,elbow stiffness,1
+627,wheezing,1
+628,balance disorder,0
+629,blanch,0
+630,skin irritant,1
+631,skin tenting,1
+632,respiratory difficulty,1
+633,severe eye pain,1
+634,tricuspid regurgitation velocity,0
+635,vomiting of blood,1
+636,pseudomeningitis,0
+637,diarrhoea symptom,1
+638,pyrexia,0
+639,facial flushing,0
+640,extreme fatigue,1
+641,epigastric abdominal pain,1
+642,dyspnoea,0
+643,worst imaginable pain,1
+644,dizzying,0
+645,peripheral facial paralysis,0
+646,tumor-related pain,1
+647,nasal symptom,1
+648,exhaustion,0
+649,drug withdrawal symptom,1
+650,"reaction, local",0
+651,impaired swallowing,1
+652,vocal fremitus,0
+653,persistent tremor,0
+654,after pain,1
+655,constipation,1
+656,flatulent,0
+657,skin dryness,1
+658,labored respiration,1
+659,limb myoclonus,0
+660,conjunctival congestion,0
+661,orthostasis,0
+662,groin pain,1
+663,neck stiffness,1
+664,glaring,0
+665,synkinesis,0
+666,hyperthermic,0
+667,temperature intolerance,1
+668,blue lip,1
+669,tic disorder,1
+670,diarrhea in child,1
+671,excessive flatulence,0
+672,abnormal weight gain,1
+673,tenderness,1
+674,nasal drip,0
+675,bellyache,1
+676,breath odor,1
+677,bloody sputum,0
+678,hyperirritability,1
+679,impaired swallowing,1
+680,severe eye pain,1
+681,limb paresthesia,1
+682,sick,1
+683,flaccidity,0
+684,menopausal symptom,1
+685,skin damage,0
+686,cephalgia,0
+687,very low birth weight,1
+688,cognitive manifestation,0
+689,inanition,0
+690,knee symptom,1
+691,limb rigidity,0
+692,cognitive manifestation,0
+693,tiredness,1
+694,vertigo,0
+695,sweating sickness,1
+696,ague,0
+697,nausea or abdominal pain,1
+698,medically unexplained symptom,1
+699,swoon,0
+700,perianal itching,1
+701,sexual symptom,1
+702,illness,1
+703,tender spleen,0
+704,pre-syncope,0
+705,flushings,0
+706,night pain,1
+707,muscle spasticity,0
+708,eruption,0
+709,dysphonia,1
+710,clutter,0
+711,reflex vomiting,1
+712,hematemesis,0
+713,feeling tense,1
+714,ear swelling,1
+715,"pain, joint",1
+716,crf,0
+717,"diarrhea, watery",1
+718,"symptoms, neurologic",1
+719,bellyache,1
+720,hyperacusis,0
+721,posterior rhinorrhea,0
+722,watery eye,1
+723,coughing,1
+724,nocturnal polyuria,0
+725,uti symptom,1
+726,synkinesis,0
+727,symptom,1
+728,unrest,0
+729,urological manifestation,0
+730,pain in left arm,1
+731,pleuritic pain,1
+732,abdominal bloating,1
+733,rigidity,0
+734,petechial hemorrhage,0
+735,hyperemesis,0
+736,testicular pain,1
+737,outward appearance,0
+738,salty taste,1
+739,excitable,0
+740,fasciculation,0
+741,extremity tremor,0
+742,mucous diarrhea,1
+743,abdomen bloating,1
+744,joint pain,1
+745,severe diarrhea,1
+746,arm paresis,0
+747,visuospatial neglect,0
+748,psychiatric symptom,1
+749,rash localized,1
+750,bloody sputum,0
+751,hand paresthesia,0
+752,"symptoms, neurologic",1
+753,sigh,0
+754,symptom gastrointestinal,1
+755,nasal flaring,0
+756,dry cough,1
+757,bsh,0
+758,perianal itching,1
+759,skin rash,1
+760,neurological sign and symptom,1
+761,rhinorrhoea,0
+762,dyssynergia,0
+763,earache,1
+764,discomfort,1
+765,conjunctival congestion,0
+766,sleeplessness,1
+767,nasal irritation,1
+768,lumbago,0
+769,frequent headache,1
+770,fainting,1
+771,syncopal episode,0
+772,elongated head,1
+773,sign and symptom,1
+774,gut pain,1
+775,amotivation,0
+776,ear pruritus,0
+777,globus sensation,0
+778,orthostasis,0
+779,local reaction,0
+780,tarry stool,1
+781,soreness,1
+782,cold feeling,1
+783,pain in left arm,1
+784,belching,1
+785,deep pain,1
+786,labor pain,1
+787,hoarseness of voice,1
+788,walking pain,1
+789,cough symptom,1
+790,hand paresthesia,0
+791,dull chest pain,1
+792,cough fever,1
+793,adipsia,0
+794,breath odor,1
+795,cancer-related pain,1
+796,"arrest, respiratory",0
+797,mannerism,0
+798,motor tic,0
+799,bellyache,1
+800,limb rigidity,0
+801,leukorrhea,0
+802,cheyne-stokes,0
+803,muscle spasm,0
+804,shoulder pain,1
+805,sleep disturbed,0
+806,memory impairment,0
+807,influenza-like symptom,1
+808,bellyache,1
+809,painful swallow,1
+810,cutaneous symptom,1
+811,feverish,1
+812,influenza like symptom,1
+813,infant diarrhoea,1
+814,infrequent bowel movement,1
+815,retching,0
+816,in-toeing,0
+817,local reaction,0
+818,pain nerve,1
+819,"pain, facial",1
+820,substernal chest pain,1
+821,acute renal colic,0
+822,urgency urinary,0
+823,cerebellar sign,0
+824,tired,1
+825,pleural pain,1
+826,increase temperature,1
+827,congested nose,0
+828,meningismus,0
+829,sighing,0
+830,elevated temperature,1
+831,slow movement,0
+832,infusion-related reaction,0
+833,bloated abdomen,1
+834,gastrointestinal distress,1
+835,whooping,1
+836,elongated head,1
+837,poor memory,0
+838,loss of sight,1
+839,gasping,0
+840,fart,0
+841,nasal stuffiness,1
+842,blue discoloration of the skin,1
+843,vomit,1
+844,ageusia,0
+845,phantosmia,0
+846,chest pain radiating,1
+847,malaise,0
+848,arthritic pain,1
+849,charming,0
+850,nose block,1
+851,strangury,0
+852,complication early,0
+853,gas bloat,0
+854,exanthema,0
+855,psychiatric symptom,1
+856,loin pain,1
+857,feeling tense,1
+858,abnormal heart rate,1
+859,double incontinence,0
+860,koplik spot,0
+861,high temperature,1
+862,leg cramp,1
+863,cognitive manifestation,0
+864,choking sensation,1
+865,fevered,1
+866,muscular weakness,1
+867,breathing difficult,1
+868,diffuse pain,1
+869,"symptoms, cognitive",1
+870,gastric distention,1
+871,"diarrhea, watery",1
+872,abnormal sensation,1
+873,vertigo,0
+874,slow movement,1
+875,infantile colic,0
+876,chest fullness,1
+877,"symptoms, behavioral",0
+878,outward appearance,0
+879,"back pain, lower",1
+880,knee symptom,1
+881,tingling sensation,1
+882,throat symptom,1
+883,tightness in chest,1
+884,painful joint,1
+885,sign symptom,1
+886,sleep disturbed,1
+887,"pain, face",1
+888,dyschezia,0
+889,skin tingling,1
+890,penile wart,0
+891,induced hypothermia,0
+892,hoarseness,0
+893,faint,1
+894,progressive spastic paraparesis,0
+895,change in stool,1
+896,light sensitivity,0
+897,recurrent abdominal pain,1
+898,tender lymph node,0
+899,fear of death,1
+900,right flank pain,1
+901,"pain, cranial",1
+902,painful hand,1
+903,continuous tremor,0
+904,pain in left arm,1
+905,flush,0
+906,jaundiced,0
+907,spasmodic torticollis,0
+908,skin manifestation,0
+909,hsa,0
+910,constipated,0
+911,constipated,0
+912,hunger,1
+913,effort angina,0
+914,abdominal cramping,1
+915,heart symptom,1
+916,doe,0
+917,blemish,0
+918,hand numbness,1
+919,psychotic symptom,1
+920,tumor-related pain,1
+921,head tremor,1
+922,facial flush,0
+923,nasal symptom,1
+924,agitation,0
+925,visual agnosia,0
+926,quality of life,0
+927,prodromal state,0
+928,central cyanosis,0
+929,muscle pain,1
+930,postnasal drip,1
+931,prostration,0
+932,sleeping difficulty,1
+933,muscle twitching,1
+934,exhaustion,0
+935,intestinal pain,1
+936,skin petechia,0
+937,i.e.,0
+938,jaundiced,0
+939,rib pain,1
+940,asthenic,0
+941,apnea,0
+942,urinary urgency,0
+943,recurrent vomiting,1
+944,proximal weakness,1
+945,nasal congestion,0
+946,elevated core body temperature,1
+947,ach,0
+948,stranguria,0
+949,ailment,0
+950,perineal pain,1
+951,tympanites,0
+952,stiff limb,1
+953,nonspecific chest pain,1
+954,back tenderness,1
+955,body pain,1
+956,doe,0
+957,pressure head,0
+958,fever rash,1
+959,nose running,1
+960,pain a bad a you can imagine,0
+961,cheek pain,1
+962,rigor,0
+963,i.e.,0
+964,abdominal pain,1
+965,symptom nausea,1
+966,emesis,0
+967,fainting,1
+968,bloody stool,1
+969,upper respiratory tract inflammation,0
+970,spot,0
+971,abnormal extension,1
+972,orofacial pain,1
+973,sore,1
+974,"weakness, generalized",1
+975,procedural pain,1
+976,scaly skin,1
+977,lethargy,1
+978,heart problem,0
+979,fatiguing,1
+980,burp,0
+981,muscle tremor,0
+982,tandem gait,0
+983,"pathological conditions, sign and symptom",1
+984,sign symptom,1
+985,extremity tremor,0
+986,cephalalgia,0
+987,flaccid muscle,0
+988,effort angina,0
+989,right-left disorientation,0
+990,altered sensation,0
+991,blue lip,1
+992,loose bowel movement,1
+993,sensitivity to light,0
+994,meningitis-like,0
+995,cold feeling,1
+996,ear swelling,1
+997,hyperpathia,0
+998,pain in left arm,1
+999,motor seizure,1

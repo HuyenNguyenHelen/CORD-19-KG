@@ -1,0 +1,1001 @@
+,drug,final-eval
+0,naproxen 250 mg,1
+1,melatonin 5 mg,1
+2,clonazepam 0.25 mg,1
+3,azithromycin 250 mg,1
+4,hydrocortisone 0.5 mg/ml,1
+5,quetiapine 50 mg,1
+6,cyclosporine oral solution,0
+7,zinc sulfate 50 mg,1
+8,hydrocortisone 2.5 mg,1
+9,morphine sulfate 0.5 mg,1
+10,metoprolol tartrate 25 mg,1
+11,fentanyl 0.1 mg,1
+12,valsartan 80 mg,1
+13,quinupristin/dalfopristin,0
+14,ibuprofen 800 mg,1
+15,codeine syrup,1
+16,amphotericin b injection,1
+17,posaconazole oral suspension,0
+18,methotrexate 5 mg,1
+19,aspirin 50 mg,1
+20,florfenicol 300 mg/ml,1
+21,tacrolimus 4 mg,1
+22,lidocaine injection,1
+23,lidocaine injection,1
+24,viagra pill,1
+25,telmisartan oral solution,0
+26,pantoprazole 20 mg,1
+27,basiliximab,1
+28,chemotherapy drug,1
+29,fenofibrate capsule,1
+30,clopidogrel 300 mg,1
+31,lidocaine ointment,1
+32,tocilizumab injection,1
+33,mometasone furoate cream,0
+34,hydrocortisone 20 mg,1
+35,amlodipine 5 mg,1
+36,dasatinib 140 mg,1
+37,teriflunomide 14 mg,1
+38,acetylcysteine solution,0
+39,miltefosine capsule,1
+40,zinc sulfate 220 mg,1
+41,mometasone furoate cream,0
+42,aloe vera gel,0
+43,dextroamphetamine,1
+44,viagra pill,1
+45,everolimus 1 mg,1
+46,fluconazole 50 mg,1
+47,bc powder,0
+48,fenofibrate 160 mg,1
+49,gentamicin ophthalmic,0
+50,topical minoxidil,0
+51,furosemide injection,1
+52,esomeprazole 20 mg,1
+53,fluconazole 100 mg,1
+54,mesalamine enema,0
+55,dasatinib 140 mg,1
+56,colchicine 0.6 mg,1
+57,prednisone 1 mg,1
+58,epinephrine 0.5 mg/ml,1
+59,topical ketoconazole,0
+60,ibuprofen 200 mg,1
+61,lacosamide 200 mg,1
+62,maraviroc 150 mg,1
+63,apixaban 5 mg,1
+64,buprenorphine injection,1
+65,chloramphenicol ophthalmic ointment,1
+66,bisoprolol 10 mg,1
+67,valproic acid 250 mg,1
+68,sertraline 150 mg,1
+69,viagra pill,1
+70,edoxaban 30 mg,1
+71,prednisone 2.5 mg,1
+72,clozapine 250 mg,1
+73,sertraline 150 mg,1
+74,chloroquine injection,1
+75,omeprazole 20 mg,1
+76,omeprazole oral paste,0
+77,lamivudine 60 mg,1
+78,dexamethasone 6 mg,1
+79,azithromycin,1
+80,enoxaparin sodium injection,1
+81,prednisolone 5 mg,1
+82,aspirin 50 mg,1
+83,drug and biologicals,0
+84,hydrocortisone 100 mg,1
+85,doxazosin 2 mg,1
+86,nystatin oral suspension,0
+87,metronidazole capsule,1
+88,tacrolimus 5 mg,1
+89,aflibercept injection,1
+90,methocarbamol 750 mg,1
+91,viokase powder,0
+92,biological drug,0
+93,hydrocortisone 2.5 mg,1
+94,bisoprolol fumarate 5 mg,1
+95,ciprofloxacin 100 mg,1
+96,valsartan 160 mg,1
+97,ibuprofen 200 mg,1
+98,aspirin 325 mg,1
+99,cilastatin 500 mg,1
+100,bleomycin injection,1
+101,azathioprine 50 mg,1
+102,chloroquine phosphate 250 mg,1
+103,diazepam 2 mg,1
+104,lorazepam 2 mg,1
+105,oxytocin injection,1
+106,ivermectin paste,0
+107,mupirocin nasal ointment,1
+108,methylprednisolone 1.5 mg,1
+109,mesalamine 400 mg,1
+110,colchicine 0.5 mg,1
+111,clopidogrel 75 mg,1
+112,hydroxyprogesterone caproate,1
+113,metoprolol succinate 25 mg,1
+114,ibuprofen 600 mg,1
+115,pantoprazole 40 mg,1
+116,lepirudin,1
+117,esomeprazole 20 mg,1
+118,viagra pill,1
+119,calcitrol,0
+120,oseltamivir phosphate capsule,1
+121,atorvastatin 20 mg,1
+122,insulin injection,0
+123,minocycline hydrochloride,0
+124,fentanyl 0.1 mg,1
+125,rifabutin 150 mg,1
+126,valsartan 160 mg,1
+127,cefuroxime 750 mg,1
+128,zinc sulfate 50 mg,1
+129,flunisolide nasal spray,0
+130,methylprednisolone 100 mg,1
+131,fingolimod 0.5 mg,1
+132,doxazosin 2 mg,1
+133,iodine topical solution,0
+134,amino acid injection,0
+135,fentanyl 0.1 mg,1
+136,fexofenadine hydrochloride 180 mg,1
+137,exenatide injection,1
+138,ustekinumab injection,1
+139,oral clindamycin,1
+140,povidone-iodine solution,0
+141,ephedrine 30 mg,1
+142,erythromycin 500 mg,1
+143,amoxicillin 1000 mg,1
+144,dulaglutide injection,1
+145,tocilizumab injection,1
+146,amlodipine 5 mg,1
+147,oral testosterone,1
+148,chloroquine phosphate tablet,1
+149,lamivudine 300 mg,1
+150,ritonavir 100 mg,1
+151,5% dextrose,0
+152,prednisolone oral solution,0
+153,nintedanib 100 mg,1
+154,simvastatin 20 mg,1
+155,oral testosterone,1
+156,emollient cream,0
+157,fentanyl 0.1 mg,1
+158,ritonavir 50 mg,1
+159,betadine solution,0
+160,clonidine hydrochloride,0
+161,protein c concentrate,0
+162,tacrolimus 0.5 mg,1
+163,olanzapine 10 mg,1
+164,cilastatin 500 mg,1
+165,norfloxacin 400 mg,1
+166,cough syrup,0
+167,testosterone injection,1
+168,testosterone injection,1
+169,naproxen 200 mg,1
+170,70% ethyl alcohol,0
+171,midazolam 5 mg/ml,1
+172,gentamicin ophthalmic,0
+173,carmustine wafer,0
+174,indomethacin 25 mg,1
+175,apixaban 2.5 mg,1
+176,esomeprazole 40 mg,1
+177,metformin 1000 mg,1
+178,clozapine 100 mg,1
+179,gentamicin ophthalmic ointment,1
+180,bc powder,0
+181,caspofungin acetate,0
+182,clindamycin 300 mg,1
+183,water solution,0
+184,exenatide injection,1
+185,rituximab injection,1
+186,phosphate enema,0
+187,spironolactone 50 mg,1
+188,metronidazole 400 mg,1
+189,methotrexate 10 mg,1
+190,citalopram 20 mg,1
+191,nitazoxanide tablet,1
+192,prednisone 10 mg,1
+193,gatorade,0
+194,betadine solution,0
+195,amprenavir oral solution,0
+196,emtricitabine 200 mg,1
+197,methotrexate 10 mg,1
+198,doxazosin 2 mg,1
+199,gentamicin ophthalmic solution,0
+200,fluoxetine 20 mg,1
+201,budesonide inhalation suspension,0
+202,rectal diazepam,1
+203,tacrolimus 0.5 mg,1
+204,rivaroxaban 15 mg,1
+205,prednisolone 5 mg,1
+206,lidocaine injection,1
+207,cyclophosphamide injection,1
+208,fenofibrate 160 mg,1
+209,artificial saliva,0
+210,penicillin v 500 mg,1
+211,naratriptan 1 mg,1
+212,injectable progesterone,1
+213,topical minoxidil,0
+214,topical nystatin,0
+215,azathioprine 50 mg,1
+216,dasatinib 140 mg,1
+217,amlodipine 10 mg,1
+218,oral budesonide,0
+219,prednisolone 50 mg,1
+220,topical epinephrine,0
+221,posaconazole delayed-release tablet,1
+222,tobramycin inhalation powder,0
+223,everolimus 1 mg,1
+224,etanercept injection,1
+225,lidocaine ointment,1
+226,cough syrup,0
+227,ritonavir tablet,1
+228,sterile water for injection,0
+229,topical prednisolone,0
+230,felodipine 5 mg,1
+231,frovatriptan 2.5 mg,1
+232,oral prednisolone,1
+233,nifedipine capsule,1
+234,vancomycin 125 mg,1
+235,prednisone 2 mg,1
+236,ustekinumab injection,1
+237,clotrimazole cream,0
+238,gentamicin ophthalmic ointment,1
+239,clozapine 100 mg,1
+240,amifostine,0
+241,acetaminophen 500 mg,1
+242,5% dextrose,0
+243,rivaroxaban 15 mg,1
+244,carvedilol 6.25 mg,1
+245,water irrigation,0
+246,miconazole oral gel,0
+247,betamethasone cream,0
+248,prednisolone 50 mg,1
+249,fenofibrate capsule,1
+250,dexamethasone 0.15 mg,1
+251,dexamethasone 1 mg,1
+252,oral morphine,0
+253,prednisone 25 mg,1
+254,ascorbic acid 500 mg,1
+255,thiamine 10 mg,1
+256,amoxicillin 1000 mg,1
+257,quinupristin/dalfopristin,1
+258,carnitine 250 mg,1
+259,tobramycin inhalation powder,0
+260,doxycycline 100 mg,1
+261,betadine solution,0
+262,insulin glargine injection,1
+263,tizanidine 2 mg,1
+264,mirtazapine 15 mg,1
+265,cyclosporine 50 mg,1
+266,apixaban 2.5 mg,1
+267,ruxolitinib 10 mg,1
+268,povidone-iodine ointment,1
+269,lisinopril 20 mg,1
+270,adalimumab injection,1
+271,methylprednisolone 4 mg,1
+272,methylprednisolone 500 mg,1
+273,ramipril 5 mg,1
+274,topical ketoconazole,0
+275,methylprednisolone 100 mg,1
+276,fingolimod 0.5 mg,1
+277,indomethacin 25 mg,1
+278,furosemide 12.5 mg,1
+279,moxifloxacin tablet,1
+280,sodium chloride injection,0
+281,injection water,0
+282,iodine topical solution,0
+283,rectal diclofenac,0
+284,midazolam 5 mg/ml,1
+285,oral dexamethasone,1
+286,flonase nasal spray,0
+287,hydrogen peroxide mouthwash,0
+288,praziquantel tablet,1
+289,valacyclovir 500 mg,1
+290,azithromycin 250 mg,1
+291,factor viii,0
+292,prednisolone 20 mg,1
+293,oral prednisolone,0
+294,firocoxib oral paste,0
+295,alcohol prep pad,0
+296,povidone-iodine solution,0
+297,chloroquine injection,1
+298,testosterone gel,1
+299,indinavir 200 mg,1
+300,simvastatin 10 mg,1
+301,lorazepam 2 mg,1
+302,prednisone 50 mg,1
+303,hydrogen peroxide mouthwash,0
+304,meropenem,0
+305,aspirin 324 mg,1
+306,amphotericin b,0
+307,clindamycin 300 mg,1
+308,firocoxib oral paste,0
+309,ambroxol 30 mg,1
+310,letrozole 2.5 mg,1
+311,cilastatin 500 mg,1
+312,vildagliptin 100 mg,1
+313,mirtazapine 15 mg,1
+314,chloramphenicol ophthalmic ointment,1
+315,ketoconazole 400 mg,1
+316,acyclovir cream,0
+317,telmisartan 40 mg,1
+318,olanzapine 10 mg,1
+319,lidocaine patch,0
+320,sodium fluoride gel,0
+321,azithromycin 600 mg,1
+322,lamivudine 100 mg,1
+323,morphine sulfate 0.5 mg,1
+324,fluconazole,0
+325,ritonavir 50 mg,1
+326,miltefosine capsule,1
+327,spironolactone 25 mg,1
+328,mirtazapine 7.5 mg,1
+329,mupirocin ointment,1
+330,quetiapine 25 mg,1
+331,ustekinumab injection,1
+332,chemotherapy drug,0
+333,lumefantrine 120 mg,1
+334,ascorbic acid 500 mg,1
+335,metronidazole 400 mg,1
+336,ascorbic acid 500 mg,1
+337,melphalan 2 mg,1
+338,famotidine 10 mg,1
+339,bismuth subsalicylate tablet,1
+340,itraconazole oral solution,0
+341,prednisone 2.5 mg,1
+342,ustekinumab injection,1
+343,betadine solution,0
+344,ciprofloxacin 400 mg,1
+345,formaldehyde solution,0
+346,meropenem,0
+347,carnitine 250 mg,1
+348,mycophenolate mofetil 500 mg,1
+349,alteplase 50 mg,1
+350,escitalopram 10 mg,1
+351,lopinavir 100 mg,1
+352,gentamicin ophthalmic solution,0
+353,posaconazole oral suspension,0
+354,furosemide 40 mg,1
+355,rivaroxaban 15 mg,1
+356,rasburicase,0
+357,hydrocortisone 250 mg,1
+358,clonazepam 1 mg,1
+359,fenofibrate 200 mg,1
+360,latanoprost ophthalmic solution,0
+361,gentamicin ophthalmic,0
+362,dexamethasone injection,1
+363,ibuprofen 400 mg,1
+364,hydroxychloroquine sulfate tablet,1
+365,pantoprazole 20 mg,1
+366,gabapentin 300 mg,1
+367,darunavir 600 mg,1
+368,oral nystatin,0
+369,escitalopram 10 mg,1
+370,oral vancomycin,1
+371,lopinavir 100 mg,1
+372,escitalopram 10 mg,1
+373,duloxetine 60 mg,1
+374,methotrexate 2.5 mg,1
+375,acetaminophen 650 mg,1
+376,paricalcitol,0
+377,70% ethyl alcohol,0
+378,diazepam 10 mg,1
+379,albuterol metered dose inhaler,0
+380,cefixime 200 mg,1
+381,water irrigation,0
+382,rifampin 600 mg,1
+383,flunixin meglumine injection,1
+384,itraconazole 100 mg,1
+385,sodium fluoride gel,0
+386,metoprolol 47.5 mg,1
+387,imipenem 250 mg,1
+388,injection water,0
+389,alcohol prep pad,0
+390,prednisone 10 mg,1
+391,methylprednisolone 8 mg,1
+392,nitrogen 99.5 % gas for inhalation,0
+393,naloxone nasal spray,0
+394,itraconazole oral solution,0
+395,permethrin topical product,0
+396,ivermectin paste,0
+397,topical ketoconazole,0
+398,clozapine 50 mg,1
+399,imipenem 500 mg,1
+400,dalteparin sodium,0
+401,methotrexate 10 mg,1
+402,dimethyl fumarate 240 mg,1
+403,cyclosporine oral solution,0
+404,dapagliflozin 10 mg,1
+405,simvastatin 10 mg,1
+406,metformin 500 mg,1
+407,minocycline hydrochloride,0
+408,calamine lotion,0
+409,testosterone gel,0
+410,calcium carbonate 1000 mg,1
+411,permethrin topical product,0
+412,oxymetazoline nasal spray,0
+413,prednisolone 1 mg,1
+414,sirolimus 2 mg,1
+415,acetaminophen 500 mg,1
+416,nifedipine 30 mg,1
+417,betamethasone cream,0
+418,fexofenadine hydrochloride 180 mg,1
+419,rivaroxaban 10 mg,1
+420,testosterone gel,0
+421,oxymetazoline nasal spray,0
+422,abobotulinumtoxina,1
+423,ruxolitinib 10 mg,1
+424,darunavir 800 mg,1
+425,nifedipine capsule,1
+426,gabapentin 300 mg,1
+427,simvastatin 20 mg,1
+428,sodium chloride injection,1
+429,famotidine 10 mg,1
+430,naloxone nasal spray,0
+431,flonase nasal spray,0
+432,baricitinib 2 mg,1
+433,calcium carbonate tablet,1
+434,zinc lozenge,0
+435,oral prednisolone,1
+436,mirtazapine 15 mg,1
+437,nicotine gum,0
+438,oseltamivir phosphate capsule,1
+439,topical zinc oxide,0
+440,ruxolitinib 10 mg,1
+441,dexamethasone injection,1
+442,thiamine 10 mg,1
+443,matchedtext,0
+444,azithromycin,1
+445,prednisolone 5 mg,1
+446,rivaroxaban 10 mg,1
+447,ceftriaxone 250 mg,1
+448,posaconazole oral suspension,0
+449,400 mg ibuprofen,1
+450,metronidazole 500 mg,1
+451,topical nystatin,0
+452,colchicine 0.5 mg,1
+453,atorvastatin 20 mg,1
+454,cough syrup,0
+455,carmustine wafer,0
+456,abobotulinumtoxina,0
+457,clozapine 100 mg,1
+458,fentanyl 0.1 mg,1
+459,ribavirin 400 mg,1
+460,basiliximab,1
+461,trazodone 25 mg,1
+462,escitalopram 10 mg,1
+463,quetiapine 25 mg,1
+464,methylprednisolone 2 mg,1
+465,quetiapine 25 mg,1
+466,prednisone 25 mg,1
+467,alteplase 50 mg,1
+468,artemether 20 mg,1
+469,cefixime 400 mg,1
+470,oral prednisolone,0
+471,carvedilol 25 mg,1
+472,throat lozenge,0
+473,glucagon injection,1
+474,trazodone 25 mg,1
+475,prochlorperazine suppository,0
+476,sorbitol solution,0
+477,naratriptan 1 mg,1
+478,doxazosin 4 mg,1
+479,fentanyl 0.1 mg,1
+480,buprenorphine injection,1
+481,permethrin cream,0
+482,monolayer,0
+483,dexamethasone injection,1
+484,chlorpromazine injection,1
+485,lamivudine 300 mg,1
+486,ketoconazole 400 mg,1
+487,rivaroxaban 15 mg,1
+488,basiliximab,1
+489,hydrocortisone 20 mg,1
+490,lopinavir and ritonavir tablet,1
+491,chloroquine 300 mg,1
+492,cephalexin capsule,1
+493,morphine capsule,1
+494,dexamethasone injection,1
+495,betadine solution,0
+496,betrixaban 80 mg,1
+497,flunisolide nasal spray,0
+498,caspofungin acetate,0
+499,metronidazole capsule,1
+500,leflunomide 20 mg,1
+501,midazolam injection,1
+502,artemether 20 mg,1
+503,temozolomide,1
+504,ceftriaxone 250 mg,1
+505,folic acid tablet,1
+506,azithromycin 600 mg,1
+507,fexofenadine hydrochloride 180 mg,1
+508,furosemide 12.5 mg,1
+509,beclomethasone nasal spray,0
+510,rosuvastatin 20 mg,1
+511,amoxicillin 250 mg,1
+512,sleeping pill,1
+513,acyclovir ointment,1
+514,emtricitabine 200 mg,1
+515,throat lozenge,0
+516,methotrexate 2.5 mg,1
+517,prednisone 2.5 mg,1
+518,gabapentin 300 mg,1
+519,chlorpromazine 25 mg,1
+520,aspirin 300 mg,1
+521,hydrocortisone 2.5 mg,1
+522,enoxaparin sodium injection,1
+523,dexamethasone 8 mg,1
+524,naratriptan 1 mg,1
+525,0.9% sodium chloride injection,1
+526,mycophenolate mofetil 500 mg,1
+527,famciclovir 500 mg,1
+528,lepirudin,0
+529,colchicine 0.5 mg,1
+530,calcitrol,0
+531,bismuth subsalicylate tablet,1
+532,erythromycin ointment,1
+533,chlorhexidine gluconate 20 mg/ml,1
+534,magnesium oxide 75 mg,1
+535,ritonavir tablet,1
+536,aspirin 75 mg,1
+537,alefacept,0
+538,iodine topical solution,0
+539,carvedilol 25 mg,1
+540,prednisone 2.5 mg,1
+541,topical lidocaine,0
+542,felodipine 5 mg,1
+543,calcitrol,0
+544,ibrutinib 140 mg,1
+545,indomethacin 25 mg,1
+546,methotrexate 10 mg,1
+547,ribavirin 500 mg,1
+548,moxifloxacin tablet,1
+549,lubricating gel,0
+550,benzalkonium chloride solution,0
+551,aripiprazole 5 mg,1
+552,metaproterenol inhalation solution,0
+553,methylprednisolone 8 mg,1
+554,aspirin 325 mg,1
+555,fidaxomicin 200 mg,1
+556,metoprolol tartrate 25 mg,1
+557,imipenem 500 mg,1
+558,viokase powder,0
+559,minocycline 100 mg,1
+560,efavirenz 600 mg,1
+561,everolimus 1 mg,1
+562,ribavirin 400 mg,1
+563,midazolam injection,1
+564,zinc sulfate 50 mg,1
+565,tacrolimus 1 mg,1
+566,firocoxib oral paste,0
+567,zidovudine,0
+568,chlorhexidine gluconate 20 mg/ml,1
+569,chlorpromazine 25 mg,1
+570,metronidazole capsule,1
+571,citalopram 20 mg,1
+572,albendazole 400 mg,1
+573,imipenem 250 mg,1
+574,fluconazole,0
+575,gentamicin ophthalmic,0
+576,oral testosterone,1
+577,azathioprine 75 mg,1
+578,hydrocortisone 250 mg,1
+579,bisacodyl suppository,0
+580,flonase nasal spray,0
+581,dapsone 100 mg,1
+582,sodium chloride injection,1
+583,sertraline 150 mg,1
+584,citalopram 20 mg,1
+585,erythromycin 500 mg,1
+586,hydrogen peroxide mouthwash,0
+587,mycophenolic acid,0
+588,rifampin 600 mg,1
+589,aspirin 325 mg,1
+590,azithromycin 250 mg,1
+591,methylprednisolone 40 mg,1
+592,amifostine,1
+593,olanzapine 2.5 mg,1
+594,isotretinoin capsule,1
+595,topical hydrocortisone,0
+596,imipenem 250 mg,1
+597,ibrutinib 420 mg,1
+598,pantoprazole 40 mg,1
+599,2 oxygen,0
+600,colchicine 0.6 mg,1
+601,oseltamivir 45 mg,1
+602,spironolactone 25 mg,1
+603,amphotericin b,0
+604,oral morphine,0
+605,topical epinephrine,0
+606,alcohol prep pad,0
+607,ruxolitinib 10 mg,1
+608,amoxicillin 1000 mg,1
+609,atenolol 50 mg,1
+610,telmisartan 40 mg,1
+611,glucagon injection,1
+612,lisinopril 10 mg,1
+613,ephedrine 30 mg,1
+614,clozapine 300 mg,1
+615,oral dexamethasone,0
+616,topiramate 50 mg,1
+617,efavirenz 600 mg,1
+618,dulaglutide injection,1
+619,ciprofloxacin 100 mg,1
+620,hydroxyprogesterone caproate,1
+621,florfenicol 300 mg/ml,1
+622,lidocaine patch,0
+623,morphine injection,1
+624,fluconazole 50 mg,1
+625,monolayer,0
+626,famotidine 10 mg,1
+627,moxifloxacin 400 mg,1
+628,dexamethasone 8 mg,1
+629,iv ascorbate,0
+630,chlorhexidine mouthwash,0
+631,antiseptic mouthwash,0
+632,hydroxychloroquine sulfate 400 mg,1
+633,melatonin 3 mg,1
+634,rectal diazepam,0
+635,benzalkonium chloride solution,0
+636,lenalidomide 25 mg,1
+637,rivaroxaban 10 mg,1
+638,water solution,0
+639,doxycycline 200 mg,1
+640,aspirin 81 mg,1
+641,oral nystatin,0
+642,valganciclovir 450 mg,1
+643,prednisolone 50 mg,1
+644,ceftriaxone 2000 mg,1
+645,pantoprazole 40 mg,1
+646,mirtazapine 7.5 mg,1
+647,lamivudine 300 mg,1
+648,fingolimod 0.5 mg,1
+649,norfloxacin 400 mg,1
+650,ketoconazole 400 mg,1
+651,fondaparinux sodium,0
+652,amoxicillin 750 mg,1
+653,prednisolone 20 mg,1
+654,prednisone 1 mg,1
+655,prednisolone 5 mg,1
+656,hydrocortisone injection,1
+657,acetaminophen 650 mg,1
+658,betrixaban 80 mg,1
+659,ritonavir 100 mg,1
+660,oral vancomycin,0
+661,dapagliflozin 10 mg,1
+662,viokase powder,0
+663,lubricating gel,0
+664,urea injection,1
+665,ibuprofen 400 mg,1
+666,doxazosin 2 mg,1
+667,alteplase 50 mg,1
+668,cyclophosphamide injection,1
+669,rectal diclofenac,0
+670,everolimus 1 mg,1
+671,amoxicillin 1000 mg,1
+672,mycophenolate mofetil 250 mg,1
+673,metronidazole 400 mg,1
+674,gentamicin ophthalmic ointment,1
+675,oxymetazoline nasal spray,0
+676,glucagon injection,1
+677,benzalkonium chloride solution,0
+678,posaconazole oral suspension,0
+679,prednisone 30 mg,1
+680,oxaliplatin,0
+681,ruxolitinib 5 mg,1
+682,povidone-iodine solution,0
+683,sirolimus 2 mg,1
+684,prednisone 2.5 mg,1
+685,morphine capsule,1
+686,hydrocortisone 0.5 mg/ml,1
+687,mycophenolate mofetil 500 mg,1
+688,efavirenz 600 mg,1
+689,trazodone 25 mg,1
+690,voriconazole 200 mg,1
+691,rituximab injection,1
+692,sirolimus 2 mg,1
+693,betadine solution,0
+694,ketamine 100 mg/ml,1
+695,amoxicillin 875 mg,1
+696,moisturizing lotion,0
+697,topical minoxidil,0
+698,topical prednisolone,0
+699,miltefosine capsule,1
+700,methylprednisolone 2 mg,1
+701,clozapine 50 mg,1
+702,betamethasone cream,0
+703,zinc lozenge,0
+704,flunixin meglumine injection,1
+705,fenofibrate 200 mg,1
+706,magnesium oxide 75 mg,1
+707,ustekinumab injection,1
+708,irrigation water,0
+709,ibuprofen 200 mg,1
+710,oral metronidazole,1
+711,clonazepam 0.5 mg,1
+712,etanercept injection,1
+713,moisturizing cream,0
+714,pyridoxine 10 mg,1
+715,oxymetazoline nasal spray,0
+716,nystatin oral suspension,0
+717,metronidazole capsule,1
+718,bivalirudin,1
+719,loratadine 10 mg,1
+720,voriconazole 200 mg,1
+721,firocoxib oral paste,0
+722,fenofibrate capsule,1
+723,bc powder,0
+724,ramipril 5 mg,1
+725,imiquimod cream,0
+726,aspirin 81 mg,1
+727,mycophenolate mofetil 500 mg,1
+728,olanzapine 2.5 mg,1
+729,rivaroxaban 10 mg,1
+730,iodine topical solution,0
+731,urea injection,0
+732,mifepristone 200 mg,1
+733,citalopram 20 mg,1
+734,fenbendazole granule,0
+735,pioglitazone 30 mg,1
+736,pantoprazole 40 mg,1
+737,aspirin 75 mg,1
+738,tacrolimus capsule,1
+739,anti-inhibitor,0
+740,biological drug,0
+741,moisturizing cream,0
+742,bleomycin injection,1
+743,dimethyl fumarate 240 mg,1
+744,hydrocortisone injection,1
+745,oral hydrocortisone,0
+746,hydroxychloroquine sulfate tablet,1
+747,darunavir 600 mg,1
+748,methylprednisolone 4 mg,1
+749,gabapentin 300 mg,1
+750,morphine capsule,1
+751,metronidazole tablet,1
+752,artemether 20 mg,1
+753,itraconazole 100 mg,1
+754,hydrocortisone 20 mg,1
+755,lisinopril 40 mg,1
+756,codeine syrup,0
+757,tacrolimus ointment,1
+758,sorbitol solution,0
+759,imipenem 250 mg,1
+760,lubricating gel,0
+761,testosterone gel,0
+762,bismuth subsalicylate tablet,1
+763,lisinopril 40 mg,1
+764,tacrolimus ointment,1
+765,chlorhexidine mouthwash,0
+766,dexamethasone sodium phosphate injection,1
+767,omeprazole 20 mg,1
+768,oseltamivir 30 mg,1
+769,azithromycin tablet,1
+770,fentanyl 0.1 mg,1
+771,dextroamphetamine,1
+772,oxytocin injection,1
+773,mupirocin ointment,1
+774,artemether 20 mg,1
+775,valproic acid 300 mg,1
+776,bismuth iodoform paraffin paste,0
+777,amikacin injection,1
+778,everolimus 1 mg,1
+779,nitrogen 99.5 % gas for inhalation,0
+780,permethrin topical product,0
+781,oseltamivir phosphate capsule,1
+782,aspirin 50 mg,1
+783,ceftriaxone 2000 mg,1
+784,2 oxygen,0
+785,oral prednisolone,0
+786,cough syrup,0
+787,atorvastatin 20 mg,1
+788,moxifloxacin 400 mg,1
+789,ramipril 5 mg,1
+790,adalimumab injection,1
+791,20 mg prednisone,1
+792,methylprednisolone 4 mg,1
+793,duloxetine 60 mg,1
+794,topical ibuprofen,1
+795,levofloxacin 500 mg,1
+796,carnitine 250 mg,1
+797,azithromycin,1
+798,viokase powder,0
+799,viagra pill,1
+800,0.9% sodium chloride,0
+801,chlorhexidine mouthwash,0
+802,denosumab injection,1
+803,calcium carbonate 1000 mg,1
+804,diazepam 2 mg,1
+805,factor viia,0
+806,mesalamine 400 mg,1
+807,fentanyl 0.1 mg,1
+808,pioglitazone 30 mg,1
+809,topical prednisolone,0
+810,methotrexate 2.5 mg,1
+811,duloxetine 60 mg,1
+812,prednisolone 30 mg,1
+813,azithromycin tablet,1
+814,fluconazole,1
+815,ibrutinib 420 mg,1
+816,hydrocortisone 250 mg,1
+817,methylprednisolone 16 mg,1
+818,topical epinephrine,0
+819,albendazole 400 mg,1
+820,albendazole 400 mg,1
+821,trazodone 25 mg,1
+822,penicillin v 500 mg,1
+823,duloxetine 60 mg,1
+824,ramipril 1.25 mg,1
+825,apixaban 5 mg,1
+826,dipyridamole 50 mg,1
+827,esomeprazole 20 mg,1
+828,dapsone 100 mg,1
+829,atenolol 50 mg,1
+830,melphalan 2 mg,1
+831,lisinopril 40 mg,1
+832,metoprolol 47.5 mg,1
+833,zinc sulfate 50 mg,1
+834,omeprazole 20 mg,1
+835,nitrogen 99.5 % gas for inhalation,0
+836,clindamycin 300 mg,1
+837,oral morphine,0
+838,topical nystatin,0
+839,moxifloxacin tablet,1
+840,betamethasone cream,1
+841,enoxaparin sodium injection,1
+842,methylprednisolone 8 mg,1
+843,fenbendazole granule,0
+844,famotidine 20 mg,1
+845,zinc sulfate 50 mg,1
+846,acetylcysteine 600 mg,1
+847,oral busulfan,0
+848,ramipril 10 mg,1
+849,factor viia,0
+850,propantheline 7.5 mg,1
+851,lopinavir 200 mg,1
+852,ustekinumab injection,1
+853,ketoconazole 200 mg,1
+854,fentanyl 0.1 mg,1
+855,amitriptyline 25 mg,1
+856,0.45% sodium chloride,0
+857,metformin 500 mg,1
+858,methylprednisolone 8 mg,1
+859,testosterone gel,0
+860,beclomethasone nasal spray,0
+861,omeprazole 40 mg,1
+862,pilocarpine ophthalmic solution,0
+863,prednisone 20 mg,1
+864,ciprofloxacin tablet,1
+865,methotrexate 15 mg,1
+866,melatonin 5 mg,1
+867,aspirin 325 mg,1
+868,metoprolol 47.5 mg,1
+869,doxycycline injection,1
+870,methylprednisolone 40 mg,1
+871,fenbendazole granule,0
+872,cefuroxime 750 mg,1
+873,moisturizing lotion,0
+874,chloroquine 300 mg,1
+875,loratadine 10 mg,1
+876,folic acid tablet,1
+877,minocycline hydrochloride,0
+878,monoclonal antibody,0
+879,morphine injection,1
+880,firocoxib oral paste,0
+881,ibuprofen 200 mg,1
+882,simvastatin 20 mg,1
+883,topical ibuprofen,0
+884,fingolimod 0.5 mg,1
+885,risperidone 6 mg,1
+886,apixaban 2.5 mg,1
+887,isotretinoin capsule,1
+888,clozapine 100 mg,1
+889,sterile water for injection,1
+890,rifampin 600 mg,1
+891,0.45% sodium chloride,0
+892,carmustine wafer,0
+893,corticosteroid cream,0
+894,injectable progesterone,1
+895,florfenicol 300 mg/ml,1
+896,dexamethasone 8 mg,1
+897,aspirin 324 mg,1
+898,denosumab injection,1
+899,triple antibiotic ointment,1
+900,methylprednisolone 1.5 mg,1
+901,doxazosin 4 mg,1
+902,prednisone 1 mg,1
+903,methylprednisolone 32 mg,1
+904,dapsone 100 mg,1
+905,ibuprofen 200 mg,1
+906,quinupristin/dalfopristin,0
+907,chloroquine 300 mg,1
+908,dextroamphetamine,1
+909,levofloxacin 750 mg,1
+910,naloxone nasal spray,0
+911,50% dextrose,0
+912,methylprednisolone 4 mg,1
+913,ritonavir 50 mg,1
+914,nitazoxanide 500 mg,1
+915,colchicine 0.5 mg,1
+916,oral hydrocortisone,0
+917,methylprednisolone 1.5 mg,1
+918,oxygen 2,0
+919,quetiapine 400 mg,1
+920,sumatriptan 50 mg,1
+921,bacitracin ointment,1
+922,ibrutinib 140 mg,1
+923,potassium iodide tablet,1
+924,felodipine 5 mg,1
+925,ritonavir 100 mg,1
+926,oral hydrocortisone,0
+927,nystatin oral suspension,0
+928,quetiapine 50 mg,1
+929,pantoprazole 20 mg,1
+930,melatonin 3 mg,1
+931,rectal diclofenac,0
+932,oral busulfan,0
+933,piperacillin/tazobactam,0
+934,oral nystatin,0
+935,esomeprazole 40 mg,1
+936,rasburicase,0
+937,midazolam injection,1
+938,metoprolol succinate 25 mg,1
+939,doxycycline 100 mg,1
+940,fenofibrate 160 mg,1
+941,japanese encephalitis virus vaccine,0
+942,azithromycin 250 mg,1
+943,omeprazole oral paste,0
+944,denosumab injection,1
+945,finasteride 1 mg,1
+946,fluoxetine 60 mg,1
+947,azathioprine 75 mg,1
+948,sertraline 150 mg,1
+949,azithromycin,1
+950,0.45% sodium chloride,0
+951,injection water,0
+952,doxycycline 200 mg,1
+953,injectable progesterone,1
+954,fingolimod 0.5 mg,1
+955,aspirin 80 mg,1
+956,quinupristin/dalfopristin,0
+957,factor viia,0
+958,permethrin cream,0
+959,flunisolide nasal spray,0
+960,dimethyl fumarate 240 mg,1
+961,neomycin ophthalmic ointment,1
+962,nitroglycerin ointment,1
+963,indomethacin 50 mg,1
+964,topical hydrocortisone,0
+965,5% dextrose,0
+966,ambroxol 30 mg,1
+967,aspirin 324 mg,1
+968,efavirenz 600 mg,1
+969,erythromycin 500 mg,1
+970,rosuvastatin 20 mg,1
+971,fingolimod 0.5 mg,1
+972,dextroamphetamine,1
+973,dasatinib 140 mg,1
+974,valganciclovir 450 mg,1
+975,digoxin 0.25 mg,1
+976,prednisolone 2 mg,1
+977,oral clindamycin,0
+978,acetylcysteine 600 mg,1
+979,quetiapine 50 mg,1
+980,monolayers,0
+981,lidocaine patch,0
+982,magnesium oxide 75 mg,1
+983,bisoprolol 10 mg,1
+984,escitalopram 10 mg,1
+985,sodium chloride injection,1
+986,gatorade,0
+987,gns,0
+988,fluoxetine 60 mg,1
+989,clindamycin 300 mg,1
+990,linagliptin 5 mg,1
+991,povidone-iodine solution,0
+992,injectable progesterone,1
+993,lopinavir 100 mg,1
+994,dulaglutide injection,1
+995,viagra pill,1
+996,fluoxetine 60 mg,1
+997,lamivudine 300 mg,1
+998,tigecycline 50 mg,1
+999,maraviroc 150 mg,1

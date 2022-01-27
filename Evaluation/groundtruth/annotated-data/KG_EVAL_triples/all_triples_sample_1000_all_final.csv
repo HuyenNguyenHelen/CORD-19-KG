@@ -1,0 +1,1001 @@
+,subject,new_relation,object,Evaluation1,Evaluation2,Evaluation3,final_eval
+0,syndrome,disease_species,ferret,1,0,0,0
+1,disease,disease_disease,flu,1,1,1,1
+2,osteopontin,gene_disease,m,0,0,0,0
+3,ifn,gene_disease,infection,1,0,1,1
+4,degeneration,disease_disease,seizure,1,1,1,1
+5,cyst,disease_species,dog,1,1,1,1
+6,u,disease_gene,impact,0,0,0,0
+7,lyssavirus,disease_gene,p gene,1,1,1,1
+8,procedure,treat_procedure_drug,aminoglycoside,1,1,1,1
+9,damage,gene_disease,injury,1,0,0,0
+10,syndrome,disease_disease,disease,1,0,0,0
+11,change,treat_procedure_gene,band,1,0,0,0
+12,artery disease,disease_treat_procedure,carotid endarterectomy,1,0,0,0
+13,retinopathy,disease_disease,neuropathy,1,1,1,1
+14,i,drug_symptom,fit,0,0,0,0
+15,protein,gene_gene,pol,1,0,0,0
+16,virus,disease_disease,cold,1,0,0,0
+17,ddx3,gene_gene,cytoplasm,1,1,1,1
+18,rbd,disease_disease,rbd,1,1,1,1
+19,combination therapy,treat_procedure_disease,ards,1,0,0,0
+20,cytokine storm,disease_disease,hypoxia,1,0,0,0
+21,i,drug_gene,ns3,0,0,0,0
+22,gene,gene_gene,cloned,1,0,0,0
+23,isolation,treat_procedure_species,specie,1,0,0,0
+24,y,disease_disease,y,0,0,0,0
+25,cdna,gene_gene,kit,1,0,0,0
+26,disease,disease_disease,prediabetes,1,1,1,1
+27,azithromycin,drug_drug,s1,1,1,1,1
+28,henipaviruses,disease_species,specie,1,1,1,1
+29,ci,drug_disease,aneurysm,1,0,1,1
+30,brain,disease_disease,edema,1,0,0,0
+31,pdcs,gene_symptom,finding,0,0,0,0
+32,smad3,gene_treat_procedure,expression,1,0,0,0
+33,mare,gene_symptom,respiratory arrest,1,0,0,0
+34,disease,disease_disease,disease,1,1,1,1
+35,infection,disease_symptom,fatigue,1,0,0,0
+36,c,drug_disease,virus,0,0,0,0
+37,lung cancer,disease_gene,large,1,1,1,1
+38,n,drug_gene,nsp2,0,0,0,0
+39,illness,symptom_species,patient,1,0,0,0
+40,traf3,gene_drug,sev,1,1,1,1
+41,i,drug_gene,card domain,0,0,0,0
+42,virus,disease_disease,disease,1,0,1,1
+43,epidemic encephalitis,disease_disease,disease,1,1,1,1
+44,autophagosomes,gene_species,fmdv,1,1,1,1
+45,ifitm3,gene_disease,viral infection,1,0,1,1
+46,zoonotic infection,disease_species,human,1,0,1,1
+47,liver failure,disease_disease,injury,1,0,0,0
+48,membrane,gene_disease,fp,1,0,0,0
+49,respiratory infection,disease_species,coronavirus,1,0,0,0
+50,virus,disease_species,person,1,1,0,1
+51,spirochetosis,disease_disease,infestation,1,1,1,1
+52,niv f,gene_gene,f,1,0,0,0
+53,diarrhea,disease_disease,respiratory problem,1,1,1,1
+54,n,drug_drug,s,0,0,0,0
+55,remdesivir,drug_drug,drug,1,1,1,1
+56,homolog,gene_disease,helix,1,0,1,1
+57,eef1a,gene_gene,replicase,1,0,0,0
+58,nadph oxidase,gene_treat_procedure,reduction,1,1,1,1
+59,cxcr4,gene_gene,ccr5,1,1,1,1
+60,b23,gene_gene,multifunctional,1,0,0,0
+61,copd,disease_species,child,1,0,0,0
+62,expression,treat_procedure_species,human,1,0,0,0
+63,treatment,treat_procedure_drug,poly,1,1,1,1
+64,detection,treat_procedure_gene,nuclear factor κb,1,1,1,1
+65,ibv,disease_disease,contagious disease,1,1,1,1
+66,influenza disease,disease_gene,impact,1,0,0,0
+67,combination therapy,treat_procedure_species,patient,1,1,0,1
+68,multiorgan failure,disease_symptom,illness,1,1,1,1
+69,liver injury,disease_treat_procedure,detected,1,0,0,0
+70,isolation procedure,treat_procedure_disease,epidemic,1,0,0,0
+71,pneumonia,disease_disease,severe,1,0,0,0
+72,cxcl10,gene_disease,sialadenitis,1,0,1,1
+73,neoplasm,disease_disease,eu,0,0,0,0
+74,ace2,gene_treat_procedure,expression,1,0,0,0
+75,c,drug_treat_procedure,heart transplantation,0,0,0,0
+76,protein,gene_disease,e,0,0,0,0
+77,acidosis,disease_disease,severe,1,0,0,0
+78,covid,disease_treat_procedure,detected,1,0,0,0
+79,mumps,disease_species,influenza a,1,0,0,0
+80,glucose,drug_drug,glutamate,1,1,1,1
+81,injection,treat_procedure_disease,hiv infection,1,0,1,1
+82,presence,treat_procedure_gene,impact,1,0,0,0
+83,band,gene_treat_procedure,treatment,1,1,1,1
+84,therapy,treat_procedure_species,dog,1,0,1,1
+85,chloroquine,drug_drug,drug,1,1,1,1
+86,reduction,treat_procedure_disease,pandemic,1,0,0,0
+87,pancreas,disease_disease,edema,1,0,0,0
+88,pla2,gene_disease,lung disease,1,0,1,1
+89,coronaviruses,disease_disease,upper respiratory tract infection,1,0,1,1
+90,encephalitis,disease_disease,nervous system infection,1,1,1,1
+91,peritonitis virus,disease_disease,disease,1,1,1,1
+92,crp,gene_disease,liver,1,0,0,0
+93,scarification,treat_procedure_disease,punctate keratitis,1,0,0,0
+94,disease,disease_disease,covid-19ry artery disease,1,0,1,1
+95,weakness,symptom_disease,muscle atrophy,1,0,1,1
+96,all,gene_gene,host cell,1,0,0,0
+97,sars,disease_disease,disease,1,0,1,1
+98,bacterial pneumonia,disease_disease,pneumonia,1,1,1,1
+99,bacterial tracheitis,disease_treat_procedure,endotracheal intubation,1,0,1,1
+100,ribavirin,drug_drug,lopinavir,1,1,1,1
+101,tube,gene_gene,airway,0,0,0,0
+102,rsv,disease_disease,bocavirus,1,0,1,1
+103,ab,gene_gene,set,1,0,0,0
+104,melanoma,disease_gene,mda5,1,0,1,1
+105,fibrinogen,gene_gene,fibrin,1,1,1,1
+106,i,drug_disease,vaccine,0,0,0,0
+107,remyelination,disease_disease,demyelinated lesion,1,1,1,1
+108,antibody,gene_disease,viral infection,1,0,0,0
+109,virus,disease_drug,pfu,1,0,0,0
+110,reduction,treat_procedure_disease,lung,1,0,0,0
+111,disease,disease_species,patient,1,0,0,0
+112,ga,gene_species,child,1,0,0,0
+113,cd209l,gene_disease,lung,1,0,0,0
+114,step,gene_gene,capsid,1,0,0,0
+115,infection,disease_disease,infection,1,0,1,1
+116,u,disease_species,animal model,0,0,0,0
+117,autophagy,gene_disease,virus,1,0,0,0
+118,feline coronavirus,disease_species,feline infectious peritonitis virus,1,1,1,1
+119,expression,treat_procedure_drug,sodium butyrate,1,0,0,0
+120,bovine viral diarrhea virus,disease_disease,coronavirus,1,1,1,1
+121,impact,gene_treat_procedure,open,1,0,0,0
+122,sex,gene_species,men,1,0,0,0
+123,detection,treat_procedure_disease,virus,1,0,0,0
+124,disorder,disease_gene,antibody,1,0,0,0
+125,carcinoma,disease_gene,cell,1,0,0,0
+126,bacterial infection,disease_disease,viral pneumonia,1,1,1,1
+127,cecum,treat_procedure_treat_procedure,cecum,1,0,0,0
+128,asthma,disease_disease,copd,1,1,1,1
+129,deficiency,disease_gene,storage,1,0,0,0
+130,i,drug_species,patient,0,0,0,0
+131,drug,drug_drug,c,0,0,0,0
+132,cov,disease_disease,sars cov,1,1,1,1
+133,enterovirus,disease_disease,viral myocarditis,1,0,1,1
+134,pandemic,disease_species,sars cov,1,0,0,0
+135,disease,disease_disease,tumor,1,0,1,1
+136,hemorrhagic enteritis,disease_gene,sta,1,0,0,0
+137,glycoprotein,gene_disease,viral,1,0,0,0
+138,virus,disease_species,person,1,1,0,1
+139,disease,disease_disease,porcine epidemic diarrhea,1,1,1,1
+140,ear,gene_species,child,1,1,0,1
+141,lf,disease_gene,cell membrane,1,0,0,0
+142,protein,gene_treat_procedure,change,1,0,0,0
+143,subunit,gene_gene,mtase,1,0,0,0
+144,cpg odn,gene_species,mouse,1,1,1,1
+145,inflammation,disease_disease,neuronal degeneration,1,1,1,1
+146,regression,disease_drug,θ,1,0,0,0
+147,fever,disease_disease,cough,1,0,0,0
+148,cns disease,disease_disease,cns,1,1,1,1
+149,ataxia,disease_disease,paralysis,1,1,1,1
+150,thrombocytopenia,disease_disease,anemia,1,1,1,1
+151,apn,disease_disease,brain,1,0,0,0
+152,viral infection,disease_disease,ards,1,1,1,1
+153,adult respiratory distress syndrome,disease_disease,sepsis,1,1,1,1
+154,s1 spike protein,gene_gene,antibody,1,0,0,0
+155,cxr,disease_treat_procedure,detection,1,0,0,0
+156,therapy,treat_procedure_treat_procedure,oxygen therapy,1,1,1,1
+157,infection,disease_disease,infection,1,0,0,0
+158,enterovirus,disease_disease,viral myocarditis,1,0,1,1
+159,infection,disease_species,mumps virus,1,1,1,1
+160,open reading frame,gene_gene,pp1a,1,0,0,0
+161,glycyrrhizin,drug_species,glycyrrhiza uralensis,1,1,1,1
+162,cov infection,disease_species,human,1,0,0,0
+163,pedv,drug_species,human,1,0,0,0
+164,disease,disease_species,cat,1,0,0,0
+165,fusion,treat_procedure_gene,host cell,1,1,1,1
+166,interstitial edema,disease_treat_procedure,infiltration,1,0,0,0
+167,virus,disease_disease,virus,1,0,1,1
+168,ha0,gene_gene,antibody,1,0,0,0
+169,rbd,disease_species,sars cov,0,0,0,0
+170,virus,disease_disease,foodborne illness,1,0,0,0
+171,prophylaxis,treat_procedure_disease,community,1,0,0,0
+172,serotypes,disease_drug,sialic acid,1,1,1,1
+173,quarantine,drug_treat_procedure,reduction,1,1,0,1
+174,ifa,gene_drug,rp1,1,0,1,1
+175,autophagosomes,gene_gene,fuse,1,0,0,0
+176,pdcov,disease_gene,genome,1,1,1,1
+177,orf,gene_gene,rare,1,0,0,0
+178,antibody,gene_gene,nk,1,0,0,0
+179,recruitment,disease_gene,ccr2,1,0,0,0
+180,he,disease_disease,cytokine release syndrome,1,0,0,0
+181,hyperemia,disease_disease,edema,1,1,1,1
+182,dilation,treat_procedure_disease,dysfunction,1,1,1,1
+183,disease,disease_disease,syndrome,1,0,0,0
+184,tissue,disease_disease,mucosal infection,1,0,0,0
+185,ground glass opacity,disease_disease,consolidation,1,0,0,0
+186,tumor,disease_species,rat,1,0,1,1
+187,aspirin,drug_drug,atorvastatin,1,1,1,1
+188,fever,symptom_disease,pharyngitis,1,0,1,1
+189,m,disease_species,show,0,0,0,0
+190,gene,gene_treat_procedure,detection,1,0,0,0
+191,dysfunction,disease_species,patient,1,0,0,0
+192,rna,disease_treat_procedure,extracted,1,0,0,0
+193,iav,disease_gene,mannose binding lectin,1,0,0,0
+194,inflammation,disease_gene,body,1,0,0,0
+195,gln,drug_gene,loop,1,0,0,0
+196,nab,gene_gene,antibody,1,0,0,0
+197,hyperplasia,disease_disease,carcinoma,1,1,1,1
+198,rna,disease_gene,proteinase k,0,1,1,1
+199,amp,drug_gene,protein kinase a,1,0,0,0
+200,nephrotoxicity,disease_species,rabbit,1,0,0,0
+201,reduction,treat_procedure_disease,urea cycle disorder,1,0,0,0
+202,rhace2,gene_disease,acute lung injury,1,0,0,0
+203,reduction,treat_procedure_disease,shigella flexneri infection,1,0,0,0
+204,superscript iii,gene_gene,cdna,1,0,0,0
+205,blood,disease_gene,rare,1,0,0,0
+206,rsv,disease_disease,infection,1,1,1,1
+207,mpa,drug_species,sars cov,1,0,0,0
+208,operation,treat_procedure_disease,infection,1,0,1,1
+209,monolayers,drug_drug,dmem,1,0,0,0
+210,covid,disease_disease,virus,1,0,1,1
+211,rna,disease_treat_procedure,extracted,0,1,1,1
+212,tka,disease_disease,arterial hypertension,1,0,0,0
+213,reduction,treat_procedure_species,patient,1,0,0,0
+214,disease,disease_drug,5,0,0,0,0
+215,sars epidemic,disease_gene,led,0,0,0,0
+216,virus,disease_disease,inflammation,1,0,0,0
+217,apn,disease_disease,apn,1,0,0,0
+218,antibody,gene_treat_procedure,detection,1,0,0,0
+219,encephalitis,disease_drug,3,0,0,0,0
+220,n,drug_disease,type,0,0,0,0
+221,acute respiratory syndrome,disease_disease,infectious disease,1,1,1,1
+222,tb,drug_disease,pulmonary,1,1,1,1
+223,vitamin d,drug_disease,th1,1,1,1,1
+224,homolog,gene_species,s.aureus,1,0,0,0
+225,hla,gene_gene,hla allele,1,0,0,0
+226,cd9,gene_gene,tmprss2,1,1,1,1
+227,syndrome,disease_species,ferret,1,0,0,0
+228,alisporivir,gene_treat_procedure,administration,1,0,0,0
+229,influenza virus,disease_treat_procedure,expression,1,0,0,0
+230,zoonotic infection,disease_treat_procedure,intervention,1,1,1,1
+231,inflammation,disease_disease,endothelial dysfunction,1,1,1,1
+232,all,gene_treat_procedure,treatment,1,0,0,0
+233,tachypnea,disease_symptom,cyanosis,1,0,0,0
+234,rrt,gene_disease,ihd,1,0,0,0
+235,emerging disease,disease_disease,emerging disease,1,0,1,1
+236,ifv,disease_gene,late endosome membrane,1,0,0,0
+237,membrane,gene_gene,antibody,1,1,1,1
+238,infection,disease_treat_procedure,treatment,1,0,0,0
+239,pneumonia,disease_symptom,illness,1,0,1,1
+240,infection,disease_treat_procedure,expression,1,0,0,0
+241,sting,gene_gene,rig,1,1,1,1
+242,293t,drug_treat_procedure,placebo,0,0,1,0
+243,coronaviruses,disease_disease,rna virus,1,1,1,1
+244,virus,disease_species,person,1,1,0,1
+245,protein,gene_drug,sialic acid,1,1,1,1
+246,n protein,gene_gene,antigen,1,0,0,0
+247,lung disease,disease_disease,kidney infection,1,1,1,1
+248,clearance,treat_procedure_disease,enhanced,1,1,1,1
+249,neoplasm,disease_species,dog,1,0,1,1
+250,virus,disease_species,boar,1,1,1,1
+251,i,drug_gene,s protein,0,0,0,0
+252,m membrane glycoprotein,gene_disease,er,1,0,0,0
+253,hcovs,disease_disease,tract infection,1,0,1,1
+254,recruitment,disease_treat_procedure,acidification,1,0,0,0
+255,keratitis,disease_species,sheep,1,0,0,0
+256,copd exacerbation,disease_disease,community,1,0,0,0
+257,infection,disease_disease,virus,1,0,0,0
+258,disease,disease_species,human,1,0,1,1
+259,inflammation,disease_gene,host,1,1,1,1
+260,amino acid,drug_gene,gene,1,0,1,1
+261,presence,treat_procedure_disease,thrombocytopenia,1,0,0,0
+262,virulence factor,gene_disease,pasteurellosis,1,0,0,0
+263,respiratory distress syndrome,disease_disease,lung injury,1,1,1,1
+264,norovirus,disease_symptom,illness,1,0,1,1
+265,prevention,treat_procedure_species,human,1,0,0,0
+266,cytomegalovirus,disease_species,patient,1,1,0,1
+267,reduction,treat_procedure_drug,pl,1,0,0,0
+268,he,disease_treat_procedure,intubation,1,0,0,0
+269,hypoxaemia,disease_treat_procedure,administration,1,0,0,0
+270,nl63,gene_disease,respiratory tract infection,1,1,1,1
+271,s glycoprotein,gene_disease,virus,1,0,1,1
+272,disease,disease_disease,disease,1,0,1,1
+273,i,drug_gene,ifn,0,0,0,0
+274,nsp15,gene_species,sars,1,1,1,1
+275,treatment,treat_procedure_treat_procedure,expression,1,0,0,0
+276,virus,disease_disease,influenza,1,0,1,1
+277,rv infection,disease_treat_procedure,presence,1,0,0,0
+278,hyperplasia,disease_treat_procedure,detected,1,0,0,0
+279,virus,disease_disease,disease,1,0,1,1
+280,rhinitis,disease_symptom,sore throat,1,1,1,1
+281,penicillin,drug_drug,aminoglycoside,1,1,1,1
+282,alveolar inflammation,disease_treat_procedure,corticosteroid therapy,1,1,1,1
+283,otu domain,gene_gene,rna polymerase,1,0,0,0
+284,testis,disease_disease,hyperemia,1,0,0,0
+285,tlrs,gene_gene,endosomes,1,1,1,1
+286,glu166,drug_drug,hydrogen,1,1,1,1
+287,embolization,treat_procedure_treat_procedure,resection,1,1,1,1
+288,lopinavir,drug_species,hiv type 1,1,1,1,1
+289,pt,drug_gene,protective antigen,1,0,0,0
+290,vaccination,treat_procedure_disease,autoimmune disease,1,0,1,1
+291,sars cov,disease_species,human,1,0,1,1
+292,cough,symptom_symptom,chest pain,1,1,1,1
+293,infection,disease_disease,respiratory infection,1,1,1,1
+294,fa,drug_species,patient,1,0,0,0
+295,rna,disease_treat_procedure,presence,1,0,0,0
+296,vlps,gene_disease,influenza,1,0,0,0
+297,illness,symptom_gene,impact,1,0,0,0
+298,seizure,disease_disease,status epilepticus,1,1,1,1
+299,abatacept,gene_drug,ra,1,0,0,0
+300,nipah virus,disease_disease,hendra,1,0,1,1
+301,chronic nephritis,disease_disease,pyelonephritis,1,1,1,1
+302,inflammation,disease_disease,spinal cord,1,0,0,0
+303,gene 1,gene_disease,infection,1,0,0,0
+304,cloning,gene_species,e. coli,1,0,0,0
+305,endotracheal intubation,treat_procedure_treat_procedure,mechanical ventilation,1,1,1,1
+306,ifn,gene_gene,ifn,1,0,1,1
+307,demyelinating disease,disease_treat_procedure,cell transplantation,1,0,1,1
+308,infection,disease_disease,weight loss,1,0,0,0
+309,p2 domain,gene_gene,virion,1,1,1,1
+310,hydrogen,drug_gene,gas,1,0,0,0
+311,mutant protein,gene_gene,p6,1,1,1,1
+312,hcov,drug_treat_procedure,detected,1,0,0,0
+313,n,drug_gene,gene,0,0,0,0
+314,infection,disease_disease,smallpox,1,1,1,1
+315,he,disease_symptom,diarrhea,1,0,0,0
+316,human astroviruses,disease_disease,disease,1,0,1,1
+317,oseltamivir,drug_species,avian influenza,1,0,0,0
+318,aom,disease_disease,uri,1,0,0,0
+319,immunosuppression,treat_procedure_disease,diabetes mellitus,1,0,0,0
+320,fish,gene_drug,acid,0,0,0,0
+321,cathepsin l,gene_gene,nucleus,1,1,1,1
+322,disease,disease_disease,severe,1,0,0,0
+323,surgery,treat_procedure_treat_procedure,therapy,1,1,1,1
+324,infection,disease_disease,adenoviral infection,1,1,1,1
+325,autophagosome,gene_gene,lysosome,1,1,1,1
+326,helicases,gene_gene,nsp13,1,0,0,0
+327,antibody,gene_treat_procedure,detection,1,0,0,0
+328,n,drug_symptom,fit,1,0,0,0
+329,viral infection,disease_disease,brain,1,0,0,0
+330,amino acid,drug_disease,2009,0,0,0,0
+331,peptidoglycan,gene_disease,rna,1,0,0,0
+332,quarantine,drug_treat_procedure,removal,1,1,1,1
+333,ad,disease_disease,ataxia,1,0,0,0
+334,infection,disease_disease,disease,1,1,1,1
+335,infection,disease_symptom,fever,1,0,1,1
+336,infection,disease_disease,meningitis,1,1,1,1
+337,co-infection,disease_species,patient,1,0,0,0
+338,detection,treat_procedure_drug,ca,1,0,0,0
+339,infection,disease_disease,h3n2,1,0,0,0
+340,pandemic h1n1 virus,disease_disease,2009,0,0,0,0
+341,g,drug_gene,red,0,0,0,0
+342,treatment,treat_procedure_treat_procedure,reduction,1,1,1,1
+343,myoclonus epilepsy,disease_disease,disorder,1,0,0,0
+344,hemorrhagic fever,disease_disease,shock,1,0,0,0
+345,pneumonia,disease_disease,pleuritis,1,1,1,1
+346,drug,drug_disease,infection,1,0,1,1
+347,covid pandemic,disease_disease,community,1,0,0,0
+348,protein,gene_disease,virus,1,0,0,0
+349,blood donation,treat_procedure_disease,epidemic,1,0,0,0
+350,administration,treat_procedure_gene,macrophage procoagulant activity,1,0,0,0
+351,expression,treat_procedure_treat_procedure,expression,1,0,0,0
+352,viral disease,disease_disease,disease,1,1,1,1
+353,antibody,gene_treat_procedure,immunization,1,0,0,0
+354,mouse hepatitis virus,disease_disease,demyelination,1,1,1,1
+355,threonine,drug_drug,alanine,1,1,1,1
+356,virus,disease_gene,murine nab,1,0,0,0
+357,cap,disease_species,child,1,0,0,0
+358,brucellosis,disease_disease,disease caused by bacteria,1,0,1,1
+359,virus,disease_disease,tumor,1,0,1,1
+360,virus,disease_species,cat,1,1,1,1
+361,cardiac tamponade,disease_disease,cardiac failure,1,1,1,1
+362,rhinotracheitis,disease_disease,upper respiratory disease,1,1,1,1
+363,therapy,treat_procedure_disease,infection,1,0,1,1
+364,disease,disease_species,patient,1,0,0,0
+365,plague,disease_disease,sepsis,1,1,1,1
+366,pattern,gene_species,sars,1,0,0,0
+367,hyperesthesia,symptom_symptom,tetraparesis,1,0,0,0
+368,oseltamivir,drug_treat_procedure,antiviral therapy,1,0,0,0
+369,virus,disease_disease,long,1,0,0,0
+370,hmpv,drug_disease,acute respiratory tract infection,1,0,0,0
+371,ards,disease_disease,alveolar collapse,1,1,1,1
+372,lymphopenia,disease_gene,crp,1,0,0,0
+373,virion,gene_gene,phosphoprotein,1,1,1,1
+374,-1 prf,gene_gene,base,1,0,0,0
+375,hepatitis b,disease_disease,diphtheria,1,1,1,1
+376,treatment,treat_procedure_species,animal,1,0,1,1
+377,image,disease_disease,image,1,0,0,0
+378,asparagine,drug_drug,ribose,1,1,1,1
+379,s pneumoniae,disease_disease,cap,1,0,0,0
+380,dyspnea,disease_disease,sat,1,0,0,0
+381,viral genome,gene_species,human,1,1,1,1
+382,capsid protein,gene_gene,endosomes,1,0,0,0
+383,virus,disease_disease,bronchiolitis,1,0,1,1
+384,augmentation,treat_procedure_species,mouse,1,0,0,0
+385,abdominal aortic aneurysm,disease_gene,tlr2,1,1,1,1
+386,bacterial infection,disease_treat_procedure,induction,1,0,0,0
+387,pc,drug_disease,pe,1,0,0,0
+388,rhabdomyolysis,disease_disease,renal failure,1,1,1,1
+389,infection,disease_symptom,respiratory distress,1,0,1,1
+390,cortex,disease_disease,cns,1,0,0,0
+391,necrotizing ulcerative gingivitis,disease_disease,periodontitis,1,1,1,1
+392,hyperemia,disease_disease,necrosis,1,1,1,1
+393,ground glass opacity,disease_disease,consolidation,1,0,0,0
+394,stimulation,treat_procedure_species,hcv,1,0,0,0
+395,u,disease_disease,u,0,0,0,0
+396,pneumonia,disease_disease,fever,1,0,1,1
+397,hypercytokinemia,disease_gene,damage,1,0,0,0
+398,inflammation,disease_treat_procedure,corticosteroid therapy,1,1,1,1
+399,infection,disease_species,coronavirus,1,0,1,1
+400,hrsv infection,disease_species,child,1,0,0,0
+401,rna virus,disease_disease,rna,1,0,0,0
+402,pdcov,disease_gene,rdrp sequence,1,1,1,1
+403,host,gene_species,specie,1,1,1,1
+404,treatment,treat_procedure_gene,cd11b,1,0,1,1
+405,antibody,gene_treat_procedure,clearance,1,0,0,0
+406,coronaviruses,disease_species,ferret,1,1,1,1
+407,vif,gene_drug,glycine,1,1,1,1
+408,complement,gene_drug,c3,1,0,0,0
+409,joint pain,symptom_disease,sore throat,1,1,1,1
+410,myalgia,disease_disease,throat,1,0,0,0
+411,interferon alpha,gene_treat_procedure,expression,1,0,0,0
+412,genome,gene_gene,bsmbi,1,0,0,0
+413,16,gene_drug,oseltamivir,1,0,0,0
+414,s protein,gene_gene,protein,1,1,1,1
+415,d,drug_drug,glucose,0,0,0,0
+416,u,disease_species,horse,0,0,0,0
+417,ibv,drug_disease,tract infection,1,0,0,0
+418,disease,disease_treat_procedure,diet,1,0,1,1
+419,virus,disease_disease,blood,1,0,0,0
+420,ltcfs,disease_species,patient,1,0,0,0
+421,respiratory disease,disease_disease,acute respiratory syndrome coronavirus 2,1,1,1,1
+422,infection,disease_disease,infection,1,0,1,1
+423,fever,symptom_symptom,dry cough,1,1,1,1
+424,s,drug_gene,ergic,0,0,0,0
+425,virus,disease_disease,middle ear,1,0,0,0
+426,lung,disease_disease,bronchointerstitial pneumonia,1,0,0,0
+427,subunit,gene_treat_procedure,prevention,1,0,0,0
+428,antibody therapy,treat_procedure_disease,allogeneic hsct,1,0,0,0
+429,pedv,drug_drug,sdpp,1,0,0,0
+430,hyperlipidemia,disease_treat_procedure,detected,1,0,0,0
+431,2,drug_disease,illness,0,0,0,0
+432,antibody,gene_species,dog,1,1,1,1
+433,prophylaxis,treat_procedure_disease,invasive infection,1,0,1,1
+434,infection,disease_disease,croup,1,0,1,1
+435,diarrhea,symptom_disease,dehydration,1,1,1,1
+436,influenza virus,disease_disease,infection,1,0,1,1
+437,surgery,treat_procedure_disease,infection,1,1,1,1
+438,covid,disease_disease,contagious,1,0,0,0
+439,hcv core protein,gene_gene,hepatocytes,1,1,1,1
+440,virus,disease_species,patient,1,1,1,1
+441,sulfate,drug_treat_procedure,treatment,1,0,1,1
+442,discomfort,symptom_disease,gastroesophageal reflux,1,0,0,0
+443,gap,gene_disease,u,1,0,0,0
+444,pandemic,disease_disease,infection,1,0,0,0
+445,ace2,gene_species,sars cov,1,0,0,0
+446,cough,symptom_symptom,vomiting,1,1,1,1
+447,stat1,gene_gene,hepatocytes,1,0,0,0
+448,covid pandemic,disease_gene,impact,1,0,0,0
+449,sepsis,disease_disease,organ dysfunction,1,1,1,1
+450,infection,disease_gene,impact,1,0,0,0
+451,infection,disease_drug,cmv,1,0,1,1
+452,gene,gene_gene,bacterial rna polymerase,1,0,0,0
+453,liver injury,disease_disease,bacterial,1,0,0,0
+454,clindamycin,drug_drug,metronidazole,1,1,1,1
+455,na gene,gene_disease,virus,1,0,1,1
+456,felv infection,disease_gene,end,1,0,0,0
+457,scrapie,disease_species,goat,1,1,1,1
+458,dpp4,gene_gene,peptidase,1,0,0,0
+459,diarrhea,disease_disease,abdominal cramp,1,0,0,0
+460,plasma,gene_disease,infection,1,0,0,0
+461,ribose,drug_drug,hydrogen,1,1,1,1
+462,i,drug_gene,top,0,0,0,0
+463,protein,gene_gene,host,1,0,0,0
+464,curcumin,drug_disease,fibrosis,1,1,1,1
+465,expression,treat_procedure_gene,nsp1,1,0,0,0
+466,rotavirus infection,disease_species,piglet,1,1,1,1
+467,virus,disease_gene,serum,1,1,1,1
+468,hypertension,disease_disease,cardiac hypertrophy,1,0,1,1
+469,headache,disease_disease,nausea,1,0,0,0
+470,drug,drug_gene,amyloid precursor protein,1,1,1,1
+471,therapy,treat_procedure_symptom,vision loss,1,0,1,1
+472,insertion,treat_procedure_disease,virus,1,0,0,0
+473,ebola,disease_species,human,1,1,1,1
+474,disease,disease_disease,disease,1,0,1,1
+475,diabetes,disease_disease,b,0,0,0,0
+476,he,disease_disease,interstitial pneumonitis,1,0,0,0
+477,arrest,disease_disease,arrhythmia,1,0,0,0
+478,presence,treat_procedure_species,patient,1,0,0,0
+479,heart disease,disease_disease,cardiovascular disease,1,1,1,1
+480,lectin,gene_species,immunodeficiency virus,1,1,1,1
+481,she,gene_disease,disease,1,0,0,0
+482,cdna,gene_gene,cloned,1,0,0,0
+483,gene,gene_disease,virus,1,0,1,1
+484,covid,disease_disease,coronavirus,1,0,1,1
+485,myalgia,symptom_symptom,vomiting,1,1,1,1
+486,injection,treat_procedure_disease,relapse,1,0,1,1
+487,influenza,disease_disease,myocardial infarction,1,1,1,1
+488,3,drug_disease,virus,0,0,0,0
+489,pneumonia,disease_disease,respiratory distress syndrome,1,1,1,1
+490,hpai h5n1 virus,disease_species,cat,1,1,1,1
+491,fa receptor,gene_gene,gene,1,0,0,0
+492,infection,disease_species,dog,1,0,1,1
+493,overlap,treat_procedure_drug,clozapine,1,0,0,0
+494,i,drug_species,patient,0,0,0,0
+495,virus,disease_disease,chicken anemia virus,1,1,1,1
+496,influenza,disease_disease,disease,1,1,1,1
+497,infection,disease_disease,virus,1,0,1,1
+498,public,disease_disease,public,1,0,0,0
+499,fgf2,gene_gene,wash,1,0,0,0
+500,presence,treat_procedure_species,patient,1,0,0,0
+501,treatment,treat_procedure_disease,type,1,0,0,0
+502,ace2,gene_treat_procedure,administration,1,0,0,0
+503,human dpp4,gene_species,mouse,1,1,1,1
+504,infection,disease_treat_procedure,therapy,1,0,1,1
+505,covid,disease_gene,body,1,0,0,0
+506,virus,disease_gene,trypsin,1,0,1,1
+507,virus,disease_drug,monoclonal antibody,1,0,0,0
+508,inflammation,disease_disease,congestion,1,0,0,0
+509,blv,disease_disease,type,1,0,0,0
+510,vaccination,treat_procedure_treat_procedure,detection,1,1,1,1
+511,t,drug_drug,k,0,0,0,0
+512,glucose,drug_gene,insulin,1,1,1,1
+513,fever,symptom_symptom,rhinorrhea,1,1,1,1
+514,he,disease_symptom,rhinorrhea,1,0,0,0
+515,leukemia,disease_disease,leukemia,1,1,1,1
+516,coronaviruses,disease_disease,rna virus,1,0,1,1
+517,g,drug_drug,c,0,0,0,0
+518,smallpox,disease_symptom,rash,1,1,1,1
+519,ns5 protein,gene_gene,ns2a,1,1,1,1
+520,presence,treat_procedure_drug,ra,1,0,0,0
+521,i,drug_disease,shigella flexneri infection,0,0,0,0
+522,inclusion,gene_gene,gdap2,1,0,0,0
+523,diabetes mellitus,disease_disease,hyperplasia,1,1,1,1
+524,vaccine,disease_species,piglet,1,0,0,0
+525,rhinitis,disease_disease,asthma,1,1,1,1
+526,5,drug_disease,same,0,0,0,0
+527,disease,disease_gene,impact,1,0,0,0
+528,pandemic,disease_disease,u,0,0,0,0
+529,acute myocarditis,disease_disease,heart failure,1,1,1,1
+530,eif3f,gene_gene,s protein,1,1,1,1
+531,palmitic acid,drug_drug,acid,1,1,1,1
+532,he,disease_species,girl,1,0,0,0
+533,herpesviruses,disease_gene,particle,1,0,0,0
+534,clearance,treat_procedure_disease,virus,1,0,0,0
+535,she,gene_species,sars cov,1,0,0,0
+536,tube,gene_disease,obstruction,1,0,0,0
+537,blindness,disease_species,horse,1,0,1,1
+538,c3,drug_gene,s protein,1,0,0,0
+539,impact,gene_drug,2,0,0,0,0
+540,arrest,disease_disease,acute heart failure,1,0,0,0
+541,prostate cancer,disease_species,men,1,0,0,0
+542,rna,disease_drug,glyoxal,1,1,1,1
+543,necrosis,disease_disease,lymphocytopenia,1,1,1,1
+544,antibody,gene_gene,caspase 1,1,1,1,1
+545,n,drug_species,patient,0,0,0,0
+546,band,gene_drug,h1n1,1,0,0,0
+547,rsv infection,disease_disease,rhinovirus infection,1,1,1,1
+548,ace2,gene_gene,tmprss2,1,0,0,0
+549,envelope protein,gene_gene,membrane protein,1,1,1,1
+550,necrosis,disease_disease,infarct,1,0,0,0
+551,gene,gene_drug,fipv,1,0,0,0
+552,infection,disease_treat_procedure,detected,1,0,0,0
+553,syndrome,disease_disease,influenza virus,1,0,1,1
+554,expression,treat_procedure_treat_procedure,expression,1,0,0,0
+555,pneumonia,disease_disease,covid,1,1,1,1
+556,hepatitis b,disease_disease,chronic illness,1,1,1,1
+557,virus,disease_disease,hpi,1,0,0,0
+558,lung puncture,treat_procedure_species,child,1,0,0,0
+559,pandemic,disease_drug,coal,1,0,0,0
+560,malaise,symptom_symptom,fever,1,1,1,1
+561,canine rabies,disease_disease,health problem,1,0,0,0
+562,infection,disease_disease,virus,1,0,1,1
+563,lymphadenitis,disease_disease,bronchopneumonia,1,1,1,1
+564,virus,disease_species,sars coronavirus,1,1,1,1
+565,γ,disease_disease,lower,0,0,0,0
+566,cfr,gene_species,patient,1,0,0,0
+567,igg antibody,gene_gene,s protein,1,1,1,1
+568,s protein,gene_drug,s1,1,0,0,0
+569,illness,symptom_disease,infection,1,1,1,1
+570,i,drug_gene,capsid,0,0,0,0
+571,cns,disease_disease,eae,1,0,0,0
+572,ccl8,gene_disease,high,1,0,0,0
+573,hysterectomy,treat_procedure_treat_procedure,lymph node dissection,1,1,1,1
+574,presence,treat_procedure_disease,public,0,0,0,0
+575,emphysema,disease_disease,lung,1,0,0,0
+576,urticaria,disease_disease,infection,1,0,0,0
+577,expression,treat_procedure_treat_procedure,detection,1,0,0,0
+578,troponin,gene_species,patient,1,1,0,1
+579,syndrome,disease_disease,infectious disease,1,0,1,1
+580,treatment,treat_procedure_drug,phosphoric acid,1,0,0,0
+581,same,disease_gene,s gene,1,0,0,0
+582,metapneumovirus,disease_disease,upper respiratory tract infection,1,0,1,1
+583,insertion,treat_procedure_treat_procedure,immunization,1,1,1,1
+584,lung disease,disease_disease,inflammation,1,0,1,1
+585,change,treat_procedure_gene,end,1,0,0,0
+586,glu,drug_drug,k,1,0,0,0
+587,s protein,gene_drug,mannose,1,1,1,1
+588,respiratory syndrome,disease_disease,infection,1,0,0,0
+589,pattern,gene_species,patient,1,1,1,1
+590,limb paresis,disease_disease,paralysis,1,1,1,1
+591,rsv,drug_species,influenzavirus,1,0,0,0
+592,extracorporeal membrane oxygenation,treat_procedure_treat_procedure,reduction,1,0,0,0
+593,treatment,treat_procedure_species,patient,1,0,0,0
+594,infection,disease_species,patient,1,0,0,0
+595,public,disease_disease,sars,1,0,0,0
+596,atf4,gene_gene,hat,1,0,0,0
+597,gastroenteritis,disease_disease,septicemia,1,1,1,1
+598,influenza virus,disease_disease,respiratory infection,1,1,1,1
+599,aim,treat_procedure_gene,angiotensinogen,1,0,0,0
+600,hyperplasia,disease_disease,necrosis,1,1,1,1
+601,picornavirus,disease_gene,small,1,0,0,0
+602,antibody,gene_species,calf,1,1,1,1
+603,henipaviruses,disease_species,specie,1,1,1,1
+604,respiratory syndrome,disease_disease,infectious disease,1,1,1,1
+605,orf3b,gene_drug,2,0,0,0,0
+606,lc3,gene_disease,picornavirus,1,0,1,1
+607,malnutrition,disease_disease,cystic fibrosis,1,1,1,1
+608,disease,disease_disease,severe,1,0,0,0
+609,enteritis,disease_disease,co-infection,1,0,1,1
+610,virus,disease_disease,infection,1,0,1,1
+611,protein,gene_disease,lower,1,0,0,0
+612,opacity,disease_disease,ground glass opacity,1,0,0,0
+613,type b,disease_disease,virus,1,0,0,0
+614,treatment,treat_procedure_species,patient,1,0,0,0
+615,acid,drug_treat_procedure,extracted,1,0,0,0
+616,disease,disease_disease,trichinellosis,1,0,1,1
+617,rna,disease_treat_procedure,extracted,1,0,0,0
+618,cystatin c,drug_disease,brain,1,0,0,0
+619,pamps,gene_disease,infectious agent,1,0,0,0
+620,infection,disease_drug,am,1,0,0,0
+621,pneumonia,disease_gene,12,1,0,0,0
+622,pattern,gene_gene,p1,1,1,0,1
+623,step,gene_treat_procedure,presence,1,0,0,0
+624,coagulopathy,disease_disease,covid,1,1,1,1
+625,virus,disease_gene,human,1,0,0,0
+626,myalgia,symptom_symptom,cough,1,1,1,1
+627,infection,disease_disease,bovine diarrhea virus,1,0,1,1
+628,same,disease_gene,s gene,1,0,0,0
+629,c,drug_gene,set,0,0,0,0
+630,nephritis,disease_disease,neoplasia,1,1,1,1
+631,serum,gene_gene,plasma,1,0,0,0
+632,expression,treat_procedure_treat_procedure,presence,1,0,0,0
+633,virus,disease_drug,civet,1,0,0,0
+634,cidofovir,drug_treat_procedure,treatment,1,0,1,1
+635,blood,disease_disease,inflammatory bowel disease,1,0,0,0
+636,i,drug_drug,ribavirin,1,0,0,0
+637,pdc,disease_gene,tlr7,1,0,0,0
+638,ibuprofen,drug_treat_procedure,treatment,1,0,0,0
+639,virus,disease_disease,canine coronavirus,1,0,1,1
+640,treatment,treat_procedure_treat_procedure,placebo,1,0,1,1
+641,ibv,drug_disease,rna virus,1,0,0,0
+642,septic shock,disease_disease,metabolic acidosis,1,1,1,1
+643,virus,disease_disease,disease,1,0,1,1
+644,severe sepsis,disease_disease,hypotension,1,1,1,1
+645,u0126,drug_treat_procedure,destruction,1,0,0,0
+646,mab,gene_gene,ifnα,1,0,0,0
+647,ptsd,disease_species,patient,1,0,0,0
+648,mabs,gene_disease,h5n1 virus,1,0,0,0
+649,ground glass opacity,disease_disease,pleural effusion,1,0,0,0
+650,viral s protein,gene_gene,ace2,1,1,1,1
+651,nose,disease_disease,skin condition,1,0,0,0
+652,presence,treat_procedure_disease,eae,1,0,0,0
+653,respiratory virus,disease_species,patient,1,1,0,1
+654,blood transfusion,treat_procedure_disease,methemoglobinemia,1,1,1,1
+655,dehydration,disease_disease,atrophy,1,0,0,0
+656,s gene,gene_disease,virus,1,0,1,1
+657,fusion,treat_procedure_disease,infection,1,0,1,1
+658,wish,gene_treat_procedure,treatment,1,0,0,0
+659,pedv,drug_gene,enterocytes,1,0,0,0
+660,mog,gene_gene,myelin,1,0,0,0
+661,od,drug_drug,od,1,0,0,0
+662,severe acute respiratory syndrome,disease_disease,emerging infectious disease,1,1,1,1
+663,transplant,treat_procedure_species,human,1,0,1,1
+664,severe acute respiratory syndrome coronavirus,disease_drug,fomite,1,0,0,0
+665,virus,disease_treat_procedure,procedure,1,0,0,0
+666,infection,disease_disease,2009,0,0,0,0
+667,pedv,drug_species,piglet,1,1,1,1
+668,type,disease_disease,fibrosis,1,0,0,0
+669,infection,disease_disease,otitis medium,1,0,1,1
+670,vaccination,treat_procedure_treat_procedure,immunization,1,1,1,1
+671,vagus nerve stimulation,treat_procedure_treat_procedure,release,1,0,0,0
+672,eif2α,gene_gene,eif2α,1,0,0,0
+673,vasculitis,disease_disease,stroke,1,0,0,0
+674,irfs,gene_gene,nuclear factor κb,1,0,0,0
+675,drug,drug_drug,monoclonal antibody,1,1,1,1
+676,n,drug_disease,myelopathy,0,0,0,0
+677,pulmonary edema,disease_disease,alveolar damage,1,1,1,1
+678,3,drug_species,adenovirus,0,0,0,0
+679,orf 3a,gene_disease,critical,1,0,0,0
+680,pandemic,disease_treat_procedure,demand,1,0,0,0
+681,ab,disease_drug,rt,1,0,0,0
+682,virus,disease_species,infant,1,1,1,1
+683,virus,disease_disease,cpe,1,0,0,0
+684,hypertension,disease_disease,renal failure,1,1,1,1
+685,antibody,gene_gene,antigen,1,0,0,0
+686,infection,disease_drug,vzv,1,0,0,0
+687,mpa,drug_gene,papain like protease,1,0,0,0
+688,hmpv,drug_species,patient,1,0,0,0
+689,antimicrobial peptide,gene_disease,cavity,1,0,0,0
+690,montanide,drug_gene,antibody,1,0,0,0
+691,virus,disease_symptom,diarrhea,1,0,1,1
+692,disease,disease_disease,epidemic,1,0,0,0
+693,enterovirus,disease_disease,malignant tumor,1,1,1,1
+694,infection,disease_disease,demyelination,1,0,1,1
+695,jev,disease_species,human,1,0,1,1
+696,full length,gene_gene,cloned,1,0,0,0
+697,virus,disease_species,chimpanzee,1,1,1,1
+698,serine,drug_drug,amino acid,1,1,1,1
+699,virus,disease_disease,tumor,1,0,1,1
+700,cyanosis,symptom_disease,infertility,1,1,1,1
+701,ace2,gene_disease,b,0,0,0,0
+702,cognitive impairment,disease_disease,myasthenia,1,1,1,1
+703,chronic fever,disease_disease,injury,1,0,0,0
+704,middle east respiratory syndrome coronavirus,disease_disease,disease,1,0,1,1
+705,disease,disease_gene,impact,1,0,0,0
+706,disease,disease_disease,cancer,1,0,1,1
+707,sp,gene_disease,hiv,1,0,1,1
+708,infection,disease_species,person,1,0,0,0
+709,covid,disease_disease,kidney injury,1,1,1,1
+710,kaletra,drug_drug,oseltamivir,1,1,1,1
+711,cytomegalovirus,disease_species,patient,1,1,0,1
+712,virus,disease_gene,ectodomain,1,0,0,0
+713,disease,disease_disease,infection,1,0,1,1
+714,infection,disease_drug,fipv,1,0,0,0
+715,h1n1,drug_drug,h3n2,1,0,0,0
+716,tracheitis,disease_disease,bronchiolitis,1,1,1,1
+717,ifitm protein,gene_disease,infection,1,0,1,1
+718,detection,treat_procedure_treat_procedure,detection,1,0,0,0
+719,polydypsia,symptom_disease,encephalitozoonosis,1,1,1,1
+720,infection,disease_gene,ace2,1,0,0,0
+721,virus,disease_species,fruit bat,1,1,1,1
+722,cdc,disease_treat_procedure,guidance,1,0,0,0
+723,protein,gene_disease,vaccine,1,0,0,0
+724,hydrocephalus,disease_species,rabbit,1,0,1,1
+725,microglia,disease_gene,apc,1,0,0,0
+726,vaccine,disease_species,respiratory virus,1,0,0,0
+727,ortholog,gene_gene,tetherin,1,1,1,1
+728,fcov,drug_disease,infection,1,0,0,0
+729,virus,disease_species,infant,1,1,0,1
+730,recombinant virus,disease_disease,viral infection,1,0,1,1
+731,treatment,treat_procedure_species,human,1,0,1,1
+732,receptor,gene_gene,rage,1,1,1,1
+733,all,gene_treat_procedure,detected,1,0,0,0
+734,he,disease_disease,pulmonary disease,1,0,0,0
+735,antibody,gene_gene,class,1,0,0,0
+736,treatment,treat_procedure_treat_procedure,expression,1,0,0,0
+737,scoliosis,disease_disease,hydrocephalus,1,1,1,1
+738,g,drug_gene,set,0,0,0,0
+739,infection,disease_treat_procedure,detected,1,0,0,0
+740,u,disease_treat_procedure,immunization,0,0,0,0
+741,ebv,disease_disease,virus,1,0,1,1
+742,coinfection,disease_species,patient,1,0,0,0
+743,disease,disease_disease,disease,1,0,1,1
+744,bacterial infection,disease_species,meat,1,0,0,0
+745,antibody,gene_species,bovine,1,1,1,1
+746,change,treat_procedure_disease,consolidation,1,0,0,0
+747,hmpv,drug_species,infant,1,0,0,0
+748,hypergammaglobulinemia,disease_species,piglet,1,0,0,0
+749,gastroenteritis,disease_disease,gastroenteritis,1,1,1,1
+750,hcv core protein,gene_treat_procedure,reduction,1,0,0,0
+751,conjunctivitis,disease_disease,dermatitis,1,1,1,1
+752,i,drug_gene,app,0,0,0,0
+753,virus,disease_gene,gene,1,0,1,1
+754,protein,gene_gene,envelope,1,0,0,0
+755,inflammation,disease_treat_procedure,change,1,0,0,0
+756,systemic inflammation,disease_disease,sars cov infection,1,1,1,1
+757,tmprss2,gene_gene,ace2,1,0,0,0
+758,sars cov spike protein,gene_drug,sulfate,1,1,1,1
+759,gene,gene_treat_procedure,expression,1,0,0,0
+760,igg1,gene_disease,infection,1,0,0,0
+761,virus,disease_disease,brain,1,0,0,0
+762,pneumonia,disease_disease,pleuritis,1,1,1,1
+763,viral capsid protein,gene_treat_procedure,attachment,1,0,0,0
+764,nsp14,gene_disease,viral,1,0,1,1
+765,acid,drug_drug,acid,1,0,0,0
+766,expression,treat_procedure_gene,s2b,1,0,0,0
+767,disease,disease_gene,neck,1,0,0,0
+768,fungal infection,disease_treat_procedure,therapy,1,0,1,1
+769,ace2,gene_species,coronavirus,1,0,0,0
+770,aki,disease_gene,12,1,0,0,0
+771,he protein,gene_gene,s protein,1,0,0,0
+772,type i ifn,gene_disease,hcv infection,1,0,0,0
+773,sars,disease_gene,host,1,0,0,0
+774,cecum,treat_procedure_disease,colon,1,0,0,0
+775,resection,treat_procedure_disease,sb,1,0,0,0
+776,enteric lesion,disease_disease,septicemia,1,1,1,1
+777,aiv,disease_disease,respiratory disease,1,0,1,1
+778,therapy,treat_procedure_disease,respiratory infection,1,0,1,1
+779,joint disease,disease_disease,progressive disease,1,1,1,1
+780,cancer,disease_disease,major,1,0,0,0
+781,expression,treat_procedure_disease,infection,1,0,0,0
+782,protein,gene_disease,gi,1,0,0,0
+783,chloroquine,drug_drug,hydroxychloroquine,1,1,1,1
+784,immunoglobulin,gene_disease,tissue,1,0,0,0
+785,infection,disease_disease,sars cov infection,1,0,1,1
+786,abdominal pain,symptom_disease,shock,1,1,1,1
+787,disorder,disease_disease,lung infection,1,0,1,1
+788,nh4cl,drug_treat_procedure,acidification,1,0,0,0
+789,m2 protein,gene_gene,integral membrane protein,1,1,1,1
+790,hypertriglyceridemia,disease_drug,ritonavir,1,1,1,1
+791,abdominocentesis,treat_procedure_disease,fluid,1,0,0,0
+792,virus,disease_disease,coinfection,1,0,1,1
+793,virus,disease_species,mouse,1,1,1,1
+794,asn,drug_drug,gly,1,0,0,0
+795,ie,disease_gene,autosomal,1,0,0,0
+796,k99,gene_species,calf,1,0,1,1
+797,sars,disease_disease,community,1,0,0,0
+798,colony,gene_gene,cpa,1,0,0,0
+799,mp,drug_disease,infection,1,0,0,0
+800,autophagy,gene_gene,autophagy,1,0,0,0
+801,293t,drug_gene,anti-flag antibody,1,0,0,0
+802,autoimmune disease,disease_disease,respiratory involvement,1,0,0,0
+803,pneumonia,disease_disease,lung damage,1,1,1,1
+804,antibody,gene_disease,clinical infection,1,0,0,0
+805,treatment,treat_procedure_treat_procedure,surgery,1,1,1,1
+806,zn,drug_species,calf,1,0,0,0
+807,sex,gene_gene,igg antibody,0,0,0,0
+808,administration,treat_procedure_treat_procedure,change,1,0,0,0
+809,mycophenolic acid,drug_species,sars cov,1,0,0,0
+810,glucose,drug_drug,galactose,1,1,1,1
+811,lethargy,disease_disease,blood,1,0,0,0
+812,he,disease_disease,consolidation,1,0,0,0
+813,tbi,disease_drug,2,0,0,0,0
+814,confusion,disease_disease,coronavirus infection,1,0,0,0
+815,fever,symptom_symptom,cough,1,1,1,1
+816,virus,disease_disease,avian virus,1,0,1,1
+817,cov e protein,gene_gene,ergic,1,0,0,0
+818,trs,disease_gene,e protein,1,0,0,0
+819,co-infection,disease_disease,co-infection,1,0,1,1
+820,uda,drug_treat_procedure,attachment,1,0,0,0
+821,bar,gene_treat_procedure,presence,1,0,0,0
+822,mobilization,treat_procedure_disease,pandemic,1,0,0,0
+823,alexa fluor,drug_gene,antibody,1,1,1,1
+824,listeria,disease_disease,2009,0,0,0,0
+825,elevation,treat_procedure_species,piglet,1,0,0,0
+826,mycobacterial peptide fmfedavawf,gene_disease,fpr,1,0,0,0
+827,hmpv infection,disease_species,child,1,0,0,0
+828,heart failure,disease_disease,pandemic,1,0,0,0
+829,disease,disease_disease,hypertension,1,0,1,1
+830,ards,disease_species,patient,1,0,0,0
+831,dub,gene_disease,kshv,1,0,0,0
+832,ifit protein,gene_disease,cavity,1,0,0,0
+833,anorexia,disease_symptom,diarrhea,1,1,1,1
+834,administration,treat_procedure_species,pig,1,1,0,1
+835,mg132,drug_species,rat,1,0,0,0
+836,virus,disease_disease,upper respiratory tract infection,1,0,1,1
+837,she,gene_symptom,non-productive cough,0,0,0,0
+838,hepatitis virus,disease_disease,tumour,1,1,1,1
+839,she,gene_symptom,dizziness,0,0,0,0
+840,respiratory virus,disease_disease,viral pneumonia,1,1,1,1
+841,cardiac arrest,disease_species,patient,1,0,0,0
+842,infection,disease_disease,pandemic,1,0,0,0
+843,tissue,disease_disease,iav infection,1,0,0,0
+844,bronchiolitis,disease_disease,viral,1,0,1,1
+845,pedv infection,disease_gene,ifitm1,1,0,1,1
+846,rna,disease_treat_procedure,extracted,1,1,1,1
+847,protein,gene_disease,inflammation,1,0,0,0
+848,infectious disease,disease_disease,epidemic,1,1,1,1
+849,acidity,symptom_disease,disease,1,0,0,0
+850,a,drug_treat_procedure,matrix,0,0,0,0
+851,envelope,gene_gene,lipid bilayer,1,0,0,0
+852,acute lung injury,disease_species,human,1,0,0,0
+853,viral respiratory tract infection,disease_species,child,1,0,0,0
+854,pdcov,disease_disease,infection,1,0,0,0
+855,diarrhoea,symptom_symptom,symptom,1,1,1,1
+856,env,gene_gene,m19,1,0,0,0
+857,antibody,gene_disease,thrombosis,1,0,0,0
+858,diarrhoea,symptom_treat_procedure,detection,1,0,0,0
+859,pedv infection,disease_species,piglet,1,0,0,0
+860,virus,disease_species,patient,1,1,0,1
+861,dilation,treat_procedure_disease,congestion,1,1,1,1
+862,class,gene_drug,nucleoside,1,1,1,1
+863,lupus erythematosus,disease_disease,sarcoidosis,1,1,1,1
+864,anxiety,disease_symptom,agitation,1,1,1,1
+865,sars cov,disease_disease,coronavirus,1,1,1,1
+866,respiratory syndrome,disease_disease,disease,1,0,1,1
+867,nucleocapsid,gene_gene,cytoplasm,1,1,1,1
+868,n domain,gene_disease,virus,1,0,0,0
+869,chronic hcv infection,disease_disease,infection,1,0,1,1
+870,leukopenia,disease_species,influenza,1,0,0,0
+871,p16ink4a,gene_gene,serum,1,0,0,0
+872,sickle cell disease,disease_disease,genetic disease,1,1,1,1
+873,dic,disease_disease,thrombosis,1,0,0,0
+874,nucleic acid,gene_disease,covid,1,0,0,0
+875,virion,gene_gene,genome,1,0,0,0
+876,u,disease_treat_procedure,change,0,0,0,0
+877,remdesivir,drug_drug,drug,1,0,1,1
+878,enteric disease,disease_species,human,1,0,1,1
+879,ifn,gene_treat_procedure,expression,1,0,0,0
+880,rbd,disease_gene,rbm,1,0,0,0
+881,procedure,treat_procedure_treat_procedure,nephrostomy,1,1,1,1
+882,infection,disease_species,ebola virus,1,0,1,1
+883,change,treat_procedure_gene,digit,1,0,0,0
+884,infection,disease_symptom,headache,1,1,1,1
+885,fever,disease_disease,cough,1,0,0,0
+886,kl,gene_symptom,spot,1,0,0,0
+887,pain,symptom_disease,weight loss,1,0,0,0
+888,he,disease_symptom,dyspnea,0,0,0,0
+889,hcv,disease_disease,chronic liver disease,1,1,1,1
+890,coronaviruses,disease_disease,cold,1,0,0,0
+891,zanamivir,drug_gene,ace2,1,1,1,1
+892,pa,drug_gene,m1,1,0,0,0
+893,e protein,gene_gene,membrane protein,1,1,1,1
+894,gall bladder,disease_disease,diaphragm,1,0,0,0
+895,severe acute respiratory syndrome coronavirus 2,disease_species,coronavirus,1,1,1,1
+896,ace2,gene_gene,act,1,0,0,0
+897,flu pandemic,disease_disease,era,1,0,0,0
+898,gapdh,gene_gene,cytoplasm,1,0,0,0
+899,inclusion,gene_treat_procedure,injection,1,1,1,1
+900,disease,disease_disease,disorder,1,0,1,1
+901,csf,gene_disease,blood,1,0,0,0
+902,disease,disease_disease,consumption,1,0,0,0
+903,protein,gene_gene,igg antibody,1,0,0,0
+904,hpai h5n1 virus,disease_species,human,1,1,1,1
+905,he,disease_disease,shock,1,0,0,0
+906,fever,symptom_disease,disease,1,0,1,1
+907,pattern,gene_drug,carbon monoxide,1,0,0,0
+908,she,gene_disease,infectious,0,0,0,0
+909,cd4,gene_gene,ccr5,1,1,1,1
+910,argonaute endonuclease,gene_gene,risc,1,0,0,0
+911,meditation,treat_procedure_symptom,fit,1,1,1,1
+912,therapy,treat_procedure_species,sars,1,0,0,0
+913,u,disease_disease,virus,0,0,0,0
+914,congestion,disease_disease,congestion,1,0,0,0
+915,nafld,disease_disease,liver,1,0,0,0
+916,virus,disease_species,influenza virus,1,1,1,1
+917,reduction,treat_procedure_treat_procedure,reduction,1,0,0,0
+918,pain,symptom_symptom,diarrhea,1,1,1,1
+919,u,disease_disease,respiratory syndrome,0,0,0,0
+920,vpu,gene_gene,e3 ligase,1,0,0,0
+921,viral respiratory infection,disease_disease,dysfunction,1,1,1,1
+922,dhbv,drug_disease,hbv,1,0,0,0
+923,intrusion,treat_procedure_disease,hyperglycemia,1,1,1,1
+924,critical,disease_disease,disease,1,0,0,0
+925,cutting,treat_procedure_symptom,burning,1,1,1,1
+926,fatigue,symptom_disease,illness,1,1,1,1
+927,minor,gene_gene,set,1,0,0,0
+928,pandemic,disease_disease,lu,1,0,0,0
+929,presence,treat_procedure_disease,sars cov,1,0,0,0
+930,injury,disease_disease,illness,1,0,0,0
+931,lymphopenia,disease_disease,viral illness,1,1,1,1
+932,drug,drug_disease,critical,1,0,0,0
+933,digestive problem,symptom_species,rabbit,1,0,0,0
+934,reduction,treat_procedure_disease,covid-19ry heart disease,1,0,0,0
+935,virus,disease_species,swine,1,1,1,1
+936,endoplasmic reticulum,gene_gene,peroxisomes,1,1,1,1
+937,rv,drug_disease,co-infections,1,0,0,0
+938,cpi,disease_disease,lung injury,1,0,0,0
+939,glu166,drug_drug,his163,1,0,0,0
+940,protein,gene_gene,nucleus,1,1,1,1
+941,campylobacteriosis,disease_disease,plan,1,0,0,0
+942,nausea,symptom_symptom,diarrhea,1,1,1,1
+943,urethra,disease_disease,rare disorder,1,0,0,0
+944,stimulation,treat_procedure_gene,myd88,1,0,0,0
+945,tlr4,gene_gene,lp,1,0,0,0
+946,arbidol,drug_treat_procedure,drug repositioning,1,0,0,0
+947,coronaviruses,disease_disease,virus,1,0,1,1
+948,hmpv,drug_species,s. aureus,1,0,0,0
+949,infection,disease_species,calf,1,0,1,1
+950,prrsv,disease_disease,enveloped virus,1,0,0,0
+951,detection,treat_procedure_disease,virus,1,0,0,0
+952,tcr,gene_drug,peptide,1,1,1,1
+953,f1s,gene_gene,human,1,0,0,0
+954,cypa,gene_gene,target cell,1,0,0,0
+955,infection,disease_species,patient,1,0,0,0
+956,cough,disease_disease,psychological distress,1,0,0,0
+957,liver disease,disease_treat_procedure,liver transplantation,1,0,1,1
+958,gastroenteritis,disease_species,child,1,0,0,0
+959,infection,disease_gene,rare,1,0,0,0
+960,brain,disease_disease,cord,1,0,0,0
+961,pneumonia,disease_species,patient,1,0,0,0
+962,melatonin,drug_disease,dysfunction,1,0,0,0
+963,infection,disease_species,patient,1,0,0,0
+964,headache,symptom_disease,anosmia,1,1,1,1
+965,sars cov,disease_gene,nsp1 protein,1,0,0,0
+966,erad,gene_disease,virus,1,0,1,1
+967,coronaviruses,disease_disease,tract infection,1,0,1,1
+968,vitamin d,drug_gene,ace2 receptor,1,1,1,1
+969,infection,disease_disease,influenza a,1,0,0,0
+970,lactic acidosis,disease_disease,hypoxia,1,1,1,1
+971,expression,treat_procedure_gene,ihc,1,0,0,0
+972,6,drug_drug,remdesivir,0,0,0,0
+973,guidance,treat_procedure_gene,impact,1,0,0,0
+974,distress syndrome,disease_disease,ards,1,0,0,0
+975,malnutrition,disease_disease,condition,1,0,0,0
+976,sore throat,disease_drug,6,0,0,0,0
+977,ish,gene_disease,ia,1,0,0,0
+978,at,drug_gene,il,1,0,0,0
+979,plague,disease_treat_procedure,treatment,1,0,1,1
+980,edema,disease_gene,damage,1,0,0,0
+981,sore throat,disease_disease,rhinitis,1,0,0,0
+982,i,drug_gene,protein,0,0,0,0
+983,detection,treat_procedure_gene,serum,1,0,0,0
+984,np,disease_species,influenza b,1,0,0,0
+985,infection,disease_species,people,1,0,0,0
+986,pandemic,disease_species,people,1,0,0,0
+987,sirna,gene_gene,risc,1,0,0,0
+988,xenotransplantation,treat_procedure_species,patient,1,0,0,0
+989,bronchiolitis obliterans,disease_treat_procedure,allogeneic stem cell transplantation,1,1,1,1
+990,fluid,disease_treat_procedure,lavage,1,0,0,0
+991,i,drug_treat_procedure,enlargement,0,0,0,0
+992,upper respiratory tract infection,disease_species,infant,1,0,0,0
+993,infection,disease_treat_procedure,expression,1,0,0,0
+994,treatment,treat_procedure_drug,peptide,1,0,0,0
+995,stat6,gene_gene,gene,1,0,1,1
+996,virus,disease_disease,respiratory illness,1,0,0,0
+997,mmdb,gene_gene,cn3d,1,0,0,0
+998,disease,disease_disease,severe,1,0,0,0
+999,lentivirus,disease_species,chimpanzee,1,1,1,1

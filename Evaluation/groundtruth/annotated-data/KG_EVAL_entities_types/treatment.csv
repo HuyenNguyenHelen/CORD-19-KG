@@ -1,0 +1,1001 @@
+,treatment,final-eval
+0,repair of liver,1
+1,guidance for treatment,1
+2,loop excision,1
+3,pancreatoduodenectomies,1
+4,remission induction,1
+5,artificial fertilization,0
+6,tooth preparation,0
+7,central venous pressure monitoring,1
+8,total gastrectomy,1
+9,regional anaesthesia,1
+10,thoracic surgery,1
+11,cranial treatment,1
+12,parenteral therapy,1
+13,gold therapy,1
+14,schema therapy,1
+15,open,0
+16,muscle stretch,0
+17,somatic gene therapy,1
+18,crisis management,0
+19,controlled ventilation,1
+20,"control, airway",1
+21,exercise therapy,1
+22,biological agent,1
+23,kidney replacement,1
+24,counselling service,0
+25,cnf,1
+26,autologous blood donation,0
+27,concurrent therapy,1
+28,surgical castration,1
+29,total mesorectal excision,1
+30,sleep enhancement,0
+31,percutaneous tracheostomy,1
+32,ivf,0
+33,fep protocol,1
+34,induction of general anesthesia,1
+35,mlf,0
+36,odontectomy,0
+37,medical termination of pregnancy,1
+38,cmc,0
+39,intermittent positive-pressure breathing,1
+40,emergency cesarean delivery,1
+41,right hemicolectomy,1
+42,tympanotomy,1
+43,complementary medicine,1
+44,manual resuscitation,1
+45,indirect treatment,1
+46,long course chemoradiotherapy,1
+47,respiratory procedure,1
+48,wbrt,0
+49,pcea,0
+50,targeted gene repair,1
+51,"administrations, oral",0
+52,cyclophosphamide/rituximab,0
+53,ct protocol,1
+54,cab,0
+55,salvage resection,1
+56,topical corticosteroid,1
+57,laser tissue ablation,1
+58,tumor removal,1
+59,plasmaphereses,0
+60,beam,0
+61,intranasal surgery,1
+62,cyclophosphamide-methotrexate,0
+63,biliary drainage,0
+64,poliomyelitis vaccination,1
+65,aid chemotherapy,1
+66,facp,0
+67,abdominal wound closure,1
+68,acupuncture anesthesia,1
+69,colonoscopic polypectomy,0
+70,grinding,1
+71,endotamponade,0
+72,adrenergic blocking,0
+73,polyp removal,1
+74,treatment tuberculosis,1
+75,urologic surgery,1
+76,ecx,0
+77,forelimb amputation,1
+78,water running,0
+79,hair transplant,1
+80,tatme,0
+81,bathe,0
+82,high-fiber diet,1
+83,immunological stimulation,1
+84,ccm,0
+85,disease control,0
+86,"therapy, anti-hiv",1
+87,proportional assist ventilation,1
+88,transplantation procedure,1
+89,oxygen inhalation therapy,1
+90,delivery care,0
+91,"lavage, bronchial",0
+92,psychotherapeutic process,1
+93,whole blood transfusion,1
+94,cystourethroscopy,1
+95,"therapies, immunomodulatory",1
+96,radiation therapy,1
+97,pyloroplasty,1
+98,vac,0
+99,second line therapy,1
+100,liquid ventilation,1
+101,orchidectomy,0
+102,synoviorthesis,1
+103,cricothyroidotomy,0
+104,cesarean delivery,1
+105,chemoimmunotherapy,1
+106,low-protein diet,1
+107,fixation,0
+108,ear syringing,0
+109,iron replacement,0
+110,behavioral contract,0
+111,amv,0
+112,"replacement therapy, kidney",1
+113,dry powder inhaler,0
+114,cancer pain management,0
+115,caf,0
+116,neuromuscular block,0
+117,lower limb amputation,1
+118,t~~a,0
+119,est,0
+120,keratomileusis,1
+121,amniotic membrane,0
+122,vep,0
+123,hysteroscopic surgery,1
+124,arterial catheter insertion,1
+125,diabetic foot care,0
+126,rnai therapy,1
+127,immune checkpoint inhibitor therapy,1
+128,vlp,1
+129,parenteral hyperalimentation,0
+130,bloodletting,0
+131,mechanical thrombolysis,1
+132,bilobectomy,1
+133,high-frequency ventilation,1
+134,screening for prostate cancer,1
+135,cancer care,0
+136,cervical cancer screening,1
+137,oocyte in vitro maturation,1
+138,hepatitis a vaccination,1
+139,fluid resuscitation,0
+140,secondary prevention,0
+141,chod,0
+142,tip rhinoplasty,1
+143,bladder washout,1
+144,photocoagulation,1
+145,behaviour management,0
+146,family psychotherapy,1
+147,covid-19ry bypass surgery,1
+148,vpp,0
+149,bathe,0
+150,hemicolectomies,0
+151,tracheostomy tube removal,1
+152,ulnar collateral ligament reconstruction,1
+153,therapy manual,1
+154,"reinforcements, positive",0
+155,immunologic stimulation,1
+156,plaque removal,1
+157,crt,0
+158,esophageal intubation,1
+159,computer assisted surgery,1
+160,wound packing,1
+161,receptor agonist therapy,1
+162,topical administration,0
+163,"isolation, patient",0
+164,laser coagulation,1
+165,ileocecostomy,1
+166,magnesium supplementation,0
+167,hip prosthesis,0
+168,superficial keratectomy,0
+169,multimodality treatment,1
+170,drug injection,1
+171,ca protocol,0
+172,surgical division,1
+173,endotracheal anesthesia,1
+174,chronotherapy,1
+175,injection of adrenaline,1
+176,tracheostomy tube removal,1
+177,direct treatment,1
+178,grind,0
+179,syringing,1
+180,kinesitherapy,1
+181,infant massage,0
+182,fracture surgical,1
+183,orthopedic surgical procedure,1
+184,feeding tube,0
+185,smoking cessation,0
+186,dermabrasion,1
+187,csi,0
+188,weight control,0
+189,pharmacotherapeutics,1
+190,cochlear implantation,1
+191,low residue diet,1
+192,brd,0
+193,tonsillectomy,0
+194,peripheral parenteral nutrition,1
+195,"stimulation, transcranial magnetic",0
+196,screening mammogram,1
+197,urgent procedure,1
+198,central line insertion,0
+199,pva,0
+200,aspiration,1
+201,gastric freezing,0
+202,hormonal contraception,0
+203,communication intervention,0
+204,prevention of skin cancer,1
+205,universal prevention,0
+206,clinical handover,0
+207,immune enhancement therapy,1
+208,protease inhibitor,1
+209,head surgery,1
+210,ili,0
+211,palliation,1
+212,lithotripsy,1
+213,oca,0
+214,lactational amenorrhea method,1
+215,cystoprostatectomy,0
+216,prophylactic antibiotic therapy,1
+217,behaviour therapy,1
+218,rastelli procedure,1
+219,par plana vitrectomy,0
+220,pei,0
+221,"performance, task",0
+222,pancreaticojejunostomy,1
+223,induction of general anesthesia,1
+224,anterior repair,1
+225,excision,0
+226,desis,0
+227,therapy manual,1
+228,therapeutic thrombolysis,1
+229,head surgery,1
+230,severed,0
+231,formula,0
+232,bed bath,0
+233,varicella vaccination,1
+234,vacuum delivery,1
+235,capd,0
+236,tubectomy,0
+237,enteral feeding,0
+238,rna interference therapy,1
+239,transtracheal aspiration,1
+240,vagotomies,0
+241,prophylactic mastectomy,0
+242,left heart bypass,1
+243,smoking cessation,1
+244,three-dimensional conformal radiotherapy,1
+245,"maintenance, space",0
+246,epicardial pacing,1
+247,passive transfer of immunity,1
+248,administration drug,0
+249,protein diet,1
+250,external-beam radiation,1
+251,amalgam restoration,1
+252,bone marrow harvest,1
+253,external cephalic version,0
+254,disinfect,0
+255,infant massage,0
+256,treatment for infertility,1
+257,avec,0
+258,urgent,0
+259,face transplantation,1
+260,hippotherapy,1
+261,arterial ligation,1
+262,orthopedic surgery,1
+263,hcc,0
+264,open surgical procedure,1
+265,urethroplasty,1
+266,bilateral myringotomy,1
+267,pathogen reduced,0
+268,corneal graft,0
+269,transcatheter mitral valve repair,1
+270,emr,0
+271,anticoagulation treatment,1
+272,advanced cardiac life support,1
+273,severing,0
+274,scleral buckling,0
+275,skin medication,1
+276,synthetic diet,1
+277,marrow transplantation,1
+278,dental prophylaxis,1
+279,ankle arthroplasty,1
+280,xenotransplantation,1
+281,for cervical cancer screening,1
+282,girdlestone arthroplasty,0
+283,hfjv,0
+284,oversew,0
+285,diet follow,0
+286,hac,0
+287,vaccination against pertussis,1
+288,total hip arthroplasty,1
+289,ventricular septal closure,1
+290,"manipulation, cervical",0
+291,repair of inguinal hernia,1
+292,vemp,0
+293,artificial larynx,0
+294,cad,0
+295,diet,0
+296,epidural injection,0
+297,"respiration, artificial",0
+298,bolus dose,0
+299,lower extremity amputation,1
+300,second line therapy,1
+301,progressive relaxation,0
+302,central venous catheterisation,1
+303,breast surgery,1
+304,subtotal colectomy,0
+305,nephroureterectomies,1
+306,whole brain radiotherapy,1
+307,chinese herbal medicine,1
+308,mastoidectomy,1
+309,acromioclavicular,1
+310,rotational atherectomy,1
+311,bone reconstruction,1
+312,immunization schedule,0
+313,"therapy, antifungal",1
+314,colostomy,1
+315,cyclosporine/prednisone,1
+316,skin cancer screening,1
+317,vig,0
+318,artificial cardiac pacing,1
+319,electrosurgery,1
+320,respiratory toilet,0
+321,chemical peeling,1
+322,hemopoietic stem cell transplant,1
+323,compassionate use trial,0
+324,revaccination,0
+325,dental consultation,0
+326,short-term psychotherapy,1
+327,"surgery, operative",1
+328,"inhalation therapy, oxygen",1
+329,pressor support,0
+330,rrt,0
+331,"prophylaxis, post-exposure",1
+332,thromboembolism prophylaxis,1
+333,palliation,0
+334,pci,0
+335,space maintainer,0
+336,therapeutic group,0
+337,protein-free diet,1
+338,microwave ablation,1
+339,therapeutic method,1
+340,abdominal hysterectomy,1
+341,laparoscopic surgery,1
+342,gip,0
+343,urinary catheter care,1
+344,oxygenation therapy,1
+345,autotransfusion,1
+346,aat,0
+347,cns stimulation,0
+348,blepharoplasties,1
+349,proactive,0
+350,continuous rrt,0
+351,partial glossectomy,1
+352,cic,0
+353,revision total hip arthroplasty,1
+354,"treatment, radiation",1
+355,gemox,0
+356,postremission therapy,1
+357,haemodilution,1
+358,isolation technique,1
+359,colpotomy,1
+360,tocolytic therapy,1
+361,injury prevented,0
+362,oral maxillofacial surgery,1
+363,dacryocystorhinostomy,1
+364,grafting procedure,1
+365,partial resection,1
+366,management of cancer pain,0
+367,sarcoma treatment,1
+368,definitive surgical resection,1
+369,cognitive technique,1
+370,screening mammogram,1
+371,radiation boost,0
+372,mechanical aspiration,1
+373,intraosseous infusion,1
+374,cisplatin/vinorelbine,0
+375,transfusion of packed red blood cell,1
+376,palliation,0
+377,artificial sunlight,0
+378,ttf,0
+379,gynaecological procedure,1
+380,intravesical instillation,1
+381,decannulation,1
+382,orthognathic surgery,1
+383,nordic,0
+384,correction of ventricular septal defect,1
+385,maco,0
+386,curative surgery,1
+387,cytoreductive surgery,1
+388,pulmonary rehabilitation,1
+389,manual reduction,0
+390,post operative blood salvage,1
+391,homeopathic medicine,1
+392,contraceptive method,1
+393,transections,1
+394,ct protocol,0
+395,cognitive behavioural therapy,1
+396,routine eye exam,1
+397,hippotherapy,1
+398,physical rehabilitation,1
+399,palliative surgery,1
+400,wound packing,1
+401,chemoprevention,0
+402,group setting,0
+403,immunosuppression,1
+404,dibh,0
+405,enzyme inhibitor therapy,1
+406,replacement electrolyte,0
+407,enteral tube feeding,0
+408,psychosocial rehabilitation,1
+409,removal of nasal packing,1
+410,elective caesarean delivery,1
+411,"technologies, enhancement",0
+412,conjunctivoplasty,1
+413,xelox,0
+414,neuromuscular stimulation,1
+415,therapeutic procedure,1
+416,renal transplant,1
+417,calorie diet,1
+418,soft tissue repair,1
+419,isolated perfusion,1
+420,electrotherapy,1
+421,resectioning,1
+422,"therapy, endocrine",1
+423,plate fracture,0
+424,lymph node removal,1
+425,amputation,1
+426,serum transfusion,1
+427,intra-aortic balloon pump,0
+428,anti-tnf-α therapy,1
+429,screening mammogram,1
+430,directly observed therapy,1
+431,"management, pain",0
+432,thrombectomy,1
+433,colon polypectomy,1
+434,intestinal resection,1
+435,orbitotomy,1
+436,total lymphoid irradiation,1
+437,exchange plasma,1
+438,destruction,0
+439,sgb,0
+440,bandaging,0
+441,electric stimulation,1
+442,blood exchange transfusion,1
+443,pfo closure,0
+444,respiratory medication,1
+445,mfolfox6,0
+446,nasopharyngeal suction,1
+447,progressive muscle relaxation,0
+448,rfa,0
+449,"treatment, ecmo",1
+450,irradiate,0
+451,chemical peeling,1
+452,mlf,0
+453,internal sphincterotomy,1
+454,pva,0
+455,"transplantation, haploidentical",1
+456,assisted reproductive technology,0
+457,folfiri,0
+458,transfusion of plasma,1
+459,opioid substitution,1
+460,cyclophosphamide/rituximab,0
+461,symphysiotomy,0
+462,plate fracture,0
+463,radical cystoprostatectomy,0
+464,apicoectomy,0
+465,pressor support,0
+466,sleep surgery,1
+467,cold therapy,1
+468,id,0
+469,"brachytherapy, interstitial",1
+470,spinal laminectomy,1
+471,immune enhancement therapy,1
+472,kegel exercise,0
+473,cast removal,1
+474,oral surgery,1
+475,injection of botulinum toxin,0
+476,ostectomy,1
+477,fab,0
+478,induction,0
+479,mineral supplementation,1
+480,uterine contraction monitoring,1
+481,"ventilation, high-frequency",0
+482,mobilising,0
+483,mitral valve replacement surgery,1
+484,reoperation,1
+485,local anesthetic,0
+486,migraine prophylaxis,0
+487,wound suturing,1
+488,seton placement,0
+489,unilateral oophorectomy,1
+490,venous catheter insertion,0
+491,therapeutic intervention,0
+492,airway pressure release ventilation,1
+493,surgical revision,0
+494,urgent procedure,1
+495,stenting,0
+496,medical termination of pregnancy,1
+497,dermatologic surgical procedure,1
+498,spiritual healing,0
+499,breast implantation,1
+500,nasotracheal suctioning,1
+501,cancer immunotherapy,1
+502,suture technique,1
+503,medication management,0
+504,sinus surgery,1
+505,cyclophosphamide/cytarabine,1
+506,tuberculosis immunization,1
+507,percutaneous cystostomy,1
+508,toothbrushing,0
+509,reintroduction,0
+510,administration procedure,1
+511,partial cystectomy,1
+512,hemipelvectomies,1
+513,resistive exercise,0
+514,ice,0
+515,blood treatment,1
+516,aspiration of stomach content,1
+517,reduction of fracture,1
+518,clitoridectomy,1
+519,cervical discectomy,1
+520,combined therapy,1
+521,wedge osteotomy,0
+522,prosthesis,0
+523,local therapy,1
+524,nutrition class,0
+525,prophylactic surgery,1
+526,oesophagogastrectomy,1
+527,vaginal lavage,0
+528,nonparenteral administration,0
+529,pulmonary toilet,0
+530,gastrotomy,1
+531,transplantation surgery,1
+532,loop electrosurgical excision procedure,1
+533,compassionate use trial,0
+534,desensitization therapy,1
+535,open heart surgery,1
+536,hyperthermia treatment of cancer,1
+537,placebo,0
+538,epidural steroid injection,0
+539,facp,0
+540,first line therapy,1
+541,"therapy, speech",1
+542,"technologies, enhancement",0
+543,ureteronephrectomy,1
+544,incomplete prevention,0
+545,bladder drainage,0
+546,detected,0
+547,coloanal anastomosis,1
+548,ihi,0
+549,ventilator weaned,0
+550,haploidentical hematopoietic cell transplantation,1
+551,antibiotic administered,0
+552,tympanoplasty,1
+553,apbi,0
+554,laser fluorescence,0
+555,apherese,0
+556,rt-ct,0
+557,dietary approach to stop hypertension,0
+558,skin treatment,1
+559,mof,0
+560,american native,0
+561,reimplantation,1
+562,abo,0
+563,bone marrow stem cell transplantation,1
+564,polypectomy,1
+565,tympanostomy tube insertion,1
+566,anesthesia induction,1
+567,jejunostomy,0
+568,lct,0
+569,gynecological surgery,1
+570,fasciotomy,0
+571,ace-ii,0
+572,atezolizumab regimen,0
+573,bleeding control,0
+574,invasive hemodynamic monitoring,1
+575,ankle reconstruction,1
+576,dli,0
+577,chemoradiotherapy,1
+578,therapy intervention,1
+579,concurrent chemoradiation,1
+580,pre-exposure prophylaxis,1
+581,"therapies, renal replacement",0
+582,nebulizer therapy,1
+583,patient counselling,1
+584,uvulopalatopharyngoplasty,1
+585,speech-language therapy,1
+586,burn debridement,0
+587,stimulation procedure,1
+588,nonnutritive sucking,1
+589,plp,0
+590,suction procedure,1
+591,reinfusion,0
+592,biophysical agent,0
+593,keel,0
+594,interval debulking surgery,1
+595,cancer immunotherapy,1
+596,patient-controlled analgesia,1
+597,sleeve resection,1
+598,catheter insertion,1
+599,value clarification,0
+600,high-fiber diet,1
+601,adolescent care,0
+602,joint immobilization,1
+603,hemipelvectomies,0
+604,pnt,0
+605,bnd,0
+606,maco,0
+607,stroke rehabilitation,0
+608,fusion,0
+609,bone marrow stem cell transplantation,1
+610,"ventilation, high-frequency oscillation",0
+611,trabeculectomy,1
+612,appendectomy,1
+613,microinjection,0
+614,pve,0
+615,sciatic nerve block,0
+616,ovarian suppression,1
+617,appendectomy,1
+618,administration of medication,0
+619,hipec,0
+620,cytokine therapy,1
+621,herniorrhaphy,1
+622,vaginal administration,0
+623,central line insertion,0
+624,relaxation training,1
+625,sitz bath,0
+626,arterial catheterisation,1
+627,pancreaticojejunostomy,1
+628,arterial cannulation,1
+629,bilateral nephrectomy,1
+630,lct,0
+631,yoga therapy,1
+632,"procedure, operative",1
+633,"therapy, stereotactic radiation",1
+634,recanalisation,0
+635,stereotactic radiotherapy,1
+636,nutrition class,0
+637,dialysis therapy,1
+638,vam,0
+639,dermabrasion,0
+640,total parotidectomy,1
+641,da-epoch,0
+642,clitoridectomy,1
+643,grafting,0
+644,physical therapy treatment,1
+645,mental health rehabilitation,1
+646,genetic therapy,1
+647,vaccination against rubella,0
+648,meter dose inhaler,0
+649,"surgery, bariatric",1
+650,pericardiocentesis,1
+651,strabismus surgery,1
+652,radioprotection,0
+653,intrauterine blood transfusion,1
+654,low carbohydrate diet,1
+655,preload,0
+656,caesarian section,1
+657,open,0
+658,chapping,0
+659,severing,0
+660,play therapy,1
+661,portocaval shunt,0
+662,indicated intervention,0
+663,general anaesthetic,1
+664,potassium diet,0
+665,intermittent rrt,0
+666,"treatment, radiation",1
+667,synovectomy,1
+668,oncolytic virotherapies,1
+669,neuromuscular block,0
+670,readministration,0
+671,innovative therapy,1
+672,relative analgesia,0
+673,partial gastrectomy,1
+674,genetic counseling,1
+675,drug rehabilitation,1
+676,tissue expansion,1
+677,thermoregulation,1
+678,immobilisation,1
+679,"therapies, respiratory",0
+680,fontan operation,1
+681,low salt diet,1
+682,ave,0
+683,construction,0
+684,cmh,0
+685,self monitoring,0
+686,for colorectal cancer screening,1
+687,pericardiostomy,1
+688,reconstructive plastic surgery,1
+689,catheterization procedure,1
+690,activity scheduling,0
+691,surgical reduction,0
+692,peripheral nerve stimulation,0
+693,"decompression, abdominal",1
+694,standing order,0
+695,breast surgery,1
+696,computer assisted surgery,1
+697,biphasic intermittent positive airway pressure,0
+698,"therapy, interferon",1
+699,chod,0
+700,injection nerve,0
+701,rehydration,1
+702,local therapy,1
+703,capo,0
+704,transmetatarsal amputation,1
+705,"lavage, gastric",0
+706,mfolfox6,0
+707,kidney transplant,1
+708,neuromuscular monitoring,1
+709,antibody therapy,1
+710,tendon lengthening,0
+711,clamping,1
+712,removal of nasal packing,1
+713,"therapy, interferon",1
+714,poliomyelitis vaccination,0
+715,radical neck dissection,1
+716,ten,0
+717,cyclophosphamide-methotrexate,0
+718,peripheral blood stem cell transplantation,1
+719,video-assisted thoracic surgery,1
+720,complementary medicine,1
+721,"immunization, passive",0
+722,kinesitherapy,1
+723,fam protocol,0
+724,ava,0
+725,dental scaling,1
+726,normal birth,0
+727,sodium diet,0
+728,endovascular stent graft,1
+729,csf shunt,0
+730,ect,0
+731,soaking,1
+732,tooth extraction,1
+733,ecf regimen,0
+734,pcp prophylaxis,0
+735,asthma prophylaxis,1
+736,melanoma excision,0
+737,fundoplication,0
+738,medication management,0
+739,rehabilitation treatment,1
+740,"therapy, investigational",1
+741,ibp,0
+742,d i,0
+743,ureterostomy,1
+744,"therapy, early",1
+745,nonnutritive sucking,1
+746,pre-exposure prophylaxis,1
+747,additional patient,0
+748,cutaneous stimulation,1
+749,intravesical instillation,1
+750,abscission,0
+751,granulocyte transfusion,1
+752,implantable cardioverter-defibrillators,1
+753,cancer rehabilitation,1
+754,cft,0
+755,"prophylaxis, antibiotic",0
+756,mobp,0
+757,bilateral orchiectomy,1
+758,oral medication administration,0
+759,uvulopalatopharyngoplasty,1
+760,immunosuppression,1
+761,metastasectomies,1
+762,combined treatment modality,1
+763,artificial respiration,0
+764,multimodality treatment,1
+765,lht,0
+766,rastelli procedure,1
+767,care delivery,0
+768,prbc transfusion,1
+769,"prevention, post-exposure",0
+770,sterilisation,1
+771,continuous venovenous hemodialysis,1
+772,bls,0
+773,mpv,0
+774,traction,0
+775,high-frequency ventilation,1
+776,homeopathy,0
+777,segmental resection,1
+778,treatment for infertility,1
+779,neurologic surgical procedure,1
+780,ventricular septal closure,1
+781,concurrent chemoradiation,1
+782,therapeutic plasma exchange,1
+783,percutaneous catheter ablation,0
+784,wedge osteotomy,0
+785,enteral feeding,1
+786,expulsion,0
+787,cytotoxic therapy,1
+788,subcutaneous fluid administration,0
+789,manipulation procedure,1
+790,immunization of child,1
+791,back care,0
+792,nutritional supplementation,1
+793,hifu,0
+794,naturopathy,0
+795,respiratory procedure,1
+796,hemorrhage control,1
+797,total intravenous anaesthesia,1
+798,operative procedure,1
+799,spine surgery,1
+800,fomi,0
+801,skin care,0
+802,screening mammogram,1
+803,fractionated stereotactic radiotherapy,1
+804,physical therapy exercise,1
+805,minimally invasive,0
+806,tetanus vaccination,0
+807,triage,0
+808,surgical division,1
+809,intravenous anaesthesia,1
+810,esophageal anastomosis,1
+811,therapeutic colonoscopy,1
+812,pleurocentesis,1
+813,highly active antiretroviral therapy,1
+814,medication management,0
+815,percutaneous nephrostomy,1
+816,systematic desensitization,1
+817,renal transplant,1
+818,replacement therapy,1
+819,balanced diet,0
+820,breast conserving surgery,1
+821,male castration,0
+822,minute 5,0
+823,serotherapy,1
+824,protein replacement therapy,1
+825,stent replacement,1
+826,icd,0
+827,ebrt,0
+828,breast irradiation,1
+829,psychiatric patient care,0
+830,calming,0
+831,primary therapy,1
+832,aid chemotherapy,1
+833,administration of hepatitis b vaccine,0
+834,"replacement, total knee",1
+835,"therapy, antibody",1
+836,"treatment, ecmo",1
+837,light therapy,1
+838,shoulder surgery,1
+839,bowel surgery,1
+840,bisection,1
+841,psychiatric care,0
+842,immunotherapy for cancer,1
+843,ex-vivo t-cell depletion,0
+844,femoral embolectomy,0
+845,spinal fusion surgery,1
+846,endoscopic dilatation,1
+847,prostatectomy,1
+848,icd,0
+849,eye therapy,1
+850,"acupuncture, ear",0
+851,cotherapy,1
+852,vacuum-assisted wound closure,1
+853,allogeneic stem cell transplantation,1
+854,"procedures, operative",1
+855,pituitary irradiation,1
+856,pulmonary resection,1
+857,pve,0
+858,passive immunization against,0
+859,confinement to bed,0
+860,third-line therapy,1
+861,ptosis repair,0
+862,wrist surgery,1
+863,vmf,0
+864,choep,0
+865,cervical fusion,1
+866,environmental adaptation,0
+867,id,0
+868,bandaging,0
+869,drain,0
+870,sigmoidostomy,1
+871,behavioral psychotherapy,1
+872,transfusion of packed red blood cell,1
+873,first line of therapy,1
+874,respiratory physiotherapy,1
+875,endotracheal tube suction,1
+876,"sedation, conscious",1
+877,breast pumping,1
+878,antisepsis,0
+879,hypnotherapy,1
+880,cataract surgery,1
+881,oral everolimus,0
+882,cmfpt,0
+883,chest physiotherapy,1
+884,vaccination against cholera,0
+885,ade,0
+886,hematoma evacuation,0
+887,treatment regimen,1
+888,light therapy,1
+889,logotherapy,1
+890,mumps vaccination,0
+891,ptca,0
+892,xenograft,0
+893,administration of tetanus antitoxin,0
+894,sphincterotomies,1
+895,d&c,0
+896,general anaesthesia,1
+897,"therapy, massage",1
+898,"therapy, dna",1
+899,dabrafenib plus trametinib,0
+900,foot amputation,1
+901,neoadjuvant treatment,1
+902,cp protocol,0
+903,cardiac resynchronization therapy,1
+904,faith healing,0
+905,heart disease prevention,0
+906,bladder aspiration,1
+907,cellular immunotherapy,1
+908,catheterization procedure,1
+909,anal anastomosis,0
+910,sab,0
+911,"surgery, day",1
+912,folding,0
+913,cardiovascular surgical procedure,1
+914,radiation shielding,1
+915,heart disease screening,1
+916,androgen suppression,0
+917,neck radiation,1
+918,termination of pregnancy,0
+919,medication management,0
+920,douching,0
+921,immunoglobulin therapy,1
+922,hair transplant,1
+923,hemopoietic stem cell transplant,1
+924,salpingectomy,0
+925,transjugular intrahepatic portosystemic shunt,1
+926,intracerebroventricular infusion,1
+927,dental cleaning,1
+928,osteotomy,0
+929,end-to-side anastomosis,1
+930,androgen deprivation therapy,1
+931,iom,0
+932,"surgery, day",1
+933,transplantation,1
+934,cisplatin regimen,0
+935,androgen ablation,0
+936,biohazard detection,0
+937,deworming,0
+938,psychiatric therapy,1
+939,peritoneal perfusion,1
+940,cervical cancer screening,1
+941,tpn,0
+942,"transplantation, pancreas",1
+943,therapeutic massage,0
+944,endovascular aneurysm repair,1
+945,back care,0
+946,ct protocol,0
+947,rehab,0
+948,computer-assisted surgery,1
+949,"intubation, nasogastric",0
+950,wrist surgery,1
+951,"therapies, manual",0
+952,"transplantation, stem cell",1
+953,fetal transfusion,1
+954,rectal anesthesia,0
+955,anesthesia,0
+956,xenotransplantation,1
+957,mp protocol,0
+958,pcp prophylaxis,0
+959,tooth movement,0
+960,ipa,0
+961,school counseling,0
+962,wrist surgery,1
+963,folfox,0
+964,moca,0
+965,external beam rt,0
+966,partial breast irradiation,1
+967,"pressure, positive end-expiratory",0
+968,whole body irradiation,1
+969,"surgery, bariatric",1
+970,umbilical hernia repair,1
+971,pharmacother,0
+972,low-fat diet,1
+973,cognitive and behavioral therapy,1
+974,lymphatic pump,1
+975,rmt,0
+976,oral drug administration,0
+977,yttrium-90 radioembolization,1
+978,total mesorectal excision,0
+979,colonic irrigation,1
+980,combined method,0
+981,systemic steroid therapy,1
+982,wound drainage,0
+983,arterial procedure,1
+984,ovulation induction,1
+985,foley catheterization,0
+986,loss counseling,0
+987,cytoreductive effect,0
+988,uterine fibroid embolization,1
+989,fistula repair,1
+990,early ambulation,0
+991,hepatitis b immunization,1
+992,molecular targeted therapy,1
+993,acceptance and commitment therapy,1
+994,comp,0
+995,routine immunization,1
+996,heart transplant,1
+997,abdominoperineal resection,1
+998,convulsive therapy,1
+999,trap,0
