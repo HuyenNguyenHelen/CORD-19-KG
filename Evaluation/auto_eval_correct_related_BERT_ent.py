@@ -33,10 +33,7 @@ from sklearn.metrics import recall_score, roc_auc_score
 from sklearn.model_selection import train_test_split
 import os
 
-FILE_NAME = 'all'
-UPSAMPLE = True
-in_path = r"/home/junhua/huyen/CORD-19-KG/Evaluation/groundtruth/annotated-data/KG_EVAL_entities_types/"
-out_path = r'/home/junhua/huyen/CORD-19-KG/Evaluation/result/KG_eval/TEST_Entities_'
+
 
 ####### Define helper functions ##################
 
@@ -183,20 +180,22 @@ class BertBinaryClassifier(nn.Module):
                                                          train_loss / (step_num + 1)))
 
 
-############ Processing data ############################
-data = open_file(FILE_NAME)
-# Splitting the data into training (80%) and test set(20%)
-X = data['paragraph']
-y = data['label']
-_X_train, X_test, _y_train, y_test = train_test_split(X, y, train_size=0.8, random_state=42, shuffle=True, stratify=y)
 
-train_data = pd.concat([_X_train, _y_train], axis=1)
-print(train_data.shape)
-train_subsets = divide_data(train_data)
+def model_train(FILE_NAME, UPSAMPLE, in_path, out_path ):
+    ############ Processing data ############################
+    data = open_file(FILE_NAME)
+    # Splitting the data into training (80%) and test set(20%)
+    X = data['paragraph']
+    y = data['label']
+    _X_train, X_test, _y_train, y_test = train_test_split(X, y, train_size=0.8, random_state=42, shuffle=True, stratify=y)
+
+    train_data = pd.concat([_X_train, _y_train], axis=1)
+    print(train_data.shape)
+    train_subsets = divide_data(train_data)
 
 
-######## Train BERT on different portions of training set #############
-for i,df in enumerate(train_subsets):
+    ######## Train BERT on different portions of training set #############
+    # for i,df in enumerate(train_subsets):
     X_train, y_train = df['paragraph'], df['label']
     print('Shapes of X_train, y_train: ', _X_train.shape, _y_train.shape)
     print('Shapes of X_test, y_test: ', X_test.shape, y_test.shape)
@@ -219,7 +218,7 @@ for i,df in enumerate(train_subsets):
 
     # Following is to convert List of words to list of numbers. (Words are replaced by their index in dictionar)
     train_tokens_ids = pad_sequences(list(map(tokenizer.convert_tokens_to_ids, train_tokens)), maxlen=MAX_LEN,
-                                     truncating="post", padding="post", dtype="int")
+                                        truncating="post", padding="post", dtype="int")
     test_tokens_ids = pad_sequences(list(map(tokenizer.convert_tokens_to_ids, test_tokens)), maxlen=MAX_LEN,
                                     truncating="post", padding="post", dtype="int")
 
@@ -305,8 +304,91 @@ for i,df in enumerate(train_subsets):
         name = 'BERT'
 
     txtfile = open(out_path + name + '.txt', 'a+')
-    txtfile.write('subset%s_'%i + FILE_NAME + '_' + name + '=' + str(rocs['BERT']) + '\n')
-
+    # txtfile.write('subset%s_'%i + FILE_NAME + '_' + name + '=' + str(rocs['BERT']) + '\n')
+    txtfile.write( FILE_NAME + '_' + name + '=' + str(rocs['BERT']) + '\n')
     txtfile.close()
     graph_multi_ROC(rocs)
+    return bert_clf
 
+
+
+# Create main function
+def model_deploy(model = bert_clf, data_path):
+    """
+    correct_compreh: 'correct_ent', 'correct_trip', 'compreh'
+    """
+    # Loading data
+
+    with open(data_path, 'r') as f:
+        data_test = pd.read_csv(f)
+    X_test = data_test['subject'].to_list() + data_test['object'].to_list()
+
+    # Tokenizer 
+    tokenizer = BertTokenizer.from_pretrained('bert-base-uncased', do_lower_case=True)
+
+    # Update MAX LEN 
+    MAX_LEN = 228 
+
+    # Convert to tokens using tokenizer
+    test_tokens  = list(map(lambda t: ['[CLS]'] + tokenizer.tokenize(t)[: MAX_LEN] + ['[SEP]'], X_test))
+
+    print( '\nNumber of Testing Sequences:', len(test_tokens) )
+    # Following is to convert List of words to list of numbers. (Words are replaced by their index in dictionar)
+    test_tokens_ids  = pad_sequences(list(map(tokenizer.convert_tokens_to_ids, test_tokens)),  maxlen= MAX_LEN, truncating="post", padding="post", dtype="int")
+    # Mask the paddings with 0 and words with 1
+    test_masks = [[float(i > 0) for i in ii] for ii in test_tokens_ids]
+
+    ## Converting test token ids, test labels and test masks to a tensor and the create a tensor dataset out of them.
+    # Convert token ids to tensor 
+    test_tokens_tensor = torch.tensor(test_tokens_ids)
+
+    # Convert labels to tensors
+    # test_y_tensor = torch.tensor(y_test.to_numpy().reshape(-1, 1)).float()
+
+    # Convert to tensor for maks
+    test_masks_tensor = torch.tensor(test_masks)
+
+    # Load Token, token mask and label into Dataloader
+    test_dataset = TensorDataset(test_tokens_tensor, test_masks_tensor)
+
+    # Define sampler
+    test_sampler = SequentialSampler(test_dataset)
+
+    # Define test data loader
+    test_dataloader = DataLoader(test_dataset, sampler=test_sampler, batch_size=16)
+
+    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    #   bert_clf = BertBinaryClassifier()
+    #   bert_clf.load_state_dict(torch.load(saved_model_path),  strict=False)
+
+    bert_clf.eval()     # Define eval
+    bert_predicted = [] # To Store predicted result
+    all_logits = []     # Predicted probabilities that is between 0 to 1 is stored here
+
+    with torch.no_grad():
+        for step_num, batch_data in enumerate(test_dataloader):
+
+            # Load the batch on gpu memory
+            token_ids, masks = tuple(t.to(device) for t in batch_data)
+
+            # Calculate ouput of bert
+            logits = bert_clf(token_ids, masks)
+
+            # Get the numpy logits
+            numpy_logits = logits.cpu().detach().numpy()  # Detach from the GPU memory
+            
+            # Using the threshold find binary 
+            bert_predicted += list(numpy_logits[:, 0] > 0.5)  # Threshold conversion
+            # all_logits += list(numpy_logits[:, 0])
+    print(bert_predicted)
+
+
+
+if '__name__' == __main__:
+    FILE_NAME = 'all'
+    UPSAMPLE = True
+    in_path = r"/home/junhua/huyen/CORD-19-KG/Evaluation/groundtruth/annotated-data/KG_EVAL_entities_types/"
+    out_path = r'/home/junhua/huyen/CORD-19-KG/Evaluation/result/KG_eval/entities_2_'
+    pred_path = r'/home/huyen/CORD-19-KG/Evaluation/groundtruth/annotated-data/KG_EVAL_entities_types/'
+    bert_clf = model_train(FILE_NAME, UPSAMPLE, in_path, out_path)
+    model_deploy(model = bert_clf, data_path = pred_path + FILE_NAME + 'csv')
