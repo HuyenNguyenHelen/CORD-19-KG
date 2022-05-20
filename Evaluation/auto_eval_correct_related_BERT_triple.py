@@ -46,7 +46,9 @@ import os
 def open_file(file_name):
     with open(in_path + file_name + '.csv', 'r', encoding='utf-8') as f:
         df = pd.read_csv(f)
-    df.columns = ['Unnamed: 0', 'paragraph', 'label']
+    df = df[['subject', 'new_relation', 'object', 'final_eval']]
+    df.columns = ['subject', 'new_relation', 'object', 'label']
+    print('Data exploring: ', df['label'].value_counts())
     return df
 
 
@@ -204,20 +206,16 @@ def model_train(FILE_NAME, UPSAMPLE, in_path, out_path, SAVE_MODEL_PATH):
     ############ Processing data ############################
     df = open_file(FILE_NAME)
     # Splitting the data into training (80%) and test set(20%)
-    X = df['paragraph']
+    X = df[['subject','new_relation', 'object']]
     y = df['label']
-    _X_train, X_test, _y_train, y_test = train_test_split(X, y, train_size=0.8, random_state=42, shuffle=True, stratify=y)
-
-    train_data = pd.concat([_X_train, _y_train], axis=1)
-    print(train_data.shape)
-    train_subsets = divide_data(train_data)
-
-
-    ######## Train BERT on different portions of training set #############
-    # for i,df in enumerate(train_subsets):
-    X_train, y_train = df['paragraph'], df['label']
-    print('Shapes of X_train, y_train: ', _X_train.shape, _y_train.shape)
+    X_train, X_test, y_train, y_test = train_test_split(X, y, train_size=0.8, random_state=42, shuffle=True, stratify=y)
+    print('Shapes of X_train, y_train: ', X_train.shape, y_train.shape)
     print('Shapes of X_test, y_test: ', X_test.shape, y_test.shape)
+
+    # train_data = pd.concat([_X_train, _y_train], axis=1)
+    # print(train_data.shape)
+    # train_subsets = divide_data(train_data)
+
     ############ Encoding data to BERT ##########################
     # Tokenizer
     tokenizer = BertTokenizer.from_pretrained('bert-base-uncased', do_lower_case=True)
@@ -231,8 +229,18 @@ def model_train(FILE_NAME, UPSAMPLE, in_path, out_path, SAVE_MODEL_PATH):
     MAX_LEN = 225 if MAX_LEN > 512 else MAX_LEN
 
     # Convert to tokens using tokenizer
-    train_tokens = list(map(lambda t: ['[CLS]'] + tokenizer.tokenize(t)[: MAX_LEN] + ['[SEP]'], X_train.to_list()))
-    test_tokens = list(map(lambda t: ['[CLS]'] + tokenizer.tokenize(t)[: MAX_LEN] + ['[SEP]'], X_test.to_list()))
+
+    train_tokens = list(
+        map(lambda x, z, y: ['[CLS]'] + tokenizer.tokenize(x)[: MAX_LEN] + ['[SEP]'] + tokenizer.tokenize(z)[
+                                                                                       : MAX_LEN] + [
+                                '[SEP]'] + tokenizer.tokenize(y)[: MAX_LEN] + ['[SEP]'], X_train['subject'],
+            X_train['new_relation'], X_train['object']))
+    test_tokens = list(
+        map(lambda x, z, y: ['[CLS]'] + tokenizer.tokenize(x)[: MAX_LEN] + ['[SEP]'] + tokenizer.tokenize(z)[
+                                                                                       : MAX_LEN] + [
+                                '[SEP]'] + tokenizer.tokenize(y)[: MAX_LEN] + ['[SEP]'], X_test['subject'],
+            X_test['new_relation'], X_test['object']))
+
     print('Number of Training Sequences:', len(train_tokens), '\nNumber of Testing Sequences:', len(test_tokens))
 
     # Following is to convert List of words to list of numbers. (Words are replaced by their index in dictionar)
@@ -313,7 +321,7 @@ def model_train(FILE_NAME, UPSAMPLE, in_path, out_path, SAVE_MODEL_PATH):
     # Get ROC curve measurements
     rocs['BERT'] = get_roc_cuve(y_test, bert_predicted)
 
-    # Prin performance
+    # Print performance
     print('----------------------------BERT performance---------------------------')
     printing_eval_scores(y_test, bert_predicted)
     # print(bert_predicted)
@@ -342,19 +350,8 @@ def model_deploy(bert_clf, data_path, types=''):
     # Loading data
     with open(data_path, 'r') as f:
         data_test = pd.read_csv(f)
-    if types == 'all':
-        X_test = data_test['subject'].to_list() + data_test['object'].to_list()
-    else:
-        X_test = []
-        data_test['relation'] = data_test['relation'].str.replace('treat_procedure', 'treat-procedure')
-        for i in range(len(data_test)):
-            type_1, type_2 = data_test['relation'][i].split('_')
-            if type_1 == types:
-                X_test.append(data_test['subject'][i])
-            elif type_2 == types:
-                X_test.append(data_test['object'][i])
-            else:
-                pass
+    X_test = data_test[['subject', 'relation', 'object']]
+
     print('Length of predicting data: %s'%str(len(X_test)))
 
 
@@ -365,11 +362,15 @@ def model_deploy(bert_clf, data_path, types=''):
     MAX_LEN = 228 
 
     # Convert to tokens using tokenizer
-    test_tokens = list(map(lambda t: ['[CLS]'] + tokenizer.tokenize(t)[: MAX_LEN] + ['[SEP]'], X_test))
+    test_tokens = list(
+        map(lambda x, z, y: ['[CLS]'] + tokenizer.tokenize(x)[: MAX_LEN] + ['[SEP]'] + tokenizer.tokenize(z)[
+                                                                                       : MAX_LEN] + [
+                                '[SEP]'] + tokenizer.tokenize(y)[: MAX_LEN] + ['[SEP]'], X_test['subject'],
+            X_test['relation'], X_test['object']))
 
     print( '\nNumber of Testing Sequences:', len(test_tokens) )
     # Following is to convert List of words to list of numbers. (Words are replaced by their index in dictionar)
-    test_tokens_ids  = pad_sequences(list(map(tokenizer.convert_tokens_to_ids, test_tokens)),  maxlen= MAX_LEN, truncating="post", padding="post", dtype="int")
+    test_tokens_ids = pad_sequences(list(map(tokenizer.convert_tokens_to_ids, test_tokens)),  maxlen= MAX_LEN, truncating="post", padding="post", dtype="int")
     # Mask the paddings with 0 and words with 1
     test_masks = [[float(i > 0) for i in ii] for ii in test_tokens_ids]
 
@@ -415,41 +416,41 @@ def model_deploy(bert_clf, data_path, types=''):
             # Using the threshold find binary 
             bert_predicted += list(numpy_logits[:, 0] > 0.5)  # Threshold conversion
     bert_predicted = [int(i) for i in bert_predicted]
-    pred_df = pd.DataFrame(zip(X_test, bert_predicted), columns = ['entity', 'eval'])
-    # print(pred_df['eval'])
+    X_test_copy = X_test.copy()
+    X_test_copy['eval'] = bert_predicted
+    pred_df = X_test_copy
 
     return pred_df
 
 
 if __name__ == "__main__":
-    FILE_NAMES = ['gene', 'disease', 'drug', 'species', 'treat-procedure', 'symptom']
+    FILE_NAME = 'triples'
     UPSAMPLE = True
 
-    in_path = r"/home/huyen/CORD-19-KG/Evaluation/groundtruth/annotated-data/KG_EVAL_entities_types/"
-    out_path = r'/home/huyen/CORD-19-KG/Evaluation/result/KG_eval/entities_2_'
+    in_path = r"/home/huyen/CORD-19-KG/Evaluation/groundtruth/annotated-data/KG_EVAL_triples/"
+    out_path = r'/home/huyen/CORD-19-KG/Evaluation/result/KG_eval/triples_2_'
 
     pred_in_path = r'/home/huyen/CORD-19-KG/Data/all-final-cleaned-triple3-10sets/'
     pred_out_path = r'/home/huyen/CORD-19-KG/Evaluation/result/KG_eval/pred_correct-compreh/'
     SAVE_MODEL_PATH = r'/home/huyen/CORD-19-KG/Evaluation/DATA-QUALITY_EVAL_SAVE_MODEL/'
     score_out_path = r'/home/huyen/CORD-19-KG/Evaluation/result/KG_eval/correct_related_scores_'
 
-    for FILE_NAME in FILE_NAMES:
-        print('\n______________%s________________'%FILE_NAME)
-        print('\nstart training and validation...')
-        bert_clf = model_train(FILE_NAME, UPSAMPLE, in_path, out_path, SAVE_MODEL_PATH)
-        txtfile = open('{}_{}.csv'.format(score_out_path, FILE_NAME), 'w')
-        txtfile.write('subset,score\n')
+    print('\n______________%s________________'%FILE_NAME)
+    print('\nstart training and validation...')
+    bert_clf = model_train(FILE_NAME, UPSAMPLE, in_path, out_path, SAVE_MODEL_PATH)
+    txtfile = open('{}_{}.csv'.format(score_out_path, FILE_NAME), 'w')
+    txtfile.write('subset,score\n')
 
-        print('\nstart prediction...')
-        for i in range(1, 11):
-            print('\n---- subset %s'%str(i))
-            pred_df = model_deploy(bert_clf, data_path='{}subset_{}.csv'.format(pred_in_path, i), types=FILE_NAME)
-            with open('{}subset_{}_{}.csv'.format(pred_out_path, i, FILE_NAME), 'w') as f:
-                pred_df.to_csv(f)
+    print('\nstart prediction...')
+    for i in range(1, 11):
+        print('\n---- subset %s'%str(i))
+        pred_df = model_deploy(bert_clf, data_path='{}subset_{}.csv'.format(pred_in_path, i), types=FILE_NAME)
+        with open('{}subset_{}_{}.csv'.format(pred_out_path, i, FILE_NAME), 'w') as f:
+            pred_df.to_csv(f)
 
-            score = correct_compreh_score(pred_df)
-            txtfile = open('{}_{}.csv'.format(score_out_path, FILE_NAME), 'a+')
-            txtfile.write('subset_{},{}\n'.format(i, score))
-            txtfile.close()
+        score = correct_compreh_score(pred_df)
+        txtfile = open('{}_{}.csv'.format(score_out_path, FILE_NAME), 'a+')
+        txtfile.write('subset_{},{}\n'.format(i, score))
+        txtfile.close()
 
 
