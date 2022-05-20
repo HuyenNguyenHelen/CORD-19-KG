@@ -1,0 +1,2 @@
+triples_BERT_SMOTE={'fpr': array([0.        , 0.06896552, 1.        ]), 'tpr': array([0.        , 0.41666667, 1.        ]), 'auc': 0.6738505747126438, 'accuracy': 0.715, 'macro-F1': 0.671194946785498}
+triples_BERT_SMOTE={'fpr': array([0.        , 0.36206897, 1.        ]), 'tpr': array([0.        , 0.83333333, 1.        ]), 'auc': 0.7356321839080461, 'accuracy': 0.72, 'macro-F1': 0.7198879551820727}
