@@ -15,6 +15,7 @@
 - Comprehensiveness: ```|K ∩ W|/|W|```
 - Relatedness: ```|Ri |/|Ai |, Ri ∈ Ai, i ∈ {ti , ..., tn }```
 - Correctness: ```|C |/|A|, C ∈ A```
+
 To train BERT-based model and use it to automatically evaluate the Relatedness and Correctness of the ten KGs, run the command:
 ```
 nohup python3 /home/huyen/CORD-19-KG/Evaluation/auto_eval_correct_related_BERT_ent.py > /home/huyen/CORD-19-KG/Evaluation/auto_eval_correct_related_BERT_ent.out &
