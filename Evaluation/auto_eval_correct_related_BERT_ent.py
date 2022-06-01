@@ -206,17 +206,17 @@ def model_train(FILE_NAME, UPSAMPLE, in_path, out_path, SAVE_MODEL_PATH):
     # Splitting the data into training (80%) and test set(20%)
     X = df['paragraph']
     y = df['label']
-    _X_train, X_test, _y_train, y_test = train_test_split(X, y, train_size=0.8, random_state=42, shuffle=True, stratify=y)
+    X_train, X_test, y_train, y_test = train_test_split(X, y, train_size=0.8, random_state=42, shuffle=True, stratify=y)
 
-    train_data = pd.concat([_X_train, _y_train], axis=1)
-    print(train_data.shape)
-    train_subsets = divide_data(train_data)
+    # train_data = pd.concat([_X_train, _y_train], axis=1)
+    # print(train_data.shape)
+    # train_subsets = divide_data(train_data)
 
 
     ######## Train BERT on different portions of training set #############
     # for i,df in enumerate(train_subsets):
-    X_train, y_train = df['paragraph'], df['label']
-    print('Shapes of X_train, y_train: ', _X_train.shape, _y_train.shape)
+    # X_train, y_train = df['paragraph'], df['label']
+    print('Shapes of X_train, y_train: ', X_train.shape, y_train.shape)
     print('Shapes of X_test, y_test: ', X_test.shape, y_test.shape)
     ############ Encoding data to BERT ##########################
     # Tokenizer

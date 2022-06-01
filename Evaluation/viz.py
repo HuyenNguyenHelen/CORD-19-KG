@@ -39,15 +39,17 @@ def viz_QA_performance(result_df_p, metric):
         raise ValueError('Error: wrong evaluation metric given!')
     for query, fold_scores in by_queries.items():
         y = [scores[key] for scores in fold_scores]
-        x = [i for i in range(1, 11)]
+        x = [str(i) for i in range(1, 11)]
         plt.plot(x, y, markers[query], color=colors[query], label=query)
 
     plt.ylabel(metric)
-    plt.xlabel('subsets')
+    plt.xlabel('Q&A')
     plt.legend(loc='upper left', ncol=2)
     plt.title('%s scores over 10 subsets' % metric)
     plt.show()
     fig.savefig(r"C:\Users\hn0139\Documents\GitHub\CORD-19-KG\Evaluation\result\%s.png" % metric)
 
 
-viz_performance('C:\Users\huyen\OneDrive\Documents\GitHub\CORD-19-KG\Evaluation\result\QA_eval\QA_eval_scores.csv', F1')
+# viz_performance('C:\Users\huyen\OneDrive\Documents\GitHub\CORD-19-KG\Evaluation\result\QA_eval\QA_eval_scores.csv', F1')
+
+viz_QA_performance()
